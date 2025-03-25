@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter number="11">
+<line commentary="This opening line presents a powerful concrete image of a wheel to illustrate abstract principles">
+    <word original="三" calque="three"/>
+    <word original="十" calque="ten"/>
+    <word original="輻" calque="spoke"/>
+    <word original="共" calque="join"/>
+    <word original="一" calque="one"/>
+    <word original="轂" calque="hub"/>
+</line>
+<line>
+    <word original="當" calque="when"/>
+    <word original="其" calque="its"/>
+    <word original="無" calque="nothing"/>
+    <word original="有" calque="exist"/>
+    <word original="車" calque="cart"/>
+    <word original="之" calque="of"/>
+    <word original="用" calque="use"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+<line commentary="埏埴 refers specifically to molding clay - a metaphor for shaping emptiness into usefulness">
+    <word original="埏" calque="knead"/>
+    <word original="埴" calque="clay"/>
+    <word original="以" calque="by-means-of"/>
+    <word original="為" calque="make"/>
+    <word original="器" calque="vessel"/>
+</line>
+<line>
+    <word original="當" calque="when"/>
+    <word original="其" calque="its"/>
+    <word original="無" calque="nothing"/>
+    <word original="有" calque="exist"/>
+    <word original="器" calque="vessel"/>
+    <word original="之" calque="of"/>
+    <word original="用" calque="use"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+<line commentary="Windows and doors are themselves empty spaces that make a room useful">
+    <word original="鑿" calque="cut"/>
+    <word original="戶" calque="door"/>
+    <word original="牖" calque="window"/>
+    <word original="以" calque="by-means-of"/>
+    <word original="為" calque="make"/>
+    <word original="室" calque="room"/>
+</line>
+<line>
+    <word original="當" calque="when"/>
+    <word original="其" calque="its"/>
+    <word original="無" calque="nothing"/>
+    <word original="有" calque="exist"/>
+    <word original="室" calque="room"/>
+    <word original="之" calque="of"/>
+    <word original="用" calque="use"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+<line>
+    <word original="(.)" calque="(.)" punctuation="true"/>
+    <word original="故" calque="therefore"/>
+    <word original="有" calque="exist"/>
+    <word original="之" calque="of"/>
+    <word original="以" calque="by-means-of"/>
+    <word original="為" calque="make"/>
+    <word original="利" calque="benefit"/>
+</line>
+<line commentary="The final line presents the central paradox - emptiness/nothingness (無) is what makes things useful">
+    <word original="無" calque="nothing"/>
+    <word original="之" calque="of"/>
+    <word original="以" calque="by-means-of"/>
+    <word original="為" calque="make"/>
+    <word original="用" calque="use"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+</chapter>

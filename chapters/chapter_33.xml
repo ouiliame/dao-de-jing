@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter number="33">
+<line commentary="This line contrasts external vs internal knowledge. 知 (know) when paired with 人 (person/others) creates 智 (wisdom) - showing how understanding others is one path to wisdom.">
+    <word original="知" calque="know"/>
+    <word original="人" calque="person"/>
+    <word original="者" calque="one-who"/>
+    <word original="智" calque="wise"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+
+<line commentary="A profound parallel to the first line - 明 (bright/clear) represents a deeper form of wisdom that comes from self-knowledge.">
+    <word original="自" calque="self"/>
+    <word original="知" calque="know"/> 
+    <word original="者" calque="one-who"/>
+    <word original="明" calque="bright"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+
+<line>
+    <word original="勝" calque="overcome"/>
+    <word original="人" calque="person"/>
+    <word original="者" calque="one-who"/>
+    <word original="有" calque="have"/>
+    <word original="力" calque="strength"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+
+<line commentary="Notice how 自勝 (self-overcome) leads to 強 (strong) - suggesting true strength comes from mastering oneself rather than others.">
+    <word original="自" calque="self"/>
+    <word original="勝" calque="overcome"/>
+    <word original="者" calque="one-who"/>
+    <word original="強" calque="strong"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+
+<line commentary="知足 (know-enough) is a common Chinese idiom meaning contentment - here it leads to true wealth.">
+    <word original="知" calque="know"/>
+    <word original="足" calque="enough"/>
+    <word original="者" calque="one-who"/>
+    <word original="富" calque="wealthy"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+
+<line>
+    <word original="強" calque="strong"/>
+    <word original="行" calque="act"/>
+    <word original="者" calque="one-who"/>
+    <word original="有" calque="have"/>
+    <word original="志" calque="will"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+
+<line commentary="This line speaks to staying true to one's nature/position - 不失其所 literally means 'not losing one's place'.">
+    <word original="不" calque="not"/>
+    <word original="失" calque="lose"/>
+    <word original="其" calque="one's"/>
+    <word original="所" calque="place"/>
+    <word original="者" calque="one-who"/>
+    <word original="久" calque="endure"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+
+<line commentary="A profound paradox - physical death (死) need not mean the end of one's lasting influence (壽/longevity).">
+    <word original="死" calque="die"/>
+    <word original="而" calque="yet"/>
+    <word original="不" calque="not"/>
+    <word original="亡" calque="perish"/>
+    <word original="者" calque="one-who"/>
+    <word original="壽" calque="long-lived"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+</chapter>

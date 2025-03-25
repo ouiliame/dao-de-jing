@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter number="12">
+<line commentary="This opening line uses the metaphor of the five colors to warn about sensory overload - a remarkably modern concept.">
+    <word original="五" calque="five"/>
+    <word original="色" calque="color"/>
+    <word original="令" calque="cause"/>
+    <word original="人" calque="person"/>
+    <word original="目" calque="eye"/>
+    <word original="盲" calque="blind"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+<line>
+    <word original="五" calque="five"/>
+    <word original="音" calque="sound"/>
+    <word original="令" calque="cause"/>
+    <word original="人" calque="person"/>
+    <word original="耳" calque="ear"/>
+    <word original="聾" calque="deaf"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+<line>
+    <word original="五" calque="five"/>
+    <word original="味" calque="flavor"/>
+    <word original="令" calque="cause"/>
+    <word original="人" calque="person"/>
+    <word original="口" calque="mouth"/>
+    <word original="爽" calque="numb"/>
+</line>
+<line commentary="Note how 心 (heart/mind) and 發狂 (go-mad) work together to describe mental overstimulation">
+    <word original="馳" calque="gallop"/>
+    <word original="騁" calque="race"/>
+    <word original="畋" calque="hunt"/>
+    <word original="獵" calque="chase"/>
+    <word original="令" calque="cause"/>
+    <word original="人" calque="person"/>
+    <word original="心" calque="heart-mind"/>
+    <word original="發" calque="emit"/>
+    <word original="狂" calque="madness"/>
+</line>
+<line>
+    <word original="難" calque="difficult"/>
+    <word original="得" calque="obtain"/>
+    <word original="之" calque="of"/>
+    <word original="貨" calque="goods"/>
+    <word original="令" calque="cause"/>
+    <word original="人" calque="person"/>
+    <word original="行" calque="conduct"/>
+    <word original="妨" calque="hinder"/>
+</line>
+<line>
+    <word original="是" calque="this"/>
+    <word original="以" calque="by-means-of"/>
+    <word original="聖" calque="sage"/>
+    <word original="人" calque="person"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+<line commentary="A powerful contrast between 腹 (belly/core) and 目 (eyes/surface appearances)">
+    <word original="為" calque="act-for"/>
+    <word original="腹" calque="belly"/>
+    <word original="不" calque="not"/>
+    <word original="為" calque="act-for"/>
+    <word original="目" calque="eye"/>
+</line>
+<line>
+    <word original="(.)故" calque="therefore"/>
+    <word original="去" calque="remove"/>
+    <word original="彼" calque="that"/>
+    <word original="取" calque="take"/>
+    <word original="此" calque="this"/>
+</line>
+</chapter>

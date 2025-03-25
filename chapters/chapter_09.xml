@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter number="9">
+<line>
+    <word original="持" calque="hold"/>
+    <word original="而" calque="and"/>
+    <word original="盈" calque="fill"/>
+    <word original="之" calque="it"/>
+</line>
+<line>
+    <word original="不" calque="not"/>
+    <word original="如" calque="like"/>
+    <word original="其" calque="its"/>
+    <word original="已" calque="stop"/>
+</line>
+<line commentary="This line uses 揣 (measure/estimate) with 銳 (sharp/keen) to warn against excessive sharpening">
+    <word original="揣" calque="measure"/>
+    <word original="而" calque="and"/>
+    <word original="(銳)" calque="(sharp)"/>
+    <word original="之" calque="it"/>
+</line>
+<line>
+    <word original="不" calque="not"/>
+    <word original="可" calque="can"/>
+    <word original="長" calque="long"/>
+    <word original="保" calque="maintain"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+<line commentary="A vivid image of material excess using 金玉 (gold-jade) and 滿堂 (full-hall)">
+    <word original="金" calque="gold"/>
+    <word original="玉" calque="jade"/>
+    <word original="滿" calque="full"/>
+    <word original="堂" calque="hall"/>
+</line>
+<line>
+    <word original="莫" calque="none"/>
+    <word original="之" calque="it"/>
+    <word original="能" calque="can"/>
+    <word original="守" calque="guard"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+<line>
+    <word original="富" calque="wealth"/>
+    <word original="貴" calque="noble"/>
+    <word original="而" calque="and"/>
+    <word original="驕" calque="pride"/>
+</line>
+<line>
+    <word original="自" calque="self"/>
+    <word original="遺" calque="leave"/>
+    <word original="其" calque="its"/>
+    <word original="咎" calque="blame"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+<line commentary="A powerful conclusion about knowing when to retreat after success">
+    <word original="功" calque="merit"/>
+    <word original="遂" calque="achieve"/>
+    <word original="身" calque="body"/>
+    <word original="退" calque="withdraw"/>
+</line>
+<line>
+    <word original="天" calque="heaven"/>
+    <word original="之" calque="of"/>
+    <word original="道" calque="way"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+</chapter>

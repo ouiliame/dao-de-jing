@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter number="48">
+<line commentary="This line contrasts pursuing academic knowledge vs the Dao - knowledge accumulates while the Dao strips away">
+    <word original="為" calque="do"/>
+    <word original="學" calque="study"/>
+    <word original="(者)" calque="(one-who)"/>
+    <word original="日" calque="day"/>
+    <word original="益" calque="increase"/>
+</line>
+<line>
+    <word original="為" calque="do"/>
+    <word original="道" calque="way"/>
+    <word original="(者)" calque="(one-who)"/>
+    <word original="日" calque="day"/>
+    <word original="損" calque="decrease"/>
+</line>
+<line commentary="This emphasizes the continuous process of reduction - 'decrease and decrease again'">
+    <word original="損" calque="decrease"/>
+    <word original="之" calque="it"/>
+    <word original="又" calque="again"/>
+    <word original="損" calque="decrease"/>
+</line>
+<line>
+    <word original="以" calque="by-means-of"/>
+    <word original="至" calque="arrive"/>
+    <word original="於" calque="at"/>
+    <word original="無" calque="nothing"/>
+    <word original="為" calque="do"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+<line commentary="A famous paradox - 'doing nothing yet leaving nothing undone'">
+    <word original="無" calque="nothing"/>
+    <word original="為" calque="do"/>
+    <word original="而" calque="yet"/>
+    <word original="無" calque="nothing"/>
+    <word original="不" calque="not"/>
+    <word original="為" calque="do"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+<line>
+    <word original="取" calque="take"/>
+    <word original="天" calque="heaven"/>
+    <word original="下" calque="below"/>
+    <word original="常" calque="always"/>
+    <word original="以" calque="by-means-of"/>
+    <word original="無" calque="nothing"/>
+    <word original="事" calque="affair"/>
+</line>
+<line>
+    <word original="及" calque="reach"/>
+    <word original="其" calque="its"/>
+    <word original="有" calque="have"/>
+    <word original="事" calque="affair"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+<line commentary="This final line completes the paradox - trying to actively control or 'take' the world will fail">
+    <word original="不" calque="not"/>
+    <word original="足" calque="sufficient"/>
+    <word original="以" calque="by-means-of"/>
+    <word original="取" calque="take"/>
+    <word original="天" calque="heaven"/>
+    <word original="下" calque="below"/>
+</line>
+</chapter>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter number="8">
+<line commentary="This opening line is one of the most famous in the Dao De Jing - it compares the highest virtue to water, setting up an extended metaphor.">
+    <word original="上" calque="highest"/>
+    <word original="善" calque="good"/>
+    <word original="若" calque="like"/>
+    <word original="水" calque="water"/>
+</line>
+
+<line commentary="Note how water benefits all things without contending - a key concept in Daoism.">
+    <word original="水" calque="water"/>
+    <word original="善" calque="good-at"/>
+    <word original="利" calque="benefit"/>
+    <word original="萬" calque="ten-thousand"/>
+    <word original="物" calque="things"/>
+    <word original="而" calque="and-yet"/>
+    <word original="不" calque="not"/>
+    <word original="爭" calque="contend"/>
+</line>
+
+<line commentary="Water flows to low places that others avoid - showing how virtue often manifests in what others reject.">
+    <word original="處" calque="dwell"/>
+    <word original="眾" calque="many"/>
+    <word original="人" calque="people"/>
+    <word original="之" calque="'s"/>
+    <word original="所" calque="place"/>
+    <word original="惡" calque="hate"/>
+</line>
+
+<line>
+    <word original="故" calque="therefore"/>
+    <word original="幾" calque="nearly"/>
+    <word original="於" calque="to"/>
+    <word original="道" calque="Way"/>
+    <word original="[矣(.)]" calque="[indeed(.)]" punctuation="true"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+
+<line commentary="The following lines show how water exemplifies virtue in different contexts.">
+    <word original="居" calque="dwelling"/>
+    <word original="善" calque="good-at"/>
+    <word original="地" calque="earth"/>
+</line>
+
+<line>
+    <word original="心" calque="heart"/>
+    <word original="善" calque="good-at"/>
+    <word original="淵" calque="depths"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+
+<line>
+    <word original="與" calque="giving"/>
+    <word original="善" calque="good-at"/>
+    <word original="仁" calque="benevolence"/>
+</line>
+
+<line>
+    <word original="言" calque="words"/>
+    <word original="善" calque="good-at"/>
+    <word original="信" calque="trust"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+
+<line>
+    <word original="正" calque="governing"/>
+    <word original="善" calque="good-at"/>
+    <word original="治" calque="order"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+
+<line>
+    <word original="事" calque="affairs"/>
+    <word original="善" calque="good-at"/>
+    <word original="能" calque="capability"/>
+</line>
+
+<line>
+    <word original="動" calque="moving"/>
+    <word original="善" calque="good-at"/>
+    <word original="時" calque="timing"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+
+<line commentary="The chapter concludes by returning to the core principle - non-contention leads to absence of blame.">
+    <word original="(.)" calque="(.)" punctuation="true"/>
+    <word original="夫" calque="indeed"/>
+    <word original="唯" calque="only"/>
+    <word original="不" calque="not"/>
+    <word original="爭" calque="contend"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+
+<line>
+    <word original="(.)" calque="(.)" punctuation="true"/>
+    <word original="故" calque="therefore"/>
+    <word original="無" calque="without"/>
+    <word original="尤" calque="blame"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+</chapter>

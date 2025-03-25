@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter number="1">
+<line commentary="This opening line plays with multiple meanings of 道 (way/speak) to create a profound paradox about the ineffable nature of the Dao">
+    <word original="." calque="." punctuation="true"/>
+    <word original="道" calque="way"/>
+    <word original="可" calque="can"/>
+    <word original="道" calque="speak"/>
+    <word original="非" calque="not"/>
+    <word original="常" calque="constant"/>
+    <word original="道" calque="way"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+
+<line commentary="Mirrors the structure of the first line, now applying the same paradox to 'naming'">
+    <word original="名" calque="name"/>
+    <word original="可" calque="can"/>
+    <word original="名" calque="name"/>
+    <word original="非" calque="not"/>
+    <word original="常" calque="constant"/>
+    <word original="名" calque="name"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+
+<line commentary="Introduces the concept of 無 (nothing/absence) as the origin of existence">
+    <word original="無" calque="without"/>
+    <word original="名" calque="name"/>
+    <word original="天" calque="heaven"/>
+    <word original="地" calque="earth"/>
+    <word original="之" calque="of"/>
+    <word original="始" calque="beginning"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+
+<line>
+    <word original="有" calque="have"/>
+    <word original="名" calque="name"/>
+    <word original="萬" calque="ten-thousand"/>
+    <word original="物" calque="things"/>
+    <word original="之" calque="of"/>
+    <word original="母" calque="mother"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+
+<line commentary="Note how 以 connects desire (or lack thereof) with perception">
+    <word original="(.)故" calque="therefore"/>
+    <word original="常" calque="constant"/>
+    <word original="無" calque="without"/>
+    <word original="欲" calque="desire"/>
+    <word original="以" calque="by-means-of"/>
+    <word original="觀" calque="observe"/>
+    <word original="其" calque="its"/>
+    <word original="妙" calque="mystery"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+
+<line>
+    <word original="常" calque="constant"/>
+    <word original="有" calque="have"/>
+    <word original="欲" calque="desire"/>
+    <word original="以" calque="by-means-of"/>
+    <word original="觀" calque="observe"/>
+    <word original="其" calque="its"/>
+    <word original="徼" calque="boundary"/>
+</line>
+
+<line>
+    <word original="此" calque="these"/>
+    <word original="兩" calque="two"/>
+    <word original="者" calque="ones"/>
+    <word original="同" calque="same"/>
+    <word original="出" calque="emerge"/>
+    <word original="而" calque="but"/>
+    <word original="異" calque="different"/>
+    <word original="名" calque="name"/>
+</line>
+
+<line commentary="玄 (dark/profound) is a key concept suggesting deep mystery beyond ordinary understanding">
+    <word original="同" calque="same"/>
+    <word original="謂" calque="called"/>
+    <word original="之" calque="it"/>
+    <word original="玄" calque="dark"/>
+</line>
+
+<line>
+    <word original="玄" calque="dark"/>
+    <word original="之" calque="of"/>
+    <word original="又" calque="also"/>
+    <word original="玄" calque="dark"/>
+</line>
+
+<line commentary="This final line presents the gateway to all mysteries - suggesting that embracing paradox leads to understanding">
+    <word original="眾" calque="many"/>
+    <word original="妙" calque="mystery"/>
+    <word original="之" calque="of"/>
+    <word original="門" calque="gateway"/>
+</line>
+</chapter>

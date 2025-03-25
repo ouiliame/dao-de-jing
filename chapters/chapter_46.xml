@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter number="46">
+<line commentary="This opening line sets up a contrast between when the world follows the Way vs doesn't">
+    <word original="天" calque="heaven"/>
+    <word original="下" calque="below"/>
+    <word original="有" calque="have"/>
+    <word original="道" calque="way"/>
+</line>
+
+<line commentary="A powerful image: in times of peace, warhorses are retired to farming work">
+    <word original="卻" calque="withdraw"/>
+    <word original="走" calque="run"/>
+    <word original="馬" calque="horse"/>
+    <word original="以" calque="by-means-of"/>
+    <word original="糞" calque="manure"/>
+</line>
+
+<line>
+    <word original="天" calque="heaven"/>
+    <word original="下" calque="below"/>
+    <word original="無" calque="not-have"/>
+    <word original="道" calque="way"/>
+</line>
+
+<line commentary="Contrasting image: in chaotic times, war horses are bred at the borders">
+    <word original="戎" calque="military"/>
+    <word original="馬" calque="horse"/>
+    <word original="生" calque="born"/>
+    <word original="於" calque="at"/>
+    <word original="郊" calque="suburbs"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+
+<line>
+    <word original="(罪" calque="(crime"/>
+    <word original="莫" calque="none"/>
+    <word original="大" calque="greater"/>
+    <word original="於" calque="than"/>
+    <word original="可" calque="can"/>
+    <word original="欲)" calque="desire)"/>
+</line>
+
+<line commentary="This line introduces a key theme about the dangers of endless wanting">
+    <word original="禍" calque="disaster"/>
+    <word original="莫" calque="none"/>
+    <word original="大" calque="greater"/>
+    <word original="於" calque="than"/>
+    <word original="不" calque="not"/>
+    <word original="知" calque="know"/>
+    <word original="足" calque="enough"/>
+</line>
+
+<line>
+    <word original="咎" calque="blame"/>
+    <word original="莫" calque="none"/>
+    <word original="大" calque="greater"/>
+    <word original="於" calque="than"/>
+    <word original="欲" calque="desire"/>
+    <word original="得" calque="obtain"/>
+</line>
+
+<line commentary="A famous concluding line about contentment. Note how 足 is used three times with slightly different meanings: 'enough', 'sufficiency', and 'satisfied'">
+    <word original="(.)故" calque="(.)therefore"/>
+    <word original="知" calque="know"/>
+    <word original="足" calque="enough"/>
+    <word original="之" calque="of"/>
+    <word original="足" calque="sufficiency"/>
+    <word original="常" calque="always"/>
+    <word original="足" calque="satisfied"/>
+    <word original="矣" calque="already"/>
+    <word original="(.)" calque="(.)" punctuation="true"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+</chapter>

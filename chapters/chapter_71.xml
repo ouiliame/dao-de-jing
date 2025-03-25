@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter number="71">
+<line commentary="This opening line plays with the contrast between knowing and not-knowing, suggesting that claiming to know what one doesn't know is problematic.">
+    <word original="知" calque="know"/>
+    <word original="不" calque="not"/>
+    <word original="知" calque="know"/>
+    <word original="(尚)" calque="(superior)"/>
+    <word original="[矣(.)]" calque="[indeed(.)]"/>
+</line>
+
+<line commentary="This line reverses the previous pattern, suggesting that not recognizing one's own knowledge is a form of sickness.">
+    <word original="不" calque="not"/>
+    <word original="知" calque="know"/>
+    <word original="知" calque="know"/>
+    <word original="病" calque="sickness"/>
+    <word original="[矣(.)]" calque="[indeed(.)]"/>
+</line>
+
+<line commentary="The character 夫 here serves as an emphatic opener, while 唯 emphasizes the following statement about recognizing sickness.">
+    <word original="(.)" calque="(.)"/>
+    <word original="夫" calque="indeed"/>
+    <word original="唯" calque="only"/>
+    <word original="病" calque="sickness"/>
+    <word original="病" calque="sickness"/>
+</line>
+
+<line>
+    <word original="是" calque="this"/>
+    <word original="以" calque="by-means-of"/>
+    <word original="不" calque="not"/>
+    <word original="病" calque="sickness"/>
+</line>
+
+<line>
+    <word original="聖" calque="sage"/>
+    <word original="人" calque="person"/>
+    <word original="不" calque="not"/>
+    <word original="病" calque="sickness"/>
+    <word original="." calque="."/>
+</line>
+
+<line commentary="This line uses 其 to refer back to the sage's recognition of sickness.">
+    <word original="以" calque="by-means-of"/>
+    <word original="其" calque="their"/>
+    <word original="病" calque="sickness"/>
+    <word original="病" calque="sickness"/>
+    <word original="." calque="."/>
+</line>
+
+<line>
+    <word original="是" calque="this"/>
+    <word original="以" calque="by-means-of"/>
+    <word original="不" calque="not"/>
+    <word original="病" calque="sickness"/>
+</line>
+</chapter>
