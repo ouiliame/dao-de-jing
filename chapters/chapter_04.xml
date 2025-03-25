@@ -1,64 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="4">
-<line commentary="This opening line uses the metaphor of a vessel (盅) - a common theme in Daoist texts where emptiness enables usefulness.">
-    <word original="道" calque="way"/>
-    <word original="(盅)" calque="(hollow-vessel)"/>
-    <word original="而" calque="and"/>
+<line commentary="The opening line presents the paradox of the Dao - empty yet inexhaustible. How can emptiness be useful?">
+    <word original="道" calque="the Dao"/>
+    <word original="(盅)" calque="(empty)"/>
+    <word original="而" calque="yet"/>
     <word original="用" calque="use"/>
     <word original="之" calque="it"/>
-    <word original="(有)" calque="(exist)"/>
+    <word original="(有)" calque="(have)"/>
     <word original="不" calque="not"/>
     <word original="盈" calque="fill"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Notice the particle 兮 (xi) - it creates a poetic pause and adds emphasis. 淵 (deep) often refers to still water - a key image in Daoism.">
+<line commentary="Notice how 兮 creates a pause for contemplation. What makes something ancestral to 'ten thousand things'?">
     <word original="淵" calque="deep"/>
-    <word original="兮" calque="!"/>
-    <word original="似" calque="seem"/>
+    <word original="兮" calque="ah"/>
+    <word original="似" calque="like"/>
     <word original="萬" calque="ten-thousand"/>
-    <word original="物" calque="thing"/>
+    <word original="物" calque="things"/>
     <word original="之" calque="'s"/>
     <word original="宗" calque="ancestor"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line>
+<line commentary="What happens when we dull our sharpness? Is this about weapons, or something more?">
     <word original="挫" calque="blunt"/>
     <word original="其" calque="its"/>
     <word original="銳" calque="sharpness"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line>
+<line commentary="'Untangle the knots' - both literal and metaphorical. What tangled knots do you carry?">
     <word original="解" calque="unravel"/>
     <word original="其" calque="its"/>
     <word original="紛" calque="tangles"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Notice how the next three lines follow a parallel structure - verb + 其 + noun. This is a common poetic device in Classical Chinese.">
+<line commentary="Consider: does dimming your light make you less bright, or more preserved?">
     <word original="和" calque="soften"/>
     <word original="其" calque="its"/>
     <word original="光" calque="light"/>
 </line>
 
-<line>
-    <word original="同" calque="unite"/>
+<line commentary="To be 'one with the dust' - is this about humility, or about finding unity with all things?">
+    <word original="同" calque="same-as"/>
     <word original="其" calque="its"/>
     <word original="塵" calque="dust"/>
 </line>
 
-<line commentary="湛 (clear/deep) pairs with 淵 (deep) from earlier - creating a circular structure. 或 here creates ambiguity - is it 'perhaps' or 'someone'?">
-    <word original="湛" calque="clear"/>
-    <word original="兮" calque="!"/>
-    <word original="似" calque="seem"/>
+<line commentary="湛 suggests both clarity and depth - like still water. What exists in such stillness?">
+    <word original="湛" calque="clear-deep"/>
+    <word original="兮" calque="ah"/>
+    <word original="似" calque="like"/>
     <word original="或" calque="perhaps"/>
     <word original="存" calque="exist"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="A fascinating line expressing uncertainty about origins - who is the 'child' here? Consider how this connects to the 'ancestor' mentioned earlier.">
+<line commentary="A profound admission of unknowing. Why is uncertainty about origins so important to Daoist thought?">
     <word original="吾" calque="I"/>
     <word original="不" calque="not"/>
     <word original="知" calque="know"/>
@@ -68,9 +68,9 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="帝 refers to the supreme deity/emperor - what does it mean to precede even that? This line connects to ancient Chinese cosmology.">
+<line commentary="The Dao predates even divine authority. What does this tell us about its nature?">
     <word original="象" calque="appear"/>
-    <word original="帝" calque="deity"/>
+    <word original="帝" calque="divine-ruler"/>
     <word original="之" calque="'s"/>
     <word original="先" calque="before"/>
     <word original="." calque="." punctuation="true"/>

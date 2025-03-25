@@ -1,48 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="66">
-<line commentary="This opening line uses a powerful metaphor of rivers and seas - notice how it builds on imagery familiar to anyone in ancient China">
-    <word original="江" calque="river"/>
-    <word original="海" calque="sea"/>
-    <word original="所" calque="that-which"/>
-    <word original="以" calque="by-means-of"/>
+<line commentary="Consider: Why does Chinese philosophy so often use water as metaphor for wisdom?">
+    <word original="江海" calque="rivers-and-seas"/>
+    <word original="所以" calque="reason-that"/>
     <word original="能" calque="able"/>
     <word original="為" calque="become"/>
-    <word original="百" calque="hundred"/>
-    <word original="谷" calque="valley"/>
+    <word original="百谷" calque="hundred-valleys"/>
     <word original="王" calque="king"/>
     <word original="者" calque="one-who"/>
 </line>
 
-<line commentary="Notice the character 下 (down/below) - it will become a key theme throughout this chapter">
+<line commentary="Note how 'below' here isn't just physical position, but attitude">
     <word original="以" calque="by-means-of"/>
     <word original="其" calque="its"/>
     <word original="善" calque="good-at"/>
-    <word original="下" calque="lower"/>
+    <word original="下" calque="being-below"/>
     <word original="之" calque="it"/>
-    <word original="." calque="." punctuation="true"/>
+    <word original="." calque="."/>
 </line>
 
 <line>
-    <word original="(.)故" calque="(therefore)"/>
+    <word original="(.)故" calque="therefore"/>
     <word original="能" calque="able"/>
     <word original="為" calque="become"/>
-    <word original="百" calque="hundred"/>
-    <word original="谷" calque="valley"/>
+    <word original="百谷" calque="hundred-valleys"/>
     <word original="王" calque="king"/>
 </line>
 
-<line commentary="[聖人] (sage) is a key concept in Daoism - someone who has achieved harmony with the Dao">
-    <word original="是" calque="this"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="[聖" calque="[sage"/>
-    <word original="人]" calque="person]"/>
+<line>
+    <word original="是以" calque="thus"/>
+    <word original="[聖人]" calque="[sage]"/>
 </line>
 
-<line commentary="Notice how 上 (raise/above) is paired with 民 (people) - consider what this relationship implies">
+<line commentary="Ponder: How does being 'below' the people elevate a leader?">
     <word original="欲" calque="desire"/>
-    <word original="上" calque="raise"/>
+    <word original="上" calque="above"/>
     <word original="民" calque="people"/>
-    <word original="." calque="." punctuation="true"/>
+    <word original="." calque="."/>
 </line>
 
 <line>
@@ -55,57 +49,50 @@
 
 <line>
     <word original="欲" calque="desire"/>
-    <word original="先" calque="lead"/>
+    <word original="先" calque="before"/>
     <word original="民" calque="people"/>
-    <word original="." calque="." punctuation="true"/>
+    <word original="." calque="."/>
 </line>
 
-<line>
+<line commentary="Notice how the body itself becomes an instrument of leadership">
     <word original="必" calque="must"/>
     <word original="以" calque="by-means-of"/>
-    <word original="身" calque="body/self"/>
+    <word original="身" calque="body"/>
     <word original="後" calque="behind"/>
     <word original="之" calque="them"/>
 </line>
 
 <line>
-    <word original="是" calque="this"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="聖" calque="sage"/>
-    <word original="人" calque="person"/>
+    <word original="是以" calque="thus"/>
+    <word original="聖人" calque="sage"/>
 </line>
 
-<line commentary="Notice the elegant parallel structure in these next few lines, and how 重 (burden) relates to the theme of being 'above'">
+<line commentary="What makes a burden feel light?">
     <word original="處" calque="dwell"/>
     <word original="上" calque="above"/>
     <word original="而" calque="yet"/>
     <word original="民" calque="people"/>
     <word original="不" calque="not"/>
     <word original="重" calque="burden"/>
-    <word original="." calque="." punctuation="true"/>
 </line>
 
-<line>
+<line commentary="How does position without imposing create safety?">
     <word original="處" calque="dwell"/>
     <word original="前" calque="front"/>
     <word original="而" calque="yet"/>
     <word original="民" calque="people"/>
     <word original="不" calque="not"/>
     <word original="害" calque="harm"/>
-    <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="樂 can mean both 'joy' and 'willing' - which meaning fits better with 推 (push forward)?">
-    <word original="是" calque="this"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="天" calque="heaven"/>
-    <word original="下" calque="below"/>
-    <word original="樂" calque="joy/willing"/>
-    <word original="推" calque="push-forward"/>
+<line>
+    <word original="是以" calque="thus"/>
+    <word original="天下" calque="all-under-heaven"/>
+    <word original="樂" calque="joy"/>
+    <word original="推" calque="promote"/>
     <word original="而" calque="yet"/>
     <word original="不" calque="not"/>
-    <word original="厭" calque="tire"/>
-    <word original="." calque="." punctuation="true"/>
+    <word original="厭" calque="weary"/>
 </line>
 
 <line>
@@ -113,13 +100,11 @@
     <word original="其" calque="their"/>
     <word original="不" calque="not"/>
     <word original="爭" calque="compete"/>
-    <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="This final line brings everything together - what happens when one doesn't compete?">
-    <word original="(.)故" calque="(therefore)"/>
-    <word original="天" calque="heaven"/>
-    <word original="下" calque="below"/>
+<line commentary="Consider: How does non-contention make one uncontestable?">
+    <word original="(.)故" calque="therefore"/>
+    <word original="天下" calque="all-under-heaven"/>
     <word original="莫" calque="none"/>
     <word original="能" calque="able"/>
     <word original="與" calque="with"/>

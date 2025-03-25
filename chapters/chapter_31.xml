@@ -1,201 +1,177 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <chapter number="31">
-<line commentary="Note how '夫' often starts philosophical statements - it's like saying 'Now then...' or setting up an important point">
-    <word original="(.)" calque="(.)"/>
-    <word original="夫" calque="now"/>
-    <word original="佳" calque="fine"/>
-    <word original="兵" calque="weapon"/>
-    <word original="者" calque="one-who"/>
-    <word original="不" calque="not"/>
-    <word original="祥" calque="auspicious"/>
-    <word original="之" calque="of"/>
-    <word original="器" calque="implement"/>
-    <word original="." calque="."/>
-</line>
-
-<line>
-    <word original="物" calque="thing"/>
-    <word original="或" calque="perhaps"/>
-    <word original="惡" calque="detest"/>
-    <word original="之" calque="it"/>
-    <word original="." calque="."/>
-</line>
-
-<line commentary="Notice how '故' introduces a conclusion or consequence - what logical connection is being made here?">
-    <word original="(.)" calque="(.)"/>
-    <word original="故" calque="therefore"/>
-    <word original="有" calque="have"/>
-    <word original="道" calque="way"/>
-    <word original="者" calque="one-who"/>
-    <word original="不" calque="not"/>
-    <word original="處" calque="dwell"/>
-</line>
-
-<line commentary="In ancient China, left was traditionally the position of honor in peaceful times - notice this contrast with the next line">
-    <word original="君" calque="noble"/>
-    <word original="子" calque="master"/>
-    <word original="居" calque="reside"/>
-    <word original="則" calque="then"/>
-    <word original="貴" calque="value"/>
-    <word original="左" calque="left"/>
-</line>
-
-<line>
-    <word original="用" calque="use"/>
-    <word original="兵" calque="weapon"/>
-    <word original="則" calque="then"/>
-    <word original="貴" calque="value"/>
-    <word original="右" calque="right"/>
-    <word original="." calque="."/>
-</line>
-
-<line>
-    <word original="兵" calque="weapon"/>
-    <word original="者" calque="one-who"/>
-    <word original="不" calque="not"/>
-    <word original="祥" calque="auspicious"/>
-    <word original="之" calque="of"/>
-    <word original="器" calque="implement"/>
-    <word original="." calque="."/>
-</line>
-
-<line>
-    <word original="非" calque="not"/>
-    <word original="君" calque="noble"/>
-    <word original="子" calque="master"/>
-    <word original="之" calque="of"/>
-    <word original="器" calque="implement"/>
-    <word original="." calque="."/>
-</line>
-
-<line commentary="'不得已' is an idiom meaning 'having no choice' - literally 'not-obtain-already' - notice how Classical Chinese creates complex meanings from simple components">
-    <word original="不" calque="not"/>
-    <word original="得" calque="obtain"/>
-    <word original="已" calque="already"/>
-    <word original="而" calque="and"/>
-    <word original="用" calque="use"/>
-    <word original="之" calque="it"/>
-</line>
-
-<line>
-    <word original="恬" calque="peaceful"/>
-    <word original="淡" calque="plain"/>
-    <word original="為" calque="be"/>
-    <word original="上" calque="superior"/>
-</line>
-
-<line>
-    <word original="__" calque="..."/>
-    <word original="__" calque="..."/>
-    <word original="(勿)" calque="(do-not)"/>
-    <word original="美" calque="beautify"/>
-    <word original="[也(.)]" calque="[indeed(.)]"/>
-</line>
-
-<line commentary="Look at how 是 (this) and 者 (one who) work together to point to specific people or actions">
-    <word original="而" calque="yet"/>
-    <word original="美" calque="beautify"/>
-    <word original="之" calque="it"/>
-    <word original="者" calque="one-who"/>
-    <word original="是" calque="this"/>
-    <word original="樂" calque="enjoy"/>
-    <word original="殺" calque="kill"/>
-    <word original="人" calque="person"/>
-    <word original="." calque="."/>
-</line>
-
-<line>
-    <word original="(.)" calque="(.)"/>
-    <word original="夫" calque="now"/>
-    <word original="樂" calque="enjoy"/>
-    <word original="殺" calque="kill"/>
-    <word original="人" calque="person"/>
-    <word original="者" calque="one-who"/>
-</line>
-
-<line commentary="Notice how 以 (by-means-of) connects actions to their results or methods - it's a key word for understanding relationships between concepts">
-    <word original="__" calque="..."/>
-    <word original="不" calque="not"/>
-    <word original="可" calque="can"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="得" calque="obtain"/>
-    <word original="志" calque="will"/>
-    <word original="於" calque="in"/>
-    <word original="天" calque="heaven"/>
-    <word original="下" calque="below"/>
-    <word original="矣" calque="indeed"/>
-    <word original="(.)" calque="(.)"/>
-    <word original="." calque="."/>
-</line>
-
-<line>
-    <word original="[(.)故]" calque="[(.)therefore]"/>
-    <word original="吉" calque="auspicious"/>
-    <word original="事" calque="matter"/>
-    <word original="尚" calque="favor"/>
-    <word original="左" calque="left"/>
-    <word original="." calque="."/>
-</line>
-
-<line>
-    <word original="凶" calque="inauspicious"/>
-    <word original="事" calque="matter"/>
-    <word original="尚" calque="favor"/>
-    <word original="右" calque="right"/>
-    <word original="." calque="."/>
-</line>
-
-<line commentary="This section describes military formations - notice how 將軍 (general) is composed of two characters that together mean something different from their individual meanings">
-    <word original="[是" calque="[this"/>
-    <word original="以]" calque="therefore]"/>
-    <word original="偏" calque="secondary"/>
-    <word original="將" calque="lead"/>
-    <word original="軍" calque="army"/>
-    <word original="居" calque="stand"/>
-    <word original="左" calque="left"/>
-</line>
-
-<line>
-    <word original="上" calque="supreme"/>
-    <word original="將" calque="lead"/>
-    <word original="軍" calque="army"/>
-    <word original="居" calque="stand"/>
-    <word original="右" calque="right"/>
-</line>
-
-<line commentary="This is a powerful metaphor - what does it mean to treat military victory with funeral rites?">
-    <word original="言" calque="speak"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="喪" calque="mourning"/>
-    <word original="禮" calque="ritual"/>
-    <word original="處" calque="handle"/>
-    <word original="之" calque="it"/>
-    <word original="." calque="."/>
-</line>
-
-<line>
-    <word original="殺" calque="kill"/>
-    <word original="人" calque="person"/>
-    <word original="__" calque="..."/>
-    <word original="眾" calque="many"/>
-</line>
-
-<line>
-    <word original="以" calque="by-means-of"/>
-    <word original="哀" calque="sorrow"/>
-    <word original="悲" calque="grief"/>
-    <word original="泣" calque="weep"/>
-    <word original="之" calque="it"/>
-</line>
-
-<line>
-    <word original="戰" calque="battle"/>
-    <word original="勝" calque="victory"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="喪" calque="mourning"/>
-    <word original="禮" calque="ritual"/>
-    <word original="處" calque="handle"/>
-    <word original="之" calque="it"/>
-    <word original="." calque="."/>
-</line>
+  <line commentary="The opening line establishes the Daoist view of weapons - they are 'not auspicious tools.' Notice how this challenges the common glorification of military might in many ancient cultures.">
+    <word original="(.)夫" calque="(.)indeed" pinyin="fú"/>
+    <word original="佳" calque="fine" pinyin="jiā"/>
+    <word original="兵" calque="weapon" pinyin="bīng"/>
+    <word original="者" calque="one-who" pinyin="zhě"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="祥" calque="auspicious" pinyin="xiáng"/>
+    <word original="之" calque="'s" pinyin="zhī"/>
+    <word original="器" calque="tool" pinyin="qì"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+  </line>
+  <line>
+    <word original="物" calque="thing" pinyin="wù"/>
+    <word original="或" calque="some" pinyin="huò"/>
+    <word original="惡" calque="hate" pinyin="wù"/>
+    <word original="之" calque="them" pinyin="zhī"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+  </line>
+  <line commentary="Those who follow the Dao avoid weapons. In ancient China, position conveyed meaning - the left side was honored in peaceful times, while the right was honored in war. What does this reversal suggest about the values of peace versus war?">
+    <word original="(.)故" calque="(.)therefore" pinyin="gù"/>
+    <word original="有" calque="have" pinyin="yǒu"/>
+    <word original="道" calque="the Dao" pinyin="dào"/>
+    <word original="者" calque="one-who" pinyin="zhě"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="處" calque="dwell-with" pinyin="chǔ"/>
+  </line>
+  <line>
+    <word original="君" calque="noble" pinyin="jūn"/>
+    <word original="子" calque="person" pinyin="zǐ"/>
+    <word original="居" calque="residing" pinyin="jū"/>
+    <word original="則" calque="then" pinyin="zé"/>
+    <word original="貴" calque="value" pinyin="guì"/>
+    <word original="左" calque="left" pinyin="zuǒ"/>
+  </line>
+  <line>
+    <word original="用" calque="use" pinyin="yòng"/>
+    <word original="兵" calque="weapon" pinyin="bīng"/>
+    <word original="則" calque="then" pinyin="zé"/>
+    <word original="貴" calque="value" pinyin="guì"/>
+    <word original="右" calque="right" pinyin="yòu"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+  </line>
+  <line>
+    <word original="兵" calque="weapon" pinyin="bīng"/>
+    <word original="者" calque="one-who" pinyin="zhě"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="祥" calque="auspicious" pinyin="xiáng"/>
+    <word original="之" calque="'s" pinyin="zhī"/>
+    <word original="器" calque="tool" pinyin="qì"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+  </line>
+  <line commentary="The text emphasizes that weapons are not the tools of a noble person. Consider how this contrasts with warrior cultures that glorify the sword or bow.">
+    <word original="非" calque="not" pinyin="fēi"/>
+    <word original="君" calque="noble" pinyin="jūn"/>
+    <word original="子" calque="person" pinyin="zǐ"/>
+    <word original="之" calque="'s" pinyin="zhī"/>
+    <word original="器" calque="tool" pinyin="qì"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+  </line>
+  <line commentary="'不得已' is a key phrase meaning 'having no alternative.' The Daoist recognizes that sometimes force becomes necessary, but approaches it with reluctance. What does this suggest about righteous versus unrighteous warfare?">
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="得" calque="get" pinyin="dé"/>
+    <word original="已" calque="stop" pinyin="yǐ"/>
+    <word original="而" calque="and" pinyin="ér"/>
+    <word original="用" calque="use" pinyin="yòng"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+  </line>
+  <line>
+    <word original="恬" calque="calm" pinyin="tián"/>
+    <word original="淡" calque="bland" pinyin="dàn"/>
+    <word original="為" calque="be" pinyin="wéi"/>
+    <word original="上" calque="highest" pinyin="shàng"/>
+  </line>
+  <line>
+    <word original="__" calque="__" pinyin="__"/>
+    <word original="__" calque="__" pinyin="__"/>
+    <word original="(勿)" calque="(do-not)" pinyin="(wù)"/>
+    <word original="美" calque="beautify" pinyin="měi"/>
+    <word original="[也(.)]" calque="[indeed(.)]" pinyin="[yě(.)]"/>
+  </line>
+  <line commentary="This powerful line reveals that those who glorify weapons actually delight in killing. How might this challenge modern cultural attitudes that celebrate military prowess or violent entertainment?">
+    <word original="而" calque="and" pinyin="ér"/>
+    <word original="美" calque="beautify" pinyin="měi"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="者" calque="one-who" pinyin="zhě"/>
+    <word original="是" calque="this" pinyin="shì"/>
+    <word original="樂" calque="delight-in" pinyin="lè"/>
+    <word original="殺" calque="kill" pinyin="shā"/>
+    <word original="人" calque="person" pinyin="rén"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+  </line>
+  <line>
+    <word original="(.)夫" calque="(.)indeed" pinyin="fú"/>
+    <word original="樂" calque="delight-in" pinyin="lè"/>
+    <word original="殺" calque="kill" pinyin="shā"/>
+    <word original="人" calque="person" pinyin="rén"/>
+    <word original="者" calque="one-who" pinyin="zhě"/>
+  </line>
+  <line commentary="Those who delight in killing cannot achieve their aims in the world. The character 志 (zhì) means aspiration or will - suggesting that violence ultimately undermines one's deeper purposes.">
+    <word original="__" calque="__" pinyin="__"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="可" calque="can" pinyin="kě"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="得" calque="achieve" pinyin="dé"/>
+    <word original="志" calque="aim" pinyin="zhì"/>
+    <word original="於" calque="in" pinyin="yú"/>
+    <word original="天" calque="heaven" pinyin="tiān"/>
+    <word original="下" calque="under" pinyin="xià"/>
+    <word original="矣" calque="indeed" pinyin="yǐ"/>
+    <word original="(.)" calque="(.)" pinyin="(.)" punctuation="true"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+  </line>
+  <line>
+    <word original="[(.)故]" calque="[(.)therefore]" pinyin="[(.)gù]"/>
+    <word original="吉" calque="auspicious" pinyin="jí"/>
+    <word original="事" calque="affair" pinyin="shì"/>
+    <word original="尚" calque="honor" pinyin="shàng"/>
+    <word original="左" calque="left" pinyin="zuǒ"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+  </line>
+  <line>
+    <word original="凶" calque="inauspicious" pinyin="xiōng"/>
+    <word original="事" calque="affair" pinyin="shì"/>
+    <word original="尚" calque="honor" pinyin="shàng"/>
+    <word original="右" calque="right" pinyin="yòu"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+  </line>
+  <line commentary="Military formations reflected ritual significance. The subordinate general stood left, while the superior general stood right - opposite to peaceful ceremonies. What does this inversion suggest about the nature of warfare?">
+    <word original="[是" calque="[this" pinyin="[shì"/>
+    <word original="以]" calque="by-means-of]" pinyin="yǐ]"/>
+    <word original="偏" calque="subordinate" pinyin="piān"/>
+    <word original="將" calque="general" pinyin="jiāng"/>
+    <word original="軍" calque="army" pinyin="jūn"/>
+    <word original="居" calque="stands" pinyin="jū"/>
+    <word original="左" calque="left" pinyin="zuǒ"/>
+  </line>
+  <line>
+    <word original="上" calque="superior" pinyin="shàng"/>
+    <word original="將" calque="general" pinyin="jiāng"/>
+    <word original="軍" calque="army" pinyin="jūn"/>
+    <word original="居" calque="stands" pinyin="jū"/>
+    <word original="右" calque="right" pinyin="yòu"/>
+  </line>
+  <line commentary="This profound statement compares warfare to funeral rites. Rather than celebrating victory, the Daoist approach treats it with the solemnity of mourning. How might this transform our relationship to conflict?">
+    <word original="言" calque="speak" pinyin="yán"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="喪" calque="funeral" pinyin="sāng"/>
+    <word original="禮" calque="ritual" pinyin="lǐ"/>
+    <word original="處" calque="treat" pinyin="chǔ"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+  </line>
+  <line>
+    <word original="殺" calque="kill" pinyin="shā"/>
+    <word original="人" calque="person" pinyin="rén"/>
+    <word original="__" calque="__" pinyin="__"/>
+    <word original="眾" calque="many" pinyin="zhòng"/>
+  </line>
+  <line>
+    <word original="以" calque="with" pinyin="yǐ"/>
+    <word original="哀" calque="sorrow" pinyin="āi"/>
+    <word original="悲" calque="grief" pinyin="bēi"/>
+    <word original="泣" calque="weep" pinyin="qì"/>
+    <word original="之" calque="for-them" pinyin="zhī"/>
+  </line>
+  <line commentary="The chapter closes by returning to its central theme: victory in battle should be treated with funeral rites, not celebration. This challenges us to rethink what true victory means.">
+    <word original="戰" calque="battle" pinyin="zhàn"/>
+    <word original="勝" calque="victory" pinyin="shèng"/>
+    <word original="以" calque="with" pinyin="yǐ"/>
+    <word original="喪" calque="funeral" pinyin="sāng"/>
+    <word original="禮" calque="ritual" pinyin="lǐ"/>
+    <word original="處" calque="treat" pinyin="chǔ"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+  </line>
 </chapter>

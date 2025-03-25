@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="81">
-<line commentary="Notice how this first pair of lines forms a chiasmus - a mirror pattern. What might this tell us about the relationship between beauty and truth in words?">
+<line commentary="A profound statement about the nature of truth - can beautiful rhetoric be trusted?">
     <word original="信" calque="trustworthy"/>
     <word original="言" calque="words"/>
     <word original="不" calque="not"/>
     <word original="美" calque="beautiful"/>
 </line>
 
-<line>
+<line commentary="The inverse relationship between ornate language and truth. Consider: when do we embellish our words?">
     <word original="美" calque="beautiful"/>
     <word original="言" calque="words"/>
     <word original="不" calque="not"/>
     <word original="信" calque="trustworthy"/>
 </line>
 
-<line commentary="Another pair of opposing statements. Consider how 者 marks the subject - it's like saying 'one who is...'">
+<line commentary="Those who are truly good don't need to argue their case. Why?">
     <word original="善" calque="good"/>
     <word original="者" calque="one-who"/>
     <word original="不" calque="not"/>
     <word original="辯" calque="argue"/>
 </line>
 
-<line>
+<line commentary="Those who argue much might be compensating for something...">
     <word original="辯" calque="argue"/>
     <word original="者" calque="one-who"/>
     <word original="不" calque="not"/>
     <word original="善" calque="good"/>
 </line>
 
-<line commentary="知 (know) and 博 (broad-learning) create an interesting tension here. What's the difference between true knowledge and mere accumulation of facts?">
+<line commentary="True wisdom vs. accumulated knowledge - what's the difference?">
     <word original="知" calque="know"/>
     <word original="者" calque="one-who"/>
     <word original="不" calque="not"/>
@@ -43,14 +43,14 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="聖人 (sage-person) appears frequently in Daoist texts - it's the ideal wise person who embodies the Dao. What does 不積 (not-accumulate) tell us about their nature?">
+<line commentary="The sage's approach to wealth and accumulation">
     <word original="聖" calque="sage"/>
     <word original="人" calque="person"/>
     <word original="不" calque="not"/>
     <word original="積" calque="accumulate"/>
 </line>
 
-<line commentary="既 marks a completed action. Notice how 為 (do-for) and 與 (give-to) in these parallel lines suggest different types of giving.">
+<line commentary="A beautiful paradox of giving and receiving. What happens when you help others?">
     <word original="既" calque="already"/>
     <word original="以" calque="by-means-of"/>
     <word original="為" calque="do-for"/>
@@ -60,33 +60,33 @@
     <word original="有" calque="have"/>
 </line>
 
-<line>
+<line commentary="The more you give, the more you receive. How does this work?">
     <word original="既" calque="already"/>
     <word original="以" calque="by-means-of"/>
-    <word original="與" calque="give-to"/>
+    <word original="與" calque="give"/>
     <word original="人" calque="others"/>
     <word original="己" calque="self"/>
     <word original="愈" calque="more"/>
     <word original="多" calque="abundant"/>
 </line>
 
-<line commentary="天之道 (heaven's-way) is being contrasted with 聖人之道 (sage's-way). Notice how both lines end with balanced opposites.">
+<line commentary="How does nature benefit all without causing harm?">
     <word original="天" calque="heaven"/>
     <word original="之" calque="'s"/>
-    <word original="道" calque="way"/>
+    <word original="道" calque="the Dao"/>
     <word original="利" calque="benefit"/>
-    <word original="而" calque="and"/>
+    <word original="而" calque="and-yet"/>
     <word original="不" calque="not"/>
     <word original="害" calque="harm"/>
 </line>
 
-<line>
+<line commentary="The sage mirrors nature's way - accomplishing without contention">
     <word original="聖" calque="sage"/>
     <word original="人" calque="person"/>
     <word original="之" calque="'s"/>
-    <word original="道" calque="way"/>
+    <word original="道" calque="the Dao"/>
     <word original="為" calque="act"/>
-    <word original="而" calque="and"/>
+    <word original="而" calque="and-yet"/>
     <word original="不" calque="not"/>
     <word original="爭" calque="compete"/>
 </line>

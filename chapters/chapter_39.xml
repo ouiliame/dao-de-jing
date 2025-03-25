@@ -1,223 +1,195 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <chapter number="39">
-<line commentary="This opening line sets up a historical frame - 'those who obtained/achieved One in ancient times'. The character 昔 (ancient times) immediately tells us we're about to learn from historical examples.">
-    <word original="昔" calque="ancient-times"/>
-    <word original="之" calque="of"/>
-    <word original="得" calque="obtain"/>
-    <word original="一" calque="One"/>
-    <word original="者" calque="one-who"/>
-</line>
-
-<line commentary="Notice how the next six lines follow the same grammatical pattern: Subject + 得一 + 以 + Result. This parallel structure is a key feature of Classical Chinese poetry and philosophy.">
-    <word original="天" calque="heaven"/>
-    <word original="得" calque="obtain"/>
-    <word original="一" calque="One"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="清" calque="clear"/>
-</line>
-
-<line>
-    <word original="地" calque="earth"/>
-    <word original="得" calque="obtain"/>
-    <word original="一" calque="One"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="寧" calque="peaceful"/>
-</line>
-
-<line commentary="神 can refer to spirits/gods/divine forces - it's deliberately ambiguous and encompasses all supernatural forces.">
-    <word original="神" calque="spirit"/>
-    <word original="得" calque="obtain"/>
-    <word original="一" calque="One"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="靈" calque="efficacious"/>
-</line>
-
-<line commentary="谷 (valley) is often used metaphorically in Daoist texts. Consider what qualities a valley has - what does it mean for a valley to be 'full'?">
-    <word original="谷" calque="valley"/>
-    <word original="得" calque="obtain"/>
-    <word original="一" calque="One"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="盈" calque="full"/>
-</line>
-
-<line>
-    <word original="萬" calque="ten-thousand"/>
-    <word original="物" calque="things"/>
-    <word original="得" calque="obtain"/>
-    <word original="一" calque="One"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="生" calque="live"/>
-    <word original="." calque="." punctuation="true"/>
-</line>
-
-<line commentary="侯王 refers to feudal lords and kings - the ruling class. 貞 has connotations of correctness, authenticity, and integrity.">
-    <word original="侯" calque="marquis"/>
-    <word original="王" calque="king"/>
-    <word original="得" calque="obtain"/>
-    <word original="一" calque="One"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="為" calque="become"/>
-    <word original="天" calque="heaven"/>
-    <word original="下" calque="below"/>
-    <word original="貞" calque="authentic"/>
-</line>
-
-<line>
-    <word original="其" calque="its"/>
-    <word original="致" calque="extreme"/>
-    <word original="之" calque="it"/>
-    <word original="." calque="." punctuation="true"/>
-</line>
-
-<line commentary="Now we see the opposite scenario - what happens without the One. Notice the parallel structure continues with 將恐 (will fear) followed by negative consequences.">
-    <word original="天" calque="heaven"/>
-    <word original="無" calque="without"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="清" calque="clear"/>
-</line>
-
-<line>
-    <word original="將" calque="will"/>
-    <word original="恐" calque="fear"/>
-    <word original="裂" calque="split"/>
-</line>
-
-<line>
-    <word original="地" calque="earth"/>
-    <word original="無" calque="without"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="寧" calque="peaceful"/>
-</line>
-
-<line>
-    <word original="將" calque="will"/>
-    <word original="恐" calque="fear"/>
-    <word original="發" calque="burst"/>
-</line>
-
-<line>
-    <word original="神" calque="spirit"/>
-    <word original="無" calque="without"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="靈" calque="efficacious"/>
-</line>
-
-<line>
-    <word original="將" calque="will"/>
-    <word original="恐" calque="fear"/>
-    <word original="歇" calque="exhaust"/>
-</line>
-
-<line>
-    <word original="谷" calque="valley"/>
-    <word original="無" calque="without"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="盈" calque="full"/>
-</line>
-
-<line>
-    <word original="將" calque="will"/>
-    <word original="恐" calque="fear"/>
-    <word original="竭" calque="dry-up"/>
-</line>
-
-<line>
-    <word original="萬" calque="ten-thousand"/>
-    <word original="物" calque="things"/>
-    <word original="無" calque="without"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="生" calque="live"/>
-</line>
-
-<line>
-    <word original="將" calque="will"/>
-    <word original="恐" calque="fear"/>
-    <word original="滅" calque="extinguish"/>
-</line>
-
-<line commentary="Notice how 貴高 (noble-high) parallels the earlier mention of rulers, but now focuses on their status rather than their function.">
-    <word original="侯" calque="marquis"/>
-    <word original="王" calque="king"/>
-    <word original="無" calque="without"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="貴" calque="noble"/>
-    <word original="高" calque="high"/>
-</line>
-
-<line>
-    <word original="將" calque="will"/>
-    <word original="恐" calque="fear"/>
-    <word original="蹶" calque="stumble"/>
-</line>
-
-<line commentary="故 (therefore) signals an important conclusion. This passage reveals a fundamental Daoist paradox about the relationship between high and low, noble and humble.">
-    <word original="(.)故" calque="(therefore)"/>
-    <word original="貴" calque="noble"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="賤" calque="humble"/>
-    <word original="為" calque="make"/>
-    <word original="本" calque="root"/>
-</line>
-
-<line>
-    <word original="高" calque="high"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="下" calque="low"/>
-    <word original="為" calque="make"/>
-    <word original="基" calque="foundation"/>
-</line>
-
-<line commentary="The terms 孤 寡 不 穀 were humble self-deprecating terms used by rulers. This line shows how the highest should present themselves as the lowest.">
-    <word original="是" calque="this"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="侯" calque="marquis"/>
-    <word original="王" calque="king"/>
-    <word original="自" calque="self"/>
-    <word original="謂" calque="call"/>
-    <word original="孤" calque="orphaned"/>
-    <word original="寡" calque="widowed"/>
-    <word original="不" calque="not"/>
-    <word original="穀" calque="grain"/>
-</line>
-
-<line>
-    <word original="此" calque="this"/>
-    <word original="非" calque="not"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="賤" calque="humble"/>
-    <word original="為" calque="make"/>
-    <word original="本" calque="root"/>
-    <word original="(邪(.))" calque="(indeed(.))" punctuation="true"/>
-</line>
-
-<line>
-    <word original="非" calque="not"/>
-    <word original="乎" calque="indeed"/>
-    <word original="(.)" calque="(.)" punctuation="true"/>
-</line>
-
-<line commentary="The final section uses vivid imagery contrasting jade (precious) with stone (common) to reinforce the theme of embracing the humble over the exalted.">
-    <word original="(.)故" calque="(therefore)"/>
-    <word original="致" calque="extreme"/>
-    <word original="數" calque="count"/>
-    <word original="輿" calque="chariot"/>
-    <word original="無" calque="without"/>
-    <word original="輿" calque="chariot"/>
-</line>
-
-<line>
-    <word original="不" calque="not"/>
-    <word original="欲" calque="desire"/>
-    <word original="琭" calque="gleaming"/>
-    <word original="琭" calque="gleaming"/>
-    <word original="如" calque="like"/>
-    <word original="玉" calque="jade"/>
-</line>
-
-<line>
-    <word original="珞" calque="plain"/>
-    <word original="珞" calque="plain"/>
-    <word original="如" calque="like"/>
-    <word original="石" calque="stone"/>
-</line>
+  <line commentary="The opening establishes an ancient wisdom about unity or oneness. In Classical Chinese, starting with '昔之...' signals a reference to past sages or enduring truths.">
+    <word original="昔" calque="anciently" pinyin="xī"/>
+    <word original="之" calque="'s" pinyin="zhī"/>
+    <word original="得" calque="obtain" pinyin="dé"/>
+    <word original="一" calque="one" pinyin="yī"/>
+    <word original="者" calque="one-who" pinyin="zhě"/>
+  </line>
+  <line commentary="A pattern emerges here: each element obtains oneness and thereby manifests its essential quality. Heaven's nature is clarity - what might it mean for heaven to 'obtain one'?">
+    <word original="天" calque="heaven" pinyin="tiān"/>
+    <word original="得" calque="obtain" pinyin="dé"/>
+    <word original="一" calque="one" pinyin="yī"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="清" calque="clear" pinyin="qīng"/>
+  </line>
+  <line>
+    <word original="地" calque="earth" pinyin="dì"/>
+    <word original="得" calque="obtain" pinyin="dé"/>
+    <word original="一" calque="one" pinyin="yī"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="寧" calque="peaceful" pinyin="níng"/>
+  </line>
+  <line>
+    <word original="神" calque="spirit" pinyin="shén"/>
+    <word original="得" calque="obtain" pinyin="dé"/>
+    <word original="一" calque="one" pinyin="yī"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="靈" calque="efficacious" pinyin="líng"/>
+  </line>
+  <line commentary="'Valley' is an important Daoist image - a hollow space that can receive and hold things. How might emptiness relate to fullness in Daoist thought?">
+    <word original="谷" calque="valley" pinyin="gǔ"/>
+    <word original="得" calque="obtain" pinyin="dé"/>
+    <word original="一" calque="one" pinyin="yī"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="盈" calque="full" pinyin="yíng"/>
+  </line>
+  <line>
+    <word original="萬" calque="ten-thousand" pinyin="wàn"/>
+    <word original="物" calque="thing" pinyin="wù"/>
+    <word original="得" calque="obtain" pinyin="dé"/>
+    <word original="一" calque="one" pinyin="yī"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="生" calque="live" pinyin="shēng"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+  </line>
+  <line commentary="Even rulers depend on unity. The character 貞 (steadfast/correct) suggests proper governance comes from alignment with oneness. How might this challenge conventional ideas of leadership?">
+    <word original="侯" calque="marquis" pinyin="hóu"/>
+    <word original="王" calque="king" pinyin="wáng"/>
+    <word original="得" calque="obtain" pinyin="dé"/>
+    <word original="一" calque="one" pinyin="yī"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="為" calque="become" pinyin="wéi"/>
+    <word original="天" calque="heaven" pinyin="tiān"/>
+    <word original="下" calque="under" pinyin="xià"/>
+    <word original="貞" calque="steadfast" pinyin="zhēn"/>
+  </line>
+  <line>
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="致" calque="ultimate" pinyin="zhì"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+  </line>
+  <line commentary="Now the text explores the consequences of losing unity. The structure '將恐' (will fear/risk) introduces potential disasters. What happens when things lose their essential nature?">
+    <word original="天" calque="heaven" pinyin="tiān"/>
+    <word original="無" calque="without" pinyin="wú"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="清" calque="clear" pinyin="qīng"/>
+  </line>
+  <line>
+    <word original="將" calque="will" pinyin="jiāng"/>
+    <word original="恐" calque="fear" pinyin="kǒng"/>
+    <word original="裂" calque="split" pinyin="liè"/>
+  </line>
+  <line>
+    <word original="地" calque="earth" pinyin="dì"/>
+    <word original="無" calque="without" pinyin="wú"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="寧" calque="peaceful" pinyin="níng"/>
+  </line>
+  <line>
+    <word original="將" calque="will" pinyin="jiāng"/>
+    <word original="恐" calque="fear" pinyin="kǒng"/>
+    <word original="發" calque="erupt" pinyin="fā"/>
+  </line>
+  <line>
+    <word original="神" calque="spirit" pinyin="shén"/>
+    <word original="無" calque="without" pinyin="wú"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="靈" calque="efficacious" pinyin="líng"/>
+  </line>
+  <line>
+    <word original="將" calque="will" pinyin="jiāng"/>
+    <word original="恐" calque="fear" pinyin="kǒng"/>
+    <word original="歇" calque="cease" pinyin="xiē"/>
+  </line>
+  <line>
+    <word original="谷" calque="valley" pinyin="gǔ"/>
+    <word original="無" calque="without" pinyin="wú"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="盈" calque="full" pinyin="yíng"/>
+  </line>
+  <line>
+    <word original="將" calque="will" pinyin="jiāng"/>
+    <word original="恐" calque="fear" pinyin="kǒng"/>
+    <word original="竭" calque="dry-up" pinyin="jié"/>
+  </line>
+  <line>
+    <word original="萬" calque="ten-thousand" pinyin="wàn"/>
+    <word original="物" calque="thing" pinyin="wù"/>
+    <word original="無" calque="without" pinyin="wú"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="生" calque="live" pinyin="shēng"/>
+  </line>
+  <line>
+    <word original="將" calque="will" pinyin="jiāng"/>
+    <word original="恐" calque="fear" pinyin="kǒng"/>
+    <word original="滅" calque="perish" pinyin="miè"/>
+  </line>
+  <line commentary="The text shifts to rulers, whose risk is different - not physical destruction but falling from position. The character 蹶 vividly depicts stumbling or falling.">
+    <word original="侯" calque="marquis" pinyin="hóu"/>
+    <word original="王" calque="king" pinyin="wáng"/>
+    <word original="無" calque="without" pinyin="wú"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="貴" calque="noble" pinyin="guì"/>
+    <word original="高" calque="high" pinyin="gāo"/>
+  </line>
+  <line>
+    <word original="將" calque="will" pinyin="jiāng"/>
+    <word original="恐" calque="fear" pinyin="kǒng"/>
+    <word original="蹶" calque="stumble" pinyin="jué"/>
+  </line>
+  <line commentary="A core Daoist paradox: the noble must be rooted in the humble. This inversion of conventional values suggests true stability comes from embracing what seems lowly.">
+    <word original="(.)故" calque="(.)therefore" pinyin="gù"/>
+    <word original="貴" calque="noble" pinyin="guì"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="賤" calque="humble" pinyin="jiàn"/>
+    <word original="為" calque="make" pinyin="wéi"/>
+    <word original="本" calque="root" pinyin="běn"/>
+  </line>
+  <line>
+    <word original="高" calque="high" pinyin="gāo"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="下" calque="low" pinyin="xià"/>
+    <word original="為" calque="make" pinyin="wéi"/>
+    <word original="基" calque="foundation" pinyin="jī"/>
+  </line>
+  <line commentary="Historical context: ancient Chinese rulers used self-deprecating terms like 'orphan,' 'widow,' and 'unworthy grain' as humble self-references. What does this practice reveal about the Daoist view of leadership?">
+    <word original="是" calque="this" pinyin="shì"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="侯" calque="marquis" pinyin="hóu"/>
+    <word original="王" calque="king" pinyin="wáng"/>
+    <word original="自" calque="self" pinyin="zì"/>
+    <word original="謂" calque="call" pinyin="wèi"/>
+    <word original="孤" calque="orphan" pinyin="gū"/>
+    <word original="寡" calque="widow" pinyin="guǎ"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="穀" calque="grain" pinyin="gǔ"/>
+  </line>
+  <line>
+    <word original="此" calque="this" pinyin="cǐ"/>
+    <word original="非" calque="is-not" pinyin="fēi"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="賤" calque="humble" pinyin="jiàn"/>
+    <word original="為" calque="make" pinyin="wéi"/>
+    <word original="本" calque="root" pinyin="běn"/>
+    <word original="(邪(.))" calque="(is-it(.))" pinyin="(yé(.))"/>
+  </line>
+  <line>
+    <word original="非" calque="is-not" pinyin="fēi"/>
+    <word original="乎" calque="indeed" pinyin="hū"/>
+    <word original="(.)" calque="(.)" pinyin="(.)" punctuation="true"/>
+  </line>
+  <line commentary="The chapter concludes with a paradoxical image - counting many carriages as no carriage. This suggests true value comes not from accumulation but from maintaining a humble perspective.">
+    <word original="(.)故" calque="(.)therefore" pinyin="gù"/>
+    <word original="致" calque="extreme" pinyin="zhì"/>
+    <word original="數" calque="many" pinyin="shù"/>
+    <word original="輿" calque="carriage" pinyin="yú"/>
+    <word original="無" calque="no" pinyin="wú"/>
+    <word original="輿" calque="carriage" pinyin="yú"/>
+  </line>
+  <line commentary="The final lines contrast jade (precious) with stone (common). The true sage does not desire to sparkle like jade but remains unadorned like stone - another expression of the value of the humble over the exalted.">
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="欲" calque="desire" pinyin="yù"/>
+    <word original="琭" calque="glittering" pinyin="lù"/>
+    <word original="琭" calque="glittering" pinyin="lù"/>
+    <word original="如" calque="like" pinyin="rú"/>
+    <word original="玉" calque="jade" pinyin="yù"/>
+  </line>
+  <line>
+    <word original="珞" calque="plain" pinyin="luò"/>
+    <word original="珞" calque="plain" pinyin="luò"/>
+    <word original="如" calque="like" pinyin="rú"/>
+    <word original="石" calque="stone" pinyin="shí"/>
+  </line>
 </chapter>

@@ -1,52 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="72">
-<line commentary="This opening line sets up a conditional statement - notice how 民 (people) appears first, emphasizing their role as the subject">
+<line commentary="Consider: What happens when power pushes too hard against human nature?">
     <word original="民" calque="people"/>
     <word original="不" calque="not"/>
     <word original="畏" calque="fear"/>
     <word original="威" calque="power"/>
 </line>
-<line commentary="則 often indicates 'then' in if-then statements. Notice how 大威 (great-power) is followed by 至 (arrive) - what might this suggest about the consequences?">
+
+<line commentary="Notice how 'great power' brings its own consequence">
     <word original="則" calque="then"/>
     <word original="大" calque="great"/>
     <word original="威" calque="power"/>
     <word original="至" calque="arrive"/>
-    <word original="[矣(.)]" calque="[indeed(.)]"/>
+    <word original="[矣(.)]" calque="[indeed(.)]" punctuation="true"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="狎 is a fascinating character meaning 'to treat with disrespect' or 'to be overly familiar with' - consider how this relates to 所居 (place-dwell)">
+
+<line commentary="What happens when we lose respect for our immediate surroundings?">
     <word original="無" calque="do-not"/>
-    <word original="狎" calque="disrespect"/>
+    <word original="狎" calque="treat-lightly"/>
     <word original="其" calque="their"/>
     <word original="所" calque="place"/>
     <word original="居" calque="dwell"/>
 </line>
-<line>
+
+<line commentary="Consider the connection between weariness and appreciation">
     <word original="無" calque="do-not"/>
-    <word original="厭" calque="weary-of"/>
+    <word original="厭" calque="tire-of"/>
     <word original="其" calque="their"/>
     <word original="所" calque="place"/>
     <word original="生" calque="live"/>
 </line>
-<line commentary="Notice how 夫 often starts a statement of universal truth in Classical Chinese. 唯 emphasizes what follows.">
+
+<line>
     <word original="(.)夫" calque="(.)indeed"/>
     <word original="唯" calque="only"/>
     <word original="不" calque="not"/>
-    <word original="厭" calque="weary-of"/>
+    <word original="厭" calque="tire-of"/>
 </line>
-<line commentary="是以 is a common Classical Chinese construction meaning 'therefore' or 'thus' - literally 'by-means-of this'">
+
+<line commentary="How does non-weariness lead to non-weariness? A paradox?">
     <word original="是" calque="this"/>
     <word original="以" calque="by-means-of"/>
     <word original="不" calque="not"/>
-    <word original="厭" calque="weary-of"/>
+    <word original="厭" calque="tire-of"/>
 </line>
-<line>
+
+<line commentary="Watch how the sage emerges as an example">
     <word original="是" calque="this"/>
     <word original="以" calque="by-means-of"/>
     <word original="聖" calque="sage"/>
     <word original="人" calque="person"/>
 </line>
-<line commentary="Notice the parallel structure in this and the next line - 自X不自Y. This is a common poetic device in Classical Chinese">
+
+<line commentary="Can one know oneself without showcasing it?">
     <word original="自" calque="self"/>
     <word original="知" calque="know"/>
     <word original="不" calque="not"/>
@@ -54,7 +61,8 @@
     <word original="見" calque="display"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line>
+
+<line commentary="Ponder the difference between self-love and self-importance">
     <word original="自" calque="self"/>
     <word original="愛" calque="love"/>
     <word original="不" calque="not"/>
@@ -62,7 +70,8 @@
     <word original="貴" calque="value"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="故 signals a conclusion. 彼 (that) and 此 (this) are often used as opposites - what might they refer to based on the previous lines?">
+
+<line commentary="What is 'this' and what is 'that'? Which would you choose?">
     <word original="(.)故" calque="(.)therefore"/>
     <word original="去" calque="remove"/>
     <word original="彼" calque="that"/>

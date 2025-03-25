@@ -1,106 +1,118 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="58">
-<line commentary="This opening stanza sets up a fascinating contrast using repetition. Notice how each line starts with 其 (their/its) followed by either 政 (government) or 民 (people)">
-    <word original="其" calque="their"/>
-    <word original="政" calque="government"/>
-    <word original="悶" calque="dull"/>
-    <word original="悶" calque="dull"/>
+<line commentary="Notice how the first four lines form two contrasting pairs, showing cause and effect in governance.">
+    <word original="其" calque="its"/>
+    <word original="政" calque="governance"/>
+    <word original="悶悶" calque="simple-quiet" commentary="Reduplication emphasizes the quality"/>
 </line>
+
 <line>
-    <word original="其" calque="their"/>
+    <word original="其" calque="its"/>
     <word original="民" calque="people"/>
-    <word original="淳" calque="pure"/>
-    <word original="淳" calque="pure"/>
+    <word original="淳淳" calque="pure-honest"/>
 </line>
+
 <line>
-    <word original="其" calque="their"/>
-    <word original="政" calque="government"/>
-    <word original="察" calque="examine"/>
-    <word original="察" calque="examine"/>
+    <word original="其" calque="its"/>
+    <word original="政" calque="governance"/>
+    <word original="察察" calque="scrutinizing"/>
 </line>
-<line>
-    <word original="其" calque="their"/>
+
+<line commentary="How might excessive scrutiny affect people's behavior?">
+    <word original="其" calque="its"/>
     <word original="民" calque="people"/>
-    <word original="缺" calque="lacking"/>
-    <word original="缺" calque="lacking"/>
+    <word original="缺缺" calque="lacking-deficient"/>
 </line>
-<line commentary="Notice how 兮 is a classical particle that adds emphasis or exclamation. This line introduces a profound observation about fortune/misfortune.">
+
+<line commentary="Consider how fortune and misfortune lean on each other like back-to-back chairs">
     <word original="禍" calque="misfortune"/>
     <word original="兮" calque="ah"/>
     <word original="福" calque="fortune"/>
-    <word original="之" calque="of"/>
+    <word original="之" calque="'s"/>
     <word original="所" calque="place"/>
-    <word original="倚" calque="lean-upon"/>
-    <word original="." calque="." punctuation="true"/>
+    <word original="倚" calque="lean"/>
+    <word original="." calque="."/>
 </line>
+
 <line>
     <word original="福" calque="fortune"/>
     <word original="兮" calque="ah"/>
     <word original="禍" calque="misfortune"/>
-    <word original="之" calque="of"/>
+    <word original="之" calque="'s"/>
     <word original="所" calque="place"/>
     <word original="伏" calque="hide"/>
 </line>
-<line commentary="孰 is an interrogative word meaning 'who' or 'what' - this line poses a philosophical question">
+
+<line commentary="Who indeed can know the limits of this cycle?">
     <word original="孰" calque="who"/>
     <word original="知" calque="know"/>
     <word original="其" calque="its"/>
     <word original="極" calque="limit"/>
 </line>
+
 <line>
-    <word original="其" calque="its"/>
+    <word original="其" calque="it"/>
     <word original="無" calque="not-have"/>
-    <word original="正" calque="straight"/>
-    <word original="." calque="." punctuation="true"/>
+    <word original="正" calque="correct"/>
+    <word original="." calque="."/>
 </line>
-<line commentary="Notice how 復 (return/again) is used to show transformation - one state becoming another">
-    <word original="正" calque="straight"/>
+
+<line commentary="Watch how 'correct' transforms into 'strange' - nothing stays fixed">
+    <word original="正" calque="correct"/>
     <word original="復" calque="return"/>
     <word original="為" calque="become"/>
     <word original="奇" calque="strange"/>
 </line>
+
 <line>
     <word original="善" calque="good"/>
     <word original="復" calque="return"/>
     <word original="為" calque="become"/>
     <word original="妖" calque="evil"/>
 </line>
+
 <line>
-    <word original="人" calque="person"/>
-    <word original="之" calque="of"/>
-    <word original="迷" calque="confused"/>
-    <word original="." calque="." punctuation="true"/>
+    <word original="人" calque="people"/>
+    <word original="之" calque="'s"/>
+    <word original="迷" calque="confusion"/>
+    <word original="." calque="."/>
 </line>
+
 <line>
     <word original="其" calque="its"/>
-    <word original="日" calque="day"/>
+    <word original="日" calque="days"/>
     <word original="固" calque="indeed"/>
     <word original="久" calque="long"/>
 </line>
-<line commentary="是以 is a common classical Chinese conjunction meaning 'therefore' or 'thus'">
+
+<line commentary="Here begins the sage's response to all this chaos">
     <word original="是" calque="this"/>
-    <word original="以" calque="by-means-of"/>
+    <word original="以" calque="therefore"/>
     <word original="聖" calque="sage"/>
     <word original="人" calque="person"/>
 </line>
-<line commentary="The final stanzas present four parallel constructions, each describing the sage's balanced way">
+
+<line commentary="The final sections use parallel structure to show balanced action">
     <word original="方" calque="square"/>
     <word original="而" calque="but"/>
     <word original="不" calque="not"/>
     <word original="割" calque="cut"/>
 </line>
+
 <line>
     <word original="廉" calque="sharp"/>
     <word original="而" calque="but"/>
     <word original="不" calque="not"/>
     <word original="劌" calque="pierce"/>
 </line>
+
 <line>
     <word original="直" calque="straight"/>
     <word original="而" calque="but"/>
     <word original="不" calque="not"/>
     <word original="肆" calque="unrestrained"/>
 </line>
+
 <line>
     <word original="光" calque="bright"/>
     <word original="而" calque="but"/>

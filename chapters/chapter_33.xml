@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="33">
-<line commentary="This chapter follows a beautiful parallel structure, with each line following the pattern '[X] 者 [Y]'. The '者' marks the subject - similar to saying 'one who [X] is [Y]'. Let's see what qualities lead to what outcomes...">
+<line commentary="Notice how knowing others vs. knowing self produces different results - which is superior?">
     <word original="知" calque="know"/>
     <word original="人" calque="others"/>
     <word original="者" calque="one-who"/>
-    <word original="智" calque="wisdom"/>
+    <word original="智" calque="wise"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Note how this line mirrors the previous one, but replaces '人' (others) with '自' (self). What might this contrast tell us about different kinds of knowing?">
+<line commentary="明 suggests a deeper, clearer insight than 智 - what might this tell us about self-knowledge?">
     <word original="自" calque="self"/>
     <word original="知" calque="know"/>
     <word original="者" calque="one-who"/>
-    <word original="明" calque="bright/clear"/>
+    <word original="明" calque="bright"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="The pattern continues - now exploring victory/conquest (勝) over others...">
-    <word original="勝" calque="victory"/>
+<line commentary="Consider: is having power over others true strength?">
+    <word original="勝" calque="overcome"/>
     <word original="人" calque="others"/>
     <word original="者" calque="one-who"/>
     <word original="有" calque="have"/>
-    <word original="力" calque="strength"/>
+    <word original="力" calque="force"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Again see how 'self' (自) creates a different meaning. Is conquering others the same as conquering oneself?">
+<line commentary="The character 強 suggests a more fundamental strength than mere force (力)">
     <word original="自" calque="self"/>
-    <word original="勝" calque="victory"/>
+    <word original="勝" calque="overcome"/>
     <word original="者" calque="one-who"/>
-    <word original="強" calque="powerful"/>
+    <word original="強" calque="strong"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="知足 literally means 'know enough' - what might it mean to 'know enough'? How does this relate to wealth?">
+<line commentary="Wealth here is defined by contentment, not possession - how does this change our view of richness?">
     <word original="知" calque="know"/>
     <word original="足" calque="enough"/>
     <word original="者" calque="one-who"/>
@@ -41,7 +41,7 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="強行 combines 'strong' with 'act/walk' - suggesting forceful or determined action. What kind of person has 志 (will/ambition)?">
+<line commentary="志 implies both will and purpose - what makes action truly powerful?">
     <word original="強" calque="strong"/>
     <word original="行" calque="act"/>
     <word original="者" calque="one-who"/>
@@ -50,23 +50,23 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Note the complex construction: 不失其所 - 'not lose their place'. What does it mean to keep one's place? How does this relate to endurance?">
+<line commentary="'Not losing one's place' - what does it mean to truly endure?">
     <word original="不" calque="not"/>
     <word original="失" calque="lose"/>
-    <word original="其" calque="their"/>
+    <word original="其" calque="one's"/>
     <word original="所" calque="place"/>
     <word original="者" calque="one-who"/>
     <word original="久" calque="endure"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="The final line presents a fascinating paradox - how can one die (死) yet not perish (不亡)? What kind of 'long life' might this suggest?">
+<line commentary="How can one 'die yet not perish'? Consider both literal and metaphorical meanings">
     <word original="死" calque="die"/>
     <word original="而" calque="yet"/>
     <word original="不" calque="not"/>
     <word original="亡" calque="perish"/>
     <word original="者" calque="one-who"/>
-    <word original="壽" calque="longevity"/>
+    <word original="壽" calque="long-lived"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 </chapter>

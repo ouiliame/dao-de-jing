@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="3">
-<line commentary="This opening line sets up a profound theme about leadership - notice how '尚' (exalt) and '賢' (worthy/talented) create a statement about how NOT to govern">
+<line commentary="Consider: What happens when we constantly rank and compare people?">
     <word original="不" calque="not"/>
-    <word original="尚" calque="exalt"/>
+    <word original="尚" calque="elevate"/>
     <word original="賢" calque="worthy"/>
 </line>
 
-<line commentary="See how this line follows from the previous - what happens when leaders don't exalt the worthy?">
+<line commentary="A leader's actions ripple through society. Notice how 使 introduces each consequence.">
     <word original="使" calque="cause"/>
     <word original="民" calque="people"/>
     <word original="不" calque="not"/>
     <word original="爭" calque="compete"/>
 </line>
 
-<line commentary="Note how '難得' (difficult-obtain) modifies '貨' (goods) - Classical Chinese puts modifiers before the noun">
+<line commentary="What makes something valuable? Its rarity or its utility?">
     <word original="不" calque="not"/>
     <word original="貴" calque="value"/>
-    <word original="難" calque="difficult"/>
-    <word original="得" calque="obtain"/> 
-    <word original="之" calque="of"/>
+    <word original="難得" calque="hard-to-obtain"/>
+    <word original="之" calque="'s"/>
     <word original="貨" calque="goods"/>
 </line>
 
@@ -30,9 +29,9 @@
     <word original="盜" calque="thief"/>
 </line>
 
-<line commentary="'見' here means 'show/display' rather than just 'see' - consider how this relates to leadership">
+<line commentary="The eyes as windows to desire - a recurring theme in Daoist thought.">
     <word original="不" calque="not"/>
-    <word original="見" calque="show"/>
+    <word original="見" calque="see"/>
     <word original="可" calque="can"/>
     <word original="欲" calque="desire"/>
 </line>
@@ -46,17 +45,17 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="'是以' is an important Classical Chinese conjunction meaning 'therefore/thus'">
+<line commentary="Notice how 是以 introduces the sage's response to these principles.">
     <word original="是" calque="this"/>
     <word original="以" calque="by-means-of"/>
     <word original="聖" calque="sage"/>
     <word original="人" calque="person"/>
-    <word original="之" calque="of"/>
+    <word original="之" calque="'s"/>
     <word original="治" calque="govern"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Notice the parallel structure between '虛其心' and '實其腹' - what contrast is being drawn?">
+<line commentary="Consider the paradox: emptying to fill, weakening to strengthen.">
     <word original="虛" calque="empty"/>
     <word original="其" calque="their"/>
     <word original="心" calque="heart"/>
@@ -65,16 +64,16 @@
     <word original="腹" calque="belly"/>
 </line>
 
-<line commentary="Another parallel structure! The sage creates balance through apparent opposites">
+<line>
     <word original="弱" calque="weaken"/>
     <word original="其" calque="their"/>
     <word original="志" calque="ambition"/>
     <word original="強" calque="strengthen"/>
     <word original="其" calque="their"/>
-    <word original="骨" calque="bone"/>
+    <word original="骨" calque="bones"/>
 </line>
 
-<line>
+<line commentary="What is the relationship between knowledge and desire?">
     <word original="常" calque="always"/>
     <word original="使" calque="cause"/>
     <word original="民" calque="people"/>
@@ -85,27 +84,26 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="'夫' here is a particle marking the topic - the wise ones">
+<line>
     <word original="使" calque="cause"/>
-    <word original="夫" calque="that"/>
-    <word original="智" calque="wise"/>
-    <word original="者" calque="one"/>
+    <word original="夫" calque="those"/>
+    <word original="智" calque="clever"/>
+    <word original="者" calque="ones"/>
     <word original="不" calque="not"/>
     <word original="敢" calque="dare"/>
     <word original="為" calque="act"/>
     <word original="__" calque="..."/>
-    <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="This famous final line plays with the word '為' (act/do) - notice how it appears twice with different meanings. The particle '矣' marks completion of the thought">
+<line commentary="The ultimate paradox of governance: achieving order through non-action.">
     <word original="為" calque="act"/>
-    <word original="無" calque="without"/>
+    <word original="無" calque="non"/>
     <word original="為" calque="action"/>
     <word original="則" calque="then"/>
-    <word original="無" calque="without"/>
+    <word original="無" calque="nothing"/>
     <word original="不" calque="not"/>
-    <word original="治" calque="govern"/>
-    <word original="[矣(.)]" calque="[indeed(.)]"/>
+    <word original="治" calque="governed"/>
+    <word original="[矣(.)]" calque="[indeed(.)]" punctuation="true"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 </chapter>

@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="55">
-<line commentary="This opening line sets up a comparison - watch for who/what is being compared to what...">
-    <word original="含" calque="hold"/>
+<line commentary="The opening introduces someone who embodies deep virtue - notice how 之 links 德 (virtue) with 厚 (thickness/depth)">
+    <word original="含" calque="contain"/>
     <word original="德" calque="virtue"/>
-    <word original="之" calque="of"/>
+    <word original="之" calque="'s"/>
     <word original="厚" calque="thick"/>
     <word original="[者]" calque="[one-who]"/>
 </line>
-<line commentary="Here's our answer - a comparison to an infant. Why would this be significant?">
+
+<line commentary="A powerful simile comparing the virtuous to an infant. Why this comparison?">
     <word original="比" calque="compare"/>
     <word original="於" calque="to"/>
     <word original="赤" calque="red"/>
     <word original="子" calque="child"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="Notice how this begins a series of negative statements - things that don't happen. What might this tell us about the nature of an infant?">
+
+<line commentary="What power does an infant possess that dangerous creatures won't harm it?">
     <word original="蜂" calque="bee"/>
     <word original="蠆" calque="scorpion"/>
     <word original="虺" calque="viper"/>
@@ -22,19 +24,22 @@
     <word original="不" calque="not"/>
     <word original="螫" calque="sting"/>
 </line>
+
 <line>
     <word original="猛" calque="fierce"/>
     <word original="獸" calque="beast"/>
     <word original="不" calque="not"/>
     <word original="據" calque="seize"/>
 </line>
+
 <line>
-    <word original="攫" calque="grabbing"/>
+    <word original="攫" calque="swooping"/>
     <word original="鳥" calque="bird"/>
     <word original="不" calque="not"/>
-    <word original="摶" calque="clutch"/>
+    <word original="摶" calque="grab"/>
 </line>
-<line commentary="Notice the contrast between physical weakness and strength here - a fascinating paradox!">
+
+<line commentary="A paradox: how can something weak have such a strong grip?">
     <word original="骨" calque="bone"/>
     <word original="弱" calque="weak"/>
     <word original="筋" calque="sinew"/>
@@ -44,25 +49,28 @@
     <word original="固" calque="firm"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="This line discusses reproduction with deliberately archaic terms - 牝牡 (pin/mu) are ancient words for female/male animals">
+
+<line commentary="The mystery of vital essence - before conscious knowing">
     <word original="未" calque="not-yet"/>
     <word original="知" calque="know"/>
     <word original="牝" calque="female"/>
     <word original="牡" calque="male"/>
-    <word original="之" calque="of"/>
-    <word original="合" calque="joining"/>
+    <word original="之" calque="'s"/>
+    <word original="合" calque="unite"/>
     <word original="而" calque="yet"/>
     <word original="(脧)" calque="(aroused)"/>
     <word original="作" calque="arise"/>
 </line>
+
 <line>
     <word original="精" calque="essence"/>
-    <word original="之" calque="of"/>
+    <word original="之" calque="'s"/>
     <word original="至" calque="ultimate"/>
     <word original="也" calque="indeed"/>
     <word original="(.)" calque="(.)" punctuation="true"/>
 </line>
-<line commentary="Another paradox - constant crying without becoming hoarse. What might this suggest about natural harmony?">
+
+<line commentary="Consider: how can crying all day not lead to hoarseness?">
     <word original="終" calque="whole"/>
     <word original="日" calque="day"/>
     <word original="號" calque="cry"/>
@@ -70,55 +78,63 @@
     <word original="不" calque="not"/>
     <word original="嗄" calque="hoarse"/>
 </line>
+
 <line>
     <word original="和" calque="harmony"/>
-    <word original="之" calque="of"/>
+    <word original="之" calque="'s"/>
     <word original="至" calque="ultimate"/>
     <word original="也" calque="indeed"/>
     <word original="(.)" calque="(.)" punctuation="true"/>
 </line>
-<line commentary="Now we enter a series of definitions. Notice how 'knowing' (知) leads to understanding different concepts.">
+
+<line commentary="A series of definitions that link knowing, harmony, and illumination">
     <word original="知" calque="know"/>
     <word original="和" calque="harmony"/>
     <word original="曰" calque="called"/>
     <word original="常" calque="constant"/>
 </line>
+
 <line>
     <word original="知" calque="know"/>
     <word original="常" calque="constant"/>
     <word original="曰" calque="called"/>
     <word original="明" calque="bright"/>
 </line>
+
 <line>
-    <word original="益" calque="increase"/>
+    <word original="益" calque="benefit"/>
     <word original="生" calque="life"/>
     <word original="曰" calque="called"/>
     <word original="祥" calque="auspicious"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="This line introduces a warning about forcing or controlling things - notice the contrast with the infant's natural state described earlier">
+
+<line commentary="The relationship between mind, qi, and strength - what makes something truly strong?">
     <word original="心" calque="heart-mind"/>
-    <word original="使" calque="direct"/>
-    <word original="氣" calque="energy"/>
+    <word original="使" calque="control"/>
+    <word original="氣" calque="qi"/>
     <word original="曰" calque="called"/>
-    <word original="強" calque="strong"/>
+    <word original="強" calque="force"/>
 </line>
-<line>
+
+<line commentary="A natural law: the cycle of growth and decline">
     <word original="物" calque="thing"/>
     <word original="壯" calque="strong"/>
     <word original="則" calque="then"/>
     <word original="老" calque="old"/>
 </line>
+
 <line>
-    <word original="謂" calque="call"/>
+    <word original="謂" calque="called"/>
     <word original="之" calque="it"/>
     <word original="不" calque="not"/>
-    <word original="道" calque="way"/>
+    <word original="道" calque="the Dao"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="The final warning about what happens when one goes against the natural way">
+
+<line commentary="A warning about departing from the natural way">
     <word original="不" calque="not"/>
-    <word original="道" calque="way"/>
+    <word original="道" calque="the Dao"/>
     <word original="早" calque="early"/>
     <word original="已" calque="already"/>
 </line>

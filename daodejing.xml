@@ -1,12 +1,12 @@
 <book>
   <chapter number="1">
     <line>
-      <word original="道" calque="way"/>
+      <word original="道" calque="the Dao"/>
       <word original="可" calque="can"/>
-      <word original="道" calque="way"/>
+      <word original="道" calque="the Dao"/>
       <word original="非" calque="not"/>
       <word original="常" calque="constant"/>
-      <word original="道" calque="way"/>
+      <word original="道" calque="the Dao"/>
     </line>
     <line>
       <word original="名" calque="name"/>
@@ -21,7 +21,7 @@
       <word original="名" calque="name"/>
       <word original="天" calque="heaven"/>
       <word original="地" calque="earth"/>
-      <word original="之" calque="of"/>
+      <word original="之" calque="'s"/>
       <word original="始" calque="beginning"/>
     </line>
     <line>
@@ -29,7 +29,7 @@
       <word original="名" calque="name"/>
       <word original="萬" calque="ten-thousand"/>
       <word original="物" calque="thing"/>
-      <word original="之" calque="of"/>
+      <word original="之" calque="'s"/>
       <word original="母" calque="mother"/>
     </line>
     <line>
@@ -69,14 +69,14 @@
     </line>
     <line>
       <word original="玄" calque="dark"/>
-      <word original="之" calque="of"/>
+      <word original="之" calque="'s"/>
       <word original="又" calque="again"/>
       <word original="玄" calque="dark"/>
     </line>
     <line>
       <word original="眾" calque="many"/>
       <word original="妙" calque="mystery"/>
-      <word original="之" calque="of"/>
+      <word original="之" calque="'s"/>
       <word original="門" calque="gate"/>
     </line>
   </chapter>
@@ -87,7 +87,7 @@
       <word original="皆" calque="all"/>
       <word original="知" calque="know"/>
       <word original="美" calque="beautiful"/>
-      <word original="之" calque="of"/>
+      <word original="之" calque="'s"/>
       <word original="為" calque="as"/>
       <word original="美" calque="beautiful"/>
       <word original="斯" calque="this"/>
@@ -98,7 +98,7 @@
       <word original="皆" calque="all"/>
       <word original="知" calque="know"/>
       <word original="善" calque="good"/>
-      <word original="之" calque="of"/>
+      <word original="之" calque="'s"/>
       <word original="為" calque="as"/>
       <word original="善" calque="good"/>
       <word original="斯" calque="this"/>
@@ -153,14 +153,14 @@
       <word original="處" calque="dwell"/>
       <word original="無" calque="without"/>
       <word original="為" calque="doing"/>
-      <word original="之" calque="of"/>
+      <word original="之" calque="'s"/>
       <word original="事" calque="affair"/>
     </line>
     <line>
       <word original="行" calque="practice"/>
       <word original="不" calque="not"/>
       <word original="言" calque="speak"/>
-      <word original="之" calque="of"/>
+      <word original="之" calque="'s"/>
       <word original="教" calque="teaching"/>
     </line>
     <line>

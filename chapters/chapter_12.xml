@@ -1,58 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="12">
-<line commentary="This line introduces a powerful metaphor about sensory overload. The structure '令人' (make/cause people) is repeated throughout, creating a pattern about how excess affects our senses.">
+<line commentary="Notice how this chapter opens with three parallel warnings about sensory excess. What might this tell us about human nature?">
     <word original="五" calque="five"/>
-    <word original="色" calque="color"/>
-    <word original="令" calque="make"/>
+    <word original="色" calque="colors"/>
+    <word original="令" calque="cause"/>
     <word original="人" calque="person"/>
-    <word original="目" calque="eye"/>
+    <word original="目" calque="eyes"/>
     <word original="盲" calque="blind"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
 <line>
     <word original="五" calque="five"/>
-    <word original="音" calque="sound"/>
-    <word original="令" calque="make"/>
+    <word original="音" calque="sounds"/>
+    <word original="令" calque="cause"/>
     <word original="人" calque="person"/>
-    <word original="耳" calque="ear"/>
+    <word original="耳" calque="ears"/>
     <word original="聾" calque="deaf"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Note how '爽' here doesn't mean 'pleasant' as in modern Chinese - in Classical Chinese it meant 'lose sensitivity/taste'">
+<line>
     <word original="五" calque="five"/>
-    <word original="味" calque="flavor"/>
-    <word original="令" calque="make"/>
+    <word original="味" calque="flavors"/>
+    <word original="令" calque="cause"/>
     <word original="人" calque="person"/>
     <word original="口" calque="mouth"/>
     <word original="爽" calque="numb"/>
 </line>
 
-<line commentary="This line uses hunting terminology. Notice how the four-character compound '馳騁畋獵' creates a vivid image of intense pursuit.">
-    <word original="馳" calque="gallop"/>
-    <word original="騁" calque="sprint"/>
-    <word original="畋" calque="hunt"/>
-    <word original="獵" calque="chase"/>
-    <word original="令" calque="make"/>
+<line commentary="Consider how this line shifts from physical senses to mental state. Why might hunting represent more than just hunting?">
+    <word original="馳騁" calque="gallop-rapidly"/>
+    <word original="畋獵" calque="hunt-chase"/>
+    <word original="令" calque="cause"/>
     <word original="人" calque="person"/>
-    <word original="心" calque="heart"/>
-    <word original="發" calque="emit"/>
-    <word original="狂" calque="madness"/>
+    <word original="心" calque="heart-mind"/>
+    <word original="發狂" calque="go-mad"/>
 </line>
 
 <line>
     <word original="難" calque="difficult"/>
     <word original="得" calque="obtain"/>
-    <word original="之" calque="of"/>
+    <word original="之" calque="'s"/>
     <word original="貨" calque="goods"/>
-    <word original="令" calque="make"/>
+    <word original="令" calque="cause"/>
     <word original="人" calque="person"/>
     <word original="行" calque="conduct"/>
     <word original="妨" calque="obstruct"/>
 </line>
 
-<line commentary="Here '是以' (therefore) introduces the sage's response to all the previous statements. What follows is the solution to the problems described above.">
+<line commentary="是以 signals a solution to the problems listed above. What makes this solution wise?">
     <word original="是" calque="this"/>
     <word original="以" calque="by-means-of"/>
     <word original="聖" calque="sage"/>
@@ -60,15 +57,15 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="This line presents a contrast using parallel structure with '為' (act-for). What's the difference between acting for the belly versus the eyes?">
+<line commentary="What deeper meaning might lie in the contrast between belly and eyes?">
     <word original="為" calque="act-for"/>
     <word original="腹" calque="belly"/>
     <word original="不" calque="not"/>
     <word original="為" calque="act-for"/>
-    <word original="目" calque="eye"/>
+    <word original="目" calque="eyes"/>
 </line>
 
-<line commentary="'故' (therefore) signals a conclusion. The contrast between '彼' (that) and '此' (this) creates a clear choice between two paths.">
+<line>
     <word original="(.)故" calque="therefore"/>
     <word original="去" calque="remove"/>
     <word original="彼" calque="that"/>

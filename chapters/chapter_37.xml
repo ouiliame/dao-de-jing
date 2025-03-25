@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="37">
-<line commentary="This opening line establishes a profound paradox about the Dao's relationship with action/non-action (wei/wuwei). Notice how 常 (constant) modifies 無為 (non-action)">
-    <word original="道" calque="way"/>
-    <word original="常" calque="constant"/>
+<line commentary="Consider: How can doing nothing accomplish everything?">
+    <word original="道" calque="the Dao"/>
+    <word original="常" calque="always"/>
     <word original="無" calque="not-have"/>
     <word original="為" calque="act"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="The word 而 here acts as a conjunction showing contrast - watch how it connects to the previous line to complete the paradox">
+<line commentary="A beautiful paradox that invites deep contemplation">
     <word original="而" calque="yet"/>
     <word original="無" calque="not-have"/>
     <word original="不" calque="not"/>
@@ -16,50 +16,46 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Notice how 若能 (if-can) creates a conditional statement - what would happen if rulers could achieve this?">
-    <word original="侯" calque="marquis"/>
-    <word original="王" calque="king"/>
+<line commentary="What does it mean to 'guard' something that isn't there?">
+    <word original="侯王" calque="lords-and-kings"/>
     <word original="若" calque="if"/>
     <word original="能" calque="can"/>
-    <word original="守" calque="maintain"/>
+    <word original="守" calque="guard"/>
     <word original="之" calque="it"/>
 </line>
 
-<line commentary="The character 將 here indicates something that will happen in the future - notice how it pairs with 自 (self) to suggest spontaneous action">
-    <word original="萬" calque="ten-thousand"/>
-    <word original="物" calque="thing"/>
+<line commentary="Like water flowing downhill - what is the nature of effortless transformation?">
+    <word original="萬物" calque="ten-thousand-things"/>
     <word original="將" calque="will"/>
     <word original="自" calque="self"/>
     <word original="化" calque="transform"/>
 </line>
 
-<line>
+<line commentary="When does desire arise in transformation?">
     <word original="化" calque="transform"/>
-    <word original="而" calque="yet"/>
+    <word original="而" calque="and"/>
     <word original="欲" calque="desire"/>
     <word original="作" calque="arise"/>
 </line>
 
-<line commentary="Notice the use of 以 (by-means-of) here - it's showing how something is accomplished. What's significant about using 'nameless simplicity' as a tool?">
+<line commentary="The uncarved block (樸) represents pure potential - what does it mean to be nameless?">
     <word original="吾" calque="I"/>
     <word original="將" calque="will"/>
-    <word original="鎮" calque="steady"/>
+    <word original="鎮" calque="stabilize"/>
     <word original="之" calque="it"/>
     <word original="以" calque="by-means-of"/>
-    <word original="無" calque="not-have"/>
-    <word original="名" calque="name"/>
-    <word original="之" calque="of"/>
+    <word original="無名" calque="nameless"/>
+    <word original="之" calque="'s"/>
     <word original="樸" calque="simplicity"/>
 </line>
 
 <line>
-    <word original="無" calque="not-have"/>
-    <word original="名" calque="name"/>
-    <word original="之" calque="of"/>
+    <word original="無名" calque="nameless"/>
+    <word original="之" calque="'s"/>
     <word original="樸" calque="simplicity"/>
 </line>
 
-<line commentary="The particle 夫 here is serving to mark the start of a conclusion - watch how these final lines build to the chapter's ultimate point">
+<line commentary="How does namelessness lead to desirelessness?">
     <word original="夫" calque="indeed"/>
     <word original="亦" calque="also"/>
     <word original="將" calque="will"/>
@@ -67,16 +63,15 @@
     <word original="欲" calque="desire"/>
 </line>
 
-<line>
+<line commentary="Stillness emerges from absence - can you feel it?">
     <word original="不" calque="not"/>
     <word original="欲" calque="desire"/>
     <word original="以" calque="by-means-of"/>
-    <word original="靜" calque="stillness"/>
+    <word original="靜" calque="still"/>
 </line>
 
-<line commentary="Notice how this final line mirrors the structure about 'ten thousand things' transforming themselves - but now it's about the world ordering itself">
-    <word original="天" calque="heaven"/>
-    <word original="下" calque="below"/>
+<line commentary="Natural order arises from letting go - what must we unlearn?">
+    <word original="天下" calque="under-heaven"/>
     <word original="將" calque="will"/>
     <word original="自" calque="self"/>
     <word original="定" calque="settle"/>

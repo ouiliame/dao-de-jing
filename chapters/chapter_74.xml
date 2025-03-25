@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="74">
-<line commentary="This opening line sets up a profound observation about human nature and fear.">
+<line commentary="Consider: Why start with a statement about death? What does it reveal about human nature?">
     <word original="民" calque="people"/>
     <word original="不" calque="not"/>
     <word original="畏" calque="fear"/>
     <word original="死" calque="death"/>
 </line>
 
-<line commentary="'奈何' is an interrogative expression meaning 'how?' or 'what can be done?' - this line questions using death as a tool of control.">
-    <word original="奈" calque="how"/>
-    <word original="何" calque="what"/>
+<line commentary="'奈何' introduces a profound philosophical question - notice how it challenges the previous statement">
+    <word original="奈何" calque="how-then"/>
     <word original="以" calque="by-means-of"/>
     <word original="死" calque="death"/>
     <word original="懼" calque="frighten"/>
@@ -19,18 +18,18 @@
 
 <line>
     <word original="若" calque="if"/>
-    <word original="使" calque="cause"/>
+    <word original="使" calque="make"/>
     <word original="民" calque="people"/>
     <word original="常" calque="always"/>
     <word original="畏" calque="fear"/>
     <word original="死" calque="death"/>
 </line>
 
-<line commentary="Note how '為奇者' literally means 'one who does strange things' - referring to criminals or those who disturb order.">
+<line commentary="Notice the shift from abstract principle to specific action">
     <word original="而" calque="and"/>
     <word original="為" calque="do"/>
     <word original="奇" calque="strange"/>
-    <word original="者" calque="one"/>
+    <word original="者" calque="one-who"/>
     <word original="吾" calque="I"/>
     <word original="得" calque="can"/>
     <word original="執" calque="seize"/>
@@ -40,55 +39,55 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="A rhetorical question that makes readers pause and reflect.">
+<line commentary="A powerful rhetorical question that makes us pause and reflect">
     <word original="孰" calque="who"/>
     <word original="敢" calque="dare"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="'司殺者' refers to an official executioner - literally 'one who presides over killing'.">
+<line>
     <word original="常" calque="always"/>
-    <word original="有" calque="have"/>
-    <word original="司" calque="preside-over"/>
+    <word original="有" calque="exist"/>
+    <word original="司" calque="official"/>
     <word original="殺" calque="kill"/>
-    <word original="者" calque="one"/>
+    <word original="者" calque="one-who"/>
     <word original="__" calque="..." punctuation="true"/>
 </line>
 
-<line>
-    <word original="(.)夫" calque="(indeed)"/>
+<line commentary="Consider how this line speaks to the natural order of things">
+    <word original="(.)夫" calque="(now)"/>
     <word original="代" calque="replace"/>
-    <word original="司" calque="preside-over"/>
+    <word original="司" calque="official"/>
     <word original="殺" calque="kill"/>
-    <word original="者" calque="one"/>
+    <word original="者" calque="one-who"/>
     <word original="殺" calque="kill"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Here '斲' means to chop or carve wood - the metaphor compares killing to a carpenter's craft.">
+<line>
     <word original="是" calque="this"/>
     <word original="謂" calque="called"/>
     <word original="代" calque="replace"/>
     <word original="大" calque="great"/>
-    <word original="匠" calque="craftsman"/>
+    <word original="匠" calque="carpenter"/>
     <word original="斲" calque="chop"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
 <line>
-    <word original="(.)夫" calque="(indeed)"/>
+    <word original="(.)夫" calque="(now)"/>
     <word original="代" calque="replace"/>
     <word original="大" calque="great"/>
-    <word original="匠" calque="craftsman"/>
+    <word original="匠" calque="carpenter"/>
     <word original="斲" calque="chop"/>
-    <word original="者" calque="one"/>
+    <word original="者" calque="one-who"/>
 </line>
 
-<line commentary="The final line uses '希' (rare) with a powerful metaphor about attempting to replace skilled work. Think about trying to use someone else's specialized tools - what usually happens?">
+<line commentary="The final metaphor crystalizes the entire chapter's wisdom. What does the hand represent?">
     <word original="希" calque="rare"/>
-    <word original="__" calque="..." punctuation="true"/>
+    <word original="__" calque="..."/>
     <word original="不" calque="not"/>
-    <word original="傷" calque="wound"/>
+    <word original="傷" calque="harm"/>
     <word original="其" calque="their"/>
     <word original="手" calque="hand"/>
     <word original="矣" calque="indeed"/>

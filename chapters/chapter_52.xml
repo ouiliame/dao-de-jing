@@ -1,28 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="52">
-<line commentary="This opening line establishes a cosmic scope - 天下 'all-under-heaven' is a term for the world/empire/everything. The concept of 'beginning' (始) is crucial in Daoist thought.">
-    <word original="天" calque="heaven"/>
-    <word original="下" calque="below"/>
+<line commentary="Consider: What is the relationship between beginning and motherhood?">
+    <word original="天下" calque="under-heaven"/>
     <word original="有" calque="have"/>
     <word original="始" calque="beginning"/>
 </line>
 
-<line commentary="A profound statement connecting the cosmic beginning to motherhood. Note how 以為 functions to indicate 'serves-as' or 'becomes'.">
+<line commentary="'To regard as' (以為) shows how we conceptualize the fundamental source">
     <word original="以" calque="by-means-of"/>
-    <word original="為" calque="become"/>
-    <word original="天" calque="heaven"/>
-    <word original="下" calque="below"/> 
+    <word original="為" calque="make"/>
+    <word original="天下" calque="under-heaven"/>
     <word original="母" calque="mother"/>
 </line>
 
-<line>
+<line commentary="'Already' (既) suggests a progression of understanding">
     <word original="既" calque="already"/>
     <word original="得" calque="obtain"/>
     <word original="其" calque="its"/>
     <word original="母" calque="mother"/>
 </line>
 
-<line commentary="Notice how 以 here introduces a result - 'thereby' or 'thus'. This grammatical pattern of cause-effect is common in Classical Chinese.">
+<line commentary="How does knowing the mother lead to knowing the child?">
     <word original="以" calque="by-means-of"/>
     <word original="知" calque="know"/>
     <word original="其" calque="its"/>
@@ -36,22 +34,22 @@
     <word original="子" calque="child"/>
 </line>
 
-<line commentary="復 has a sense of 'returning' - consider what it means to 'return to guarding the mother' after knowing the child.">
+<line commentary="'Return' (復) suggests a circular path of wisdom">
     <word original="復" calque="return"/>
     <word original="守" calque="guard"/>
     <word original="其" calque="its"/>
     <word original="母" calque="mother"/>
 </line>
 
-<line commentary="身 'body/self' appears frequently in this chapter - notice how it relates to mortality and preservation.">
-    <word original="沒" calque="sink"/>
+<line commentary="What does it mean to be without danger until the end of life?">
+    <word original="沒" calque="end"/>
     <word original="身" calque="body"/>
     <word original="不" calque="not"/>
-    <word original="殆" calque="danger"/>
+    <word original="殆" calque="dangerous"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="兌 refers to openings/holes - think about what 'blocking holes' and 'closing doors' might metaphorically represent.">
+<line commentary="Physical metaphors for spiritual practices">
     <word original="塞" calque="block"/>
     <word original="其" calque="its"/>
     <word original="兌" calque="opening"/>
@@ -84,17 +82,17 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="This line presents an interesting paradox - how can seeing small things be called 'bright/clear'? Consider what true clarity of vision might mean.">
+<line commentary="How can seeing the small lead to clarity?">
     <word original="見" calque="see"/>
     <word original="小" calque="small"/>
-    <word original="曰" calque="say"/>
+    <word original="曰" calque="call"/>
     <word original="明" calque="bright"/>
 </line>
 
-<line commentary="Another paradox - maintaining softness is called strength. This is a key Daoist principle about the power of yielding.">
+<line commentary="Paradox: How can maintaining softness create strength?">
     <word original="守" calque="guard"/>
     <word original="柔" calque="soft"/>
-    <word original="曰" calque="say"/>
+    <word original="曰" calque="call"/>
     <word original="強" calque="strong"/>
 </line>
 
@@ -115,10 +113,9 @@
     <word original="殃" calque="calamity"/>
 </line>
 
-<line commentary="習常 literally means 'practice constant' - consider how this final line connects to the idea of returning to origins discussed at the chapter's beginning.">
+<line commentary="What is the significance of 'practiced constancy'?">
     <word original="是" calque="this"/>
     <word original="謂" calque="called"/>
-    <word original="習" calque="practice"/>
-    <word original="常" calque="constant"/>
+    <word original="習常" calque="practiced-constancy"/>
 </line>
 </chapter>

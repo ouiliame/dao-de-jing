@@ -1,39 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="40">
-<line commentary="This opening line introduces a fascinating concept about movement/change (動) in relation to the Dao. Notice how 者 marks the topic!">
-    <word original="反" calque="return/reverse"/>
-    <word original="者" calque="one-who"/>
-    <word original="道" calque="way"/>
+<line commentary="Notice how 'return' and 'contrary' are considered movements of the Dao. What might this tell us about nature's cycles?">
+    <word original="反" calque="return"/>
+    <word original="者" calque="that-which"/>
+    <word original="道" calque="the Dao"/>
     <word original="之" calque="'s"/>
     <word original="動" calque="movement"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Similar grammatical structure to the first line. The character 用 has a basic meaning of 'use/function' but carries deeper implications about utility and purpose.">
+<line commentary="Consider: Why might weakness be considered a function rather than a flaw?">
     <word original="弱" calque="weak"/>
-    <word original="者" calque="one-who"/>
-    <word original="道" calque="way"/>
+    <word original="者" calque="that-which"/>
+    <word original="道" calque="the Dao"/>
     <word original="之" calque="'s"/>
     <word original="用" calque="use"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Here we see 萬物 (ten-thousand things) - a classical way to refer to 'everything in existence'. The structure 生於 (born-from) is key to understanding this cosmological statement.">
-    <word original="天" calque="heaven"/>
-    <word original="下" calque="below"/>
-    <word original="萬" calque="ten-thousand"/>
-    <word original="物" calque="things"/>
+<line commentary="萬物 literally means 'ten-thousand things' - an elegant way to express the totality of existence. How does this compare to modern ways of expressing 'everything'?">
+    <word original="天下" calque="under-heaven"/>
+    <word original="萬物" calque="ten-thousand-things"/>
     <word original="生" calque="born"/>
     <word original="於" calque="from"/>
-    <word original="有" calque="existence"/>
+    <word original="有" calque="being"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="A profound philosophical statement about origins. Consider: what does it mean for 'existence' itself to be born from 'non-existence'? Notice how the same characters 生於 are used again.">
-    <word original="有" calque="existence"/>
+<line commentary="A profound paradox: existence emerging from non-existence. What parallels might you find in modern physics?">
+    <word original="有" calque="being"/>
     <word original="生" calque="born"/>
     <word original="於" calque="from"/>
-    <word original="無" calque="non-existence"/>
+    <word original="無" calque="non-being"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 </chapter>

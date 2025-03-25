@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="50">
-<line commentary="This opening line sets up a powerful contrast using directional verbs - 出 (exit) and 入 (enter) paired with life and death.">
+<line commentary="A powerful opening using opposing forces that frame the entire chapter's discussion.">
     <word original="出" calque="exit"/>
     <word original="生" calque="life"/>
     <word original="入" calque="enter"/>
     <word original="死" calque="death"/>
 </line>
 
-<line commentary="Notice the grammar pattern 'X 之 徒' meaning 'followers/adherents of X' - a common Classical Chinese construction">
+<line commentary="How many follow the Dao of life? A mathematical observation begins.">
     <word original="生" calque="life"/>
-    <word original="之" calque="of"/>
+    <word original="之" calque="'s"/>
     <word original="徒" calque="followers"/>
     <word original="十" calque="ten"/>
     <word original="有" calque="have"/>
@@ -18,21 +18,21 @@
 
 <line>
     <word original="死" calque="death"/>
-    <word original="之" calque="of"/>
+    <word original="之" calque="'s"/>
     <word original="徒" calque="followers"/>
     <word original="十" calque="ten"/>
     <word original="有" calque="have"/>
     <word original="三" calque="three"/>
 </line>
 
-<line commentary="Note how 動 (movement) is contrasted with 地 (ground/place) - suggesting how life's activity leads to death's domain">
+<line commentary="What makes a place of death in life? Consider how our actions might create our vulnerabilities.">
     <word original="人" calque="person"/>
-    <word original="之" calque="of"/>
+    <word original="之" calque="'s"/>
     <word original="生" calque="life"/>
     <word original="動" calque="move"/>
-    <word original="之" calque="of"/>
+    <word original="之" calque="'s"/>
     <word original="死" calque="death"/>
-    <word original="地" calque="ground"/>
+    <word original="地" calque="place"/>
 </line>
 
 <line>
@@ -42,25 +42,24 @@
     <word original="三" calque="three"/>
 </line>
 
-<line commentary="This rhetorical question pattern '夫何故' is common in philosophical texts to prompt reflection">
-    <word original="(." calque="(."/>
-    <word original="夫" calque="that"/>
+<line commentary="A rhetorical question that makes us pause and consider why.">
+    <word original="(.)夫" calque="(now)"/>
     <word original="何" calque="what"/>
     <word original="故" calque="reason"/>
     <word original="." calque="."/>
 </line>
 
-<line>
+<line commentary="Consider: does intensely pursuing life actually bring us closer to death?">
     <word original="以" calque="by-means-of"/>
     <word original="其" calque="their"/>
-    <word original="生" calque="life"/>
     <word original="生" calque="live"/>
-    <word original="之" calque="of"/>
+    <word original="生" calque="life"/>
+    <word original="之" calque="'s"/>
     <word original="厚" calque="thick"/>
     <word original="." calque="."/>
 </line>
 
-<line commentary="蓋聞 (roughly 'I have heard that...') is a common way to introduce wisdom or teaching in Classical texts">
+<line commentary="What does it mean to truly manage life? Not just survive, but live properly?">
     <word original="蓋" calque="indeed"/>
     <word original="聞" calque="hear"/>
     <word original="善" calque="good"/>
@@ -69,25 +68,25 @@
     <word original="者" calque="one-who"/>
 </line>
 
-<line commentary="兕 refers to a rhinoceros - an ancient symbol of dangerous wild forces">
-    <word original="(陵)" calque="(travel)"/>
-    <word original="行" calque="walk"/>
+<line commentary="The rhinoceros and tiger represent dangers we cannot control - yet some pass through unharmed.">
+    <word original="(陵)" calque="(land)"/>
+    <word original="行" calque="travel"/>
     <word original="不" calque="not"/>
     <word original="遇" calque="meet"/>
     <word original="兕" calque="rhinoceros"/>
     <word original="虎" calque="tiger"/>
 </line>
 
-<line>
+<line commentary="Even in war, they remain unarmored - what kind of strength is this?">
     <word original="入" calque="enter"/>
     <word original="軍" calque="army"/>
     <word original="不" calque="not"/>
-    <word original="被" calque="suffer"/>
+    <word original="被" calque="wear"/>
     <word original="甲" calque="armor"/>
     <word original="兵" calque="weapon"/>
 </line>
 
-<line commentary="Notice the parallel structure in these three lines about the rhinoceros, tiger, and weapons - emphasizing their powerlessness">
+<line>
     <word original="兕" calque="rhinoceros"/>
     <word original="無" calque="not-have"/>
     <word original="所" calque="place"/>
@@ -115,18 +114,17 @@
 </line>
 
 <line>
-    <word original="(." calque="(."/>
-    <word original="夫" calque="that"/>
+    <word original="(.)夫" calque="(now)"/>
     <word original="何" calque="what"/>
     <word original="故" calque="reason"/>
     <word original="." calque="."/>
 </line>
 
-<line commentary="The conclusion reveals why one who properly manages life is protected - they have no 'death ground' (無死地) - consider what this might mean metaphorically">
+<line commentary="The profound answer - by not creating places for death, one becomes invulnerable. What does it mean to have no death-spots in your life?">
     <word original="以" calque="by-means-of"/>
     <word original="其" calque="their"/>
     <word original="無" calque="not-have"/>
     <word original="死" calque="death"/>
-    <word original="地" calque="ground"/>
+    <word original="地" calque="place"/>
 </line>
 </chapter>

@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="29">
-<line commentary="This opening line sets up a hypothetical scenario about attempting to 'grasp/control' (取) the 'world/empire' (天下). Notice how 將 here serves as a future marker, and 欲 indicates desire/wish.">
-    <word original="將" calque="will"/>
+<line commentary="Notice how this opening line sets up a hypothetical scenario about attempting to control the world">
+    <word original="將" calque="about-to"/>
     <word original="欲" calque="desire"/>
-    <word original="取" calque="grasp"/>
-    <word original="天" calque="heaven"/>
-    <word original="下" calque="below"/>
+    <word original="取" calque="seize"/>
+    <word original="天下" calque="under-heaven"/>
     <word original="而" calque="and"/>
     <word original="為" calque="do"/>
     <word original="之" calque="it"/>
 </line>
 
-<line commentary="Notice how 見 (see) is used metaphorically here - it's about perception/understanding rather than literal sight.">
+<line commentary="A profound observation of futility - what do you think the speaker has 'seen'?">
     <word original="吾" calque="I"/>
     <word original="見" calque="see"/>
     <word original="其" calque="its"/>
@@ -20,12 +19,10 @@
     <word original="已" calque="already"/>
 </line>
 
-<line commentary="神器 (divine-vessel) is a powerful term - what kind of 'vessel' might the world/empire be? Why 'divine'?">
-    <word original="[(.)夫]" calque="[indeed]"/>
-    <word original="天" calque="heaven"/>
-    <word original="下" calque="below"/>
-    <word original="神" calque="divine"/>
-    <word original="器" calque="vessel"/>
+<line commentary="'Sacred vessel' - what makes something too sacred to manipulate?">
+    <word original="[(.)夫]" calque="(indeed)"/>
+    <word original="天下" calque="under-heaven"/>
+    <word original="神器" calque="sacred-vessel"/>
     <word original="." calque="."/>
 </line>
 
@@ -37,10 +34,10 @@
     <word original="(.)" calque="(.)"/>
 </line>
 
-<line commentary="Notice the parallel structure in this and the next line - what's the relationship between 'defeat' and 'lose'?">
+<line commentary="Consider: what happens when we try too hard to control things?">
     <word original="為" calque="do"/>
     <word original="者" calque="one-who"/>
-    <word original="敗" calque="defeat"/>
+    <word original="敗" calque="ruin"/>
     <word original="之" calque="it"/>
 </line>
 
@@ -52,11 +49,12 @@
 </line>
 
 <line>
-    <word original="(.)故" calque="therefore"/>
+    <word original="(.)" calque="(.)"/>
+    <word original="故" calque="therefore"/>
     <word original="物" calque="things"/>
 </line>
 
-<line commentary="The next several lines present pairs of opposites using 或...或... (either...or...) structure. What natural phenomena might these describe?">
+<line commentary="Notice how the text begins to describe natural cycles - can you feel the rhythm?">
     <word original="或" calque="some"/>
     <word original="行" calque="go"/>
     <word original="或" calque="some"/>
@@ -65,9 +63,9 @@
 
 <line>
     <word original="或" calque="some"/>
-    <word original="(歔)" calque="(inhale)"/>
+    <word original="歔" calque="inhale"/>
     <word original="或" calque="some"/>
-    <word original="吹" calque="blow"/>
+    <word original="吹" calque="exhale"/>
 </line>
 
 <line>
@@ -84,21 +82,19 @@
     <word original="隳" calque="destroy"/>
 </line>
 
-<line commentary="是以 (therefore) often signals an important conclusion in Daoist texts. What kind of person is a 聖人 (sage)?">
-    <word original="是" calque="this"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="聖" calque="sage"/>
-    <word original="人" calque="person"/>
+<line commentary="How does the sage's approach differ from the opening lines?">
+    <word original="是以" calque="therefore"/>
+    <word original="聖人" calque="sage"/>
 </line>
 
-<line commentary="The final three lines follow a parallel structure, all beginning with 去 (remove/eliminate). What might these three things have in common?">
+<line commentary="The final three lines offer a solution through elimination - what remains when we remove these extremes?">
     <word original="去" calque="remove"/>
-    <word original="甚" calque="excess"/>
+    <word original="甚" calque="excessive"/>
 </line>
 
 <line>
     <word original="去" calque="remove"/>
-    <word original="奢" calque="extravagance"/>
+    <word original="奢" calque="luxurious"/>
 </line>
 
 <line>

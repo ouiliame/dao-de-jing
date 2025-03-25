@@ -1,54 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="53">
-<line commentary="This opening line uses '.' markers to set apart an important declaration. The character 介 (介然) suggests a state of being cautious or modest.">
+<line commentary="A humble admission of understanding - but notice the hesitation in 介然">
     <word original="." calque="." punctuation="true"/>
-    <word original="使" calque="cause"/>
-    <word original="我" calque="I"/>
-    <word original="介" calque="cautious"/>
-    <word original="然" calque="thus"/>
-    <word original="有" calque="have"/>
-    <word original="知" calque="know"/>
+    <word original="使我" calque="make-me"/>
+    <word original="介然" calque="cautiously"/>
+    <word original="有知" calque="have-knowledge"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="大道 (Great Way) is a key concept in Daoism - notice how it's positioned with 行 (walk/practice) and 於 (in/at/to).">
+<line commentary="What does it mean to walk the great way? Consider the vastness implied by 大.">
     <word original="行" calque="walk"/>
-    <word original="於" calque="in"/>
-    <word original="大" calque="great"/>
-    <word original="道" calque="way"/>
+    <word original="於" calque="upon"/>
+    <word original="大道" calque="great-way"/>
 </line>
 
-<line commentary="唯 often marks what follows as the only thing that matters - what might it mean if the only thing to fear is 迤 (straying/deviating)?">
+<line commentary="Why fear straying? Is this about reverence or anxiety?">
     <word original="唯" calque="only"/>
     <word original="迤" calque="stray"/>
     <word original="是" calque="this"/>
     <word original="畏" calque="fear"/>
 </line>
 
-<line commentary="夷 means level/peaceful - consider how this describes the Great Way.">
-    <word original="大" calque="great"/>
-    <word original="道" calque="way"/>
+<line commentary="the Dao is level - yet we choose otherwise. Why?">
+    <word original="大道" calque="great-way"/>
     <word original="甚" calque="very"/>
     <word original="夷" calque="level"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="徑 means path/shortcut - notice the contrast between the 'great way' and what people prefer.">
-    <word original="而" calque="but"/>
+<line commentary="徑 (small path) vs 道 (way) - what's the deeper contrast here?">
+    <word original="而" calque="yet"/>
     <word original="民" calque="people"/>
     <word original="好" calque="prefer"/>
     <word original="徑" calque="shortcut"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="朝 refers to the court/government. 除 means to clear/remove - what might a 'very cleared' court suggest?">
+<line commentary="What's being swept clean? The natural or the artificial?">
     <word original="朝" calque="court"/>
     <word original="甚" calque="very"/>
     <word original="除" calque="cleared"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="蕪 means overgrown/neglected - notice the contrast with the previous line about the court.">
+<line commentary="Neglected fields - what priorities does this reveal?">
     <word original="田" calque="field"/>
     <word original="甚" calque="very"/>
     <word original="蕪" calque="overgrown"/>
@@ -61,10 +56,9 @@
     <word original="虛" calque="empty"/>
 </line>
 
-<line commentary="文綵 refers to decorated/ornate clothing - consider what this might suggest about priorities.">
+<line commentary="Notice how these lines build tension through contrast">
     <word original="服" calque="wear"/>
-    <word original="文" calque="decorated"/>
-    <word original="綵" calque="colored"/>
+    <word original="文綵" calque="fine-clothes"/>
 </line>
 
 <line>
@@ -74,31 +68,27 @@
 </line>
 
 <line>
-    <word original="厭" calque="satiated"/>
-    <word original="飲" calque="drink"/>
-    <word original="食" calque="food"/>
+    <word original="厭" calque="gorge"/>
+    <word original="飲食" calque="food-drink"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Notice how 有餘 (have excess) connects to the earlier mentions of empty granaries.">
-    <word original="財" calque="wealth"/>
-    <word original="貨" calque="goods"/>
-    <word original="有" calque="have"/>
-    <word original="餘" calque="excess"/>
+<line>
+    <word original="財貨" calque="wealth"/>
+    <word original="有餘" calque="have-excess"/>
 </line>
 
-<line commentary="盜夸 combines 'thief' and 'boast' - what might this say about flaunting wealth?">
+<line commentary="盜夸 - 'stolen splendor' - what makes excess theft?">
     <word original="是" calque="this"/>
     <word original="謂" calque="called"/>
-    <word original="盜" calque="thief"/>
-    <word original="夸" calque="boast"/>
+    <word original="盜夸" calque="stolen-splendor"/>
 </line>
 
-<line commentary="The final line ends with 哉, an emphatic particle expressing strong emotion. 非 negates what precedes it.">
+<line commentary="The final judgment - why end with 哉?">
     <word original="非" calque="not"/>
-    <word original="道" calque="way"/>
+    <word original="道" calque="the Dao"/>
     <word original="也" calque="indeed"/>
-    <word original="哉" calque="ah"/>
+    <word original="哉" calque="!"/>
     <word original="(.)" calque="(.)" punctuation="true"/>
 </line>
 </chapter>

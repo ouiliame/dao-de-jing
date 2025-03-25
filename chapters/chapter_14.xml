@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="14">
-<line commentary="This opening triplet establishes three qualities of the Dao using parallel structure with '視/聽/搏' (look/listen/grasp) followed by negation '不'. This is a classic rhetorical device in Classical Chinese.">
-    <word original="視" calque="look"/>
+<line commentary="A masterful opening using parallel structure to describe what cannot be described through normal sensation.">
+    <word original="視" calque="look-at"/>
     <word original="之" calque="it"/>
     <word original="不" calque="not"/>
     <word original="見" calque="see"/>
     <word original="名" calque="name"/>
     <word original="曰" calque="call"/>
-    <word original="夷" calque="subtle"/>
+    <word original="夷" calque="subtle" commentary="The first level of imperceptibility - what exists but cannot be seen"/>
 </line>
 
 <line>
-    <word original="聽" calque="listen"/>
+    <word original="聽" calque="listen-to"/>
     <word original="之" calque="it"/>
     <word original="不" calque="not"/>
     <word original="聞" calque="hear"/>
     <word original="名" calque="name"/>
     <word original="曰" calque="call"/>
-    <word original="希" calque="rare"/>
+    <word original="希" calque="rare" commentary="The second level - even more elusive than the first"/>
 </line>
 
 <line>
@@ -27,19 +27,17 @@
     <word original="得" calque="obtain"/>
     <word original="名" calque="name"/>
     <word original="曰" calque="call"/>
-    <word original="微" calque="minute"/>
-    <word original="." calque="." punctuation="true"/>
+    <word original="微" calque="minute" commentary="The third level - the most subtle of all"/>
 </line>
 
-<line commentary="'致詰' (thorough-questioning) is a compound verb - notice how Classical Chinese often combines characters to create more complex meanings.">
+<line commentary="What happens when human inquiry reaches its limits?">
     <word original="此" calque="these"/>
     <word original="三" calque="three"/>
     <word original="者" calque="ones"/>
     <word original="不" calque="not"/>
     <word original="可" calque="can"/>
-    <word original="致" calque="thorough"/>
-    <word original="詰" calque="question"/>
-    <word original="." calque="." punctuation="true"/>
+    <word original="致" calque="thoroughly"/>
+    <word original="詰" calque="investigate"/>
 </line>
 
 <line>
@@ -51,65 +49,61 @@
 </line>
 
 <line>
-    <word original="[一" calque="[one"/>
-    <word original="者]" calque="one]"/>
+    <word original="[一" calque="one"/>
+    <word original="者]" calque="that-which"/>
 </line>
 
-<line commentary="'皦/昧' (bright/dark) form a contrasting pair - notice how Classical Chinese often uses opposites to express totality.">
+<line commentary="Consider: How can something be neither bright nor dark?">
     <word original="其" calque="its"/>
     <word original="上" calque="above"/>
     <word original="不" calque="not"/>
     <word original="皦" calque="bright"/>
-    <word original="." calque="." punctuation="true"/>
 </line>
 
 <line>
     <word original="其" calque="its"/>
     <word original="下" calque="below"/>
     <word original="不" calque="not"/>
-    <word original="昧" calque="dark"/>
-    <word original="." calque="." punctuation="true"/>
+    <word original="昧" calque="dim"/>
 </line>
 
-<line commentary="'繩繩' is a reduplication suggesting continuity or endlessness. '[兮]' is a particle that adds poetic rhythm.">
+<line>
     <word original="繩" calque="continuous"/>
     <word original="繩" calque="continuous"/>
-    <word original="[兮]" calque="[poetic-particle]"/>
+    <word original="[兮]" calque="!"/>
     <word original="不" calque="not"/>
     <word original="可" calque="can"/>
     <word original="名" calque="name"/>
-    <word original="." calque="." punctuation="true"/>
+</line>
+
+<line commentary="What does it mean to return to nothingness?">
+    <word original="復" calque="return"/>
+    <word original="歸" calque="go-back"/>
+    <word original="於" calque="to"/>
+    <word original="無" calque="nothing"/>
+    <word original="物" calque="thing"/>
 </line>
 
 <line>
-    <word original="復" calque="return"/>
-    <word original="歸" calque="return"/>
-    <word original="於" calque="to"/>
-    <word original="無" calque="without"/>
-    <word original="物" calque="thing"/>
-    <word original="." calque="." punctuation="true"/>
-</line>
-
-<line commentary="Note how '無X之X' (without-X's-X) is a paradoxical construction that appears twice here - this is a key philosophical device in Daoism.">
     <word original="是" calque="this"/>
     <word original="謂" calque="called"/>
-    <word original="無" calque="without"/>
+    <word original="無" calque="no"/>
     <word original="狀" calque="form"/>
-    <word original="之" calque="of"/>
+    <word original="之" calque="'s"/>
     <word original="狀" calque="form"/>
 </line>
 
 <line>
-    <word original="無" calque="without"/>
+    <word original="無" calque="no"/>
     <word original="物" calque="thing"/>
-    <word original="之" calque="of"/>
+    <word original="之" calque="'s"/>
     <word original="象" calque="image"/>
 </line>
 
-<line>
+<line commentary="惚恍 captures the dreamlike quality of trying to perceive the Dao">
     <word original="是" calque="this"/>
     <word original="謂" calque="called"/>
-    <word original="惚" calque="indistinct"/>
+    <word original="惚" calque="dim"/>
     <word original="恍" calque="vague"/>
 </line>
 
@@ -131,20 +125,19 @@
     <word original="後" calque="behind"/>
 </line>
 
-<line>
+<line commentary="How might ancient wisdom guide present action?">
     <word original="執" calque="hold"/>
     <word original="古" calque="ancient"/>
-    <word original="之" calque="of"/>
-    <word original="道" calque="way"/>
+    <word original="之" calque="'s"/>
+    <word original="道" calque="the Dao"/>
 </line>
 
 <line>
     <word original="以" calque="by-means-of"/>
-    <word original="御" calque="control"/>
+    <word original="御" calque="guide"/>
     <word original="今" calque="present"/>
-    <word original="之" calque="of"/>
+    <word original="之" calque="'s"/>
     <word original="有" calque="existence"/>
-    <word original="." calque="." punctuation="true"/>
 </line>
 
 <line>
@@ -157,7 +150,7 @@
 <line>
     <word original="是" calque="this"/>
     <word original="謂" calque="called"/>
-    <word original="道" calque="way"/>
+    <word original="道" calque="the Dao"/>
     <word original="紀" calque="principle"/>
 </line>
 </chapter>

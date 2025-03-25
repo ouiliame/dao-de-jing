@@ -39,16 +39,16 @@
 // Create a function to display a character with its calque
 #let is-annotation(text) = text.contains("(") or text.contains(")") or text.contains("•") or text.contains("[") or text.contains("]") or text.contains("__") or text.contains("...")
 
-#let fill = rgb("#b3b3b3")
+#let fill = rgb("999")
 
 #let format-chinese(original, is-annotation) = {
   let style = if is-annotation { (fill: fill) } else { (:) }
-  text(font: chinese-font, size: 20pt, ..style)[#original.replace("(.)", "")]
+  text(font: chinese-font, size: 23pt, ..style)[#original.replace("(", "").replace(")", "").replace("[", "").replace("]", "").replace(".", "").replace("", "").replace("__","")]
 }
 
 #let format-calque(calque, is-annotation) = {
   let style = if is-annotation { (fill: fill) } else { (:) }
-  text(font: english-font, size: 7pt, ..style, weight: "medium")[#calque.replace("(.)", "").replace(".", "")]
+  text(font: english-font, size: 7pt, ..style, weight: "medium")[#calque.replace("(", "").replace(")", "").replace(".", "").replace("[", "").replace("]", "").replace("__","")]
 }
 
 #let char-unit(original, calque) = {
@@ -101,7 +101,7 @@
         #let commentary = line.at("attrs").at("commentary", default: "")
         #if commentary != "" {
           text(
-            size: 9pt, 
+            size: 10pt, 
             weight: "light", 
             style: "italic", 
           )[#commentary]
@@ -114,7 +114,7 @@
           h(1em)
         }
         
-        #v(2em)
+        #v(1.33em)
       ]
     }
   }

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="68">
-<line commentary="This opening line sets up a pattern using '善為X者' (one who is good at being X) - notice how each line starts similarly but builds different ideas">
-    <word original="善" calque="good"/>
+<line commentary="Consider: How can a warrior be most effective by not being warlike?">
+    <word original="善" calque="good-at"/>
     <word original="為" calque="act-as"/>
-    <word original="士" calque="scholar"/>
+    <word original="士" calque="warrior"/>
     <word original="者" calque="one-who"/>
     <word original="不" calque="not"/>
     <word original="武" calque="martial"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Notice how 戰 (battle/war) pairs with 怒 (anger) - what might this tell us about the Daoist view of conflict?">
-    <word original="善" calque="good"/>
+<line commentary="Notice how 'anger' relates to both fighting and effectiveness">
+    <word original="善" calque="good-at"/>
     <word original="戰" calque="battle"/>
     <word original="者" calque="one-who"/>
     <word original="不" calque="not"/>
@@ -19,50 +19,50 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="This line ends without punctuation, creating a sense of incompletion - what might be missing after 與 (engage/participate)?">
-    <word original="善" calque="good"/>
-    <word original="勝" calque="victory"/>
+<line commentary="What does it mean to not 'engage' with enemies? Is this physical or psychological?">
+    <word original="善" calque="good-at"/>
+    <word original="勝" calque="defeat"/>
     <word original="敵" calque="enemy"/>
     <word original="者" calque="one-who"/>
     <word original="不" calque="not"/>
     <word original="與" calque="engage"/>
 </line>
 
-<line commentary="A fascinating paradox emerges here - how can 'being below' (為之下) relate to 'using people' (用人)?">
-    <word original="善" calque="good"/>
+<line commentary="Ponder: How does placing oneself below others create effective leadership?">
+    <word original="善" calque="good-at"/>
     <word original="用" calque="use"/>
     <word original="人" calque="person"/>
     <word original="者" calque="one-who"/>
-    <word original="為" calque="act-as"/>
-    <word original="之" calque="it"/>
+    <word original="為" calque="become"/>
+    <word original="之" calque="their"/>
     <word original="下" calque="below"/>
 </line>
 
-<line commentary="是謂 (this-is-called) introduces three parallel statements. Notice how each describes a virtue through negation or paradox">
+<line commentary="The character 德 suggests both virtue and power - how are they related?">
     <word original="是" calque="this"/>
     <word original="謂" calque="called"/>
-    <word original="不" calque="not"/>
-    <word original="爭" calque="compete"/>
-    <word original="之" calque="of"/>
+    <word original="不" calque="non"/>
+    <word original="爭" calque="contention"/>
+    <word original="之" calque="'s"/>
     <word original="德" calque="virtue"/>
 </line>
 
-<line>
+<line commentary="How does non-contention become a source of strength?">
     <word original="是" calque="this"/>
     <word original="謂" calque="called"/>
     <word original="用" calque="use"/>
     <word original="人" calque="person"/>
-    <word original="之" calque="of"/>
-    <word original="力" calque="strength"/>
+    <word original="之" calque="'s"/>
+    <word original="力" calque="force"/>
 </line>
 
-<line commentary="配天 (matching heaven) appears with 古 (ancient) - suggesting this wisdom is both cosmic and timelessly old">
+<line commentary="What does it mean to 'match heaven'? Consider how this connects to the opening lines about non-aggression.">
     <word original="是" calque="this"/>
     <word original="謂" calque="called"/>
     <word original="配" calque="match"/>
     <word original="天" calque="heaven"/>
     <word original="古" calque="ancient"/>
-    <word original="之" calque="of"/>
+    <word original="之" calque="'s"/>
     <word original="極" calque="ultimate"/>
     <word original="[也(.)]" calque="[indeed(.)]" punctuation="true"/>
 </line>

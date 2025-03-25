@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="71">
-<line commentary="This opening line plays with the concepts of knowing and not-knowing in a fascinating way. In Classical Chinese, repeating a word (知 know) can create different grammatical functions - here we see a noun-verb relationship.">
+<line commentary="A playful paradox: what happens when knowledge meets its own limits?">
     <word original="知" calque="know"/>
     <word original="不" calque="not"/>
     <word original="知" calque="know"/>
-    <word original="(尚)" calque="(value)"/>
+    <word original="(尚)" calque="(superior)"/>
     <word original="[矣(.)]" calque="[indeed(.)]"/>
 </line>
 
-<line commentary="Notice how this line mirrors and inverts the previous line's structure - this is a common poetic device in Classical Chinese.">
+<line commentary="Consider: which is more dangerous - ignorance, or ignorance of our ignorance?">
     <word original="不" calque="not"/>
     <word original="知" calque="know"/>
     <word original="知" calque="know"/>
-    <word original="病" calque="sickness"/>
+    <word original="病" calque="illness"/>
     <word original="[矣(.)]" calque="[indeed(.)]"/>
 </line>
 
-<line commentary="夫 often starts a statement of universal truth - like saying 'Now...' or 'Indeed...' in English. 唯 is expressing exclusivity.">
+<line commentary="病 dances between noun and verb here - what is truly being diagnosed?">
     <word original="(.)" calque="(.)"/>
-    <word original="夫" calque="now"/>
+    <word original="夫" calque="indeed"/>
     <word original="唯" calque="only"/>
-    <word original="病" calque="sickness"/>
+    <word original="病" calque="sick"/>
     <word original="病" calque="sickness"/>
 </line>
 
-<line>
+<line commentary="A formula for health: how does recognizing illness lead to its cure?">
     <word original="是" calque="this"/>
     <word original="以" calque="by-means-of"/>
     <word original="不" calque="not"/>
-    <word original="病" calque="sickness"/>
+    <word original="病" calque="sick"/>
 </line>
 
-<line commentary="聖人 (sage-person) is a key concept in Daoist texts - representing the ideal cultivated individual who understands and lives in harmony with the Dao.">
+<line>
     <word original="聖" calque="sage"/>
     <word original="人" calque="person"/>
     <word original="不" calque="not"/>
+    <word original="病" calque="sick"/>
+    <word original="." calque="."/>
+</line>
+
+<line commentary="Notice how 其 points to what came before - who owns this sickness?">
+    <word original="以" calque="by-means-of"/>
+    <word original="其" calque="their"/>
+    <word original="病" calque="sick"/>
     <word original="病" calque="sickness"/>
-    <word original="." calque="." punctuation="true"/>
+    <word original="." calque="."/>
 </line>
 
 <line>
-    <word original="以" calque="by-means-of"/>
-    <word original="其" calque="their"/>
-    <word original="病" calque="sickness"/>
-    <word original="病" calque="sickness"/>
-    <word original="." calque="." punctuation="true"/>
-</line>
-
-<line commentary="Notice how this final line echoes line 4, creating a circular structure to the chapter. What might this repetition suggest about the nature of the sage's understanding?">
     <word original="是" calque="this"/>
     <word original="以" calque="by-means-of"/>
     <word original="不" calque="not"/>
-    <word original="病" calque="sickness"/>
+    <word original="病" calque="sick"/>
 </line>
 </chapter>

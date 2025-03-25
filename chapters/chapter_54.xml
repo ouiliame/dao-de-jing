@@ -1,33 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="54">
-<line commentary="This opening line uses a common Classical Chinese construction: 善X者 meaning 'one who is good at X'">
+<line commentary="Consider: What makes a building last? Is it the height of its walls or the depth of its foundations?">
     <word original="善" calque="good-at"/>
     <word original="建" calque="build"/>
     <word original="者" calque="one-who"/>
     <word original="不" calque="not"/>
     <word original="拔" calque="uproot"/>
 </line>
-<line>
+<line commentary="What is truly held cannot be lost. Think of how a baby naturally grips its parent's finger.">
     <word original="善" calque="good-at"/>
     <word original="抱" calque="embrace"/>
     <word original="者" calque="one-who"/>
     <word original="不" calque="not"/>
     <word original="脫" calque="slip-away"/>
 </line>
-<line commentary="This line speaks to continuing ancestral traditions - notice how 以 here works with the negative 不 to create continuous action">
-    <word original="子" calque="child"/>
-    <word original="孫" calque="grandchild"/>
+<line commentary="Continuity through generations - how does regular practice create lasting impact?">
+    <word original="子孫" calque="descendants"/>
     <word original="以" calque="by-means-of"/>
-    <word original="祭" calque="sacrifice"/>
-    <word original="祀" calque="worship"/>
+    <word original="祭祀" calque="ancestral-offerings"/>
     <word original="不" calque="not"/>
     <word original="輟" calque="cease"/>
 </line>
-<line commentary="Notice the parallel structure beginning here - 修之 followed by different scopes (身,家,鄉,國,天下). This is a common rhetorical device in Classical Chinese.">
+<line commentary="Truth emerges from self-cultivation. What makes virtue 'real'?">
     <word original="修" calque="cultivate"/>
     <word original="之" calque="it"/>
     <word original="__" calque="..."/>
-    <word original="身" calque="body/self"/>
+    <word original="身" calque="self"/>
     <word original="其" calque="its"/>
     <word original="德" calque="virtue"/>
     <word original="乃" calque="then"/>
@@ -51,7 +49,7 @@
     <word original="其" calque="its"/>
     <word original="德" calque="virtue"/>
     <word original="乃" calque="then"/>
-    <word original="長" calque="grow"/>
+    <word original="長" calque="endure"/>
 </line>
 <line>
     <word original="修" calque="cultivate"/>
@@ -63,23 +61,22 @@
     <word original="乃" calque="then"/>
     <word original="豐" calque="abundant"/>
 </line>
-<line commentary="天下 literally means 'under heaven' but refers to the whole world/empire - notice how the progression moves from individual to universal">
+<line commentary="How does personal cultivation ultimately affect the whole world?">
     <word original="修" calque="cultivate"/>
     <word original="之" calque="it"/>
     <word original="__" calque="..."/>
-    <word original="天" calque="heaven"/>
-    <word original="下" calque="below"/>
+    <word original="天下" calque="under-heaven"/>
     <word original="其" calque="its"/>
     <word original="德" calque="virtue"/>
     <word original="乃" calque="then"/>
     <word original="普" calque="universal"/>
 </line>
-<line commentary="故 signals a conclusion or result. Notice how 以 is used repeatedly to structure comparisons">
-    <word original="(故)" calque="(therefore)"/>
+<line>
+    <word original="(.)故" calque="(therefore)"/>
     <word original="以" calque="by-means-of"/>
-    <word original="身" calque="body/self"/>
+    <word original="身" calque="self"/>
     <word original="觀" calque="observe"/>
-    <word original="身" calque="body/self"/>
+    <word original="身" calque="self"/>
 </line>
 <line>
     <word original="以" calque="by-means-of"/>
@@ -101,24 +98,21 @@
 </line>
 <line>
     <word original="以" calque="by-means-of"/>
-    <word original="天" calque="heaven"/>
-    <word original="下" calque="below"/>
+    <word original="天下" calque="under-heaven"/>
     <word original="觀" calque="observe"/>
-    <word original="天" calque="heaven"/>
-    <word original="下" calque="below"/>
+    <word original="天下" calque="under-heaven"/>
 </line>
-<line commentary="哉 is a final particle expressing wonderment/emphasis. Notice how 然 (thus/so) refers back to everything previously stated">
+<line commentary="Can understanding of the largest things come from understanding the smallest?">
     <word original="吾" calque="I"/>
     <word original="何" calque="how"/>
     <word original="以" calque="by-means-of"/>
     <word original="知" calque="know"/>
-    <word original="天" calque="heaven"/>
-    <word original="下" calque="below"/>
-    <word original="然" calque="so"/>
-    <word original="哉" calque="!"/>
+    <word original="天下" calque="under-heaven"/>
+    <word original="然" calque="thus"/>
+    <word original="哉" calque="indeed"/>
     <word original="(.)" calque="(.)"/>
 </line>
-<line commentary="A powerful ending - 此 'this' refers to everything that came before. What do you think the text is saying about how we can understand the world?">
+<line commentary="The answer lies in what came before. What is 'this'?">
     <word original="以" calque="by-means-of"/>
     <word original="此" calque="this"/>
 </line>

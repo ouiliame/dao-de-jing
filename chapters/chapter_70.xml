@@ -1,33 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="70">
-<line commentary="The opening line sets up an intriguing paradox about simplicity and understanding">
+<line commentary="The opening states a deceptively simple truth - but is anything truly simple?">
     <word original="吾" calque="I"/>
-    <word original="言" calque="word"/>
+    <word original="言" calque="words"/>
     <word original="甚" calque="very"/>
     <word original="易" calque="easy"/>
-    <word original="知" calque="know"/>
+    <word original="知" calque="understand"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Notice how this line mirrors the structure of the first, but replaces 'know' with 'practice/conduct'">
+<line commentary="What's the difference between understanding and doing?">
     <word original="甚" calque="very"/>
     <word original="易" calque="easy"/>
     <word original="行" calque="practice"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="而 (yet) marks a contrast - watch how this builds tension with the previous statements">
+<line commentary="'Heaven-below' (天下) is the world - but why does no one understand?">
     <word original="[而]" calque="[yet]"/>
-    <word original="天" calque="heaven"/>
-    <word original="下" calque="below"/>
+    <word original="天下" calque="heaven-below"/>
     <word original="莫" calque="none"/>
     <word original="[之]" calque="[it]"/>
     <word original="能" calque="can"/>
-    <word original="知" calque="know"/>
+    <word original="知" calque="understand"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line>
+<line commentary="If something is easy, why can no one do it?">
     <word original="莫" calque="none"/>
     <word original="[之]" calque="[it]"/>
     <word original="能" calque="can"/>
@@ -35,20 +34,20 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="宗 (ancestor/origin) is a loaded term - think about what it means for words to have an 'ancestry'">
+<line commentary="What gives words their power? Their source?">
     <word original="言" calque="words"/>
     <word original="有" calque="have"/>
     <word original="宗" calque="ancestor"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line>
+<line commentary="What gives actions their authority?">
     <word original="事" calque="affairs"/>
     <word original="有" calque="have"/>
     <word original="君" calque="ruler"/>
 </line>
 
-<line commentary="夫 often starts a profound statement - pay attention to what follows">
+<line commentary="Is 'not knowing' actually a form of deeper knowledge?">
     <word original="(.)夫" calque="(.)indeed"/>
     <word original="唯" calque="only"/>
     <word original="無" calque="without"/>
@@ -56,42 +55,39 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="以 is a key connecting word showing cause/effect relationships">
-    <word original="是" calque="this"/>
-    <word original="以" calque="by-means-of"/>
+<line commentary="What happens when we try to be understood?">
+    <word original="是以" calque="therefore"/>
     <word original="不" calque="not"/>
     <word original="我" calque="me"/>
     <word original="知" calque="know"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="希 (rare) - consider what it means when those who know you are rare">
+<line commentary="Why is rarity valuable?">
     <word original="知" calque="know"/>
     <word original="我" calque="me"/>
     <word original="者" calque="one-who"/>
     <word original="希" calque="rare"/>
 </line>
 
-<line>
+<line commentary="Does value come from being understood or misunderstood?">
     <word original="則" calque="then"/>
-    <word original="我" calque="me"/>
+    <word original="我" calque="I"/>
     <word original="者" calque="one-who"/>
     <word original="貴" calque="precious"/>
     <word original="[矣(.)]" calque="[indeed(.)]"/>
 </line>
 
-<line>
-    <word original="是" calque="this"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="聖" calque="sage"/>
-    <word original="人" calque="person"/>
+<line commentary="How does this conclusion follow?">
+    <word original="是以" calque="therefore"/>
+    <word original="聖人" calque="sage"/>
 </line>
 
-<line commentary="The final line presents a vivid image contrasting outer appearance with inner value - 褐 refers to coarse cloth while 玉 is jade, a precious stone">
+<line commentary="The image of coarse cloth hiding jade - what does this tell us about true worth?">
     <word original="被" calque="wear"/>
     <word original="褐" calque="coarse-cloth"/>
     <word original="[而]" calque="[yet]"/>
-    <word original="懷" calque="cherish"/>
+    <word original="懷" calque="embrace"/>
     <word original="玉" calque="jade"/>
 </line>
 </chapter>

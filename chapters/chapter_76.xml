@@ -1,70 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="76">
-<line commentary="This chapter opens with a profound observation about the nature of life and death. Notice how '之' is used to show possession/relation, and '也' marks the end of a topic.">
+<line commentary="Notice how this opening statement establishes a fundamental truth about the nature of life itself.">
     <word original="." calque="." punctuation="true"/>
     <word original="人" calque="person"/>
-    <word original="之" calque="of"/>
+    <word original="之" calque="'s"/>
     <word original="生" calque="life"/>
-    <word original="也" calque="indeed"/>
-    <word original="柔" calque="soft"/>
-    <word original="弱" calque="weak"/>
+    <word original="也" calque="is"/>
+    <word original="柔弱" calque="soft-weak"/>
 </line>
 
-<line commentary="Notice the parallel structure with the previous line - this is a common poetic device in Classical Chinese.">
+<line commentary="A perfect counterpoint using parallel structure. How does this mirror what we observe in nature?">
     <word original="其" calque="their"/>
     <word original="死" calque="death"/>
-    <word original="也" calque="indeed"/>
-    <word original="堅" calque="hard"/>
-    <word original="強" calque="strong"/>
+    <word original="也" calque="is"/>
+    <word original="堅強" calque="hard-strong"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="草木 (grass-trees) is a compound meaning vegetation/plants. This line extends the metaphor to all living things.">
-    <word original="萬" calque="ten-thousand"/>
-    <word original="物" calque="things"/>
-    <word original="草" calque="grass"/>
-    <word original="木" calque="tree"/>
-    <word original="之" calque="of"/>
+<line commentary="The text expands its scope to all living things. Consider why plants are specifically mentioned.">
+    <word original="萬物" calque="ten-thousand-things"/>
+    <word original="草木" calque="plants-trees"/>
+    <word original="之" calque="'s"/>
     <word original="生" calque="life"/>
-    <word original="也" calque="indeed"/>
-    <word original="柔" calque="soft"/>
-    <word original="脆" calque="tender"/>
+    <word original="也" calque="is"/>
+    <word original="柔脆" calque="soft-fragile"/>
 </line>
 
-<line>
+<line commentary="What imagery does 枯槁 evoke? Think of autumn leaves.">
     <word original="其" calque="their"/>
     <word original="死" calque="death"/>
-    <word original="也" calque="indeed"/>
-    <word original="枯" calque="withered"/>
-    <word original="槁" calque="dried-out"/>
+    <word original="也" calque="is"/>
+    <word original="枯槁" calque="withered-dry"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="故 (therefore) signals this is a conclusion drawn from the previous observations. 者 marks the subject, and 徒 literally means 'follower' but implies 'category/group'">
-    <word original="(." calque="(.)" punctuation="true"/>
-    <word original="故" calque="therefore"/>
-    <word original="堅" calque="hard"/>
-    <word original="強" calque="strong"/>
-    <word original="者" calque="one-who"/>
+<line commentary="故 signals a conclusion being drawn. What universal principle is being revealed?">
+    <word original="(.)故" calque="therefore"/>
+    <word original="堅強" calque="hard-strong"/>
+    <word original="者" calque="ones"/>
     <word original="死" calque="death"/>
-    <word original="之" calque="of"/>
-    <word original="徒" calque="follower"/>
+    <word original="之" calque="'s"/>
+    <word original="徒" calque="followers"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="柔" calque="soft"/>
-    <word original="弱" calque="weak"/>
-    <word original="者" calque="one-who"/>
+<line commentary="Consider the profound implication: what does it mean to be a 'follower of life'?">
+    <word original="柔弱" calque="soft-weak"/>
+    <word original="者" calque="ones"/>
     <word original="生" calque="life"/>
-    <word original="之" calque="of"/>
-    <word original="徒" calque="follower"/>
+    <word original="之" calque="'s"/>
+    <word original="徒" calque="followers"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="是以 (therefore) introduces practical applications of the principle. 兵 can mean both 'weapon' and 'military/soldier'">
-    <word original="是" calque="this"/>
-    <word original="以" calque="by-means-of"/>
+<line commentary="How does this military observation reflect the chapter's wider philosophy?">
+    <word original="是以" calque="thus"/>
     <word original="兵" calque="weapon"/>
     <word original="強" calque="strong"/>
     <word original="則" calque="then"/>
@@ -72,7 +62,7 @@
     <word original="勝" calque="victory"/>
 </line>
 
-<line commentary="This line has multiple possible readings - what happens when trees become too rigid? Consider the word order carefully.">
+<line commentary="A clever play on words - what happens to the strong tree?">
     <word original="木" calque="tree"/>
     <word original="強" calque="strong"/>
     <word original="則" calque="then"/>
@@ -80,17 +70,15 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="處 means 'dwell/place' - consider what this means metaphorically about the relationship between strong and weak positions.">
-    <word original="強" calque="strong"/>
-    <word original="大" calque="great"/>
+<line commentary="Consider the spatial metaphor. What does 'below' represent in Chinese thought?">
+    <word original="強大" calque="strong-great"/>
     <word original="處" calque="dwell"/>
     <word original="下" calque="below"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="柔" calque="soft"/>
-    <word original="弱" calque="weak"/>
+<line commentary="The final line creates perfect balance. How does this positioning reflect natural law?">
+    <word original="柔弱" calque="soft-weak"/>
     <word original="處" calque="dwell"/>
     <word original="上" calque="above"/>
 </line>

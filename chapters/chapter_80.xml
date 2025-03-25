@@ -1,108 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="80">
-<line>
+<line commentary="Opens with an elegant vision of minimalism">
     <word original="." calque="." punctuation="true"/>
-    <word original="小" calque="small"/>
-    <word original="國" calque="state"/>
-    <word original="寡" calque="few"/>
-    <word original="民" calque="people"/>
+    <word original="小國" calque="small-state"/>
+    <word original="寡民" calque="few-people" commentary="Can you imagine a state that celebrates having fewer people rather than more?"/>
 </line>
-<line commentary="Notice how 使 (cause/make) introduces what the ruler does - it's like 'let there be' or 'make it so that'">
+
+<line commentary="A powerful statement about unused potential">
     <word original="使" calque="cause"/>
     <word original="有" calque="have"/>
-    <word original="什" calque="ten"/>
-    <word original="伯" calque="hundred"/>
-    <word original="之" calque="of"/>
-    <word original="器" calque="vessel/tool"/>
+    <word original="什伯" calque="decimal-tools"/>
+    <word original="之" calque="'s"/>
+    <word original="器" calque="tools"/>
     <word original="而" calque="yet"/>
     <word original="不" calque="not"/>
     <word original="用" calque="use"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line>
-    <word original="使" calque="cause"/> 
+
+<line commentary="Consider: why make death weighty but migration light?">
+    <word original="使" calque="cause"/>
     <word original="民" calque="people"/>
-    <word original="重" calque="value"/>
+    <word original="重" calque="heavy"/>
     <word original="死" calque="death"/>
     <word original="而" calque="yet"/>
     <word original="不" calque="not"/>
     <word original="遠" calque="far"/>
     <word original="徙" calque="move"/>
 </line>
-<line commentary="Note how 雖 (although) sets up a contrast - they have these things but...">
+
+<line commentary="Notice how 'although' creates expectation, then subverts it">
     <word original="雖" calque="although"/>
     <word original="有" calque="have"/>
-    <word original="舟" calque="boat"/>
-    <word original="輿" calque="carriage"/>
-    <word original="無" calque="not-have"/>
+    <word original="舟輿" calque="boats-carriages"/>
+    <word original="無" calque="none"/>
     <word original="所" calque="place"/>
     <word original="乘" calque="ride"/>
     <word original="之" calque="it"/>
 </line>
+
 <line>
     <word original="雖" calque="although"/>
     <word original="有" calque="have"/>
-    <word original="甲" calque="armor"/>
-    <word original="兵" calque="weapon"/>
-    <word original="無" calque="not-have"/>
+    <word original="甲兵" calque="armor-weapons"/>
+    <word original="無" calque="none"/>
     <word original="所" calque="place"/>
     <word original="陳" calque="display"/>
     <word original="之" calque="it"/>
 </line>
-<line commentary="An fascinating historical reference - 結繩 refers to the ancient practice of keeping records by tying knots in rope, predating written characters">
+
+<line commentary="The rope-tying represents return to ancient simplicity - but is it truly simple?">
     <word original="使" calque="cause"/>
     <word original="(民)" calque="(people)"/>
     <word original="復" calque="return"/>
-    <word original="結" calque="tie"/>
-    <word original="繩" calque="rope"/>
+    <word original="結繩" calque="tie-ropes"/>
     <word original="而" calque="and"/>
     <word original="用" calque="use"/>
     <word original="之" calque="it"/>
 </line>
-<line commentary="Notice how the next four lines follow the same grammatical pattern: [adjective] 其 [noun]. 其 is a possessive particle - what might these lines be expressing?">
+
+<line commentary="A beautiful sequence begins - notice how 其 creates rhythm">
     <word original="甘" calque="sweet"/>
     <word original="其" calque="their"/>
     <word original="食" calque="food"/>
 </line>
+
 <line>
     <word original="美" calque="beautiful"/>
     <word original="其" calque="their"/>
     <word original="服" calque="clothes"/>
 </line>
+
 <line>
     <word original="安" calque="peaceful"/>
     <word original="其" calque="their"/>
     <word original="居" calque="dwelling"/>
 </line>
+
 <line>
     <word original="樂" calque="happy"/>
     <word original="其" calque="their"/>
     <word original="俗" calque="customs"/>
 </line>
-<line commentary="相 is being used as a reciprocal marker - indicating actions between multiple parties. How might neighboring states relate to each other in this ideal?">
-    <word original="鄰" calque="neighbor"/>
-    <word original="國" calque="state"/>
-    <word original="相" calque="mutual"/>
-    <word original="望" calque="gaze"/>
+
+<line commentary="A vivid image of proximity without interaction">
+    <word original="鄰國" calque="neighbor-states"/>
+    <word original="相望" calque="mutually-view"/>
 </line>
-<line>
-    <word original="雞" calque="chicken"/>
-    <word original="犬" calque="dog"/>
-    <word original="之" calque="of"/>
+
+<line commentary="Can you hear the roosters and dogs across the distance?">
+    <word original="雞犬" calque="rooster-dog"/>
+    <word original="之" calque="'s"/>
     <word original="聲" calque="sound"/>
-    <word original="相" calque="mutual"/>
-    <word original="聞" calque="hear"/>
+    <word original="相聞" calque="mutually-hear"/>
 </line>
+
 <line>
     <word original="民" calque="people"/>
     <word original="至" calque="until"/>
-    <word original="老" calque="old"/>
-    <word original="死" calque="die"/>
+    <word original="老死" calque="old-die"/>
 </line>
-<line>
+
+<line commentary="The final paradox: close enough to hear, yet never meeting">
     <word original="不" calque="not"/>
-    <word original="相" calque="mutual"/>
-    <word original="往" calque="go"/>
-    <word original="來" calque="come"/>
+    <word original="相" calque="mutually"/>
+    <word original="往來" calque="come-go"/>
 </line>
 </chapter>

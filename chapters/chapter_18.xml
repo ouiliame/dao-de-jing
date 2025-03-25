@@ -1,45 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="18">
-<line commentary="This opening line sets up a profound cause-and-effect relationship that continues throughout the chapter. Notice how each section follows a similar pattern.">
-    <word original="大" calque="great"/>
-    <word original="道" calque="way"/>
-    <word original="廢" calque="abandon"/>
+<line commentary="Consider: When does the 'great way' fade? Is it when we start naming it?">
+    <word original="大道" calque="great-way"/>
+    <word original="廢" calque="decay"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="Consider how this line connects to the previous one - what emerges when the 'great way' is abandoned?">
+
+<line commentary="Notice how artificial virtues emerge to fill the void">
     <word original="有" calque="exist"/>
-    <word original="仁" calque="benevolence"/>
-    <word original="義" calque="righteousness"/>
+    <word original="仁義" calque="benevolence-righteousness"/>
 </line>
-<line commentary="The character 慧 refers to quick-wittedness while 智 refers to wisdom - together they create an interesting compound suggesting calculated cleverness rather than true wisdom.">
+
+<line commentary="Does wisdom arise naturally, or is it a symptom of something lost?">
     <word original="慧智" calque="clever-wisdom"/>
     <word original="出" calque="emerge"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="The character 偽 is particularly interesting here - it can mean artificial, false, or pretense. Consider what makes something 'great falseness'">
+
+<line commentary="A powerful paradox: when deception appears, we create words for honesty">
     <word original="有" calque="exist"/>
     <word original="大" calque="great"/>
-    <word original="偽" calque="false"/>
+    <word original="偽" calque="falseness"/>
 </line>
-<line commentary="六親 refers to the six family relationships in Classical Chinese society - consider why they're mentioned here and what their disharmony might represent">
+
+<line commentary="When family harmony is natural, do we need words for it?">
     <word original="六" calque="six"/>
     <word original="親" calque="relations"/>
     <word original="不" calque="not"/>
-    <word original="和" calque="harmony"/>
+    <word original="和" calque="harmonious"/>
 </line>
-<line>
+
+<line commentary="Filial piety becomes virtue only when it's no longer natural">
     <word original="有" calque="exist"/>
-    <word original="孝" calque="filial-piety"/>
+    <word original="孝" calque="filial"/>
     <word original="慈" calque="kindness"/>
 </line>
-<line commentary="昏亂 is a compound meaning chaos/disorder - but look at the individual characters: 昏 (dusk/confused) and 亂 (disorder). What imagery does this create?">
-    <word original="國" calque="country"/>
+
+<line commentary="Political order through naming vs natural harmony">
+    <word original="國" calque="state"/>
     <word original="家" calque="family"/>
     <word original="昏" calque="confused"/>
-    <word original="亂" calque="disorder"/>
+    <word original="亂" calque="chaos"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="The final line presents 忠臣 (loyal ministers) - but consider the context of all previous lines. Is their emergence a positive or negative thing?">
+
+<line commentary="What makes ministers 'loyal' only when the state is in disorder?">
     <word original="有" calque="exist"/>
     <word original="忠" calque="loyal"/>
     <word original="臣" calque="minister"/>

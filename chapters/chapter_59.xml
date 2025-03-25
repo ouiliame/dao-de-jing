@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="59">
-<line commentary="This opening line sets up a contrast between managing human affairs (治人) and dealing with heaven/nature (事天) - a common philosophical pairing in Chinese thought.">
+<line commentary="Notice how governance of people and affairs of heaven are paired - what might this suggest about the relationship between human and cosmic order?">
     <word original="治" calque="govern"/>
     <word original="人" calque="person"/>
-    <word original="事" calque="serve"/>
+    <word original="事" calque="affairs"/>
     <word original="天" calque="heaven"/>
 </line>
 
-<line commentary="莫若 is a common Classical Chinese construction meaning 'nothing compares to' or 'nothing is better than'. Here we're introduced to a key concept 嗇 (frugality/conservation).">
+<line commentary="莫若 creates a powerful comparative - 'nothing compares to...' - why might conservation be the highest principle?">
     <word original="莫" calque="none"/>
     <word original="若" calque="like"/>
-    <word original="嗇" calque="frugal"/>
+    <word original="嗇" calque="conserve" commentary="This character shows grain in a storehouse - think about what it means to store up energy or virtue"/>
 </line>
 
 <line>
     <word original="(." calque="(.)" punctuation="true"/>
     <word original="夫" calque="indeed"/>
     <word original="唯" calque="only"/>
-    <word original="嗇" calque="frugal"/>
+    <word original="嗇" calque="conserve"/>
 </line>
 
-<line commentary="服 typically means 'to submit/follow' but here has the sense of 'mastering' or 'achieving' early">
+<line commentary="'Early submission' - but to what? Consider how timing relates to effortless action">
     <word original="是" calque="this"/>
     <word original="謂" calque="called"/>
     <word original="早" calque="early"/>
     <word original="服" calque="submit"/>
 </line>
 
-<line commentary="Note how 重 (heavy/repeated) is used with 積 (accumulate) to emphasize the gradual building up of virtue">
+<line commentary="Notice how 重 (heavy/repeated) pairs with 積 (accumulate) - what kind of process is being described?">
     <word original="早" calque="early"/>
     <word original="服" calque="submit"/>
     <word original="謂" calque="called"/>
@@ -43,7 +43,7 @@
     <word original="德" calque="virtue"/>
 </line>
 
-<line commentary="克 here carries the sense of 'overcome/master' - what happens when virtue is accumulated?">
+<line commentary="What can't be overcome when virtue is accumulated?">
     <word original="則" calque="then"/>
     <word original="無" calque="none"/>
     <word original="不" calque="not"/>
@@ -57,7 +57,7 @@
     <word original="克" calque="overcome"/>
 </line>
 
-<line>
+<line commentary="When there are no limits, what becomes possible?">
     <word original="則" calque="then"/>
     <word original="莫" calque="none"/>
     <word original="知" calque="know"/>
@@ -72,17 +72,17 @@
     <word original="極" calque="limit"/>
 </line>
 
-<line commentary="有國 literally means 'to have a state' but implies ruling/managing a state">
+<line>
     <word original="可" calque="can"/>
     <word original="以" calque="by-means-of"/>
-    <word original="有" calque="have"/>
+    <word original="有" calque="possess"/>
     <word original="國" calque="state"/>
 </line>
 
-<line commentary="母 (mother) is used metaphorically here - what might it mean to be the 'mother' of a state?">
-    <word original="有" calque="have"/>
+<line commentary="What does it mean for the state to have a 'mother'?">
+    <word original="有" calque="possess"/>
     <word original="國" calque="state"/>
-    <word original="之" calque="of"/>
+    <word original="之" calque="'s"/>
     <word original="母" calque="mother"/>
 </line>
 
@@ -93,23 +93,22 @@
     <word original="久" calque="lasting"/>
 </line>
 
-<line commentary="Notice the imagery in 根 (root) and 柢 (base) - what kind of metaphor is being built?">
+<line commentary="Deep roots and firm foundation - how does this relate to conservation?">
     <word original="是" calque="this"/>
     <word original="謂" calque="called"/>
     <word original="深" calque="deep"/>
     <word original="根" calque="root"/>
     <word original="固" calque="firm"/>
-    <word original="柢" calque="base"/>
+    <word original="柢" calque="foundation"/>
 </line>
 
-<line commentary="This final line brings together several key concepts - 長 (long), 生 (life), 久 (lasting), 視 (see/perspective) - connecting them to the 道 (Way)">
+<line commentary="The final line connects personal cultivation with cosmic longevity - how are they related?">
     <word original="長" calque="long"/>
     <word original="生" calque="life"/>
     <word original="久" calque="lasting"/>
-    <word original="視" calque="see"/>
-    <word original="之" calque="of"/>
-    <word original="道" calque="way"/>
-    <word original="." calque="." punctuation="true"/>
-    <word original="." calque="." punctuation="true"/>
+    <word original="視" calque="vision"/>
+    <word original="之" calque="'s"/>
+    <word original="道" calque="the Dao"/>
+    <word original=". ." calque=". ." punctuation="true"/>
 </line>
 </chapter>

@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="62">
-<line commentary="This opening line establishes the Dao's relationship to all things. Notice how '者' marks a topic, and '之' shows possession.">
-    <word original="道" calque="way"/>
-    <word original="者" calque="one-who"/>
-    <word original="萬" calque="ten-thousand"/>
-    <word original="物" calque="things"/>
+<line commentary="Consider: What makes something truly valuable? Is it its availability to all, or its exclusivity?">
+    <word original="道" calque="the Dao"/>
+    <word original="者" calque="that-which"/>
+    <word original="萬物" calque="ten-thousand-things"/>
     <word original="之" calque="'s"/>
     <word original="奧" calque="mystery"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Notice the parallel structure with the previous line - both end with '之' possession marker.">
+<line commentary="A treasured path available to all who seek it">
     <word original="善" calque="good"/>
     <word original="人" calque="person"/>
     <word original="之" calque="'s"/>
@@ -18,7 +17,7 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="This line creates a contrast with the previous one. Notice how '所' is working with '保' - this is a common grammatical pattern in Classical Chinese.">
+<line commentary="Even those deemed 'not good' find protection in it - what does this tell us about the nature of Dao?">
     <word original="不" calque="not"/>
     <word original="善" calque="good"/>
     <word original="人" calque="person"/>
@@ -28,7 +27,7 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="'以' is a key word in Classical Chinese showing means/method. Think about what it means to 'market' words.">
+<line commentary="What can be bought with beautiful words?">
     <word original="美" calque="beautiful"/>
     <word original="言" calque="words"/>
     <word original="可" calque="can"/>
@@ -42,11 +41,11 @@
     <word original="行" calque="conduct"/>
     <word original="可" calque="can"/>
     <word original="以" calque="by-means-of"/>
-    <word original="加" calque="add-to"/>
+    <word original="加" calque="enhance"/>
     <word original="人" calque="person"/>
 </line>
 
-<line>
+<line commentary="Consider: Is this a statement of fact or a question to ponder?">
     <word original="人" calque="person"/>
     <word original="之" calque="'s"/>
     <word original="不" calque="not"/>
@@ -54,7 +53,7 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="This is a rhetorical question construction. '何...有' forms the question frame.">
+<line commentary="A profound rhetorical question - what indeed can be truly discarded?">
     <word original="何" calque="what"/>
     <word original="棄" calque="abandon"/>
     <word original="之" calque="it"/>
@@ -62,50 +61,45 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="'故' signals a conclusion or result - watch for this pattern in Classical Chinese.">
+<line commentary="Notice how political power is presented in relation to Dao">
     <word original="(.)故" calque="therefore"/>
     <word original="立" calque="establish"/>
-    <word original="天" calque="heaven"/>
-    <word original="子" calque="son"/>
+    <word original="天子" calque="son-of-heaven"/>
 </line>
 
 <line>
-    <word original="置" calque="place"/>
-    <word original="三" calque="three"/>
-    <word original="公" calque="duke"/>
+    <word original="置" calque="install"/>
+    <word original="三公" calque="three-ministers"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="'拱璧' refers to the most precious jade disk held with both hands - a symbol of highest value in ancient China.">
+<line commentary="Jade disks and four horses - symbols of material wealth. How do they compare to Dao?">
     <word original="雖" calque="although"/>
     <word original="有" calque="have"/>
-    <word original="拱" calque="hold-in-hands"/>
-    <word original="璧" calque="jade-disk"/>
+    <word original="拱璧" calque="jade-disk"/>
     <word original="以" calque="by-means-of"/>
-    <word original="先" calque="lead"/>
-    <word original="駟" calque="four-horse"/>
-    <word original="馬" calque="horse"/>
+    <word original="先" calque="precede"/>
+    <word original="駟馬" calque="four-horses"/>
 </line>
 
-<line>
+<line commentary="'Sitting and advancing' - a beautiful paradox of non-action">
     <word original="不" calque="not"/>
     <word original="如" calque="like"/>
     <word original="坐" calque="sit"/>
     <word original="進" calque="advance"/>
     <word original="此" calque="this"/>
-    <word original="道" calque="way"/>
+    <word original="道" calque="the Dao"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="This complex question structure uses '所以' (reason why) and '者' (topic marker) together. Can you see how it's asking about why the ancients valued this?">
+<line commentary="What made the ancients value this way? The question echoes through time">
     <word original="古" calque="ancient"/>
     <word original="之" calque="'s"/>
-    <word original="所" calque="that-which"/>
-    <word original="以" calque="by-means-of"/>
+    <word original="所以" calque="reason"/>
     <word original="貴" calque="value"/>
     <word original="此" calque="this"/>
-    <word original="道" calque="way"/>
-    <word original="者" calque="one-who"/>
+    <word original="道" calque="the Dao"/>
+    <word original="者" calque="that-which"/>
     <word original="何" calque="what"/>
     <word original="." calque="." punctuation="true"/>
 </line>
@@ -115,7 +109,7 @@
     <word original="曰" calque="say"/>
 </line>
 
-<line>
+<line commentary="The practical benefits of Dao - but are they its true purpose?">
     <word original="以" calque="by-means-of"/>
     <word original="求" calque="seek"/>
     <word original="得" calque="obtain"/>
@@ -127,14 +121,13 @@
     <word original="以" calque="by-means-of"/>
     <word original="免" calque="avoid"/>
     <word original="邪" calque="wrong"/>
-    <word original="(。)" calque="(.)" punctuation="true"/>
+    <word original="(." calque="." punctuation="true"/>
 </line>
 
-<line commentary="This final line brings us full circle to why the Dao is valued. Notice how '故' connects this conclusion to all that came before.">
+<line commentary="A profound conclusion - what makes something truly precious under heaven?">
     <word original="(.)故" calque="therefore"/>
     <word original="為" calque="be"/>
-    <word original="天" calque="heaven"/>
-    <word original="下" calque="below"/>
+    <word original="天下" calque="under-heaven"/>
     <word original="貴" calque="precious"/>
 </line>
 </chapter>

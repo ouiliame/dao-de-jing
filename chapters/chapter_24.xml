@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="24">
-<line commentary="This chapter begins with a series of parallel constructions that follow a common Classical Chinese pattern: [Person who X] + negative + [result]. Notice how each line builds on similar ideas.">
+<line commentary="Consider: What happens when you try to stand on tiptoe for too long?">
     <word original="企" calque="tiptoe"/>
     <word original="者" calque="one-who"/>
     <word original="不" calque="not"/>
     <word original="立" calque="stand"/>
 </line>
 
-<line commentary="The character 跨 gives us a vivid image of someone trying to take too big of a step. Think about what happens when you try to walk while taking exaggerated steps...">
+<line commentary="A stride too wide loses its ground - how does this apply to life?">
     <word original="跨" calque="stride"/>
     <word original="者" calque="one-who"/>
     <word original="不" calque="not"/>
     <word original="行" calque="walk"/>
 </line>
 
-<line commentary="自 (self) appears in the next four lines, creating a theme about self-perception and self-promotion. 見 here means 'to see' but implies displaying oneself.">
+<line commentary="When you consciously try to shine, do you truly illuminate?">
     <word original="自" calque="self"/>
     <word original="見" calque="see"/>
     <word original="者" calque="one-who"/>
@@ -22,24 +22,24 @@
     <word original="明" calque="bright"/>
 </line>
 
-<line>
+<line commentary="Those who proclaim their rightness often prove themselves wrong">
     <word original="自" calque="self"/>
     <word original="是" calque="right"/>
     <word original="者" calque="one-who"/>
     <word original="不" calque="not"/>
-    <word original="彰" calque="distinct"/>
+    <word original="彰" calque="manifest"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="功 (merit/achievement) is a key concept in Chinese philosophy - what kind of achievement is possible for someone who constantly boasts?">
+<line commentary="What's the difference between achieving and boasting of achievement?">
     <word original="自" calque="self"/>
-    <word original="伐" calque="boast"/>
+    <word original="伐" calque="praise"/>
     <word original="者" calque="one-who"/>
     <word original="無" calque="without"/>
     <word original="功" calque="merit"/>
 </line>
 
-<line commentary="長 can mean 'grow' or 'excel' - consider how self-pride (矜) might prevent growth.">
+<line commentary="Growth comes from humility, not pride">
     <word original="自" calque="self"/>
     <word original="矜" calque="pride"/>
     <word original="者" calque="one-who"/>
@@ -47,35 +47,34 @@
     <word original="長" calque="grow"/>
 </line>
 
-<line commentary="Here the text shifts to discuss how these behaviors relate to the Dao. 其 often points back to previously mentioned ideas.">
-    <word original="其" calque="it"/>
-    <word original="在" calque="exist-in"/>
-    <word original="道" calque="way"/>
+<line>
+    <word original="其" calque="its"/>
+    <word original="在" calque="in"/>
+    <word original="道" calque="the Dao"/>
     <word original="也" calque="indeed"/>
-    <word original="(.)" calque="(.)" punctuation="true"/>
+    <word original="(。)" calque="(.)" punctuation="true"/>
 </line>
 
-<line commentary="This line uses food metaphors - 餘 (excess) and 贅 (superfluous) paint a picture of waste and unnecessary actions.">
+<line commentary="Excess becomes waste - in words as in food">
     <word original="曰" calque="say"/>
     <word original="餘" calque="excess"/>
     <word original="食" calque="food"/>
-    <word original="贅" calque="superfluous"/>
-    <word original="行" calque="conduct"/>
+    <word original="贅" calque="redundant"/>
+    <word original="行" calque="action"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line>
+<line commentary="Nature itself rejects what is excessive">
     <word original="物" calque="things"/>
     <word original="或" calque="perhaps"/>
     <word original="惡" calque="detest"/>
     <word original="之" calque="this"/>
 </line>
 
-<line commentary="The final line introduces a conclusion with 故 (therefore). Consider how this relates to the previous descriptions of self-promoting behavior.">
-    <word original="(.)" calque="(.)" punctuation="true"/>
-    <word original="故" calque="therefore"/>
+<line commentary="The wise one follows the Dao by not forcing their presence">
+    <word original="(。)故" calque="therefore"/>
     <word original="有" calque="have"/>
-    <word original="道" calque="way"/>
+    <word original="道" calque="the Dao"/>
     <word original="者" calque="one-who"/>
     <word original="不" calque="not"/>
     <word original="處" calque="dwell"/>

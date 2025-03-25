@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="6">
-<line commentary="This opening line introduces a profound concept using natural imagery. Consider what a valley (谷) represents - what are its characteristics? Empty yet containing, hollow yet powerful...">
+<line commentary="The valley spirit never dies - but what is a valley? Consider what makes a valley useful: its emptiness.">
     <word original="谷" calque="valley"/>
     <word original="神" calque="spirit"/>
     <word original="不" calque="not"/>
     <word original="死" calque="die"/>
 </line>
 
-<line commentary="'玄牝' (dark-female) is one of the most mysterious terms in Daoism. 謂 is how we name or call something - what follows is a special term.">
+<line commentary="'Dark feminine' - a profound mystery of creation. Why feminine? What creates and nurtures life?">
     <word original="是" calque="this"/>
     <word original="謂" calque="called"/>
     <word original="玄" calque="dark"/>
-    <word original="牝" calque="female"/>
+    <word original="牝" calque="feminine"/>
 </line>
 
-<line commentary="門 (gate/door) is a powerful metaphor in Chinese philosophy - think about what a door represents: passage, potential, transition between states...">
+<line commentary="The gateway of the mysterious feminine - imagine a doorway to creation itself.">
     <word original="玄" calque="dark"/>
-    <word original="牝" calque="female"/>
-    <word original="之" calque="of"/>
-    <word original="門" calque="gate"/>
+    <word original="牝" calque="feminine"/>
+    <word original="之" calque="'s"/>
+    <word original="門" calque="gateway"/>
 </line>
 
-<line commentary="Note how 根 (root) connects to the earlier valley imagery. In Classical Chinese, when you see '之' connecting terms, it often shows possession or relationship.">
+<line commentary="What connects heaven and earth? What is their common source?">
     <word original="是" calque="this"/>
     <word original="謂" calque="called"/>
     <word original="天" calque="heaven"/>
     <word original="地" calque="earth"/>
-    <word original="(之)" calque="of"/>
+    <word original="(之)" calque="'s"/>
     <word original="根" calque="root"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="绵绵 is a reduplication (repeated character) suggesting continuity. 若 often introduces a simile - 'as if' or 'like.' What kind of existence is being described?">
+<line commentary="'Seeming to exist' - like a thread that never breaks, yet can you grasp it?">
     <word original="绵" calque="continuous"/>
     <word original="绵" calque="continuous"/>
     <word original="若" calque="as-if"/>
     <word original="存" calque="exist"/>
 </line>
 
-<line commentary="Notice how 用 (use/utilize) connects to the idea of practical application. 勤 suggests laborious effort - what might this say about how we should approach this mysterious force?">
+<line commentary="Use it without exhausting it - how can something be used forever without being depleted?">
     <word original="用" calque="use"/>
     <word original="之" calque="it"/>
     <word original="不" calque="not"/>
-    <word original="勤" calque="toil"/>
+    <word original="勤" calque="exhaust"/>
 </line>
 </chapter>

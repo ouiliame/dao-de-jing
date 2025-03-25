@@ -1,72 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="16">
-<line commentary="This opening line sets up a profound meditation on emptiness/void (虛). The character 致 suggests 'reaching towards' or 'bringing to the utmost.'">
+<line commentary="Consider: What does it mean to reach the ultimate void? Is emptiness a destination or a practice?">
     <word original="致" calque="reach"/>
     <word original="虛" calque="void"/>
-    <word original="極" calque="utmost"/>
+    <word original="極" calque="ultimate"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="篤 is a fascinating character showing dedication/sincerity - originally depicted as a drum being struck repeatedly.">
+<line commentary="Notice how 'maintain stillness' pairs with the previous line's 'reach void' - what's the relationship between emptiness and stillness?">
     <word original="守" calque="maintain"/>
-    <word original="靜" calque="stillness"/>
+    <word original="靜" calque="still"/>
     <word original="篤" calque="sincere"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="並 is a pictograph of two people standing side by side - here suggesting simultaneous arising.">
-    <word original="萬" calque="ten-thousand"/>
-    <word original="物" calque="things"/>
+<line>
+    <word original="萬物" calque="ten-thousand-things"/>
     <word original="並" calque="together"/>
     <word original="作" calque="arise"/>
 </line>
 
-<line commentary="觀 shows a bird's-eye view - suggesting careful observation from above. Notice how [其] acts as a possessive marker.">
+<line commentary="What insight comes from watching things return to their source?">
     <word original="吾" calque="I"/>
     <word original="以" calque="by-means-of"/>
     <word original="觀" calque="observe"/>
-    <word original="[其]" calque="[its]"/>
+    <word original="[其]" calque="[their]"/>
     <word original="復" calque="return"/>
-    <word original="." calque="." punctuation="true"/>
-</line>
-
-<line commentary="芸芸 is a reduplication suggesting abundance/multiplicity - like seeing endless waves of grass swaying.">
-    <word original="(.)夫" calque="(.)now"/>
-    <word original="物" calque="things"/>
-    <word original="芸" calque="abundant"/>
-    <word original="芸" calque="abundant"/>
-    <word original="各" calque="each"/>
-    <word original="復" calque="return"/>
-    <word original="歸" calque="go-back"/>
-    <word original="其" calque="its"/>
-    <word original="根" calque="root"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
 <line>
+    <word original="(.)夫" calque="(indeed)"/>
+    <word original="物" calque="things"/>
+    <word original="芸芸" calque="numerous"/>
+    <word original="各" calque="each"/>
+    <word original="復" calque="return"/>
+    <word original="歸" calque="go-back"/>
+    <word original="其" calque="their"/>
+    <word original="根" calque="root"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+
+<line commentary="Why might returning to one's root be associated with stillness?">
     <word original="歸" calque="return"/>
     <word original="根" calque="root"/>
     <word original="曰" calque="called"/>
     <word original="靜" calque="stillness"/>
 </line>
 
-<line commentary="謂 implies naming or designation - consider how names shape our understanding of concepts.">
+<line>
     <word original="[靜]" calque="[stillness]"/>
     <word original="是" calque="this"/>
     <word original="謂" calque="called"/>
     <word original="復" calque="return"/>
-    <word original="命" calque="destiny"/>
+    <word original="命" calque="life-force"/>
 </line>
 
-<line>
+<line commentary="常 is a key concept throughout Daoist thought - what makes something 'constant'?">
     <word original="復" calque="return"/>
-    <word original="命" calque="destiny"/>
+    <word original="命" calque="life-force"/>
     <word original="曰" calque="called"/>
     <word original="常" calque="constant"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="明 depicts sun and moon together - suggesting illumination/clarity through understanding the constant.">
+<line>
     <word original="知" calque="know"/>
     <word original="常" calque="constant"/>
     <word original="曰" calque="called"/>
@@ -74,7 +72,7 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Note how 妄 (rash/reckless) pairs with 凶 (misfortune) - suggesting cause and effect.">
+<line commentary="Notice the contrast between knowing and not knowing constancy - what are the consequences?">
     <word original="不" calque="not"/>
     <word original="知" calque="know"/>
     <word original="常" calque="constant"/>
@@ -89,38 +87,38 @@
     <word original="容" calque="contain"/>
 </line>
 
-<line commentary="Notice how the text builds from 容 (containing) to increasingly expansive concepts - 公 (common/public) to 王 (king) to 天 (heaven).">
+<line commentary="Watch how the text builds from personal capacity (容) to cosmic principle (道) through a series of transformations">
     <word original="容" calque="contain"/>
-    <word original="乃" calque="then"/>
-    <word original="公" calque="common"/>
+    <word original="乃" calque="thus"/>
+    <word original="公" calque="impartial"/>
 </line>
 
 <line>
-    <word original="公" calque="common"/>
-    <word original="乃" calque="then"/>
+    <word original="公" calque="impartial"/>
+    <word original="乃" calque="thus"/>
     <word original="王" calque="king"/>
 </line>
 
 <line>
     <word original="王" calque="king"/>
-    <word original="乃" calque="then"/>
+    <word original="乃" calque="thus"/>
     <word original="天" calque="heaven"/>
 </line>
 
 <line>
     <word original="天" calque="heaven"/>
-    <word original="乃" calque="then"/>
-    <word original="道" calque="way"/>
+    <word original="乃" calque="thus"/>
+    <word original="道" calque="the Dao"/>
 </line>
 
 <line>
-    <word original="道" calque="way"/>
-    <word original="乃" calque="then"/>
+    <word original="道" calque="the Dao"/>
+    <word original="乃" calque="thus"/>
     <word original="久" calque="enduring"/>
 </line>
 
-<line commentary="沒身 literally means 'sink/disappear body' - consider what it means to face no danger (不殆) even as the body passes away.">
-    <word original="沒" calque="sink"/>
+<line commentary="A powerful conclusion - how does understanding the constant patterns of nature lead to living without danger?">
+    <word original="沒" calque="end"/>
     <word original="身" calque="body"/>
     <word original="不" calque="not"/>
     <word original="殆" calque="danger"/>

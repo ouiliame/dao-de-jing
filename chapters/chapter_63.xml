@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="63">
-<line commentary="This opening line plays with the famous paradox of wuwei (non-action). Notice how 為 appears twice, creating a profound wordplay.">
+<line commentary="Opening with the core principle of Daoism - how might doing nothing accomplish everything?">
     <word original="." calque="." punctuation="true"/>
-    <word original="為" calque="do/act"/>
-    <word original="無" calque="not-have"/>
-    <word original="為" calque="do/act"/>
+    <word original="為" calque="do"/>
+    <word original="無" calque="nothing"/>
+    <word original="為" calque="do"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="This line parallels the structure above, using 事 (affairs/matters) instead of 為 (action)">
+<line commentary="Consider: How can one handle affairs by not handling them?">
     <word original="事" calque="handle"/>
-    <word original="無" calque="not-have"/>
+    <word original="無" calque="nothing"/>
     <word original="事" calque="handle"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Completing the parallel structure trilogy, now with 味 (taste/flavor). Consider how these three lines work together...">
+<line commentary="A subtle suggestion about finding flavor in blandness - what might this mean for living?">
     <word original="味" calque="taste"/>
-    <word original="無" calque="not-have"/>
+    <word original="無" calque="nothing"/>
     <word original="味" calque="taste"/>
 </line>
 
-<line commentary="These four characters form two contrasting pairs. In Classical Chinese, contrast often creates meaning!">
+<line commentary="How do opposites define each other?">
     <word original="大" calque="big"/>
     <word original="小" calque="small"/>
     <word original="多" calque="many"/>
     <word original="少" calque="few"/>
 </line>
 
-<line commentary="An intriguing statement about responding to grievances. Notice how 德 (virtue/power) is positioned at the end.">
+<line commentary="Responding to negativity with virtue - what power might this hold?">
     <word original="報" calque="repay"/>
     <word original="怨" calque="grievance"/>
     <word original="以" calque="by-means-of"/>
@@ -36,7 +36,7 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="This line introduces a key theme about difficulty and ease. 圖 literally means 'plan' but implies attempting or undertaking.">
+<line commentary="When is the best time to address difficulty?">
     <word original="圖" calque="plan"/>
     <word original="難" calque="difficult"/>
     <word original="於" calque="at"/>
@@ -44,59 +44,55 @@
     <word original="易" calque="easy"/>
 </line>
 
-<line commentary="Parallel structure to the previous line, but now contrasting 大 (big) with 細 (small/fine).">
+<line commentary="What's the relationship between the great and the minute?">
     <word original="為" calque="do"/>
-    <word original="大" calque="big"/>
+    <word original="大" calque="great"/>
     <word original="於" calque="at"/>
     <word original="其" calque="its"/>
-    <word original="細" calque="fine"/>
+    <word original="細" calque="small"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Notice how 天下 (under-heaven = the world) appears at the start. This signals a universal truth is being stated.">
-    <word original="天" calque="heaven"/>
-    <word original="下" calque="under"/>
+<line commentary="Consider how great challenges begin as small matters">
+    <word original="天下" calque="under-heaven"/>
     <word original="難" calque="difficult"/>
     <word original="事" calque="matter"/>
     <word original="必" calque="must"/>
     <word original="作" calque="arise"/>
-    <word original="於" calque="at"/>
+    <word original="於" calque="from"/>
     <word original="易" calque="easy"/>
 </line>
 
-<line commentary="A perfect parallel to the previous line, reinforcing the teaching through repetition and structure.">
-    <word original="天" calque="heaven"/>
-    <word original="下" calque="under"/>
-    <word original="大" calque="big"/>
+<line>
+    <word original="天下" calque="under-heaven"/>
+    <word original="大" calque="great"/>
     <word original="事" calque="matter"/>
     <word original="必" calque="must"/>
     <word original="作" calque="arise"/>
-    <word original="於" calque="at"/>
-    <word original="細" calque="fine"/>
+    <word original="於" calque="from"/>
+    <word original="細" calque="small"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Here we meet the 聖人 (sage) - a key figure in Daoist texts. Watch how they approach greatness...">
-    <word original="是" calque="this"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="聖" calque="sage"/>
-    <word original="人" calque="person"/>
+<line commentary="Why might avoiding greatness lead to achieving it?">
+    <word original="是以" calque="therefore"/>
+    <word original="聖人" calque="sage"/>
     <word original="終" calque="end"/>
     <word original="不" calque="not"/>
     <word original="為" calque="do"/>
-    <word original="大" calque="big"/>
-</line>
-
-<line commentary="Notice the beautiful paradox here - by not doing the great, they achieve the great!">
-    <word original="(.)故" calque="(therefore)"/>
-    <word original="能" calque="can"/>
-    <word original="成" calque="complete"/>
-    <word original="其" calque="their"/>
     <word original="大" calque="great"/>
 </line>
 
-<line commentary="A practical wisdom about promises - 諾 is a formal word for promise/agreement.">
-    <word original="夫" calque="one-who"/>
+<line>
+    <word original="(.)故" calque="therefore"/>
+    <word original="能" calque="can"/>
+    <word original="成" calque="achieve"/>
+    <word original="其" calque="their"/>
+    <word original="大" calque="greatness"/>
+</line>
+
+<line commentary="What's the relationship between easy promises and trust?">
+    <word original="夫" calque="indeed"/>
     <word original="輕" calque="light"/>
     <word original="諾" calque="promise"/>
     <word original="必" calque="must"/>
@@ -113,24 +109,21 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="The sage returns! Notice how they treat difficulty (難) - compare this with the chapter's opening.">
-    <word original="是" calque="this"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="聖" calque="sage"/>
-    <word original="人" calque="person"/>
+<line commentary="Why might a sage treat easy things as difficult?">
+    <word original="是以" calque="therefore"/>
+    <word original="聖人" calque="sage"/>
     <word original="猶" calque="still"/>
     <word original="難" calque="difficult"/>
     <word original="之" calque="it"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="The final line brings closure with 矣, a classical particle indicating completion/finality. How does this connect to the opening?">
-    <word original="(.)故" calque="(therefore)"/>
+<line>
+    <word original="(.)故" calque="therefore"/>
     <word original="終" calque="end"/>
-    <word original="無" calque="not-have"/>
-    <word original="難" calque="difficult"/>
-    <word original="矣" calque="indeed"/>
-    <word original="(.)" calque="(.)"/>
+    <word original="無" calque="no"/>
+    <word original="難" calque="difficulty"/>
+    <word original="矣(.)" calque="indeed"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 </chapter>

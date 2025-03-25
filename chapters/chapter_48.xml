@@ -1,71 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="48">
-<line commentary="This opening line establishes a profound contrast between academic learning and following the Dao. Notice how '者' marks the subject - 'one who...'">
-    <word original="為" calque="do"/>
-    <word original="學" calque="study"/>
+<line commentary="Notice the perfect parallel structure contrasting scholarly pursuit with following the Dao. Which path appeals to you?">
+    <word original="為" calque="practice"/>
+    <word original="學" calque="learning"/>
     <word original="(者)" calque="(one-who)"/>
-    <word original="日" calque="day"/>
+    <word original="日" calque="daily"/>
     <word original="益" calque="increase"/>
 </line>
 
-<line commentary="A direct parallel structure to the first line, but with 'dao' replacing 'study' - watch how the meaning shifts with just one character changed">
-    <word original="為" calque="do"/>
-    <word original="道" calque="way"/>
+<line commentary="What happens when we reduce instead of accumulate? Is less truly more?">
+    <word original="為" calque="practice"/>
+    <word original="道" calque="Dao"/>
     <word original="(者)" calque="(one-who)"/>
-    <word original="日" calque="day"/>
+    <word original="日" calque="daily"/>
     <word original="損" calque="decrease"/>
 </line>
 
-<line commentary="'Again and again' is emphasized through repetition of 損 - what keeps decreasing?">
+<line commentary="The repetition of 損 creates a spiral of reduction. Where does this path lead?">
     <word original="損" calque="decrease"/>
     <word original="之" calque="it"/>
     <word original="又" calque="again"/>
     <word original="損" calque="decrease"/>
 </line>
 
-<line commentary="Note how 以 functions here - 'by means of' reaching (至) something">
-    <word original="以" calque="by-means-of"/>
-    <word original="至" calque="reach"/>
+<line commentary="The ultimate destination of reduction - wu-wei. But what is truly meant by 'non-action'?">
+    <word original="以" calque="until"/>
+    <word original="至" calque="arrive"/>
     <word original="於" calque="at"/>
-    <word original="無" calque="without"/>
-    <word original="為" calque="doing"/>
+    <word original="無" calque="non"/>
+    <word original="為" calque="action"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="A famous paradox! Look at how 而 connects the two phrases - what happens when you do nothing?">
-    <word original="無" calque="without"/>
-    <word original="為" calque="doing"/>
+<line commentary="A profound paradox: through non-action, everything is accomplished. How can this be?">
+    <word original="無" calque="non"/>
+    <word original="為" calque="action"/>
     <word original="而" calque="yet"/>
-    <word original="無" calque="without"/>
+    <word original="無" calque="nothing"/>
     <word original="不" calque="not"/>
-    <word original="為" calque="doing"/>
+    <word original="為" calque="done"/>
     <word original="." calque="." punctuation="true"/>
-</line>
-
-<line commentary="常 here suggests a general principle - what's the relationship between governing and 'no affairs'?">
-    <word original="取" calque="take"/>
-    <word original="天" calque="heaven"/>
-    <word original="下" calque="below"/>
-    <word original="常" calque="always"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="無" calque="without"/>
-    <word original="事" calque="affairs"/>
 </line>
 
 <line>
-    <word original="及" calque="reach"/>
-    <word original="其" calque="its"/>
-    <word original="有" calque="have"/>
+    <word original="取" calque="take"/>
+    <word original="天下" calque="all-under-heaven"/>
+    <word original="常" calque="always"/>
+    <word original="以" calque="by-means-of"/>
+    <word original="無" calque="non"/>
+    <word original="事" calque="affair"/>
+</line>
+
+<line>
+    <word original="及" calque="when"/>
+    <word original="其" calque="it"/>
+    <word original="有" calque="has"/>
     <word original="事" calque="affairs"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="This final line completes the thought - consider how 不足 ('not enough') relates to the previous statements about doing and not-doing">
+<line commentary="Consider: how does forcing action prevent achievement? What's the relationship between effort and success?">
     <word original="不" calque="not"/>
-    <word original="足" calque="enough"/>
+    <word original="足" calque="sufficient"/>
     <word original="以" calque="by-means-of"/>
     <word original="取" calque="take"/>
-    <word original="天" calque="heaven"/>
-    <word original="下" calque="below"/>
+    <word original="天下" calque="all-under-heaven"/>
 </line>
 </chapter>

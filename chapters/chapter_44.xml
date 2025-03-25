@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="44">
-<line commentary="This opening line sets up a profound comparison using 孰 (which/who), asking us to weigh two important concepts. Notice how 與 (and/with) is setting up comparisons throughout the first several lines.">
+<line commentary="A profound opening that makes us question: what matters more - our name or our self?">
     <word original="名" calque="name"/>
     <word original="與" calque="and"/>
     <word original="身" calque="body/self"/>
@@ -8,7 +8,7 @@
     <word original="親" calque="close"/>
 </line>
 
-<line commentary="Notice how this line follows the exact same grammatical pattern as the first - this parallel structure is a key feature of Classical Chinese poetry.">
+<line commentary="Notice how 貨 (wealth) is compared to 身 (self) - what might this tell us about human nature?">
     <word original="身" calque="body/self"/>
     <word original="與" calque="and"/>
     <word original="貨" calque="goods"/>
@@ -16,23 +16,23 @@
     <word original="多" calque="more"/>
 </line>
 
-<line commentary="The third parallel question introduces 得 (gain) and 亡 (lose) - consider how these concepts might relate to the previous lines about possessions and self.">
+<line commentary="Gain and loss - two sides of the same coin. But which brings more suffering?">
     <word original="得" calque="gain"/>
     <word original="與" calque="and"/>
     <word original="亡" calque="lose"/>
     <word original="孰" calque="which"/>
-    <word original="病" calque="illness"/>
+    <word original="病" calque="suffer"/>
 </line>
 
-<line commentary="Notice how 必 (must) creates a cause-and-effect relationship between the two parts of this statement.">
-    <word original="甚" calque="very"/>
+<line commentary="Consider how 甚 (extreme) pairs with 大 (great) - intensity breeds intensity">
+    <word original="甚" calque="extreme"/>
     <word original="愛" calque="love"/>
     <word original="必" calque="must"/>
     <word original="大" calque="great"/>
-    <word original="費" calque="expense"/>
+    <word original="費" calque="cost"/>
 </line>
 
-<line>
+<line commentary="A warning wrapped in wisdom - what builds up must eventually fall">
     <word original="多" calque="much"/>
     <word original="藏" calque="store"/>
     <word original="必" calque="must"/>
@@ -40,7 +40,7 @@
     <word original="亡" calque="lose"/>
 </line>
 
-<line commentary="Here's a powerful contrast - 知 (know) paired with 足 (enough). How might this relate to the previous lines about gain and loss?">
+<line commentary="知 (know) begins a powerful pair of parallel thoughts. What does it mean to truly 'know enough'?">
     <word original="知" calque="know"/>
     <word original="足" calque="enough"/>
     <word original="不" calque="not"/>
@@ -54,10 +54,10 @@
     <word original="殆" calque="danger"/>
 </line>
 
-<line commentary="This concluding line uses 可以 (can/able) to introduce a result. Consider how this ties together all the previous concepts about knowing limits and avoiding excess.">
+<line commentary="A simple conclusion that contains profound truth. What makes something truly lasting?">
     <word original="可" calque="can"/>
     <word original="以" calque="by-means-of"/>
     <word original="長" calque="long"/>
-    <word original="久" calque="lasting"/>
+    <word original="久" calque="endure"/>
 </line>
 </chapter>

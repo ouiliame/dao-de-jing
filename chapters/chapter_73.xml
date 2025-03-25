@@ -1,26 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="73">
-<line commentary="This opening line sets up a profound contrast between two types of courage - notice how the structure parallels but contrasts">
-    <word original="." calque="."/>
+<line commentary="Consider: What makes an action truly brave?">
+    <word original="." calque="." punctuation="true"/>
     <word original="勇" calque="brave"/>
     <word original="於" calque="in"/>
     <word original="敢" calque="dare"/>
 </line>
-<line>
+
+<line commentary="A stark consequence that makes us question: Is daring always wise?">
     <word original="則" calque="then"/>
     <word original="殺" calque="kill"/>
 </line>
-<line commentary="Note how this line mirrors the first, but with the addition of 不 (not) - what difference does this make to the meaning?">
+
+<line>
     <word original="勇" calque="brave"/>
     <word original="於" calque="in"/>
     <word original="不" calque="not"/>
     <word original="敢" calque="dare"/>
 </line>
+
 <line>
     <word original="則" calque="then"/>
     <word original="活" calque="live"/>
 </line>
-<line commentary="Here 此兩者 (these-two-things) refers back to the two types of courage just mentioned">
+
+<line commentary="How often do we mistake benefit for harm, and harm for benefit?">
     <word original="此" calque="these"/>
     <word original="兩" calque="two"/>
     <word original="者" calque="ones"/>
@@ -29,7 +33,8 @@
     <word original="或" calque="perhaps"/>
     <word original="害" calque="harm"/>
 </line>
-<line commentary="孰 is an classical interrogative meaning 'who' or 'what' - this line poses a philosophical question">
+
+<line commentary="Even heaven's preferences remain mysterious to us. Why?">
     <word original="天" calque="heaven"/>
     <word original="之" calque="'s"/>
     <word original="所" calque="that-which"/>
@@ -39,59 +44,67 @@
     <word original="其" calque="its"/>
     <word original="故" calque="reason"/>
 </line>
-<line>
+
+<line commentary="If even the sage finds this difficult, what hope have we? Or is that the point?">
     <word original="是" calque="this"/>
-    <word original="以" calque="by-means-of"/>
+    <word original="以" calque="therefore"/>
     <word original="聖" calque="sage"/>
     <word original="人" calque="person"/>
     <word original="猶" calque="still"/>
     <word original="難" calque="difficult"/>
     <word original="之" calque="it"/>
 </line>
-<line commentary="Notice how the next several lines follow a pattern: 不X而善Y (not X but good-at Y)">
+
+<line>
     <word original="天" calque="heaven"/>
     <word original="之" calque="'s"/>
-    <word original="道" calque="way"/>
+    <word original="道" calque="the Dao"/>
 </line>
-<line>
+
+<line commentary="How does non-striving lead to victory?">
     <word original="不" calque="not"/>
     <word original="爭" calque="compete"/>
-    <word original="而" calque="but"/>
+    <word original="而" calque="yet"/>
     <word original="善" calque="good-at"/>
-    <word original="勝" calque="win"/>
-    <word original="." calque="."/>
+    <word original="勝" calque="victory"/>
+    <word original="." calque="." punctuation="true"/>
 </line>
+
 <line>
     <word original="不" calque="not"/>
     <word original="言" calque="speak"/>
-    <word original="而" calque="but"/>
+    <word original="而" calque="yet"/>
     <word original="善" calque="good-at"/>
     <word original="應" calque="respond"/>
-    <word original="." calque="."/>
+    <word original="." calque="." punctuation="true"/>
 </line>
+
 <line>
     <word original="不" calque="not"/>
     <word original="召" calque="summon"/>
-    <word original="而" calque="but"/>
+    <word original="而" calque="yet"/>
     <word original="自" calque="self"/>
     <word original="來" calque="come"/>
 </line>
-<line commentary="繟然 is an fascinating word describing something that appears loose or relaxed but is actually well-planned">
-    <word original="繟" calque="relaxed"/>
+
+<line>
+    <word original="繟" calque="slow"/>
     <word original="然" calque="thus"/>
-    <word original="而" calque="but"/>
+    <word original="而" calque="yet"/>
     <word original="善" calque="good-at"/>
     <word original="謀" calque="plan"/>
 </line>
-<line commentary="This famous metaphor 天網 (heaven's net) introduces a powerful image - what kind of net could be both loose and never miss?">
+
+<line commentary="Like a fisher's net - does catching everything require tight mesh?">
     <word original="天" calque="heaven"/>
     <word original="網" calque="net"/>
     <word original="恢" calque="vast"/>
     <word original="恢" calque="vast"/>
 </line>
-<line>
+
+<line commentary="A profound paradox: How can looseness ensure nothing is lost?">
     <word original="疏" calque="loose"/>
-    <word original="而" calque="but"/>
+    <word original="而" calque="yet"/>
     <word original="不" calque="not"/>
     <word original="失" calque="lose"/>
 </line>

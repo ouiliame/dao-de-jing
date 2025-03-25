@@ -1,79 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="45">
-<line commentary="This opening line sets up a profound paradox about completion and incompletion. The character 若 (if/as-if) creates metaphorical comparisons throughout this chapter.">
+<line commentary="Consider: How can something be most complete when it appears incomplete?">
     <word original="大" calque="great"/>
-    <word original="成" calque="completion"/>
-    <word original="若" calque="as-if"/>
+    <word original="成" calque="complete"/>
+    <word original="若" calque="seem-like"/>
     <word original="缺" calque="lacking"/>
 </line>
 
-<line commentary="Note how 其 (its) refers back to the subject of the previous line - a common Classical Chinese grammatical pattern.">
+<line commentary="Reflect on how true utility never becomes depleted">
     <word original="其" calque="its"/>
     <word original="用" calque="use"/>
     <word original="不" calque="not"/>
-    <word original="弊" calque="worn-out"/>
+    <word original="弊" calque="exhausted"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="盅 literally means 'empty vessel' - consider how this relates to usefulness and fullness.">
+<line commentary="What is truly full might appear empty - like a vessel ready to receive">
     <word original="大" calque="great"/>
-    <word original="盈" calque="full"/>
-    <word original="若" calque="as-if"/>
-    <word original="(盅)" calque="(empty-vessel)"/>
+    <word original="盈" calque="fullness"/>
+    <word original="若" calque="seem-like"/>
+    <word original="(盅)" calque="(empty)" commentary="A vessel that appears empty"/>
 </line>
 
 <line>
     <word original="其" calque="its"/>
     <word original="用" calque="use"/>
     <word original="不" calque="not"/>
-    <word original="窮" calque="exhausted"/>
+    <word original="窮" calque="depleted"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Notice how the next several lines follow the same grammatical pattern: 大X若Y (great X as-if Y). What might this repetition emphasize?">
+<line commentary="Think of a bamboo - strongest when it bends">
     <word original="大" calque="great"/>
     <word original="直" calque="straight"/>
-    <word original="若" calque="as-if"/>
+    <word original="若" calque="seem-like"/>
     <word original="屈" calque="bent"/>
-    <word original="." calque="." punctuation="true"/>
 </line>
 
-<line>
+<line commentary="Is true skill sometimes found in appearing unskilled?">
     <word original="大" calque="great"/>
     <word original="巧" calque="skilled"/>
-    <word original="若" calque="as-if"/>
+    <word original="若" calque="seem-like"/>
     <word original="拙" calque="clumsy"/>
-    <word original="." calque="." punctuation="true"/>
-</line>
-
-<line commentary="辯 refers to eloquence in speech - consider how this relates to the previous paradoxes.">
-    <word original="大" calque="great"/>
-    <word original="辯" calque="eloquent"/>
-    <word original="若" calque="as-if"/>
-    <word original="訥" calque="stuttering"/>
-    <word original="." calque="." punctuation="true"/>
-</line>
-
-<line commentary="The next two lines shift to discussing opposing forces. Notice how 勝 (overcome) is used.">
-    <word original="躁" calque="restless"/>
-    <word original="勝" calque="overcome"/>
-    <word original="寒" calque="cold"/>
-    <word original="." calque="." punctuation="true"/>
 </line>
 
 <line>
-    <word original="靜" calque="still"/>
-    <word original="勝" calque="overcome"/>
+    <word original="大" calque="great"/>
+    <word original="辯" calque="eloquence"/>
+    <word original="若" calque="seem-like"/>
+    <word original="訥" calque="stuttering"/>
+</line>
+
+<line commentary="Notice how natural phenomena teach us about balance">
+    <word original="躁" calque="movement"/>
+    <word original="勝" calque="overcomes"/>
+    <word original="寒" calque="cold"/>
+</line>
+
+<line>
+    <word original="靜" calque="stillness"/>
+    <word original="勝" calque="overcomes"/>
     <word original="熱" calque="heat"/>
 </line>
 
-<line commentary="The final line introduces 清靜 (pure-stillness) as a solution. Consider how this relates to all the paradoxes presented before. What makes something 正 (correct/proper)?">
-    <word original="清" calque="pure"/>
+<line commentary="How might clarity and stillness bring order to the world?">
+    <word original="清" calque="clear"/>
     <word original="靜" calque="still"/>
-    <word original="為" calque="become"/>
+    <word original="為" calque="becomes"/>
     <word original="天" calque="heaven"/>
     <word original="下" calque="below"/>
     <word original="正" calque="proper"/>
-    <word original="." calque="." punctuation="true"/>
 </line>
 </chapter>

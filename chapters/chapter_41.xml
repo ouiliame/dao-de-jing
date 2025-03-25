@@ -1,50 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="41">
-<line commentary="This opening stanza establishes a hierarchy of three types of students/scholars (士). Notice how their reactions differ - what does this tell us about wisdom?">
-    <word original="上" calque="upper"/>
-    <word original="士" calque="scholar"/>
+<line commentary="The opening presents a hierarchy of understanding. How do you react when encountering profound truth?">
+    <word original="上士" calque="superior-scholar"/>
     <word original="聞" calque="hear"/>
-    <word original="道" calque="way"/>
+    <word original="道" calque="the Dao"/>
     <word original="勤" calque="diligent"/>
     <word original="而" calque="and"/>
     <word original="行" calque="practice"/>
     <word original="之" calque="it"/>
 </line>
 
-<line commentary="Notice the repeated use of 若 (like/as-if) creating a sense of uncertainty. The middle scholar's response is neither full acceptance nor rejection.">
-    <word original="中" calque="middle"/>
-    <word original="士" calque="scholar"/>
+<line>
+    <word original="中士" calque="middle-scholar"/>
     <word original="聞" calque="hear"/>
-    <word original="道" calque="way"/>
+    <word original="道" calque="the Dao"/>
     <word original="若" calque="as-if"/>
     <word original="存" calque="exist"/>
     <word original="若" calque="as-if"/>
     <word original="亡" calque="gone"/>
 </line>
 
-<line commentary="The character 笑 (laugh) here carries a sense of mockery or dismissal. What does this tell us about the lowest level of understanding?">
-    <word original="下" calque="lower"/>
-    <word original="士" calque="scholar"/>
+<line commentary="Laughter at profound truth - is it truly funny, or a defense mechanism?">
+    <word original="下士" calque="lower-scholar"/>
     <word original="聞" calque="hear"/>
-    <word original="道" calque="way"/>
+    <word original="道" calque="the Dao"/>
     <word original="大" calque="great"/>
     <word original="笑" calque="laugh"/>
     <word original="之" calque="it"/>
 </line>
 
-<line commentary="This line suggests that if the Dao weren't laughed at by some, it wouldn't be the true Dao. A fascinating paradox!">
+<line>
     <word original="不" calque="not"/>
     <word original="笑" calque="laugh"/>
     <word original="不" calque="not"/>
-    <word original="足" calque="sufficient"/>
+    <word original="足" calque="enough"/>
     <word original="以" calque="by-means-of"/>
-    <word original="為" calque="become"/>
-    <word original="道" calque="way"/>
+    <word original="為" calque="make"/>
+    <word original="道" calque="the Dao"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
 <line>
-    <word original="(.)故" calque="(therefore)"/>
+    <word original="(.)故" calque="therefore"/>
     <word original="建" calque="establish"/>
     <word original="言" calque="words"/>
     <word original="有" calque="have"/>
@@ -53,28 +50,28 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="What follows is a series of paradoxical descriptions. Notice how 若 (as-if) is used to create seeming contradictions.">
+<line commentary="How can brightness appear dark? What does this tell us about perception?">
     <word original="明" calque="bright"/>
-    <word original="道" calque="way"/>
+    <word original="道" calque="the Dao"/>
     <word original="若" calque="as-if"/>
     <word original="昧" calque="dim"/>
 </line>
 
 <line>
     <word original="進" calque="advance"/>
-    <word original="道" calque="way"/>
+    <word original="道" calque="the Dao"/>
     <word original="若" calque="as-if"/>
     <word original="退" calque="retreat"/>
 </line>
 
 <line>
     <word original="夷" calque="smooth"/>
-    <word original="道" calque="way"/>
+    <word original="道" calque="the Dao"/>
     <word original="若" calque="as-if"/>
     <word original="纇" calque="rough"/>
 </line>
 
-<line commentary="Valley (谷) is empty yet contains - a powerful metaphor in Daoist thought.">
+<line>
     <word original="上" calque="highest"/>
     <word original="德" calque="virtue"/>
     <word original="若" calque="as-if"/>
@@ -82,13 +79,75 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<!-- Continuing with remaining lines... -->
-<!-- [Format continues for remaining lines in same pattern] -->
+<line commentary="Consider: how can whiteness appear as shame? What does this say about appearances?">
+    <word original="大" calque="great"/>
+    <word original="白" calque="white"/>
+    <word original="若" calque="as-if"/>
+    <word original="辱" calque="shame"/>
+</line>
 
-<line commentary="The final line suggests that only the Dao is good at both beginning and completing - a profound observation about the cyclical nature of existence.">
-    <word original="(.)夫" calque="(indeed)"/>
+<line>
+    <word original="廣" calque="broad"/>
+    <word original="德" calque="virtue"/>
+    <word original="若" calque="as-if"/>
+    <word original="不" calque="not"/>
+    <word original="足" calque="enough"/>
+</line>
+
+<line>
+    <word original="建" calque="establish"/>
+    <word original="德" calque="virtue"/>
+    <word original="若" calque="as-if"/>
+    <word original="偷" calque="steal"/>
+</line>
+
+<line>
+    <word original="質" calque="substance"/>
+    <word original="真" calque="true"/>
+    <word original="若" calque="as-if"/>
+    <word original="渝" calque="change"/>
+</line>
+
+<line commentary="How can something great have no corners? Ponder the relationship between magnitude and form.">
+    <word original="大" calque="great"/>
+    <word original="方" calque="square"/>
+    <word original="無" calque="without"/>
+    <word original="隅" calque="corner"/>
+</line>
+
+<line>
+    <word original="大" calque="great"/>
+    <word original="器" calque="vessel"/>
+    <word original="晚" calque="late"/>
+    <word original="成" calque="complete"/>
+</line>
+
+<line>
+    <word original="大" calque="great"/>
+    <word original="音" calque="sound"/>
+    <word original="希" calque="rare"/>
+    <word original="聲" calque="voice"/>
+</line>
+
+<line>
+    <word original="大" calque="great"/>
+    <word original="象" calque="image"/>
+    <word original="無" calque="without"/>
+    <word original="形" calque="form"/>
+</line>
+
+<line>
+    <word original="道" calque="the Dao"/>
+    <word original="隱" calque="hidden"/>
+    <word original="無" calque="without"/>
+    <word original="名" calque="name"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+
+<line commentary="What makes the Dao uniquely capable of both beginning and completing?">
+    <word original="(.)夫" calque="indeed"/>
     <word original="唯" calque="only"/>
-    <word original="道" calque="way"/>
+    <word original="道" calque="the Dao"/>
     <word original="善" calque="good"/>
     <word original="(始)" calque="(begin)"/>
     <word original="且" calque="and"/>

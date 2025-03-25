@@ -1,36 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="27">
-<line commentary="This line introduces the concept of skillful movement/action that leaves no traces - a profound Daoist ideal of effortless action (wu-wei)">
+<line commentary="Consider: What makes an action truly perfect? Is it the presence of something, or the absence?">
     <word original="善" calque="skilled"/>
     <word original="行" calque="walk"/>
-    <word original="無" calque="not-have"/>
-    <word original="轍" calque="wheel-rut"/>
-    <word original="迹" calque="trace"/>
+    <word original="無" calque="without"/>
+    <word original="轍迹" calque="wheel-tracks"/>
 </line>
 
-<line commentary="Notice the parallel structure with the first line - this one speaks of skilled speech that leaves no flaws">
+<line commentary="The highest speech leaves no trace to criticize - like water flowing without disturbing the surface">
     <word original="善" calque="skilled"/>
     <word original="言" calque="speak"/>
-    <word original="無" calque="not-have"/>
-    <word original="瑕" calque="flaw"/>
-    <word original="謫" calque="blame"/>
+    <word original="無" calque="without"/>
+    <word original="瑕謫" calque="flaw-blame"/>
 </line>
 
-<line commentary="Another parallel construction - 善數 here refers to counting or calculation">
+<line commentary="When counting is perfect, does one need tools? What counts as counting?">
     <word original="善" calque="skilled"/>
     <word original="數" calque="count"/>
     <word original="不" calque="not"/>
     <word original="用" calque="use"/>
-    <word original="籌" calque="counting-rod"/>
-    <word original="策" calque="tally-stick"/>
+    <word original="籌策" calque="counting-tools"/>
 </line>
 
-<line commentary="This line and the next form a pair about securing things without conventional means. Can you see how this relates to the theme of skillful action?">
+<line commentary="What kind of lock is unbreakable? Is it physical?">
     <word original="善" calque="skilled"/>
     <word original="閉" calque="close"/>
-    <word original="無" calque="not-have"/>
-    <word original="關" calque="bar"/>
-    <word original="楗" calque="bolt"/>
+    <word original="無" calque="without"/>
+    <word original="關楗" calque="bolt-lock"/>
     <word original="而" calque="yet"/>
     <word original="不" calque="not"/>
     <word original="可" calque="can"/>
@@ -38,12 +34,11 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line>
+<line commentary="The strongest bonds might be invisible - what binds people together?">
     <word original="善" calque="skilled"/>
     <word original="結" calque="tie"/>
-    <word original="無" calque="not-have"/>
-    <word original="纆" calque="rope"/>
-    <word original="約" calque="bind"/>
+    <word original="無" calque="without"/>
+    <word original="纆約" calque="rope-bind"/>
     <word original="而" calque="yet"/>
     <word original="不" calque="not"/>
     <word original="可" calque="can"/>
@@ -51,23 +46,21 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="是以 is an important Classical Chinese construction meaning 'therefore' or 'thus'">
-    <word original="是" calque="this"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="聖" calque="sage"/>
-    <word original="人" calque="person"/>
+<line>
+    <word original="是以" calque="therefore"/>
+    <word original="聖人" calque="sage"/>
 </line>
 
-<line>
+<line commentary="What does it mean to 'save' someone? From what?">
     <word original="常" calque="always"/>
     <word original="善" calque="skilled"/>
     <word original="救" calque="save"/>
     <word original="人" calque="person"/>
 </line>
 
-<line commentary="故 is another key Classical Chinese word indicating causation or result">
+<line>
     <word original="故" calque="therefore"/>
-    <word original="無" calque="not-have"/>
+    <word original="無" calque="without"/>
     <word original="棄" calque="abandon"/>
     <word original="人" calque="person"/>
 </line>
@@ -81,38 +74,31 @@
 
 <line>
     <word original="故" calque="therefore"/>
-    <word original="無" calque="not-have"/>
+    <word original="無" calque="without"/>
     <word original="棄" calque="abandon"/>
     <word original="物" calque="thing"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="襲明 is an interesting compound - 襲 means to inherit or succeed to, while 明 means brightness/enlightenment">
+<line commentary="How does light pass from one generation to the next?">
     <word original="是" calque="this"/>
     <word original="謂" calque="called"/>
-    <word original="襲" calque="inherit"/>
-    <word original="明" calque="brightness"/>
+    <word original="襲明" calque="inherit-light"/>
 </line>
 
-<line commentary="Notice how 之 is used here as a possessive particle - 'X 之 Y' means 'Y of X' or 'X's Y'">
-    <word original="(故)" calque="(therefore)"/>
-    <word original="善" calque="good"/>
-    <word original="人" calque="person"/>
+<line commentary="Consider the paradox: How can the 'not-good' person be the teacher's resource?">
+    <word original="故" calque="therefore"/>
+    <word original="善人" calque="good-person"/>
     <word original="者" calque="one-who"/>
-    <word original="不" calque="not"/>
-    <word original="善" calque="good"/>
-    <word original="人" calque="person"/>
+    <word original="不善人" calque="not-good-person"/>
     <word original="之" calque="'s"/>
     <word original="師" calque="teacher"/>
 </line>
 
 <line>
-    <word original="不" calque="not"/>
-    <word original="善" calque="good"/>
-    <word original="人" calque="person"/>
+    <word original="不善人" calque="not-good-person"/>
     <word original="者" calque="one-who"/>
-    <word original="善" calque="good"/>
-    <word original="人" calque="person"/>
+    <word original="善人" calque="good-person"/>
     <word original="之" calque="'s"/>
     <word original="資" calque="resource"/>
     <word original="." calque="." punctuation="true"/>
@@ -132,17 +118,16 @@
     <word original="資" calque="resource"/>
 </line>
 
-<line commentary="雖 introduces a concessive clause - 'although/even though'. What kind of paradox is being presented here?">
+<line commentary="How can great wisdom be linked to confusion? What makes this essential?">
     <word original="雖" calque="although"/>
     <word original="智" calque="wise"/>
     <word original="大" calque="great"/>
     <word original="迷" calque="confused"/>
 </line>
 
-<line commentary="要妙 combines 'essential' and 'mysterious' - what might this final characterization mean in context of the chapter's teachings?">
+<line>
     <word original="是" calque="this"/>
     <word original="謂" calque="called"/>
-    <word original="要" calque="essential"/>
-    <word original="妙" calque="mysterious"/>
+    <word original="要妙" calque="essential-mystery"/>
 </line>
 </chapter>

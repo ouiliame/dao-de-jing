@@ -1,157 +1,153 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <chapter number="67">
-<line commentary="This opening line sets up an interesting paradox about size/greatness. Notice how 天下 (heaven-below) is the classical way to say 'all under heaven' or 'the world'">
-    <word original="天" calque="heaven"/>
-    <word original="下" calque="below"/>
-    <word original="皆" calque="all"/>
-    <word original="謂" calque="say"/>
-    <word original="我" calque="I"/>
-    <word original="__" calque="..."/>
-    <word original="大" calque="great"/>
-</line>
-<line commentary="肖 (xiao) is a fascinating character meaning 'resemblance/similar' - but with 不 (not) it creates a paradox about unlikeness">
-    <word original="似" calque="seem"/>
-    <word original="不" calque="not"/>
-    <word original="肖" calque="resemble"/>
-</line>
-<line>
-    <word original="(.)" calque="(.)"/>
-    <word original="夫" calque="indeed"/>
-    <word original="唯" calque="only"/>
-    <word original="(不 肖)" calque="(not-resemble)"/>
-    <word original="故" calque="therefore"/>
-    <word original="[能]" calque="[can]"/>
-    <word original="(大)" calque="(great)"/>
-    <word original="." calque="."/>
-</line>
-<line>
-    <word original="若" calque="if"/>
-    <word original="肖" calque="resemble"/>
-    <word original="." calque="."/>
-</line>
-<line commentary="Notice how 矣 is a classical particle indicating completion of action">
-    <word original="久" calque="long-time"/>
-    <word original="矣" calque="already"/>
-    <word original="其" calque="its"/>
-    <word original="細" calque="small"/>
-    <word original="也" calque="indeed"/>
-    <word original="(.)" calque="(.)"/>
-</line>
-<line commentary="Here begins the famous 'Three Treasures' (三寶) section">
-    <word original="(.)" calque="(.)"/>
-    <word original="夫" calque="indeed"/>
-    <word original="我" calque="I"/>
-    <word original="有" calque="have"/>
-    <word original="三" calque="three"/>
-    <word original="寶" calque="treasure"/>
-</line>
-<line>
-    <word original="持" calque="hold"/>
-    <word original="而" calque="and"/>
-    <word original="保" calque="protect"/>
-    <word original="之" calque="them"/>
-    <word original="." calque="."/>
-</line>
-<line>
-    <word original="一" calque="one"/>
-    <word original="曰" calque="called"/>
-    <word original="慈" calque="compassion"/>
-    <word original="." calque="."/>
-</line>
-<line>
-    <word original="二" calque="two"/>
-    <word original="曰" calque="called"/>
-    <word original="儉" calque="frugality"/>
-</line>
-<line commentary="Note how 不敢為天下先 (not-dare-be-heaven-below-first) is a complete concept meaning 'not daring to be first in the world'">
-    <word original="三" calque="three"/>
-    <word original="曰" calque="called"/>
-    <word original="不" calque="not"/>
-    <word original="敢" calque="dare"/>
-    <word original="為" calque="be"/>
-    <word original="天" calque="heaven"/>
-    <word original="下" calque="below"/>
-    <word original="先" calque="first"/>
-</line>
-<line>
-    <word original="慈" calque="compassion"/>
-    <word original="故" calque="therefore"/>
-    <word original="能" calque="can"/>
-    <word original="勇" calque="brave"/>
-</line>
-<line>
-    <word original="儉" calque="frugality"/>
-    <word original="故" calque="therefore"/>
-    <word original="能" calque="can"/>
-    <word original="廣" calque="broad"/>
-</line>
-<line>
-    <word original="不" calque="not"/>
-    <word original="敢" calque="dare"/>
-    <word original="為" calque="be"/>
-    <word original="天" calque="heaven"/>
-    <word original="下" calque="below"/>
-    <word original="先" calque="first"/>
-</line>
-<line commentary="器 (vessel) is often used metaphorically in Daoist texts to represent capability or potential">
-    <word original="(.)" calque="(.)"/>
-    <word original="故" calque="therefore"/>
-    <word original="能" calque="can"/>
-    <word original="成" calque="become"/>
-    <word original="器" calque="vessel"/>
-    <word original="長" calque="leader"/>
-    <word original="." calque="."/>
-</line>
-<line commentary="且 (moreover) here introduces a contrasting situation">
-    <word original="今" calque="now"/>
-    <word original="舍" calque="abandon"/>
-    <word original="慈" calque="compassion"/>
-    <word original="且" calque="moreover"/>
-    <word original="勇" calque="brave"/>
-    <word original="." calque="."/>
-</line>
-<line>
-    <word original="舍" calque="abandon"/>
-    <word original="儉" calque="frugality"/>
-    <word original="且" calque="moreover"/>
-    <word original="廣" calque="broad"/>
-</line>
-<line>
-    <word original="舍" calque="abandon"/>
-    <word original="後" calque="behind"/>
-    <word original="且" calque="moreover"/>
-    <word original="先" calque="first"/>
-</line>
-<line>
-    <word original="死" calque="die"/>
-    <word original="矣" calque="already"/>
-    <word original="(.)" calque="(.)"/>
-</line>
-<line commentary="Note how 以 (by-means-of) appears multiple times in this final section, showing method or instrument">
-    <word original="(.)" calque="(.)"/>
-    <word original="夫" calque="indeed"/>
-    <word original="慈" calque="compassion"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="戰" calque="fight"/>
-    <word original="則" calque="then"/>
-    <word original="勝" calque="victory"/>
-</line>
-<line>
-    <word original="以" calque="by-means-of"/>
-    <word original="守" calque="defend"/>
-    <word original="則" calque="then"/>
-    <word original="固" calque="firm"/>
-</line>
-<line>
-    <word original="天" calque="heaven"/>
-    <word original="將" calque="will"/>
-    <word original="救" calque="save"/>
-    <word original="之" calque="them"/>
-</line>
-<line>
-    <word original="以" calque="by-means-of"/>
-    <word original="慈" calque="compassion"/>
-    <word original="衛" calque="guard"/>
-    <word original="之" calque="them"/>
-</line>
+  <line commentary="The opening presents a paradox: everyone considers the Dao great, yet it seems unlike conventional greatness. Consider how true greatness might differ from what most people recognize as 'great.'">
+    <word original="天" calque="heaven" pinyin="tiān"/>
+    <word original="下" calque="below" pinyin="xià"/>
+    <word original="皆" calque="all" pinyin="jiē"/>
+    <word original="謂" calque="call" pinyin="wèi"/>
+    <word original="我" calque="my" pinyin="wǒ"/>
+    <word original="__" calque="__" pinyin="__"/>
+    <word original="大" calque="great" pinyin="dà"/>
+  </line>
+  <line>
+    <word original="似" calque="seems" pinyin="sì"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="肖" calque="resemble" pinyin="xiào"/>
+  </line>
+  <line commentary="A striking paradox: it is precisely by being 'unlike' (不肖) that the Dao achieves true greatness. The character 肖 suggests resemblance or conformity - what might it mean to achieve greatness by not conforming?">
+    <word original="(.)夫" calque="(.)indeed" pinyin="fú"/>
+    <word original="唯" calque="only" pinyin="wéi"/>
+    <word original="(不" calque="(not" pinyin="bù"/>
+    <word original="肖)" calque="resemble)" pinyin="xiào)"/>
+    <word original="故" calque="therefore" pinyin="gù"/>
+    <word original="[能]" calque="[can]" pinyin="néng"/>
+    <word original="(大)" calque="(great)" pinyin="dà"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+  </line>
+  <line>
+    <word original="若" calque="if" pinyin="ruò"/>
+    <word original="肖" calque="resemble" pinyin="xiào"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+  </line>
+  <line>
+    <word original="久" calque="long" pinyin="jiǔ"/>
+    <word original="矣" calque="already" pinyin="yǐ"/>
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="細" calque="small" pinyin="xì"/>
+    <word original="也" calque="indeed" pinyin="yě"/>
+    <word original="(.)" calque="(.)" pinyin="(.)" punctuation="true"/>
+  </line>
+  <line commentary="Here begins the introduction to the 'three treasures' (三寶) - core Daoist virtues that challenge conventional values. These treasures are cherished and protected (持而保之).">
+    <word original="(.)夫" calque="(.)indeed" pinyin="fú"/>
+    <word original="我" calque="I" pinyin="wǒ"/>
+    <word original="有" calque="have" pinyin="yǒu"/>
+    <word original="三" calque="three" pinyin="sān"/>
+    <word original="寶" calque="treasures" pinyin="bǎo"/>
+  </line>
+  <line>
+    <word original="持" calque="hold" pinyin="chí"/>
+    <word original="而" calque="and" pinyin="ér"/>
+    <word original="保" calque="protect" pinyin="bǎo"/>
+    <word original="之" calque="them" pinyin="zhī"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+  </line>
+  <line commentary="The first treasure: compassion (慈). In a world that often values strength and domination, the text elevates gentleness as a primary virtue. What kind of strength might emerge from compassion?">
+    <word original="一" calque="first" pinyin="yī"/>
+    <word original="曰" calque="called" pinyin="yuē"/>
+    <word original="慈" calque="compassion" pinyin="cí"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+  </line>
+  <line>
+    <word original="二" calque="second" pinyin="èr"/>
+    <word original="曰" calque="called" pinyin="yuē"/>
+    <word original="儉" calque="frugal" pinyin="jiǎn"/>
+  </line>
+  <line>
+    <word original="三" calque="third" pinyin="sān"/>
+    <word original="曰" calque="called" pinyin="yuē"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="敢" calque="dare" pinyin="gǎn"/>
+    <word original="為" calque="act-as" pinyin="wéi"/>
+    <word original="天" calque="heaven" pinyin="tiān"/>
+    <word original="下" calque="below" pinyin="xià"/>
+    <word original="先" calque="first" pinyin="xiān"/>
+  </line>
+  <line commentary="Now begins a series of paradoxical relationships. How can compassion lead to courage? Perhaps true courage comes not from aggression but from caring deeply enough to act despite risk.">
+    <word original="慈" calque="compassion" pinyin="cí"/>
+    <word original="故" calque="therefore" pinyin="gù"/>
+    <word original="能" calque="can" pinyin="néng"/>
+    <word original="勇" calque="brave" pinyin="yǒng"/>
+  </line>
+  <line>
+    <word original="儉" calque="frugal" pinyin="jiǎn"/>
+    <word original="故" calque="therefore" pinyin="gù"/>
+    <word original="能" calque="can" pinyin="néng"/>
+    <word original="廣" calque="expansive" pinyin="guǎng"/>
+  </line>
+  <line>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="敢" calque="dare" pinyin="gǎn"/>
+    <word original="為" calque="act-as" pinyin="wéi"/>
+    <word original="天" calque="heaven" pinyin="tiān"/>
+    <word original="下" calque="below" pinyin="xià"/>
+    <word original="先" calque="first" pinyin="xiān"/>
+  </line>
+  <line commentary="Being last enables one to become a 'vessel chief' (器長). This paradoxical leadership emerges from humility rather than self-promotion. How might stepping back actually enable one to lead more effectively?">
+    <word original="(.)故" calque="(.)therefore" pinyin="gù"/>
+    <word original="能" calque="can" pinyin="néng"/>
+    <word original="成" calque="become" pinyin="chéng"/>
+    <word original="器" calque="vessel" pinyin="qì"/>
+    <word original="長" calque="chief" pinyin="zhǎng"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+  </line>
+  <line commentary="The text now warns against abandoning these treasures. The structure '舍X且Y' (abandon X and adopt Y) shows the temptation to revert to conventional values - with fatal consequences.">
+    <word original="今" calque="now" pinyin="jīn"/>
+    <word original="舍" calque="abandon" pinyin="shě"/>
+    <word original="慈" calque="compassion" pinyin="cí"/>
+    <word original="且" calque="and" pinyin="qiě"/>
+    <word original="勇" calque="brave" pinyin="yǒng"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+  </line>
+  <line>
+    <word original="舍" calque="abandon" pinyin="shě"/>
+    <word original="儉" calque="frugal" pinyin="jiǎn"/>
+    <word original="且" calque="and" pinyin="qiě"/>
+    <word original="廣" calque="expansive" pinyin="guǎng"/>
+  </line>
+  <line>
+    <word original="舍" calque="abandon" pinyin="shě"/>
+    <word original="後" calque="behind" pinyin="hòu"/>
+    <word original="且" calque="and" pinyin="qiě"/>
+    <word original="先" calque="ahead" pinyin="xiān"/>
+  </line>
+  <line>
+    <word original="死" calque="death" pinyin="sǐ"/>
+    <word original="矣" calque="indeed" pinyin="yǐ"/>
+    <word original="(.)" calque="(.)" pinyin="(.)" punctuation="true"/>
+  </line>
+  <line commentary="The chapter concludes by demonstrating the practical power of compassion in conflict. Rather than seeing compassion as weakness in battle, it becomes the source of victory and protection.">
+    <word original="(.)夫" calque="(.)indeed" pinyin="fú"/>
+    <word original="慈" calque="compassion" pinyin="cí"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="戰" calque="battle" pinyin="zhàn"/>
+    <word original="則" calque="then" pinyin="zé"/>
+    <word original="勝" calque="victory" pinyin="shèng"/>
+  </line>
+  <line>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="守" calque="defend" pinyin="shǒu"/>
+    <word original="則" calque="then" pinyin="zé"/>
+    <word original="固" calque="firm" pinyin="gù"/>
+  </line>
+  <line>
+    <word original="天" calque="heaven" pinyin="tiān"/>
+    <word original="將" calque="will" pinyin="jiāng"/>
+    <word original="救" calque="save" pinyin="jiù"/>
+    <word original="之" calque="them" pinyin="zhī"/>
+  </line>
+  <line commentary="The final line suggests divine protection for those who embody compassion. The character 衛 (to guard) implies active protection, not just passive safety - suggesting that the universe itself supports those who embrace these paradoxical values.">
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="慈" calque="compassion" pinyin="cí"/>
+    <word original="衛" calque="guard" pinyin="wèi"/>
+    <word original="之" calque="them" pinyin="zhī"/>
+  </line>
 </chapter>

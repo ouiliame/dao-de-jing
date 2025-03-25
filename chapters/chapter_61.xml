@@ -1,31 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="61">
-<line commentary="This opening line uses a water metaphor - 'flowing downward' - a common Daoist image for humility and natural action">
-    <word original="大" calque="great"/>
-    <word original="國" calque="state"/>
+<line commentary="Like water naturally flowing downstream, true power follows the path of least resistance">
+    <word original="大國" calque="great-state"/>
     <word original="者" calque="one-who"/>
-    <word original="下" calque="down"/>
-    <word original="流" calque="flow"/>
+    <word original="下流" calque="flow-downward"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Notice how 之 marks possession - 'the meeting point OF all-under-heaven'">
-    <word original="天" calque="heaven"/>
-    <word original="下" calque="below"/>
+<line commentary="A profound metaphor: the meeting point of all streams is always at the lowest point">
+    <word original="天下" calque="under-heaven"/>
     <word original="之" calque="'s"/>
     <word original="交" calque="intersection"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="An interesting metaphor comparing the great state to the female principle">
-    <word original="天" calque="heaven"/>
-    <word original="下" calque="below"/>
+<line commentary="Consider: why compare a great state to the feminine principle?">
+    <word original="天下" calque="under-heaven"/>
     <word original="之" calque="'s"/>
     <word original="牝" calque="female"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="A profound observation about the power of stillness/quietude - what might this tell us about leadership?">
+<line commentary="In nature, stillness overcomes movement, softness overcomes hardness">
     <word original="牝" calque="female"/>
     <word original="常" calque="always"/>
     <word original="以" calque="by-means-of"/>
@@ -37,51 +33,45 @@
 <line>
     <word original="以" calque="by-means-of"/>
     <word original="靜" calque="stillness"/>
-    <word original="為" calque="make"/>
-    <word original="下" calque="down"/>
+    <word original="為" calque="become"/>
+    <word original="下" calque="lower"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="故 signals a conclusion or result - what follows explains the consequence of the previous principles">
-    <word original="(.)故" calque="therefore"/>
-    <word original="大" calque="great"/>
-    <word original="國" calque="state"/>
+<line commentary="How can lowering oneself lead to gaining?">
+    <word original="故" calque="therefore"/>
+    <word original="大國" calque="great-state"/>
     <word original="以" calque="by-means-of"/>
     <word original="下" calque="lower"/>
-    <word original="小" calque="small"/>
-    <word original="國" calque="state"/>
+    <word original="小國" calque="small-state"/>
 </line>
 
 <line>
     <word original="則" calque="then"/>
-    <word original="取" calque="acquire"/>
-    <word original="小" calque="small"/>
-    <word original="國" calque="state"/>
+    <word original="取" calque="obtain"/>
+    <word original="小國" calque="small-state"/>
 </line>
 
 <line>
-    <word original="小" calque="small"/>
-    <word original="國" calque="state"/>
+    <word original="小國" calque="small-state"/>
     <word original="以" calque="by-means-of"/>
     <word original="下" calque="lower"/>
-    <word original="大" calque="great"/>
-    <word original="國" calque="state"/>
+    <word original="大國" calque="great-state"/>
 </line>
 
 <line>
     <word original="則" calque="then"/>
-    <word original="取" calque="acquire"/>
+    <word original="取" calque="obtain"/>
     <word original="[於]" calque="[from]"/>
-    <word original="大" calque="great"/>
-    <word original="國" calque="state"/>
+    <word original="大國" calque="great-state"/>
 </line>
 
-<line commentary="Notice how 或 (some) creates parallel structure in these two lines about lowering oneself">
-    <word original="(.)故" calque="therefore"/>
+<line commentary="A subtle paradox: gaining through yielding">
+    <word original="故" calque="therefore"/>
     <word original="或" calque="some"/>
     <word original="下" calque="lower"/>
     <word original="以" calque="by-means-of"/>
-    <word original="取" calque="acquire"/>
+    <word original="取" calque="obtain"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
@@ -89,25 +79,20 @@
     <word original="或" calque="some"/>
     <word original="下" calque="lower"/>
     <word original="而" calque="and"/>
-    <word original="取" calque="acquire"/>
+    <word original="取" calque="obtain"/>
 </line>
 
-<line commentary="畜 (nurture/keep) gives a different connotation than simply ruling - what might this suggest about proper governance?">
-    <word original="大" calque="great"/>
-    <word original="國" calque="state"/>
-    <word original="不" calque="not"/>
-    <word original="過" calque="exceed"/>
+<line commentary="What does it mean to 'nurture people' versus 'serve people'?">
+    <word original="大國" calque="great-state"/>
+    <word original="不過" calque="nothing-more-than"/>
     <word original="欲" calque="desire"/>
-    <word original="兼" calque="unite"/>
-    <word original="畜" calque="nurture"/>
+    <word original="兼畜" calque="nurture"/>
     <word original="人" calque="people"/>
 </line>
 
 <line>
-    <word original="小" calque="small"/>
-    <word original="國" calque="state"/>
-    <word original="不" calque="not"/>
-    <word original="過" calque="exceed"/>
+    <word original="小國" calque="small-state"/>
+    <word original="不過" calque="nothing-more-than"/>
     <word original="欲" calque="desire"/>
     <word original="入" calque="enter"/>
     <word original="事" calque="serve"/>
@@ -115,23 +100,20 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="夫" calque="thus"/>
-    <word original="兩" calque="both"/>
-    <word original="者" calque="ones"/>
+<line commentary="When both sides embrace their natural roles, harmony emerges">
+    <word original="夫" calque="now"/>
+    <word original="兩者" calque="both-parties"/>
     <word original="各" calque="each"/>
     <word original="得" calque="obtain"/>
-    <word original="[其]" calque="[their]"/>
-    <word original="所" calque="that-which"/>
-    <word original="欲" calque="desire"/>
+    <word original="[其]" calque="[its]"/>
+    <word original="所欲" calque="what-is-desired"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="This final line serves as a summary principle - how does it relate to the water metaphor at the start?">
-    <word original="大" calque="great"/>
-    <word original="者" calque="one"/>
-    <word original="宜" calque="proper"/>
-    <word original="為" calque="make"/>
-    <word original="下" calque="below"/>
+<line commentary="The chapter's essence: true greatness lies in humility">
+    <word original="大者" calque="great-one"/>
+    <word original="宜" calque="should"/>
+    <word original="為" calque="become"/>
+    <word original="下" calque="lower"/>
 </line>
 </chapter>

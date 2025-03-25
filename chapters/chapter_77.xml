@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="77">
-<line commentary="This opening line uses a beautiful metaphor comparing the Way of Heaven to a bow - notice how a bow works by both pulling and releasing...">
+<line commentary="Opens with a powerful metaphor comparing Heaven's way to a bow - consider how a bow works through opposing forces in perfect balance">
     <word original="天" calque="heaven"/>
     <word original="之" calque="'s"/>
-    <word original="道" calque="way"/>
+    <word original="道" calque="the Dao"/>
     <word original="其" calque="it"/>
     <word original="猶" calque="like"/>
     <word original="張" calque="draw"/>
@@ -12,7 +12,7 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Notice how the next few lines form a pattern of opposites - high/low, excess/insufficient. What might this tell us about balance?">
+<line commentary="What happens when you pull down on a bow's high point?">
     <word original="高" calque="high"/>
     <word original="者" calque="one"/>
     <word original="抑" calque="press-down"/>
@@ -23,11 +23,11 @@
 <line>
     <word original="下" calque="low"/>
     <word original="者" calque="one"/>
-    <word original="舉" calque="lift-up"/>
+    <word original="舉" calque="raise"/>
     <word original="之" calque="it"/>
 </line>
 
-<line>
+<line commentary="Consider: what happens in nature when there is excess?">
     <word original="有" calque="have"/>
     <word original="餘" calque="excess"/>
     <word original="者" calque="one"/>
@@ -45,13 +45,13 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Notice how '天之道' (Heaven's Way) is repeated from the opening line - this repetition is significant...">
+<line>
     <word original="天" calque="heaven"/>
     <word original="之" calque="'s"/>
-    <word original="道" calque="way"/>
+    <word original="道" calque="the Dao"/>
 </line>
 
-<line commentary="The character '損' (reduce) appears again - try to see how this links to the bow metaphor from earlier...">
+<line commentary="Notice how this line echoes natural cycles - floods and droughts, day and night, seasons">
     <word original="損" calque="reduce"/>
     <word original="有" calque="have"/>
     <word original="餘" calque="excess"/>
@@ -61,11 +61,11 @@
     <word original="足" calque="sufficient"/>
 </line>
 
-<line commentary="Here we see a contrast introduced - 'people's way' versus 'heaven's way'. What might this tell us?">
-    <word original="人" calque="people"/>
+<line commentary="How do human systems often work differently from natural ones?">
+    <word original="人" calque="human"/>
     <word original="之" calque="'s"/>
-    <word original="道" calque="way"/>
-    <word original="則" calque="then"/>
+    <word original="道" calque="the Dao"/>
+    <word original="則" calque="however"/>
     <word original="不" calque="not"/>
     <word original="然" calque="so"/>
 </line>
@@ -80,50 +80,50 @@
     <word original="餘" calque="excess"/>
 </line>
 
-<line commentary="孰 (who) often introduces a rhetorical question in Classical Chinese. Think about what kind of answer the author expects...">
+<line commentary="A profound question about power and responsibility">
     <word original="孰" calque="who"/>
     <word original="能" calque="can"/>
     <word original="有" calque="have"/>
     <word original="餘" calque="excess"/>
-    <word original="(而)" calque="(and)"/>
+    <word original="而" calque="and"/>
     <word original="奉" calque="serve"/>
-    <word original="[於]" calque="[to]"/>
+    <word original="於" calque="to"/>
     <word original="天" calque="heaven"/>
     <word original="下" calque="below"/>
 </line>
 
-<line commentary="唯 (only) is emphasizing exclusivity - only one type of person can do this...">
+<line>
     <word original="唯" calque="only"/>
     <word original="有" calque="have"/>
-    <word original="道" calque="way"/>
+    <word original="道" calque="the Dao"/>
     <word original="者" calque="one"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
 <line>
     <word original="是" calque="this"/>
-    <word original="以" calque="by-means-of"/>
+    <word original="以" calque="therefore"/>
     <word original="聖" calque="sage"/>
     <word original="人" calque="person"/>
 </line>
 
-<line commentary="Notice how 為 (act) and 不 (not) are paired with 恃 (rely-on) - what might this tell us about the sage's attitude?">
+<line commentary="Ponder: what is the difference between acting and depending on action?">
     <word original="為" calque="act"/>
-    <word original="而" calque="and"/>
+    <word original="而" calque="but"/>
     <word original="不" calque="not"/>
     <word original="恃" calque="rely-on"/>
 </line>
 
 <line>
-    <word original="功" calque="achievement"/>
+    <word original="功" calque="merit"/>
     <word original="成" calque="complete"/>
-    <word original="而" calque="and"/>
+    <word original="而" calque="but"/>
     <word original="不" calque="not"/>
     <word original="處" calque="dwell"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="The final line uses 見 (see/appear) - consider how this relates to the sage's attitude toward recognition and fame...">
+<line commentary="What might it mean to not wish to appear worthy?">
     <word original="其" calque="his"/>
     <word original="不" calque="not"/>
     <word original="欲" calque="desire"/>

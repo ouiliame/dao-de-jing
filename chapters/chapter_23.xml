@@ -1,129 +1,142 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="23">
-<line commentary="This opening line sets up a profound observation about nature's way of expression - 'xi' (希) meaning 'rare/sparse' hints at the Dao's minimal use of words.">
+<line commentary="Opening with a powerful statement about the nature of true speech - consider how this relates to the concept of 自然 (naturalness/spontaneity).">
     <word original="希" calque="rare"/>
     <word original="言" calque="words"/>
     <word original="自" calque="self"/>
     <word original="然" calque="so"/>
 </line>
-<line commentary="Notice how Classical Chinese uses concrete natural phenomena (wind, rain) to illustrate abstract principles. 故 (therefore) often signals an explanation or evidence following.">
-    <word original="(." calque="(.)" punctuation="true"/>
-    <word original="故" calque="therefore"/>
-    <word original="飄" calque="whirling"/>
+
+<line commentary="Notice how natural phenomena demonstrate their own impermanence. What might this suggest about human endeavors?">
+    <word original="(.)故" calque="(therefore)"/>
+    <word original="飄" calque="gusty"/>
     <word original="風" calque="wind"/>
     <word original="不" calque="not"/>
-    <word original="終" calque="last-through"/>
+    <word original="終" calque="last"/>
     <word original="朝" calque="morning"/>
 </line>
+
 <line>
     <word original="驟" calque="sudden"/>
     <word original="雨" calque="rain"/>
     <word original="不" calque="not"/>
-    <word original="終" calque="last-through"/>
+    <word original="終" calque="last"/>
     <word original="日" calque="day"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="孰 (who/what) introduces a rhetorical question. Notice how Classical Chinese often leaves the verb 'to be' implicit.">
+
+<line commentary="A profound question that leads us to contemplate the source of natural phenomena.">
     <word original="孰" calque="who"/>
-    <word original="為" calque="do"/>
+    <word original="為" calque="makes"/>
     <word original="此" calque="this"/>
-    <word original="者" calque="one-who"/>
+    <word original="者" calque="one"/>
     <word original="天" calque="heaven"/>
     <word original="地" calque="earth"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line>
+
+<line commentary="If even heaven and earth are impermanent, what does this suggest about human affairs?">
     <word original="天" calque="heaven"/>
     <word original="地" calque="earth"/>
     <word original="尚" calque="even"/>
     <word original="不" calque="not"/>
     <word original="能" calque="can"/>
-    <word original="久" calque="endure-long"/>
+    <word original="久" calque="endure"/>
 </line>
-<line commentary="況 introduces a rhetorical comparison - 'if even X cannot, how much less can Y?' This is a common Classical Chinese rhetorical device.">
-    <word original="而" calque="and"/>
-    <word original="況" calque="moreover"/>
-    <word original="於" calque="at"/>
-    <word original="人" calque="person"/>
-    <word original="乎" calque="eh"/>
-    <word original="(." calque="(.)" punctuation="true"/>
-</line>
+
 <line>
-    <word original="(." calque="(.)" punctuation="true"/>
-    <word original="故" calque="therefore"/>
+    <word original="而" calque="and"/>
+    <word original="況" calque="how-much-more"/>
+    <word original="於" calque="for"/>
+    <word original="人" calque="humans"/>
+    <word original="乎" calque="?"/>
+    <word original="(.)故" calque="(therefore)"/>
+</line>
+
+<line commentary="Here begins a fascinating exploration of alignment and resonance with different aspects of existence.">
     <word original="從" calque="follow"/>
     <word original="事" calque="affairs"/>
-    <word original="於" calque="at"/>
-    <word original="道" calque="Way"/>
-    <word original="者" calque="one-who"/>
+    <word original="於" calque="in"/>
+    <word original="道" calque="Dao"/>
+    <word original="者" calque="one"/>
 </line>
-<line commentary="This section establishes a parallel structure comparing three types of people - those who align with Dao, De (virtue), and failure. Notice the repetition.">
-    <word original="道" calque="Way"/>
-    <word original="者" calque="one-who"/>
-    <word original="同" calque="same"/>
-    <word original="於" calque="as"/>
-    <word original="道" calque="Way"/>
-</line>
+
 <line>
-    <word original="德" calque="virtue"/>
-    <word original="者" calque="one-who"/>
-    <word original="同" calque="same"/>
-    <word original="於" calque="as"/>
-    <word original="德" calque="virtue"/>
+    <word original="道" calque="Dao"/>
+    <word original="者" calque="one"/>
+    <word original="同" calque="aligns"/>
+    <word original="於" calque="with"/>
+    <word original="道" calque="Dao"/>
 </line>
+
 <line>
-    <word original="失" calque="lose"/>
-    <word original="者" calque="one-who"/>
-    <word original="同" calque="same"/>
-    <word original="於" calque="as"/>
-    <word original="失" calque="lose"/>
+    <word original="德" calque="De"/>
+    <word original="者" calque="one"/>
+    <word original="同" calque="aligns"/>
+    <word original="於" calque="with"/>
+    <word original="德" calque="De"/>
+</line>
+
+<line>
+    <word original="失" calque="loss"/>
+    <word original="者" calque="one"/>
+    <word original="同" calque="aligns"/>
+    <word original="於" calque="with"/>
+    <word original="失" calque="loss"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line>
-    <word original="同" calque="same"/>
-    <word original="於" calque="as"/>
-    <word original="道" calque="Way"/>
-    <word original="者" calque="one-who"/>
+
+<line commentary="Consider how 'alignment' works - what draws like to like?">
+    <word original="同" calque="align"/>
+    <word original="於" calque="with"/>
+    <word original="道" calque="Dao"/>
+    <word original="者" calque="one"/>
 </line>
-<line commentary="樂 here means 'joy/gladness' - notice how the Dao is personified as taking joy in finding those who align with it.">
-    <word original="道" calque="Way"/>
+
+<line>
+    <word original="道" calque="Dao"/>
     <word original="亦" calque="also"/>
-    <word original="樂" calque="joy"/>
-    <word original="得" calque="obtain"/>
-    <word original="之" calque="it"/>
+    <word original="樂" calque="joyfully"/>
+    <word original="得" calque="obtains"/>
+    <word original="之" calque="them"/>
 </line>
+
 <line>
-    <word original="同" calque="same"/>
-    <word original="於" calque="as"/>
-    <word original="德" calque="virtue"/>
-    <word original="者" calque="one-who"/>
+    <word original="同" calque="align"/>
+    <word original="於" calque="with"/>
+    <word original="德" calque="De"/>
+    <word original="者" calque="one"/>
 </line>
+
 <line>
-    <word original="德" calque="virtue"/>
+    <word original="德" calque="De"/>
     <word original="亦" calque="also"/>
-    <word original="樂" calque="joy"/>
-    <word original="得" calque="obtain"/>
-    <word original="之" calque="it"/>
+    <word original="樂" calque="joyfully"/>
+    <word original="得" calque="obtains"/>
+    <word original="之" calque="them"/>
 </line>
+
 <line>
-    <word original="同" calque="same"/>
-    <word original="於" calque="as"/>
-    <word original="失" calque="lose"/>
-    <word original="者" calque="one-who"/>
+    <word original="同" calque="align"/>
+    <word original="於" calque="with"/>
+    <word original="失" calque="loss"/>
+    <word original="者" calque="one"/>
 </line>
+
 <line>
-    <word original="失" calque="lose"/>
+    <word original="失" calque="loss"/>
     <word original="亦" calque="also"/>
-    <word original="樂" calque="joy"/>
-    <word original="得" calque="obtain"/>
-    <word original="之" calque="it"/>
+    <word original="樂" calque="joyfully"/>
+    <word original="得" calque="obtains"/>
+    <word original="之" calque="them"/>
 </line>
-<line commentary="This final line presents a logical paradox about trust/faith (信) that invites deep reflection. Consider: what happens when trust is insufficient?">
+
+<line commentary="A profound closing about the nature of trust - how does insufficient trust lead to untrustworthiness?">
     <word original="信" calque="trust"/>
     <word original="不" calque="not"/>
     <word original="足" calque="sufficient"/>
     <word original="焉" calque="herein"/>
-    <word original="有" calque="have"/>
+    <word original="有" calque="exists"/>
     <word original="不" calque="not"/>
     <word original="信" calque="trust"/>
     <word original="__" calque="..." punctuation="true"/>

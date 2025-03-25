@@ -1,51 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="25">
-<line commentary="This opening line introduces a mysterious 'something' - notice how 混成 (mixed-complete) suggests a primordial state of wholeness">
-    <word original="有" calque="exist"/>
+<line commentary="Notice how the opening describes something that existed before form itself">
+    <word original="有" calque="exists"/>
     <word original="物" calque="thing"/>
-    <word original="混" calque="mixed"/>
+    <word original="混" calque="chaos"/>
     <word original="成" calque="complete"/>
 </line>
-
-<line commentary="A temporal marker showing this 'thing' predates even heaven and earth - what could be so fundamental?">
+<line commentary="Before heaven and earth - before time itself">
     <word original="先" calque="before"/>
-    <word original="天" calque="heaven"/>
-    <word original="地" calque="earth"/>
+    <word original="天地" calque="heaven-earth"/>
     <word original="生" calque="born"/>
 </line>
-
-<line commentary="兮 is a poetic particle that adds rhythm and emphasis - these characters paint a picture of absolute stillness and emptiness">
+<line commentary="The repetitive 兮 creates a dreamy, mystical quality - how would you describe this soundless, formless state?">
     <word original="寂" calque="silent"/>
     <word original="兮" calque="!"/>
     <word original="寥" calque="vast-empty"/>
     <word original="兮" calque="!"/>
 </line>
-
-<line commentary="Notice how 獨立 (alone-stand) creates a powerful image of independence and self-sufficiency">
+<line>
     <word original="獨" calque="alone"/>
     <word original="立" calque="stand"/>
     <word original="不" calque="not"/>
     <word original="改" calque="change"/>
 </line>
-
-<line commentary="周 suggests completeness/all-around motion - how does this contrast with the earlier stillness?">
-    <word original="周" calque="complete"/>
+<line commentary="Consider how 周行 (circular-movement) connects to 不殆 (no-danger) - what does this tell us about natural cycles?">
+    <word original="周" calque="circular"/>
     <word original="行" calque="move"/>
     <word original="而" calque="and"/>
     <word original="不" calque="not"/>
     <word original="殆" calque="danger"/>
 </line>
-
-<line commentary="Think about what quality would allow something to be the 'mother' of all under heaven">
+<line>
     <word original="可" calque="can"/>
     <word original="以" calque="by-means-of"/>
     <word original="為" calque="become"/>
-    <word original="天" calque="heaven"/>
-    <word original="下" calque="below"/>
+    <word original="天下" calque="under-heaven"/>
     <word original="母" calque="mother"/>
 </line>
-
-<line>
+<line commentary="What does it mean when something is beyond naming?">
     <word original="吾" calque="I"/>
     <word original="不" calque="not"/>
     <word original="知" calque="know"/>
@@ -53,15 +45,13 @@
     <word original="名" calque="name"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-
-<line commentary="字 refers to giving a designation - notice how the text struggles with naming the unnameable">
-    <word original="字" calque="designate"/>
+<line>
+    <word original="字" calque="character"/>
     <word original="之" calque="it"/>
     <word original="曰" calque="say"/>
-    <word original="道" calque="way"/>
+    <word original="道" calque="the Dao"/>
 </line>
-
-<line>
+<line commentary="強 suggests reluctance - why might naming something limit it?">
     <word original="強" calque="force"/>
     <word original="為" calque="make"/>
     <word original="之" calque="it"/>
@@ -69,56 +59,47 @@
     <word original="曰" calque="say"/>
     <word original="大" calque="great"/>
 </line>
-
 <line>
     <word original="大" calque="great"/>
     <word original="曰" calque="say"/>
     <word original="逝" calque="depart"/>
 </line>
-
 <line>
     <word original="逝" calque="depart"/>
     <word original="曰" calque="say"/>
     <word original="遠" calque="far"/>
 </line>
-
-<line commentary="Notice the circular logic: far leads to return - a key concept in Daoist thought">
+<line commentary="How does the cycle complete itself through return?">
     <word original="遠" calque="far"/>
     <word original="曰" calque="say"/>
     <word original="反" calque="return"/>
 </line>
-
 <line>
     <word original="(.)" calque="(.)" punctuation="true"/>
     <word original="__" calque="..." punctuation="true"/>
-    <word original="道" calque="way"/>
+    <word original="道" calque="the Dao"/>
     <word original="大" calque="great"/>
 </line>
-
 <line>
     <word original="天" calque="heaven"/>
     <word original="大" calque="great"/>
 </line>
-
 <line>
     <word original="地" calque="earth"/>
     <word original="大" calque="great"/>
 </line>
-
 <line>
     <word original="王" calque="king"/>
     <word original="亦" calque="also"/>
     <word original="大" calque="great"/>
 </line>
-
-<line commentary="域 refers to the realm/world - notice how the text establishes a hierarchy of four great things">
+<line commentary="四大 (four greats) - notice how humanity is part of this cosmic pattern">
     <word original="域" calque="realm"/>
     <word original="中" calque="within"/>
     <word original="有" calque="exist"/>
     <word original="四" calque="four"/>
     <word original="大" calque="great"/>
 </line>
-
 <line>
     <word original="而" calque="and"/>
     <word original="王" calque="king"/>
@@ -128,29 +109,25 @@
     <word original="焉" calque="therein"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-
-<line commentary="法 means to model/follow - watch how a chain of modeling unfolds">
+<line>
     <word original="人" calque="human"/>
     <word original="法" calque="model"/>
     <word original="地" calque="earth"/>
 </line>
-
 <line>
     <word original="地" calque="earth"/>
     <word original="法" calque="model"/>
     <word original="天" calque="heaven"/>
 </line>
-
 <line>
     <word original="天" calque="heaven"/>
     <word original="法" calque="model"/>
-    <word original="道" calque="way"/>
+    <word original="道" calque="the Dao"/>
 </line>
-
-<line commentary="自然 literally means 'self-so' - what might it mean for the Dao to model that which is naturally self-so?">
-    <word original="道" calque="way"/>
+<line commentary="自然 - perhaps the most profound concept in Daoism. What does it mean for something to be 'self-so'?">
+    <word original="道" calque="the Dao"/>
     <word original="法" calque="model"/>
-    <word original="自" calque="self"/>
-    <word original="然" calque="so"/>
+    <word original="自然" calque="self-so"/>
+    <word original="." calque="." punctuation="true"/>
 </line>
 </chapter>

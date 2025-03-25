@@ -1,150 +1,142 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <chapter number="15">
-<line commentary="This opening line describes the ideal ancient sage/scholar using four profound qualities that are intentionally abstract and mysterious.">
-    <word original="古" calque="ancient"/>
-    <word original="之" calque="of"/>
-    <word original="善" calque="good"/>
-    <word original="為" calque="act-as"/>
-    <word original="士" calque="scholar"/>
-    <word original="者" calque="one-who"/>
-    <word original="微" calque="subtle"/>
-    <word original="妙" calque="wonderful"/>
-    <word original="玄" calque="dark/mysterious"/>
-    <word original="通" calque="penetrating"/>
-</line>
-
-<line commentary="Note how 不可 (cannot) combines with 識 (know/recognize) - a common Classical Chinese grammatical pattern expressing impossibility.">
-    <word original="深" calque="deep"/>
-    <word original="不" calque="not"/>
-    <word original="可" calque="can"/>
-    <word original="識" calque="know"/>
-    <word original="." calque="." punctuation="true"/>
-</line>
-
-<line>
-    <word original="(.)夫" calque="(now)"/>
-    <word original="唯" calque="only"/>
-    <word original="不" calque="not"/>
-    <word original="可" calque="can"/>
-    <word original="識" calque="know"/>
-</line>
-
-<line>
-    <word original="(.)故" calque="(therefore)"/>
-    <word original="強" calque="force"/>
-    <word original="為" calque="make"/>
-    <word original="之" calque="it"/>
-    <word original="容" calque="appearance"/>
-</line>
-
-<line commentary="The text now shifts to a series of vivid similes using 兮 (an emphatic particle) and 若 (like/as) to create poetic descriptions. Notice how each gives a distinct feeling or mood.">
-    <word original="豫" calque="hesitant"/>
-    <word original="兮" calque="!"/>
-    <word original="若" calque="like"/>
-    <word original="冬" calque="winter"/>
-    <word original="涉" calque="ford"/>
-    <word original="川" calque="river"/>
-</line>
-
-<line>
-    <word original="猶" calque="cautious"/>
-    <word original="兮" calque="!"/>
-    <word original="若" calque="like"/>
-    <word original="畏" calque="fear"/>
-    <word original="四" calque="four"/>
-    <word original="鄰" calque="neighbors"/>
-</line>
-
-<line>
-    <word original="儼" calque="dignified"/>
-    <word original="兮" calque="!"/>
-    <word original="其" calque="it"/>
-    <word original="若" calque="like"/>
-    <word original="(客)" calque="(guest)"/>
-</line>
-
-<line commentary="Notice how this line uses the blank space (__) to create a pause before the impending action.">
-    <word original="渙" calque="melting"/>
-    <word original="兮" calque="!"/>
-    <word original="若" calque="like"/>
-    <word original="冰" calque="ice"/>
-    <word original="__" calque="..."/>
-    <word original="將" calque="about-to"/>
-    <word original="釋" calque="dissolve"/>
-</line>
-
-<line>
-    <word original="敦" calque="genuine"/>
-    <word original="兮" calque="!"/>
-    <word original="其" calque="it"/>
-    <word original="若" calque="like"/>
-    <word original="樸" calque="uncarved-wood"/>
-</line>
-
-<line>
-    <word original="曠" calque="vast"/>
-    <word original="兮" calque="!"/>
-    <word original="其" calque="it"/>
-    <word original="若" calque="like"/>
-    <word original="谷" calque="valley"/>
-</line>
-
-<line>
-    <word original="混" calque="confused"/>
-    <word original="兮" calque="!"/>
-    <word original="其" calque="it"/>
-    <word original="若" calque="like"/>
-    <word original="濁" calque="muddy"/>
-</line>
-
-<line commentary="This line introduces a profound question using 孰 (who). Notice how 以 connects the two actions - making muddy water clear through stillness.">
-    <word original="孰" calque="who"/>
-    <word original="能" calque="can"/>
-    <word original="濁" calque="muddy"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="靜" calque="still"/>
-    <word original="之" calque="it"/>
-    <word original="徐" calque="gradually"/>
-    <word original="清" calque="clear"/>
-</line>
-
-<line>
-    <word original="孰" calque="who"/>
-    <word original="能" calque="can"/>
-    <word original="安" calque="peaceful"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="久" calque="long"/>
-    <word original="動" calque="movement"/>
-    <word original="之" calque="it"/>
-    <word original="徐" calque="gradually"/>
-    <word original="生" calque="live"/>
-</line>
-
-<line>
-    <word original="保" calque="preserve"/>
-    <word original="此" calque="this"/>
-    <word original="道" calque="way"/>
-    <word original="者" calque="one-who"/>
-    <word original="不" calque="not"/>
-    <word original="欲" calque="desire"/>
-    <word original="盈" calque="full"/>
-</line>
-
-<line>
-    <word original="(.)夫" calque="(now)"/>
-    <word original="唯" calque="only"/>
-    <word original="不" calque="not"/>
-    <word original="盈" calque="full"/>
-</line>
-
-<line commentary="The final line contains bracketed words that modify the meaning. Try to understand how [以] functions as a connector and how [而] creates a contrast.">
-    <word original="(是)" calque="(this)"/>
-    <word original="[以]" calque="[therefore]"/>
-    <word original="能" calque="can"/>
-    <word original="蔽" calque="cover"/>
-    <word original="[而]" calque="[yet]"/>
-    <word original="不" calque="not"/>
-    <word original="__" calque="..."/>
-    <word original="成" calque="complete"/>
-</line>
+  <line commentary="This opening introduces ancient masters of the Dao. The character 士 (shì) refers to educated individuals or gentlemen - those who embodied wisdom in practice, not just theory.">
+    <word original="古" calque="ancient" pinyin="gǔ"/>
+    <word original="之" calque="'s" pinyin="zhī"/>
+    <word original="善" calque="good" pinyin="shàn"/>
+    <word original="為" calque="act-as" pinyin="wéi"/>
+    <word original="士" calque="scholar" pinyin="shì"/>
+    <word original="者" calque="one-who" pinyin="zhě"/>
+    <word original="微" calque="subtle" pinyin="wēi"/>
+    <word original="妙" calque="mysterious" pinyin="miào"/>
+    <word original="玄" calque="dark" pinyin="xuán"/>
+    <word original="通" calque="penetrating" pinyin="tōng"/>
+  </line>
+  <line commentary="Why can't the masters be 'known'? Perhaps their wisdom transcends ordinary understanding. Consider: must truth be graspable, or does its very nature elude our attempts to capture it?">
+    <word original="深" calque="deep" pinyin="shēn"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="可" calque="can" pinyin="kě"/>
+    <word original="識" calque="know" pinyin="shí"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+  </line>
+  <line>
+    <word original="(.)夫" calque="(.)indeed" pinyin="fú"/>
+    <word original="唯" calque="only" pinyin="wéi"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="可" calque="can" pinyin="kě"/>
+    <word original="識" calque="know" pinyin="shí"/>
+  </line>
+  <line commentary="Since these masters cannot be known directly, the text attempts to describe them through metaphors. Notice how '強為之容' (forcefully describe their appearance) acknowledges the limitation of language itself.">
+    <word original="(.)故" calque="(.)therefore" pinyin="gù"/>
+    <word original="強" calque="force" pinyin="qiáng"/>
+    <word original="為" calque="make" pinyin="wéi"/>
+    <word original="之" calque="their" pinyin="zhī"/>
+    <word original="容" calque="appearance" pinyin="róng"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+  </line>
+  <line commentary="What might it feel like to cross a frozen river in winter? The image evokes careful, deliberate movement - every step matters. The particle '兮' adds a poetic, rhythmic quality throughout these descriptions.">
+    <word original="豫" calque="cautious" pinyin="yù"/>
+    <word original="兮" calque="ah" pinyin="xī"/>
+    <word original="若" calque="like" pinyin="ruò"/>
+    <word original="冬" calque="winter" pinyin="dōng"/>
+    <word original="涉" calque="cross" pinyin="shè"/>
+    <word original="川" calque="river" pinyin="chuān"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+  </line>
+  <line>
+    <word original="猶" calque="hesitant" pinyin="yóu"/>
+    <word original="兮" calque="ah" pinyin="xī"/>
+    <word original="若" calque="like" pinyin="ruò"/>
+    <word original="畏" calque="fear" pinyin="wèi"/>
+    <word original="四" calque="four" pinyin="sì"/>
+    <word original="鄰" calque="neighbor" pinyin="lín"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+  </line>
+  <line>
+    <word original="儼" calque="dignified" pinyin="yǎn"/>
+    <word original="兮" calque="ah" pinyin="xī"/>
+    <word original="其" calque="as-if" pinyin="qí"/>
+    <word original="若" calque="like" pinyin="ruò"/>
+    <word original="(客)" calque="(guest)" pinyin="(kè)"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+  </line>
+  <line commentary="Ice melting captures a state of transformation - solid becoming liquid. The Daoist master exists in this in-between state, neither fully formed nor formless. Can you see how all these metaphors suggest a balance between opposites?">
+    <word original="渙" calque="melting" pinyin="huàn"/>
+    <word original="兮" calque="ah" pinyin="xī"/>
+    <word original="若" calque="like" pinyin="ruò"/>
+    <word original="冰" calque="ice" pinyin="bīng"/>
+    <word original="__" calque="__" pinyin="__"/>
+    <word original="將" calque="about-to" pinyin="jiāng"/>
+    <word original="釋" calque="dissolve" pinyin="shì"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+  </line>
+  <line commentary="'樸' (uncarved wood) is a key Daoist concept representing natural simplicity before human interference. The sage returns to this original nature. How might living like 'uncarved wood' change your approach to life?">
+    <word original="敦" calque="honest" pinyin="dūn"/>
+    <word original="兮" calque="ah" pinyin="xī"/>
+    <word original="其" calque="as-if" pinyin="qí"/>
+    <word original="若" calque="like" pinyin="ruò"/>
+    <word original="樸" calque="uncarved-wood" pinyin="pǔ"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+  </line>
+  <line>
+    <word original="曠" calque="vast" pinyin="kuàng"/>
+    <word original="兮" calque="ah" pinyin="xī"/>
+    <word original="其" calque="as-if" pinyin="qí"/>
+    <word original="若" calque="like" pinyin="ruò"/>
+    <word original="谷" calque="valley" pinyin="gǔ"/>
+  </line>
+  <line>
+    <word original="混" calque="mixed" pinyin="hùn"/>
+    <word original="兮" calque="ah" pinyin="xī"/>
+    <word original="其" calque="as-if" pinyin="qí"/>
+    <word original="若" calque="like" pinyin="ruò"/>
+    <word original="濁" calque="muddy" pinyin="zhuó"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+  </line>
+  <line commentary="A profound question: who can make muddy water clear through stillness? The text suggests transformation happens not through force but through patience ('徐' - gradually). Consider how this applies to your own mind when it's turbulent.">
+    <word original="孰" calque="who" pinyin="shú"/>
+    <word original="能" calque="can" pinyin="néng"/>
+    <word original="濁" calque="muddy" pinyin="zhuó"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="靜" calque="still" pinyin="jìng"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="徐" calque="gradually" pinyin="xú"/>
+    <word original="清" calque="clear" pinyin="qīng"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+  </line>
+  <line>
+    <word original="孰" calque="who" pinyin="shú"/>
+    <word original="能" calque="can" pinyin="néng"/>
+    <word original="安" calque="quiet" pinyin="ān"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="久" calque="long-time" pinyin="jiǔ"/>
+    <word original="動" calque="movement" pinyin="dòng"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="徐" calque="gradually" pinyin="xú"/>
+    <word original="生" calque="live" pinyin="shēng"/>
+  </line>
+  <line commentary="Here is the core teaching: those who preserve the Dao avoid excess (盈 - fullness). What might it mean to 'not desire fullness' in your own life? Consider how spaces left empty allow for possibility.">
+    <word original="保" calque="preserve" pinyin="bǎo"/>
+    <word original="此" calque="this" pinyin="cǐ"/>
+    <word original="道" calque="the Dao" pinyin="dào"/>
+    <word original="者" calque="one-who" pinyin="zhě"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="欲" calque="desire" pinyin="yù"/>
+    <word original="盈" calque="full" pinyin="yíng"/>
+  </line>
+  <line>
+    <word original="(.)夫" calque="(.)indeed" pinyin="fú"/>
+    <word original="唯" calque="only" pinyin="wéi"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="盈" calque="full" pinyin="yíng"/>
+  </line>
+  <line commentary="The chapter concludes with a paradox: by not being full (不盈), one can remain hidden yet still be complete. The Daoist ideal embraces incompleteness as a form of wholeness. What completeness might exist in what appears unfinished?">
+    <word original="(是)" calque="(this)" pinyin="(shì)"/>
+    <word original="[以]" calque="[by-means-of]" pinyin="[yǐ]"/>
+    <word original="能" calque="can" pinyin="néng"/>
+    <word original="蔽" calque="conceal" pinyin="bì"/>
+    <word original="[而]" calque="[and]" pinyin="[ér]"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="__" calque="__" pinyin="__"/>
+    <word original="成" calque="complete" pinyin="chéng"/>
+  </line>
 </chapter>

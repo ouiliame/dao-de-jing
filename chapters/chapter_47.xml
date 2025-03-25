@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="47">
-<line commentary="This opening line sets up a fascinating paradox - how can one know the world without leaving home? The grammar here is simple negation (不) + verb (出) + object (戶).">
+<line commentary="Consider: How can one know the world without leaving home? What kind of knowing transcends physical experience?">
     <word original="不" calque="not"/>
     <word original="出" calque="exit"/>
     <word original="戶" calque="door"/>
 </line>
 
-<line commentary="Note how [以] functions here - it indicates means/method. The structure is: [by-means-of] + verb + object. This creates a powerful connection between the first and second lines.">
+<line commentary="The brackets suggest an understood 'by means of' - what power lies in this omission?">
     <word original="[以]" calque="[by-means-of]"/>
     <word original="知" calque="know"/>
-    <word original="天" calque="heaven"/>
-    <word original="下" calque="below"/>
+    <word original="天下" calque="under-heaven"/>
 </line>
 
-<line commentary="闚 is a very specific word for 'peek through a small opening' - the precision of Classical Chinese can be remarkable!">
+<line commentary="'Peek' implies furtive observation - why might the text choose this specific word?">
     <word original="不" calque="not"/>
     <word original="闚" calque="peek"/>
     <word original="牖" calque="window"/>
@@ -23,31 +22,31 @@
     <word original="[以]" calque="[by-means-of]"/>
     <word original="(知)" calque="(know)"/>
     <word original="天" calque="heaven"/>
-    <word original="道" calque="way"/>
+    <word original="道" calque="the Dao"/>
 </line>
 
-<line commentary="彌 is an intensifier meaning 'increasingly' or 'more and more' - watch how it creates a building sense in these parallel lines.">
+<line commentary="彌 creates a sense of endless expansion - notice how this plays against the theme of staying still">
     <word original="其" calque="its"/>
-    <word original="出" calque="going-out"/>
+    <word original="出" calque="exit"/>
     <word original="彌" calque="increasingly"/>
     <word original="遠" calque="far"/>
 </line>
 
 <line>
     <word original="其" calque="its"/>
-    <word original="知" calque="knowing"/>
+    <word original="知" calque="knowledge"/>
     <word original="彌" calque="increasingly"/>
-    <word original="少" calque="little"/>
+    <word original="少" calque="less"/>
 </line>
 
-<line commentary="是以 ('therefore') often signals an important conclusion or lesson is coming. 聖人 (sage) is a key concept in Daoist philosophy - one who has achieved great wisdom.">
+<line commentary="The sage appears as the embodiment of this paradox">
     <word original="是" calque="this"/>
     <word original="以" calque="by-means-of"/>
     <word original="聖" calque="sage"/>
     <word original="人" calque="person"/>
 </line>
 
-<line commentary="The final three lines follow a powerful parallel structure. Each begins with 不 (not) followed by a verb, 而 (and/yet), and a result. Can you see how this builds to the chapter's conclusion?">
+<line>
     <word original="不" calque="not"/>
     <word original="行" calque="travel"/>
     <word original="而" calque="yet"/>
@@ -61,10 +60,10 @@
     <word original="名" calque="name"/>
 </line>
 
-<line>
+<line commentary="The final line crystallizes the paradox: achievement through non-action">
     <word original="不" calque="not"/>
-    <word original="為" calque="do"/>
+    <word original="為" calque="act"/>
     <word original="而" calque="yet"/>
-    <word original="成" calque="accomplish"/>
+    <word original="成" calque="complete"/>
 </line>
 </chapter>

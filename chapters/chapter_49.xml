@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="49">
-<line commentary="This opening line introduces a profound concept about the sage's mind - notice how 無常 (without-constant) relates to adaptability">
-    <word original="聖" calque="sage"/>
-    <word original="人" calque="person"/>
+<line commentary="Consider: How can having 'no constant heart' be a virtue?">
+    <word original="聖人" calque="sage-person"/>
     <word original="無" calque="without"/>
     <word original="常" calque="constant"/>
-    <word original="心" calque="heart-mind"/>
+    <word original="心" calque="heart"/>
 </line>
 
-<line commentary="A key line showing how the sage relates to others - watch how 為 (make/become) creates a relationship between the two instances of 心 (heart-mind)">
+<line commentary="The sage adapts to match the hearts of others - but who is really following whom?">
     <word original="以" calque="by-means-of"/>
-    <word original="百" calque="hundred"/>
-    <word original="姓" calque="surnames"/>
-    <word original="心" calque="heart-mind"/>
-    <word original="為" calque="make"/>
-    <word original="心" calque="heart-mind"/>
+    <word original="百姓" calque="hundred-names"/>
+    <word original="心" calque="heart"/>
+    <word original="為" calque="become"/>
+    <word original="心" calque="heart"/>
 </line>
 
-<line>
+<line commentary="A statement of radical acceptance - but what does it mean to be 'good' to the good?">
     <word original="善" calque="good"/>
     <word original="者" calque="one-who"/>
     <word original="吾" calque="I"/>
@@ -25,7 +23,7 @@
     <word original="之" calque="them"/>
 </line>
 
-<line commentary="Notice the parallel structure with the previous line - a common poetic device in Classical Chinese">
+<line commentary="The challenge: Can you truly be equally good to those who aren't good?">
     <word original="不" calque="not"/>
     <word original="善" calque="good"/>
     <word original="者" calque="one-who"/>
@@ -35,7 +33,7 @@
     <word original="之" calque="them"/>
 </line>
 
-<line commentary="This short line carries deep meaning - 德 (virtue/power) is paired with 善 (good)">
+<line commentary="Virtue manifests as goodness">
     <word original="德" calque="virtue"/>
     <word original="善" calque="good"/>
     <word original="." calque="." punctuation="true"/>
@@ -59,45 +57,38 @@
     <word original="之" calque="them"/>
 </line>
 
-<line>
+<line commentary="Trust begets virtue - or is it the other way around?">
     <word original="德" calque="virtue"/>
     <word original="信" calque="trust"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="歙歙 (xi xi) is an interesting onomatopoeia suggesting gathering or drawing in - think about what this implies about the sage's presence">
-    <word original="聖" calque="sage"/>
-    <word original="人" calque="person"/>
+<line commentary="歙歙 paints a picture of careful, attentive movement - like breathing">
+    <word original="聖人" calque="sage-person"/>
     <word original="在" calque="at"/>
-    <word original="天" calque="heaven"/>
-    <word original="下" calque="below"/>
-    <word original="歙" calque="gather"/>
-    <word original="歙" calque="gather"/>
+    <word original="天下" calque="under-heaven"/>
+    <word original="歙歙" calque="carefully"/>
 </line>
 
-<line commentary="渾 suggests a mixing or muddling - consider why the sage would 'muddle' their heart-mind for all under heaven">
+<line commentary="To 'muddy' hearts - why would confusion be beneficial?">
     <word original="[焉]" calque="[thereby]"/>
-    <word original="為" calque="make"/>
-    <word original="天" calque="heaven"/>
-    <word original="下" calque="below"/>
-    <word original="渾" calque="muddle"/>
+    <word original="為" calque="for"/>
+    <word original="天下" calque="under-heaven"/>
+    <word original="渾" calque="muddy"/>
     <word original="其" calque="their"/>
-    <word original="心" calque="heart-mind"/>
+    <word original="心" calque="heart"/>
 </line>
 
-<line>
-    <word original="百" calque="hundred"/>
-    <word original="姓" calque="surnames"/>
+<line commentary="The people focus their senses - but on what?">
+    <word original="百姓" calque="hundred-names"/>
     <word original="皆" calque="all"/>
-    <word original="注" calque="focus"/>
+    <word original="注" calque="pour"/>
     <word original="其" calque="their"/>
-    <word original="耳" calque="ears"/>
-    <word original="目" calque="eyes"/>
+    <word original="耳目" calque="ears-eyes"/>
 </line>
 
-<line commentary="The final line uses 孩 (child/infant) - what might it mean for a sage to treat everyone as children?">
-    <word original="聖" calque="sage"/>
-    <word original="人" calque="person"/>
+<line commentary="What does it mean to treat everyone as children? Is this patronizing or enlightened?">
+    <word original="聖人" calque="sage-person"/>
     <word original="皆" calque="all"/>
     <word original="孩" calque="child"/>
     <word original="之" calque="them"/>

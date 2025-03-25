@@ -1,28 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="46">
-<line commentary="This opening line sets up a contrast between two states of the world - when there is 道 (Way) and when there isn't. Watch how the outcomes differ!">
-    <word original="天" calque="heaven"/>
-    <word original="下" calque="below"/>
+<line commentary="Observe how the presence or absence of the Dao affects even the purpose of horses">
+    <word original="天下" calque="under-heaven"/>
     <word original="有" calque="have"/>
-    <word original="道" calque="way"/>
+    <word original="道" calque="the Dao"/>
 </line>
 
-<line commentary="An fascinating image! Notice how 卻 (to send back/return) combines with 走馬 (running horses) and 糞 (manure) - what might using horses for fertilizer rather than war suggest about a society?">
+<line commentary="In peace, horses return to simple agricultural duties">
     <word original="卻" calque="return"/>
-    <word original="走" calque="run"/>
+    <word original="走" calque="walk"/>
     <word original="馬" calque="horse"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="糞" calque="manure"/>
+    <word original="以" calque="for"/>
+    <word original="糞" calque="fertilizer"/>
 </line>
 
-<line>
-    <word original="天" calque="heaven"/>
-    <word original="下" calque="below"/>
+<line commentary="Consider: what changes when the Dao is lost?">
+    <word original="天下" calque="under-heaven"/>
     <word original="無" calque="not-have"/>
-    <word original="道" calque="way"/>
+    <word original="道" calque="the Dao"/>
 </line>
 
-<line commentary="Compare this to the previous horse imagery - now where are the horses and what kind are they?">
+<line commentary="War horses bred at the borders - what does this tell us about society?">
     <word original="戎" calque="military"/>
     <word original="馬" calque="horse"/>
     <word original="生" calque="born"/>
@@ -31,7 +29,7 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="This parenthetical line introduces the first of three parallel statements about 莫大於 (nothing greater than). Notice how 可欲 combines 'possible' and 'desire'">
+<line commentary="First in a series examining desire - what makes it a crime?">
     <word original="(罪" calque="(crime"/>
     <word original="莫" calque="none"/>
     <word original="大" calque="greater"/>
@@ -40,8 +38,8 @@
     <word original="欲)" calque="desire)"/>
 </line>
 
-<line>
-    <word original="禍" calque="disaster"/>
+<line commentary="How does not knowing contentment lead to misfortune?">
+    <word original="禍" calque="misfortune"/>
     <word original="莫" calque="none"/>
     <word original="大" calque="greater"/>
     <word original="於" calque="than"/>
@@ -50,20 +48,20 @@
     <word original="足" calque="enough"/>
 </line>
 
-<line>
-    <word original="咎" calque="blame"/>
+<line commentary="The final escalation - from desire to grasping">
+    <word original="咎" calque="fault"/>
     <word original="莫" calque="none"/>
     <word original="大" calque="greater"/>
     <word original="於" calque="than"/>
-    <word original="欲" calque="desire"/>
+    <word original="欲" calque="want"/>
     <word original="得" calque="obtain"/>
 </line>
 
-<line commentary="A beautiful conclusion that plays with the word 足 (enough). Notice how it appears three times - as a verb 'to be enough', as a noun 'what is enough', and again as 'enough'. The repetition creates a sense of completeness.">
+<line commentary="A profound play on words with 足 (enough) - how many meanings can you find?">
     <word original="(.)故" calque="(.)therefore"/>
     <word original="知" calque="know"/>
     <word original="足" calque="enough"/>
-    <word original="之" calque="of"/>
+    <word original="之" calque="'s"/>
     <word original="足" calque="enough"/>
     <word original="常" calque="always"/>
     <word original="足" calque="enough"/>

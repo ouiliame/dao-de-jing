@@ -1,82 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="42">
-<line commentary="This is one of the most famous cosmological passages in Daoism, describing the emergence of existence itself.">
-    <word original="道" calque="way"/>
+<line commentary="The famous cosmological sequence begins. Notice how 'one' emerges from the ineffable Dao - what might this suggest about the nature of reality?">
+    <word original="道" calque="the Dao"/>
     <word original="生" calque="gives-birth-to"/>
     <word original="一" calque="one"/>
 </line>
+
 <line>
     <word original="一" calque="one"/>
     <word original="生" calque="gives-birth-to"/>
     <word original="二" calque="two"/>
 </line>
+
 <line>
     <word original="二" calque="two"/>
     <word original="生" calque="gives-birth-to"/>
     <word original="三" calque="three"/>
 </line>
-<line commentary="Notice how 萬 (ten-thousand) is often used to mean 'all' or 'myriad' in Classical Chinese">
+
+<line commentary="萬 literally means 'ten thousand' but represents 'all things' - how does this multiplication from one to many mirror natural processes?">
     <word original="三" calque="three"/>
     <word original="生" calque="gives-birth-to"/>
-    <word original="萬" calque="ten-thousand"/>
-    <word original="物" calque="things"/>
+    <word original="萬物" calque="ten-thousand-things"/>
 </line>
-<line commentary="An elegant description of duality - what might 負 (carry-on-back) and 抱 (embrace) suggest about the relationship between yin and yang?">
-    <word original="萬" calque="ten-thousand"/>
-    <word original="物" calque="things"/>
+
+<line commentary="A beautiful description of how opposing forces create existence. What carries yin and embraces yang in your world?">
+    <word original="萬物" calque="ten-thousand-things"/>
     <word original="負" calque="carry-on-back"/>
     <word original="陰" calque="yin"/>
     <word original="而" calque="and"/>
     <word original="抱" calque="embrace"/>
     <word original="陽" calque="yang"/>
 </line>
-<line commentary="沖 carries the sense of 'empty' or 'hollow' - how might this relate to harmony?">
+
+<line commentary="沖 suggests empty space or vital breath - how might emptiness create harmony?">
     <word original="沖" calque="empty"/>
-    <word original="氣" calque="energy"/>
+    <word original="氣" calque="breath"/>
     <word original="以" calque="by-means-of"/>
     <word original="為" calque="become"/>
     <word original="和" calque="harmony"/>
 </line>
+
 <line>
     <word original="人" calque="people"/>
     <word original="之" calque="'s"/>
     <word original="所" calque="that-which"/>
     <word original="惡" calque="hate"/>
 </line>
-<line commentary="These three terms (孤寡不穀) were humble self-deprecating terms used by rulers - what might this tell us about true leadership?">
+
+<line commentary="A profound observation about titles and self-reference. Why might powerful people choose humble titles?">
     <word original="唯" calque="only"/>
-    <word original="孤" calque="alone"/>
-    <word original="寡" calque="widow"/>
-    <word original="不" calque="not"/>
-    <word original="穀" calque="grain"/>
+    <word original="孤" calque="orphaned"/>
+    <word original="寡" calque="alone"/>
+    <word original="不穀" calque="worthless-one"/>
 </line>
+
 <line>
     <word original="而" calque="yet"/>
-    <word original="王" calque="king"/>
-    <word original="公" calque="duke"/>
+    <word original="王公" calque="kings-and-dukes"/>
     <word original="以" calque="by-means-of"/>
     <word original="(自)" calque="(self)"/>
     <word original="稱" calque="call"/>
     <word original="." calque="."/>
 </line>
+
 <line>
-    <word original="(.)故" calque="(therefore)"/>
+    <word original="(.)故" calque="therefore"/>
     <word original="物" calque="things"/>
 </line>
-<line commentary="Notice the parallel structure in these next two lines - a common poetic device in Classical Chinese">
-    <word original="或" calque="perhaps"/>
+
+<line commentary="The paradox of gain and loss begins. Consider: what examples of this principle do you see in nature?">
+    <word original="或" calque="some"/>
     <word original="損" calque="decrease"/>
     <word original="之" calque="it"/>
     <word original="而" calque="and"/>
     <word original="益" calque="increase"/>
 </line>
+
 <line>
-    <word original="或" calque="perhaps"/>
+    <word original="或" calque="some"/>
     <word original="益" calque="increase"/>
     <word original="之" calque="it"/>
     <word original="而" calque="and"/>
     <word original="損" calque="decrease"/>
 </line>
+
 <line>
     <word original="人" calque="people"/>
     <word original="之" calque="'s"/>
@@ -87,15 +95,16 @@
     <word original="教" calque="teach"/>
     <word original="之" calque="it"/>
 </line>
-<line commentary="強梁 (strong-beam) is often used to describe those who are forcefully aggressive - what might this line suggest about such behavior?">
-    <word original="強" calque="strong"/>
-    <word original="梁" calque="beam"/>
+
+<line commentary="強梁 (forceful and aggressive) appears often in Daoist texts as a warning. What happens to those who oppose natural ways?">
+    <word original="強梁" calque="forceful-aggressive"/>
     <word original="者" calque="one"/>
     <word original="不" calque="not"/>
-    <word original="得" calque="obtain"/>
+    <word original="得" calque="attain"/>
     <word original="其" calque="their"/>
     <word original="死" calque="death"/>
 </line>
+
 <line>
     <word original="吾" calque="I"/>
     <word original="將" calque="will"/>

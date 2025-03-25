@@ -1,74 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="11">
-<line commentary="This opening line presents a tangible image of a wheel - notice how the numbers add up to something significant...">
-    <word original="三" calque="three"/>
-    <word original="十" calque="ten"/>
+<line commentary="The chapter opens with a concrete image of a wheel - notice how it starts with the many (spokes) and moves to the one (hub).">
+    <word original="三十" calque="thirty"/>
     <word original="輻" calque="spoke"/>
-    <word original="共" calque="together"/>
+    <word original="共" calque="share"/>
     <word original="一" calque="one"/>
     <word original="轂" calque="hub"/>
 </line>
 
-<line commentary="Here we encounter a key grammatical pattern that will repeat - 當其 (when/at) followed by 之用 (its use). Pay attention to how 無 (nothing) and 有 (something) create contrast.">
-    <word original="當" calque="when"/>
+<line commentary="Consider: what makes a wheel useful? Is it the physical spokes, or the empty space they create?">
+    <word original="當" calque="where"/>
     <word original="其" calque="its"/>
     <word original="無" calque="nothing"/>
     <word original="有" calque="has"/>
     <word original="車" calque="chariot"/>
-    <word original="之" calque="of"/>
+    <word original="之" calque="'s"/>
     <word original="用" calque="use"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="埴 refers specifically to clay for pottery - consider why the text chooses such a hands-on, craftsman-like example">
-    <word original="埏" calque="knead"/>
-    <word original="埴" calque="clay"/>
+<line commentary="The text shifts to pottery - another everyday craft that depends on emptiness.">
+    <word original="埏埴" calque="knead-clay"/>
     <word original="以" calque="by-means-of"/>
     <word original="為" calque="make"/>
     <word original="器" calque="vessel"/>
 </line>
 
 <line>
-    <word original="當" calque="when"/>
+    <word original="當" calque="where"/>
     <word original="其" calque="its"/>
     <word original="無" calque="nothing"/>
     <word original="有" calque="has"/>
     <word original="器" calque="vessel"/>
-    <word original="之" calque="of"/>
+    <word original="之" calque="'s"/>
     <word original="用" calque="use"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="戶牖 refers to doors and windows - notice how each example (wheel, vessel, room) creates increasingly larger spaces">
-    <word original="鑿" calque="carve"/>
-    <word original="戶" calque="door"/>
-    <word original="牖" calque="window"/>
+<line commentary="The final practical example: architecture. What makes a room useful?">
+    <word original="鑿" calque="cut"/>
+    <word original="戶牖" calque="doors-windows"/>
     <word original="以" calque="by-means-of"/>
     <word original="為" calque="make"/>
     <word original="室" calque="room"/>
 </line>
 
 <line>
-    <word original="當" calque="when"/>
+    <word original="當" calque="where"/>
     <word original="其" calque="its"/>
     <word original="無" calque="nothing"/>
     <word original="有" calque="has"/>
     <word original="室" calque="room"/>
-    <word original="之" calque="of"/>
+    <word original="之" calque="'s"/>
     <word original="用" calque="use"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="故 signals a conclusion is coming. How does this final couplet relate to all the examples above?">
-    <word original="(.)故" calque="(therefore)"/>
-    <word original="有" calque="have"/>
+<line commentary="A philosophical pivot: how can something that isn't there be useful?">
+    <word original="(.)故" calque="therefore"/>
+    <word original="有" calque="existence"/>
     <word original="之" calque="it"/>
     <word original="以" calque="by-means-of"/>
     <word original="為" calque="make"/>
     <word original="利" calque="benefit"/>
 </line>
 
-<line commentary="This final line creates a profound parallel with the previous one. What's the relationship between 利 (benefit) and 用 (use)?">
+<line commentary="What is more valuable - what is there, or what isn't there?">
     <word original="無" calque="nothing"/>
     <word original="之" calque="it"/>
     <word original="以" calque="by-means-of"/>

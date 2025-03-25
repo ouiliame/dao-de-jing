@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="1">
-<line commentary="This opening line plays with multiple meanings of 道 (dao) as both 'speak/explain' and 'way/path' - a profound philosophical wordplay that sets up the entire text.">
+<line commentary="Notice how the first line creates a paradox: the Dao that can be spoken of is not the eternal way. How can we talk about something that cannot be talked about?">
     <word original="." calque="." punctuation="true"/>
-    <word original="道" calque="way"/>
+    <word original="道" calque="the Dao"/>
     <word original="可" calque="can"/>
     <word original="道" calque="speak"/>
     <word original="非" calque="not"/>
     <word original="常" calque="constant"/>
-    <word original="道" calque="way"/>
+    <word original="道" calque="the Dao"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="This line parallels the first, using 名 (name) in place of 道 - suggesting deep connections between naming/language and reality.">
+<line commentary="Consider: What happens when we name something? Does giving something a name limit what it can be?">
     <word original="名" calque="name"/>
     <word original="可" calque="can"/>
     <word original="名" calque="name"/>
@@ -21,7 +21,7 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="無 (without) and 有 (with/having) form an important philosophical pair in Daoist thought. Notice how these two lines mirror each other.">
+<line commentary="Before names existed, what was there? Imagine a world before language.">
     <word original="無" calque="without"/>
     <word original="名" calque="name"/>
     <word original="天" calque="heaven"/>
@@ -31,8 +31,8 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="有" calque="with"/>
+<line commentary="How does naming things create our world? What is the relationship between names and reality?">
+    <word original="有" calque="having"/>
     <word original="名" calque="name"/>
     <word original="萬" calque="ten-thousand"/>
     <word original="物" calque="things"/>
@@ -41,29 +41,29 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="以 is a versatile grammatical particle - here it indicates using one thing to achieve another.">
-    <word original="(.)故" calque="therefore"/>
-    <word original="常" calque="constant"/>
+<line commentary="What do we see when we let go of desire? What are the 'mysteries' that become visible?">
+    <word original="故" calque="therefore"/>
+    <word original="常" calque="constantly"/>
     <word original="無" calque="without"/>
     <word original="欲" calque="desire"/>
     <word original="以" calque="by-means-of"/>
     <word original="觀" calque="observe"/>
     <word original="其" calque="its"/>
-    <word original="妙" calque="subtlety"/>
+    <word original="妙" calque="subtleties"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="常" calque="constant"/>
-    <word original="有" calque="with"/>
+<line commentary="How does desire shape what we see in the world?">
+    <word original="常" calque="constantly"/>
+    <word original="有" calque="having"/>
     <word original="欲" calque="desire"/>
     <word original="以" calque="by-means-of"/>
     <word original="觀" calque="observe"/>
     <word original="其" calque="its"/>
-    <word original="徼" calque="boundary"/>
+    <word original="徼" calque="boundaries"/>
 </line>
 
-<line commentary="兩 literally means 'two' but here refers to the previous contrasting statements. Notice how 而 connects related ideas.">
+<line commentary="How can two opposites emerge from the same source?">
     <word original="此" calque="these"/>
     <word original="兩" calque="two"/>
     <word original="者" calque="ones"/>
@@ -71,27 +71,27 @@
     <word original="出" calque="emerge"/>
     <word original="而" calque="yet"/>
     <word original="異" calque="different"/>
-    <word original="名" calque="name"/>
+    <word original="名" calque="names"/>
 </line>
 
 <line>
-    <word original="同" calque="same"/>
-    <word original="謂" calque="called"/>
+    <word original="同" calque="together"/>
+    <word original="謂" calque="call"/>
     <word original="之" calque="it"/>
-    <word original="玄" calque="dark/mysterious"/>
+    <word original="玄" calque="mysterious"/>
 </line>
 
-<line commentary="玄 (mysterious darkness) is repeated, intensifying its meaning - like peering into deeper and deeper mysteries.">
-    <word original="玄" calque="dark/mysterious"/>
+<line commentary="What lies beyond the mysterious? Can you feel the spiral of deepening mystery?">
+    <word original="玄" calque="mysterious"/>
     <word original="之" calque="'s"/>
     <word original="又" calque="further"/>
-    <word original="玄" calque="dark/mysterious"/>
+    <word original="玄" calque="mysterious"/>
 </line>
 
-<line commentary="門 (gate/door) is a powerful metaphor - suggesting these mysteries are an entrance to understanding.">
+<line commentary="How does mystery give birth to understanding?">
     <word original="眾" calque="many"/>
-    <word original="妙" calque="subtle"/>
+    <word original="妙" calque="wonders"/>
     <word original="之" calque="'s"/>
-    <word original="門" calque="gate"/>
+    <word original="門" calque="gateway"/>
 </line>
 </chapter>
