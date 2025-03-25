@@ -1,70 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="11">
-<line commentary="This opening line presents a powerful concrete image of a wheel to illustrate abstract principles">
+<line commentary="This opening line presents a tangible image of a wheel - notice how the numbers add up to something significant...">
     <word original="三" calque="three"/>
     <word original="十" calque="ten"/>
     <word original="輻" calque="spoke"/>
-    <word original="共" calque="join"/>
+    <word original="共" calque="together"/>
     <word original="一" calque="one"/>
     <word original="轂" calque="hub"/>
 </line>
-<line>
+
+<line commentary="Here we encounter a key grammatical pattern that will repeat - 當其 (when/at) followed by 之用 (its use). Pay attention to how 無 (nothing) and 有 (something) create contrast.">
     <word original="當" calque="when"/>
     <word original="其" calque="its"/>
     <word original="無" calque="nothing"/>
-    <word original="有" calque="exist"/>
-    <word original="車" calque="cart"/>
+    <word original="有" calque="has"/>
+    <word original="車" calque="chariot"/>
     <word original="之" calque="of"/>
     <word original="用" calque="use"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="埏埴 refers specifically to molding clay - a metaphor for shaping emptiness into usefulness">
+
+<line commentary="埴 refers specifically to clay for pottery - consider why the text chooses such a hands-on, craftsman-like example">
     <word original="埏" calque="knead"/>
     <word original="埴" calque="clay"/>
     <word original="以" calque="by-means-of"/>
     <word original="為" calque="make"/>
     <word original="器" calque="vessel"/>
 </line>
+
 <line>
     <word original="當" calque="when"/>
     <word original="其" calque="its"/>
     <word original="無" calque="nothing"/>
-    <word original="有" calque="exist"/>
+    <word original="有" calque="has"/>
     <word original="器" calque="vessel"/>
     <word original="之" calque="of"/>
     <word original="用" calque="use"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="Windows and doors are themselves empty spaces that make a room useful">
-    <word original="鑿" calque="cut"/>
+
+<line commentary="戶牖 refers to doors and windows - notice how each example (wheel, vessel, room) creates increasingly larger spaces">
+    <word original="鑿" calque="carve"/>
     <word original="戶" calque="door"/>
     <word original="牖" calque="window"/>
     <word original="以" calque="by-means-of"/>
     <word original="為" calque="make"/>
     <word original="室" calque="room"/>
 </line>
+
 <line>
     <word original="當" calque="when"/>
     <word original="其" calque="its"/>
     <word original="無" calque="nothing"/>
-    <word original="有" calque="exist"/>
+    <word original="有" calque="has"/>
     <word original="室" calque="room"/>
     <word original="之" calque="of"/>
     <word original="用" calque="use"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line>
-    <word original="(.)" calque="(.)" punctuation="true"/>
-    <word original="故" calque="therefore"/>
-    <word original="有" calque="exist"/>
-    <word original="之" calque="of"/>
+
+<line commentary="故 signals a conclusion is coming. How does this final couplet relate to all the examples above?">
+    <word original="(.)故" calque="(therefore)"/>
+    <word original="有" calque="have"/>
+    <word original="之" calque="it"/>
     <word original="以" calque="by-means-of"/>
     <word original="為" calque="make"/>
     <word original="利" calque="benefit"/>
 </line>
-<line commentary="The final line presents the central paradox - emptiness/nothingness (無) is what makes things useful">
+
+<line commentary="This final line creates a profound parallel with the previous one. What's the relationship between 利 (benefit) and 用 (use)?">
     <word original="無" calque="nothing"/>
-    <word original="之" calque="of"/>
+    <word original="之" calque="it"/>
     <word original="以" calque="by-means-of"/>
     <word original="為" calque="make"/>
     <word original="用" calque="use"/>

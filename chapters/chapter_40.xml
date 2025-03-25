@@ -1,38 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="40">
-<line commentary="This opening line introduces a fundamental concept about the Dao's movement being cyclical or contrarian to what we expect">
-    <word original="反" calque="return"/>
+<line commentary="This opening line introduces a fascinating concept about movement/change (動) in relation to the Dao. Notice how 者 marks the topic!">
+    <word original="反" calque="return/reverse"/>
     <word original="者" calque="one-who"/>
     <word original="道" calque="way"/>
-    <word original="之" calque="of"/>
+    <word original="之" calque="'s"/>
     <word original="動" calque="movement"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="This line pairs with the first, showing how the Dao operates through what appears weak or yielding">
+<line commentary="Similar grammatical structure to the first line. The character 用 has a basic meaning of 'use/function' but carries deeper implications about utility and purpose.">
     <word original="弱" calque="weak"/>
     <word original="者" calque="one-who"/>
     <word original="道" calque="way"/>
-    <word original="之" calque="of"/>
+    <word original="之" calque="'s"/>
     <word original="用" calque="use"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Here we see the origin of manifested things, using 萬物 (10,000 things) to represent all of existence">
+<line commentary="Here we see 萬物 (ten-thousand things) - a classical way to refer to 'everything in existence'. The structure 生於 (born-from) is key to understanding this cosmological statement.">
     <word original="天" calque="heaven"/>
     <word original="下" calque="below"/>
     <word original="萬" calque="ten-thousand"/>
     <word original="物" calque="things"/>
     <word original="生" calque="born"/>
     <word original="於" calque="from"/>
-    <word original="有" calque="being"/>
+    <word original="有" calque="existence"/>
+    <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="This final line reveals the ultimate source - that being itself comes from non-being, a profound philosophical statement in just 5 characters">
-    <word original="有" calque="being"/>
+<line commentary="A profound philosophical statement about origins. Consider: what does it mean for 'existence' itself to be born from 'non-existence'? Notice how the same characters 生於 are used again.">
+    <word original="有" calque="existence"/>
     <word original="生" calque="born"/>
     <word original="於" calque="from"/>
-    <word original="無" calque="nothing"/>
+    <word original="無" calque="non-existence"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 </chapter>

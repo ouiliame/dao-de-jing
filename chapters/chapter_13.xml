@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="13">
-<line commentary="This opening line sets up a profound comparison between favor/honor and disgrace/shame, linking them to a startling emotional state">
+<line commentary="This opening line uses a powerful parallel structure comparing honor and disgrace to being startled - suggesting both are equally disruptive states of mind.">
     <word original="寵" calque="favor"/>
     <word original="辱" calque="disgrace"/>
     <word original="若" calque="like"/>
     <word original="驚" calque="startle"/>
 </line>
 
-<line>
+<line commentary="Here we see 大患 (great-trouble) paired with 身 (body/self) - consider why the self might be connected to our greatest concerns.">
     <word original="貴" calque="value"/>
     <word original="大" calque="great"/>
     <word original="患" calque="trouble"/>
     <word original="若" calque="like"/>
-    <word original="身" calque="body-self"/>
+    <word original="身" calque="body/self"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line>
+<line commentary="This rhetorical question structure (何謂) is common in Classical Chinese - it's setting up an explanation of the first line.">
     <word original="何" calque="what"/>
     <word original="謂" calque="call"/>
     <word original="寵" calque="favor"/>
@@ -25,10 +25,10 @@
     <word original="驚" calque="startle"/>
 </line>
 
-<line commentary="Note how 為 (wei) here means 'because' - showing how receiving honor can be as disturbing as receiving shame">
+<line commentary="Notice how 為 (become) is used here - it's describing a reaction to receiving favor. The grammar pattern X為Y means 'X becomes Y' or 'X is Y'.">
     <word original="寵" calque="favor"/>
-    <word original="為" calque="because"/>
-    <word original="下" calque="lower"/>
+    <word original="為" calque="become"/>
+    <word original="下" calque="below"/>
     <word original="得" calque="obtain"/>
     <word original="之" calque="it"/>
     <word original="若" calque="like"/>
@@ -59,12 +59,13 @@
     <word original="大" calque="great"/>
     <word original="患" calque="trouble"/>
     <word original="若" calque="like"/>
-    <word original="身" calque="body-self"/>
+    <word original="身" calque="body/self"/>
 </line>
 
-<line commentary="A pivotal line showing how attachment to self/body leads to suffering">
+<line commentary="This line introduces a complex cause-and-effect relationship. Notice how 所以 (therefore) and 為 (because) work together to express causation.">
     <word original="吾" calque="I"/>
-    <word original="所以" calque="therefore"/>
+    <word original="所" calque="that-which"/>
+    <word original="以" calque="by-means-of"/>
     <word original="有" calque="have"/>
     <word original="大" calque="great"/>
     <word original="患" calque="trouble"/>
@@ -72,15 +73,15 @@
     <word original="為" calque="because"/>
     <word original="吾" calque="I"/>
     <word original="有" calque="have"/>
-    <word original="身" calque="body-self"/>
+    <word original="身" calque="body/self"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="及" calque="until"/>
+<line commentary="Consider the logic here - what happens to troubles when there is no self?">
+    <word original="及" calque="if"/>
     <word original="吾" calque="I"/>
     <word original="無" calque="not-have"/>
-    <word original="身" calque="body-self"/>
+    <word original="身" calque="body/self"/>
     <word original="吾" calque="I"/>
     <word original="有" calque="have"/>
     <word original="何" calque="what"/>
@@ -88,41 +89,45 @@
     <word original="(.)" calque="(.)" punctuation="true"/>
 </line>
 
-<line>
+<line commentary="故 (therefore) signals this is a conclusion being drawn from previous statements.">
     <word original="(.)故" calque="therefore"/>
     <word original="貴" calque="value"/>
     <word original="以" calque="by-means-of"/>
-    <word original="身" calque="body-self"/>
+    <word original="身" calque="body/self"/>
     <word original="為" calque="for"/>
-    <word original="天下" calque="all-under-heaven"/>
+    <word original="天" calque="heaven"/>
+    <word original="下" calque="below"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
 <line>
-    <word original="若" calque="like"/>
+    <word original="若" calque="if"/>
     <word original="可" calque="can"/>
     <word original="[以]" calque="[by-means-of]"/>
     <word original="寄" calque="entrust"/>
-    <word original="天下" calque="all-under-heaven"/>
-    <word original="[矣(.)]" calque="[indeed]"/>
+    <word original="天" calque="heaven"/>
+    <word original="下" calque="below"/>
+    <word original="[矣(.)]" calque="[indeed(.)]"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line>
+<line commentary="The final two lines present a parallel structure using 寄 (entrust) and 託 (consign) - consider how these related but distinct words create subtle meaning differences.">
     <word original="愛" calque="love"/>
     <word original="以" calque="by-means-of"/>
-    <word original="身" calque="body-self"/>
+    <word original="身" calque="body/self"/>
     <word original="為" calque="for"/>
-    <word original="天下" calque="all-under-heaven"/>
+    <word original="天" calque="heaven"/>
+    <word original="下" calque="below"/>
 </line>
 
 <line>
-    <word original="若" calque="like"/>
+    <word original="若" calque="if"/>
     <word original="可" calque="can"/>
     <word original="[以]" calque="[by-means-of]"/>
-    <word original="託" calque="trust"/>
-    <word original="天下" calque="all-under-heaven"/>
-    <word original="[矣(.)]" calque="[indeed]"/>
+    <word original="託" calque="consign"/>
+    <word original="天" calque="heaven"/>
+    <word original="下" calque="below"/>
+    <word original="[矣(.)]" calque="[indeed(.)]"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 </chapter>

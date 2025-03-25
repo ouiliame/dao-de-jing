@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="4">
-<line commentary="This opening line uses the metaphor of an empty vessel (盅) to describe the Dao's limitless nature">
+<line commentary="This opening line uses the metaphor of a vessel (盅) - a common theme in Daoist texts where emptiness enables usefulness.">
     <word original="道" calque="way"/>
-    <word original="(盅)" calque="(empty-vessel)"/>
+    <word original="(盅)" calque="(hollow-vessel)"/>
     <word original="而" calque="and"/>
     <word original="用" calque="use"/>
     <word original="之" calque="it"/>
@@ -12,9 +12,9 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Here the Dao is compared to a deep abyss that appears to be the ancestor/source of all things">
-    <word original="淵" calque="abyss"/>
-    <word original="兮" calque="ah"/>
+<line commentary="Notice the particle 兮 (xi) - it creates a poetic pause and adds emphasis. 淵 (deep) often refers to still water - a key image in Daoism.">
+    <word original="淵" calque="deep"/>
+    <word original="兮" calque="!"/>
     <word original="似" calque="seem"/>
     <word original="萬" calque="ten-thousand"/>
     <word original="物" calque="thing"/>
@@ -31,34 +31,34 @@
 </line>
 
 <line>
-    <word original="解" calque="untie"/>
+    <word original="解" calque="unravel"/>
     <word original="其" calque="its"/>
     <word original="紛" calque="tangles"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line>
+<line commentary="Notice how the next three lines follow a parallel structure - verb + 其 + noun. This is a common poetic device in Classical Chinese.">
     <word original="和" calque="soften"/>
     <word original="其" calque="its"/>
     <word original="光" calque="light"/>
 </line>
 
 <line>
-    <word original="同" calque="join"/>
+    <word original="同" calque="unite"/>
     <word original="其" calque="its"/>
     <word original="塵" calque="dust"/>
 </line>
 
-<line commentary="湛 (deep/clear) is a key word suggesting both depth and clarity, like still water">
-    <word original="湛" calque="deep-clear"/>
-    <word original="兮" calque="ah"/>
+<line commentary="湛 (clear/deep) pairs with 淵 (deep) from earlier - creating a circular structure. 或 here creates ambiguity - is it 'perhaps' or 'someone'?">
+    <word original="湛" calque="clear"/>
+    <word original="兮" calque="!"/>
     <word original="似" calque="seem"/>
     <word original="或" calque="perhaps"/>
     <word original="存" calque="exist"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="A powerful line expressing both wonder and mystery at the Dao's origins">
+<line commentary="A fascinating line expressing uncertainty about origins - who is the 'child' here? Consider how this connects to the 'ancestor' mentioned earlier.">
     <word original="吾" calque="I"/>
     <word original="不" calque="not"/>
     <word original="知" calque="know"/>
@@ -68,12 +68,11 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="帝 refers to the legendary divine emperor/deity, suggesting the Dao predates even divinity">
+<line commentary="帝 refers to the supreme deity/emperor - what does it mean to precede even that? This line connects to ancient Chinese cosmology.">
     <word original="象" calque="appear"/>
-    <word original="帝" calque="divine-ruler"/>
+    <word original="帝" calque="deity"/>
     <word original="之" calque="'s"/>
     <word original="先" calque="before"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-
 </chapter>

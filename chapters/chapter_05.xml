@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="5">
-<line commentary="This opening line introduces a challenging concept - that Heaven and Earth operate without human-style benevolence/compassion (仁)">
+<line commentary="This opening line sets up a profound paradox using 不仁 (not-benevolent). But 仁 (benevolence) is a core Confucian virtue - why would heaven and earth lack it? Consider: Perhaps true impartiality requires treating everything equally, without human-like favoritism?">
     <word original="天" calque="heaven"/>
-    <word original="地" calque="earth"/> 
+    <word original="地" calque="earth"/>
     <word original="不" calque="not"/>
-    <word original="仁" calque="benevolent" commentary="仁 (ren) is a key Confucian virtue of human-heartedness/compassion"/>
+    <word original="仁" calque="benevolent"/>
 </line>
 
-<line commentary="This metaphor of 'straw dogs' (芻狗) refers to ritual objects that were treated as precious during ceremonies but discarded after - suggesting the impersonal nature of natural processes">
+<line commentary="芻狗 (straw-dogs) refers to ceremonial objects that were treated with great reverence during rituals but discarded afterwards. This powerful metaphor appears twice - what might it suggest about the nature of heaven's relationship to all things?">
     <word original="以" calque="by-means-of"/>
     <word original="萬" calque="ten-thousand"/>
     <word original="物" calque="things"/>
@@ -34,27 +34,27 @@
     <word original="狗" calque="dog"/>
 </line>
 
-<line>
+<line commentary="之間 is a common grammatical pattern meaning 'between/among' - look how Classical Chinese builds complex ideas from simple parts!">
     <word original="天" calque="heaven"/>
     <word original="地" calque="earth"/>
     <word original="之" calque="of"/>
     <word original="間" calque="between"/>
 </line>
 
-<line commentary="橐籥 (tuoyue) refers to a bellows or organ-like instrument - emptying and filling naturally">
+<line commentary="橐籥 (bellows) refers to the tool used by ancient metalworkers to blow air into a forge. Notice how it's empty yet inexhaustible - what parallel might this draw with the Dao?">
     <word original="其" calque="it"/>
     <word original="猶" calque="like"/>
     <word original="橐" calque="bellows"/>
-    <word original="籥" calque="pipe"/>
+    <word original="籥" calque="bellows"/>
     <word original="乎" calque="question"/>
     <word original="(.)" calque="(.)" punctuation="true"/>
 </line>
 
-<line>
+<line commentary="Notice how 而 connects contrasting ideas - empty YET not depleted. Classical Chinese loves these elegant oppositions!">
     <word original="虛" calque="empty"/>
     <word original="而" calque="and"/>
     <word original="不" calque="not"/>
-    <word original="屈" calque="bend"/>
+    <word original="屈" calque="exhaust"/>
 </line>
 
 <line>
@@ -65,14 +65,14 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="多" calque="much"/>
-    <word original="言" calque="speech"/>
-    <word original="數" calque="often"/>
+<line commentary="數 here means 'frequently' - Classical Chinese often uses count words as adverbs. How efficient!">
+    <word original="多" calque="many"/>
+    <word original="言" calque="words"/>
+    <word original="數" calque="count"/>
     <word original="窮" calque="exhaust"/>
 </line>
 
-<line commentary="The final line emphasizes keeping to the center/middle way - a key Daoist concept">
+<line commentary="守中 (keep-center) is a key Daoist concept. What might it mean to 'keep to the center' in terms of speech and action?">
     <word original="不" calque="not"/>
     <word original="如" calque="like"/>
     <word original="守" calque="keep"/>

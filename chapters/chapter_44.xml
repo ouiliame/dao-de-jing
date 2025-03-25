@@ -1,56 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="44">
-<line commentary="This opening line poses a profound question about priorities - what matters more: reputation or one's physical self?">
+<line commentary="This opening line sets up a profound comparison using 孰 (which/who), asking us to weigh two important concepts. Notice how 與 (and/with) is setting up comparisons throughout the first several lines.">
     <word original="名" calque="name"/>
     <word original="與" calque="and"/>
-    <word original="身" calque="body"/>
+    <word original="身" calque="body/self"/>
     <word original="孰" calque="which"/>
     <word original="親" calque="close"/>
 </line>
-<line commentary="Here the comparison is between physical self and material wealth - a theme that resonates through time">
-    <word original="身" calque="body"/>
+
+<line commentary="Notice how this line follows the exact same grammatical pattern as the first - this parallel structure is a key feature of Classical Chinese poetry.">
+    <word original="身" calque="body/self"/>
     <word original="與" calque="and"/>
     <word original="貨" calque="goods"/>
     <word original="孰" calque="which"/>
     <word original="多" calque="more"/>
 </line>
-<line commentary="A philosophical inquiry about gain versus loss - which causes more suffering?">
+
+<line commentary="The third parallel question introduces 得 (gain) and 亡 (lose) - consider how these concepts might relate to the previous lines about possessions and self.">
     <word original="得" calque="gain"/>
     <word original="與" calque="and"/>
     <word original="亡" calque="lose"/>
     <word original="孰" calque="which"/>
-    <word original="病" calque="sick"/>
+    <word original="病" calque="illness"/>
 </line>
-<line commentary="Notice how 甚 (very) modifies 愛 (love) to warn about excessive attachment">
+
+<line commentary="Notice how 必 (must) creates a cause-and-effect relationship between the two parts of this statement.">
     <word original="甚" calque="very"/>
     <word original="愛" calque="love"/>
     <word original="必" calque="must"/>
     <word original="大" calque="great"/>
-    <word original="費" calque="cost"/>
+    <word original="費" calque="expense"/>
 </line>
+
 <line>
     <word original="多" calque="much"/>
     <word original="藏" calque="store"/>
     <word original="必" calque="must"/>
-    <word original="厚" calque="thick"/>
+    <word original="厚" calque="heavy"/>
     <word original="亡" calque="lose"/>
 </line>
-<line commentary="A powerful statement about contentment being a shield against shame">
+
+<line commentary="Here's a powerful contrast - 知 (know) paired with 足 (enough). How might this relate to the previous lines about gain and loss?">
     <word original="知" calque="know"/>
     <word original="足" calque="enough"/>
     <word original="不" calque="not"/>
     <word original="辱" calque="shame"/>
 </line>
+
 <line>
     <word original="知" calque="know"/>
     <word original="止" calque="stop"/>
     <word original="不" calque="not"/>
     <word original="殆" calque="danger"/>
 </line>
-<line commentary="The conclusion suggests that understanding limits leads to sustainability">
+
+<line commentary="This concluding line uses 可以 (can/able) to introduce a result. Consider how this ties together all the previous concepts about knowing limits and avoiding excess.">
     <word original="可" calque="can"/>
     <word original="以" calque="by-means-of"/>
     <word original="長" calque="long"/>
-    <word original="久" calque="endure"/>
+    <word original="久" calque="lasting"/>
 </line>
 </chapter>

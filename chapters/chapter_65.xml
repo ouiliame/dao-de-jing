@@ -1,27 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="65">
-<line commentary="This opening line sets up a comparison with ancient sages - note how 善 (good/skilled) pairs with 為 (do/make) to indicate mastery">
+<line commentary="The opening line sets up a contrast between ancient and modern approaches to governing through the Dao. Notice how '之' marks possession and '者' marks the doer of an action.">
     <word original="古" calque="ancient"/>
     <word original="之" calque="of"/>
-    <word original="善" calque="good"/>
-    <word original="為" calque="do"/>
+    <word original="善" calque="good-at"/>
+    <word original="為" calque="act-as"/>
     <word original="道" calque="way"/>
     <word original="者" calque="one-who"/>
 </line>
-<line>
+
+<line commentary="Note how '非' negates the entire phrase that follows. '以' introduces the means/method.">
     <word original="非" calque="not"/>
     <word original="以" calque="by-means-of"/>
     <word original="明" calque="enlighten"/>
     <word original="民" calque="people"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line>
+
+<line commentary="將 here indicates intention or purpose - what was the ancient sage's real aim?">
     <word original="將" calque="will"/>
     <word original="以" calque="by-means-of"/>
     <word original="愚" calque="simple"/>
     <word original="之" calque="them"/>
     <word original="." calque="." punctuation="true"/>
 </line>
+
 <line>
     <word original="民" calque="people"/>
     <word original="之" calque="of"/>
@@ -29,63 +32,72 @@
     <word original="治" calque="govern"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="Note how 知 (knowledge) is placed in parentheses, suggesting it's being treated as a noun rather than verb">
+
+<line commentary="其 refers back to 民 (the people). Notice how (知) is used repeatedly in following lines - what role does knowledge play in governance?">
     <word original="以" calque="by-means-of"/>
     <word original="其" calque="their"/>
     <word original="(知)" calque="(knowledge)"/>
     <word original="多" calque="much"/>
     <word original="." calque="." punctuation="true"/>
 </line>
+
 <line>
-    <word original="(.)故" calque="therefore"/>
+    <word original="故" calque="therefore"/>
     <word original="以" calque="by-means-of"/>
     <word original="(知)" calque="(knowledge)"/>
     <word original="治" calque="govern"/>
-    <word original="國" calque="country"/>
+    <word original="國" calque="state"/>
 </line>
+
 <line>
-    <word original="國" calque="country"/>
+    <word original="國" calque="state"/>
     <word original="之" calque="of"/>
     <word original="賊" calque="thief"/>
     <word original="." calque="." punctuation="true"/>
 </line>
+
 <line>
     <word original="不" calque="not"/>
     <word original="以" calque="by-means-of"/>
     <word original="(知)" calque="(knowledge)"/>
     <word original="治" calque="govern"/>
-    <word original="國" calque="country"/>
+    <word original="國" calque="state"/>
 </line>
+
 <line>
-    <word original="國" calque="country"/>
+    <word original="國" calque="state"/>
     <word original="之" calque="of"/>
     <word original="福" calque="blessing"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="稽式 appears together meaning 'pattern/model' - an interesting compound suggesting fundamental principles">
+
+<line commentary="稽式 literally means 'to examine patterns/models' - what might this tell us about the 'two things' (兩者) being discussed?">
     <word original="知" calque="know"/>
-    <word original="此" calque="this"/>
+    <word original="此" calque="these"/>
     <word original="兩" calque="two"/>
-    <word original="者" calque="ones"/>
+    <word original="者" calque="things"/>
     <word original="亦" calque="also"/>
     <word original="稽" calque="examine"/>
     <word original="式" calque="pattern"/>
     <word original="." calque="." punctuation="true"/>
 </line>
+
 <line>
     <word original="常" calque="always"/>
     <word original="知" calque="know"/>
     <word original="稽" calque="examine"/>
     <word original="式" calque="pattern"/>
 </line>
-<line commentary="玄德 (dark virtue) is a key Daoist concept suggesting a profound, mysterious kind of virtue">
+
+<line commentary="玄 refers to something profound and mysterious - what qualities might 玄德 (profound virtue) have?">
     <word original="是" calque="this"/>
     <word original="謂" calque="called"/>
-    <word original="玄" calque="dark"/>
+    <word original="玄" calque="profound"/>
     <word original="德" calque="virtue"/>
 </line>
+
 <line>
-    <word original="玄" calque="dark"/>
+    <word original="玄" calque="profound"/>
     <word original="德" calque="virtue"/>
     <word original="深" calque="deep"/>
     <word original="矣" calque="indeed"/>
@@ -93,6 +105,7 @@
     <word original="矣" calque="indeed"/>
     <word original="(.)" calque="(.)" punctuation="true"/>
 </line>
+
 <line>
     <word original="與" calque="with"/>
     <word original="物" calque="things"/>
@@ -100,12 +113,13 @@
     <word original="矣" calque="indeed"/>
     <word original="(.)" calque="(.)" punctuation="true"/>
 </line>
-<line commentary="The final line suggests a return to natural harmony through reversing artificial complexity">
+
+<line commentary="The final line suggests a culmination - what might 大順 (great harmony) have to do with the previous discussion of knowledge and governance?">
     <word original="__" calque="..."/>
     <word original="__" calque="..."/>
     <word original="乃" calque="then"/>
     <word original="至" calque="arrive"/>
     <word original="大" calque="great"/>
-    <word original="順" calque="accordance"/>
+    <word original="順" calque="harmony"/>
 </line>
 </chapter>

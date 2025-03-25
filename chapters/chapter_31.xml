@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="31">
-<line commentary="This chapter discusses warfare and weapons with deep moral implications">
-    <word original="(.)" calque="(.)" punctuation="true"/>
+<line commentary="Note how '夫' often starts philosophical statements - it's like saying 'Now then...' or setting up an important point">
+    <word original="(.)" calque="(.)"/>
     <word original="夫" calque="now"/>
     <word original="佳" calque="fine"/>
     <word original="兵" calque="weapon"/>
     <word original="者" calque="one-who"/>
     <word original="不" calque="not"/>
     <word original="祥" calque="auspicious"/>
-    <word original="之" calque="possessive"/>
-    <word original="器" calque="vessel"/>
-    <word original="." calque="." punctuation="true"/>
+    <word original="之" calque="of"/>
+    <word original="器" calque="implement"/>
+    <word original="." calque="."/>
 </line>
 
 <line>
@@ -18,11 +18,11 @@
     <word original="或" calque="perhaps"/>
     <word original="惡" calque="detest"/>
     <word original="之" calque="it"/>
-    <word original="." calque="." punctuation="true"/>
+    <word original="." calque="."/>
 </line>
 
-<line>
-    <word original="(.)" calque="(.)" punctuation="true"/>
+<line commentary="Notice how '故' introduces a conclusion or consequence - what logical connection is being made here?">
+    <word original="(.)" calque="(.)"/>
     <word original="故" calque="therefore"/>
     <word original="有" calque="have"/>
     <word original="道" calque="way"/>
@@ -31,12 +31,12 @@
     <word original="處" calque="dwell"/>
 </line>
 
-<line commentary="Notice the symbolic importance of left vs right in Chinese culture">
-    <word original="君" calque="lord"/>
+<line commentary="In ancient China, left was traditionally the position of honor in peaceful times - notice this contrast with the next line">
+    <word original="君" calque="noble"/>
     <word original="子" calque="master"/>
     <word original="居" calque="reside"/>
     <word original="則" calque="then"/>
-    <word original="貴" calque="honor"/>
+    <word original="貴" calque="value"/>
     <word original="左" calque="left"/>
 </line>
 
@@ -44,9 +44,9 @@
     <word original="用" calque="use"/>
     <word original="兵" calque="weapon"/>
     <word original="則" calque="then"/>
-    <word original="貴" calque="honor"/>
+    <word original="貴" calque="value"/>
     <word original="右" calque="right"/>
-    <word original="." calque="." punctuation="true"/>
+    <word original="." calque="."/>
 </line>
 
 <line>
@@ -54,21 +54,21 @@
     <word original="者" calque="one-who"/>
     <word original="不" calque="not"/>
     <word original="祥" calque="auspicious"/>
-    <word original="之" calque="possessive"/>
-    <word original="器" calque="vessel"/>
-    <word original="." calque="." punctuation="true"/>
+    <word original="之" calque="of"/>
+    <word original="器" calque="implement"/>
+    <word original="." calque="."/>
 </line>
 
 <line>
     <word original="非" calque="not"/>
-    <word original="君" calque="lord"/>
+    <word original="君" calque="noble"/>
     <word original="子" calque="master"/>
-    <word original="之" calque="possessive"/>
-    <word original="器" calque="vessel"/>
-    <word original="." calque="." punctuation="true"/>
+    <word original="之" calque="of"/>
+    <word original="器" calque="implement"/>
+    <word original="." calque="."/>
 </line>
 
-<line commentary="Note how 不得已 (unavoidable) is constructed from 'not-obtain-already'">
+<line commentary="'不得已' is an idiom meaning 'having no choice' - literally 'not-obtain-already' - notice how Classical Chinese creates complex meanings from simple components">
     <word original="不" calque="not"/>
     <word original="得" calque="obtain"/>
     <word original="已" calque="already"/>
@@ -79,8 +79,8 @@
 
 <line>
     <word original="恬" calque="peaceful"/>
-    <word original="淡" calque="bland"/>
-    <word original="為" calque="make"/>
+    <word original="淡" calque="plain"/>
+    <word original="為" calque="be"/>
     <word original="上" calque="superior"/>
 </line>
 
@@ -92,8 +92,8 @@
     <word original="[也(.)]" calque="[indeed(.)]"/>
 </line>
 
-<line>
-    <word original="而" calque="and"/>
+<line commentary="Look at how 是 (this) and 者 (one who) work together to point to specific people or actions">
+    <word original="而" calque="yet"/>
     <word original="美" calque="beautify"/>
     <word original="之" calque="it"/>
     <word original="者" calque="one-who"/>
@@ -101,11 +101,11 @@
     <word original="樂" calque="enjoy"/>
     <word original="殺" calque="kill"/>
     <word original="人" calque="person"/>
-    <word original="." calque="." punctuation="true"/>
+    <word original="." calque="."/>
 </line>
 
 <line>
-    <word original="(.)" calque="(.)" punctuation="true"/>
+    <word original="(.)" calque="(.)"/>
     <word original="夫" calque="now"/>
     <word original="樂" calque="enjoy"/>
     <word original="殺" calque="kill"/>
@@ -113,63 +113,64 @@
     <word original="者" calque="one-who"/>
 </line>
 
-<line>
+<line commentary="Notice how 以 (by-means-of) connects actions to their results or methods - it's a key word for understanding relationships between concepts">
     <word original="__" calque="..."/>
     <word original="不" calque="not"/>
     <word original="可" calque="can"/>
     <word original="以" calque="by-means-of"/>
     <word original="得" calque="obtain"/>
-    <word original="志" calque="ambition"/>
+    <word original="志" calque="will"/>
     <word original="於" calque="in"/>
     <word original="天" calque="heaven"/>
     <word original="下" calque="below"/>
-    <word original="矣(.)" calque="indeed(.)"/>
-    <word original="." calque="." punctuation="true"/>
+    <word original="矣" calque="indeed"/>
+    <word original="(.)" calque="(.)"/>
+    <word original="." calque="."/>
 </line>
 
 <line>
     <word original="[(.)故]" calque="[(.)therefore]"/>
     <word original="吉" calque="auspicious"/>
     <word original="事" calque="matter"/>
-    <word original="尚" calque="esteem"/>
+    <word original="尚" calque="favor"/>
     <word original="左" calque="left"/>
-    <word original="." calque="." punctuation="true"/>
+    <word original="." calque="."/>
 </line>
 
 <line>
     <word original="凶" calque="inauspicious"/>
     <word original="事" calque="matter"/>
-    <word original="尚" calque="esteem"/>
+    <word original="尚" calque="favor"/>
     <word original="右" calque="right"/>
-    <word original="." calque="." punctuation="true"/>
+    <word original="." calque="."/>
 </line>
 
-<line commentary="This passage reflects ancient Chinese military formations">
+<line commentary="This section describes military formations - notice how 將軍 (general) is composed of two characters that together mean something different from their individual meanings">
     <word original="[是" calque="[this"/>
     <word original="以]" calque="therefore]"/>
-    <word original="偏" calque="deputy"/>
-    <word original="將" calque="general"/>
+    <word original="偏" calque="secondary"/>
+    <word original="將" calque="lead"/>
     <word original="軍" calque="army"/>
     <word original="居" calque="stand"/>
     <word original="左" calque="left"/>
 </line>
 
 <line>
-    <word original="上" calque="superior"/>
-    <word original="將" calque="general"/>
+    <word original="上" calque="supreme"/>
+    <word original="將" calque="lead"/>
     <word original="軍" calque="army"/>
     <word original="居" calque="stand"/>
     <word original="右" calque="right"/>
 </line>
 
-<line>
+<line commentary="This is a powerful metaphor - what does it mean to treat military victory with funeral rites?">
     <word original="言" calque="speak"/>
     <word original="以" calque="by-means-of"/>
     <word original="喪" calque="mourning"/>
     <word original="禮" calque="ritual"/>
     <word original="處" calque="handle"/>
     <word original="之" calque="it"/>
-    <word original="." calque="." punctuation="true"/>
+    <word original="." calque="."/>
 </line>
 
 <line>
@@ -187,7 +188,7 @@
     <word original="之" calque="it"/>
 </line>
 
-<line commentary="The chapter ends with a powerful statement about treating victory with solemnity">
+<line>
     <word original="戰" calque="battle"/>
     <word original="勝" calque="victory"/>
     <word original="以" calque="by-means-of"/>
@@ -195,6 +196,6 @@
     <word original="禮" calque="ritual"/>
     <word original="處" calque="handle"/>
     <word original="之" calque="it"/>
-    <word original="." calque="." punctuation="true"/>
+    <word original="." calque="."/>
 </line>
 </chapter>

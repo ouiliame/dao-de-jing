@@ -1,67 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="81">
-<line commentary="This opening line establishes a key Daoist paradox about the relationship between truth and beauty in language">
+<line commentary="Notice how this first pair of lines forms a chiasmus - a mirror pattern. What might this tell us about the relationship between beauty and truth in words?">
     <word original="信" calque="trustworthy"/>
     <word original="言" calque="words"/>
     <word original="不" calque="not"/>
     <word original="美" calque="beautiful"/>
 </line>
+
 <line>
     <word original="美" calque="beautiful"/>
     <word original="言" calque="words"/>
     <word original="不" calque="not"/>
     <word original="信" calque="trustworthy"/>
 </line>
-<line commentary="A profound statement about the relationship between goodness and argumentation">
+
+<line commentary="Another pair of opposing statements. Consider how 者 marks the subject - it's like saying 'one who is...'">
     <word original="善" calque="good"/>
     <word original="者" calque="one-who"/>
     <word original="不" calque="not"/>
-    <word original="辯" calque="debate"/>
+    <word original="辯" calque="argue"/>
 </line>
+
 <line>
-    <word original="辯" calque="debate"/>
+    <word original="辯" calque="argue"/>
     <word original="者" calque="one-who"/>
     <word original="不" calque="not"/>
     <word original="善" calque="good"/>
 </line>
-<line commentary="These lines contrast deep understanding with mere accumulation of knowledge">
+
+<line commentary="知 (know) and 博 (broad-learning) create an interesting tension here. What's the difference between true knowledge and mere accumulation of facts?">
     <word original="知" calque="know"/>
     <word original="者" calque="one-who"/>
     <word original="不" calque="not"/>
-    <word original="博" calque="extensive"/>
+    <word original="博" calque="broad-learning"/>
 </line>
+
 <line>
-    <word original="博" calque="extensive"/>
+    <word original="博" calque="broad-learning"/>
     <word original="者" calque="one-who"/>
     <word original="不" calque="not"/>
     <word original="知" calque="know"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="This begins a section about the sage's relationship to accumulation and giving">
+
+<line commentary="聖人 (sage-person) appears frequently in Daoist texts - it's the ideal wise person who embodies the Dao. What does 不積 (not-accumulate) tell us about their nature?">
     <word original="聖" calque="sage"/>
     <word original="人" calque="person"/>
     <word original="不" calque="not"/>
     <word original="積" calque="accumulate"/>
 </line>
-<line commentary="A beautiful paradox about gaining by giving">
+
+<line commentary="既 marks a completed action. Notice how 為 (do-for) and 與 (give-to) in these parallel lines suggest different types of giving.">
     <word original="既" calque="already"/>
     <word original="以" calque="by-means-of"/>
-    <word original="為" calque="do"/>
+    <word original="為" calque="do-for"/>
     <word original="人" calque="others"/>
     <word original="己" calque="self"/>
     <word original="愈" calque="more"/>
     <word original="有" calque="have"/>
 </line>
+
 <line>
     <word original="既" calque="already"/>
     <word original="以" calque="by-means-of"/>
-    <word original="與" calque="give"/>
+    <word original="與" calque="give-to"/>
     <word original="人" calque="others"/>
     <word original="己" calque="self"/>
     <word original="愈" calque="more"/>
     <word original="多" calque="abundant"/>
 </line>
-<line commentary="This describes the beneficial but non-harmful nature of the Dao">
+
+<line commentary="天之道 (heaven's-way) is being contrasted with 聖人之道 (sage's-way). Notice how both lines end with balanced opposites.">
     <word original="天" calque="heaven"/>
     <word original="之" calque="'s"/>
     <word original="道" calque="way"/>
@@ -70,7 +79,8 @@
     <word original="不" calque="not"/>
     <word original="害" calque="harm"/>
 </line>
-<line commentary="The final line beautifully summarizes the sage's way of non-contention">
+
+<line>
     <word original="聖" calque="sage"/>
     <word original="人" calque="person"/>
     <word original="之" calque="'s"/>

@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="33">
-<line commentary="This line contrasts external vs internal knowledge. 知 (know) when paired with 人 (person/others) creates 智 (wisdom) - showing how understanding others is one path to wisdom.">
+<line commentary="This chapter follows a beautiful parallel structure, with each line following the pattern '[X] 者 [Y]'. The '者' marks the subject - similar to saying 'one who [X] is [Y]'. Let's see what qualities lead to what outcomes...">
     <word original="知" calque="know"/>
-    <word original="人" calque="person"/>
+    <word original="人" calque="others"/>
     <word original="者" calque="one-who"/>
-    <word original="智" calque="wise"/>
+    <word original="智" calque="wisdom"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="A profound parallel to the first line - 明 (bright/clear) represents a deeper form of wisdom that comes from self-knowledge.">
+<line commentary="Note how this line mirrors the previous one, but replaces '人' (others) with '自' (self). What might this contrast tell us about different kinds of knowing?">
     <word original="自" calque="self"/>
-    <word original="知" calque="know"/> 
+    <word original="知" calque="know"/>
     <word original="者" calque="one-who"/>
-    <word original="明" calque="bright"/>
+    <word original="明" calque="bright/clear"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="勝" calque="overcome"/>
-    <word original="人" calque="person"/>
+<line commentary="The pattern continues - now exploring victory/conquest (勝) over others...">
+    <word original="勝" calque="victory"/>
+    <word original="人" calque="others"/>
     <word original="者" calque="one-who"/>
     <word original="有" calque="have"/>
     <word original="力" calque="strength"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Notice how 自勝 (self-overcome) leads to 強 (strong) - suggesting true strength comes from mastering oneself rather than others.">
+<line commentary="Again see how 'self' (自) creates a different meaning. Is conquering others the same as conquering oneself?">
     <word original="自" calque="self"/>
-    <word original="勝" calque="overcome"/>
+    <word original="勝" calque="victory"/>
     <word original="者" calque="one-who"/>
-    <word original="強" calque="strong"/>
+    <word original="強" calque="powerful"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="知足 (know-enough) is a common Chinese idiom meaning contentment - here it leads to true wealth.">
+<line commentary="知足 literally means 'know enough' - what might it mean to 'know enough'? How does this relate to wealth?">
     <word original="知" calque="know"/>
     <word original="足" calque="enough"/>
     <word original="者" calque="one-who"/>
@@ -41,7 +41,7 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line>
+<line commentary="強行 combines 'strong' with 'act/walk' - suggesting forceful or determined action. What kind of person has 志 (will/ambition)?">
     <word original="強" calque="strong"/>
     <word original="行" calque="act"/>
     <word original="者" calque="one-who"/>
@@ -50,23 +50,23 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="This line speaks to staying true to one's nature/position - 不失其所 literally means 'not losing one's place'.">
+<line commentary="Note the complex construction: 不失其所 - 'not lose their place'. What does it mean to keep one's place? How does this relate to endurance?">
     <word original="不" calque="not"/>
     <word original="失" calque="lose"/>
-    <word original="其" calque="one's"/>
+    <word original="其" calque="their"/>
     <word original="所" calque="place"/>
     <word original="者" calque="one-who"/>
     <word original="久" calque="endure"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="A profound paradox - physical death (死) need not mean the end of one's lasting influence (壽/longevity).">
+<line commentary="The final line presents a fascinating paradox - how can one die (死) yet not perish (不亡)? What kind of 'long life' might this suggest?">
     <word original="死" calque="die"/>
     <word original="而" calque="yet"/>
     <word original="不" calque="not"/>
     <word original="亡" calque="perish"/>
     <word original="者" calque="one-who"/>
-    <word original="壽" calque="long-lived"/>
+    <word original="壽" calque="longevity"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 </chapter>

@@ -1,47 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="22">
-<line>
+<line commentary="This opening line introduces a recurring pattern: 'X 則 Y' meaning 'if X then Y'. Notice how each line follows this structure, creating a poetic rhythm.">
     <word original="曲" calque="bend"/>
     <word original="則" calque="then"/>
     <word original="全" calque="complete"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line>
+
+<line commentary="Consider how these first two lines might be related - what happens when something bends vs when something becomes straight?">
     <word original="枉" calque="crooked"/>
     <word original="則" calque="then"/>
     <word original="直" calque="straight"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line>
+
+<line commentary="窪 (hollow/depression) pairs with 盈 (fill) - notice how many of these lines present apparent opposites that transform into each other.">
     <word original="窪" calque="hollow"/>
     <word original="則" calque="then"/>
     <word original="盈" calque="fill"/>
 </line>
+
 <line>
-    <word original="敝" calque="worn"/>
+    <word original="敝" calque="worn-out"/>
     <word original="則" calque="then"/>
     <word original="新" calque="new"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line>
+
+<line commentary="These two lines about 'little' and 'much' form a complementary pair. What might this suggest about quantity and understanding?">
     <word original="少" calque="little"/>
     <word original="則" calque="then"/>
-    <word original="得" calque="gain"/>
+    <word original="得" calque="obtain"/>
     <word original="." calque="." punctuation="true"/>
 </line>
+
 <line>
     <word original="多" calque="much"/>
     <word original="則" calque="then"/>
     <word original="惑" calque="confused"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="Notice how 是以 (therefore) introduces the sage's response to these natural principles">
+
+<line commentary="是以 (therefore) often introduces a conclusion or application of previous principles. 聖人 (sage) is a key concept in Daoist philosophy.">
     <word original="是" calque="this"/>
     <word original="以" calque="by-means-of"/>
     <word original="聖" calque="sage"/>
     <word original="人" calque="person"/>
 </line>
-<line>
+
+<line commentary="式 here means 'model/standard' - consider what it means for the sage to 'embrace oneness' as a model for the world.">
     <word original="抱" calque="embrace"/>
     <word original="一" calque="one"/>
     <word original="[以]" calque="[by-means-of]"/>
@@ -50,20 +57,23 @@
     <word original="下" calque="below"/>
     <word original="式" calque="model"/>
 </line>
-<line commentary="This begins a series of parallel phrases showing the sage's non-assertive nature">
+
+<line commentary="The next four lines follow a powerful pattern: 不自X故Y (not self-X therefore Y). Watch how this creates a profound teaching about humility.">
     <word original="不" calque="not"/>
     <word original="自" calque="self"/>
     <word original="見" calque="see"/>
     <word original="故" calque="therefore"/>
     <word original="明" calque="bright"/>
 </line>
+
 <line>
     <word original="不" calque="not"/>
     <word original="自" calque="self"/>
     <word original="是" calque="right"/>
     <word original="故" calque="therefore"/>
-    <word original="彰" calque="manifest"/>
+    <word original="彰" calque="distinct"/>
 </line>
+
 <line>
     <word original="不" calque="not"/>
     <word original="自" calque="self"/>
@@ -73,6 +83,7 @@
     <word original="功" calque="merit"/>
     <word original="." calque="." punctuation="true"/>
 </line>
+
 <line>
     <word original="不" calque="not"/>
     <word original="自" calque="self"/>
@@ -81,12 +92,14 @@
     <word original="長" calque="endure"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line>
+
+<line commentary="夫唯 often introduces an important statement - here it emphasizes the significance of 'non-contention'.">
     <word original="(.)夫" calque="(.)indeed"/>
     <word original="唯" calque="only"/>
     <word original="不" calque="not"/>
     <word original="爭" calque="contend"/>
 </line>
+
 <line>
     <word original="(.)故" calque="(.)therefore"/>
     <word original="天" calque="heaven"/>
@@ -94,34 +107,39 @@
     <word original="莫" calque="none"/>
     <word original="能" calque="able"/>
     <word original="與" calque="with"/>
-    <word original="之" calque="them"/>
+    <word original="之" calque="it"/>
     <word original="爭" calque="contend"/>
 </line>
-<line commentary="Here begins a conclusion that references back to the opening line">
+
+<line commentary="古之所謂 means 'what the ancients called' - this line begins a reflection on the chapter's opening statement.">
     <word original="古" calque="ancient"/>
-    <word original="之" calque="possessive"/>
+    <word original="之" calque="of"/>
     <word original="所" calque="that-which"/>
-    <word original="謂" calque="say"/>
+    <word original="謂" calque="called"/>
 </line>
+
 <line>
     <word original="曲" calque="bend"/>
     <word original="則" calque="then"/>
     <word original="全" calque="complete"/>
     <word original="者" calque="one-who"/>
 </line>
-<line>
+
+<line commentary="豈 is a rhetorical question marker - consider how this line challenges readers to reflect on the truth of the opening statement.">
     <word original="豈" calque="how"/>
     <word original="虛" calque="empty"/>
     <word original="言" calque="words"/>
     <word original="哉" calque="indeed"/>
-    <word original="(.)" calque="(.)" punctuation="true"/>
+    <word original="(." calque="(." punctuation="true"/>
+    <word original=")" calque=")" punctuation="true"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line>
+
+<line commentary="This final line brings everything full circle - 誠 (truly/sincerely) emphasizes the authenticity of the transformation described.">
     <word original="誠" calque="truly"/>
     <word original="全" calque="complete"/>
     <word original="而" calque="and"/>
     <word original="歸" calque="return"/>
-    <word original="之" calque="to-it"/>
+    <word original="之" calque="it"/>
 </line>
 </chapter>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="19">
-<line commentary="This opening line suggests abandoning conventional wisdom and learned intelligence">
+<line commentary="This opening line sets up a provocative statement about rejecting conventional wisdom and virtue - notice how 絕 (cut-off) and 棄 (abandon) are strong, decisive verbs">
     <word original="絕" calque="cut-off"/>
-    <word original="聖" calque="sage"/>
+    <word original="聖" calque="sage-wisdom"/>
     <word original="棄" calque="abandon"/>
-    <word original="智" calque="wisdom"/>
+    <word original="智" calque="knowledge"/>
 </line>
 
-<line commentary="Suggests that when artificial standards are removed, people naturally benefit more">
+<line commentary="Notice how 百 (hundred) combines with 倍 (times) to create emphasis on magnitude">
     <word original="民" calque="people"/>
     <word original="利" calque="benefit"/>
     <word original="百" calque="hundred"/>
@@ -15,14 +15,15 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Continues the theme of abandoning artificial virtues">
+<line commentary="仁 and 義 are core Confucian virtues - benevolence and righteousness. What might it mean to abandon these?">
     <word original="絕" calque="cut-off"/>
     <word original="仁" calque="benevolence"/>
     <word original="棄" calque="abandon"/>
     <word original="義" calque="righteousness"/>
+    <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Suggests that when artificial morality is removed, natural family values return">
+<line commentary="復 (return) is a key concept in Daoism - what natural state might people return to?">
     <word original="民" calque="people"/>
     <word original="復" calque="return"/>
     <word original="孝" calque="filial-piety"/>
@@ -37,7 +38,7 @@
     <word original="利" calque="profit"/>
 </line>
 
-<line commentary="Implies that when people aren't focused on profit, theft becomes unnecessary">
+<line commentary="Consider the logic: what's the relationship between rejecting profit-seeking and the absence of theft?">
     <word original="盜" calque="thief"/>
     <word original="賊" calque="bandit"/>
     <word original="無" calque="not"/>
@@ -45,44 +46,43 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line>
+<line commentary="文 can mean 'culture/refinement/education' - what might it mean that these three things are 不足 (not-sufficient)?">
     <word original="此" calque="these"/>
     <word original="三" calque="three"/>
     <word original="者" calque="things"/>
     <word original="以" calque="by-means-of"/>
     <word original="為" calque="make"/>
-    <word original="文" calque="culture"/>
+    <word original="文" calque="refinement"/>
     <word original="不" calque="not"/>
     <word original="足" calque="sufficient"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
 <line>
-    <word original="(.)" calque="(.)" punctuation="true"/>
     <word original="故" calque="therefore"/>
     <word original="令" calque="cause"/>
     <word original="有" calque="have"/>
-    <word original="所" calque="place"/>
+    <word original="所" calque="that-which"/>
     <word original="屬" calque="belong"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="A beautiful metaphor for seeing things in their natural, unadorned state">
+<line commentary="素 refers to raw silk or plain white - a metaphor for simplicity">
     <word original="見" calque="see"/>
     <word original="素" calque="plain"/>
 </line>
 
-<line commentary="Embracing simplicity rather than complexity">
+<line commentary="樸 refers to uncarved wood - another powerful metaphor for natural simplicity">
     <word original="抱" calque="embrace"/>
-    <word original="樸" calque="uncarved-wood"/>
+    <word original="樸" calque="simplicity"/>
 </line>
 
 <line>
-    <word original="少" calque="minimize"/>
+    <word original="少" calque="diminish"/>
     <word original="私" calque="private"/>
 </line>
 
-<line commentary="The chapter concludes with core Daoist values of simplicity and restraint">
+<line commentary="The chapter concludes with four short, powerful phrases that embody the alternative to conventional virtue and knowledge. Notice how they build on each other.">
     <word original="寡" calque="few"/>
     <word original="欲" calque="desires"/>
     <word original="." calque="." punctuation="true"/>

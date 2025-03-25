@@ -1,32 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="35">
-<line commentary="This opening line establishes a powerful metaphor - 'holding/grasping the great image/symbol'">
-    <word original="執" calque="grasp"/>
+<line commentary="This opening line uses 象 (image/symbol/elephant) - a key concept in Chinese philosophy. The 'great image' often refers to the fundamental patterns of the cosmos.">
+    <word original="執" calque="hold"/>
     <word original="大" calque="great"/>
     <word original="象" calque="image"/>
 </line>
-
-<line>
+<line commentary="天下 is a compound meaning 'all-under-heaven' - the whole world/empire. Notice how 往 (go) creates movement in this static scene.">
     <word original="天" calque="heaven"/>
     <word original="下" calque="below"/>
     <word original="往" calque="go"/>
 </line>
-
 <line>
     <word original="往" calque="go"/>
     <word original="而" calque="and"/>
     <word original="不" calque="not"/>
     <word original="害" calque="harm"/>
 </line>
-
 <line>
     <word original="安" calque="peaceful"/>
     <word original="平" calque="level"/>
     <word original="太" calque="great"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-
-<line commentary="An interesting metaphor comparing the Dao to music and food that attracts passing travelers">
+<line commentary="餌 (bait) is an fascinating word choice here - what might it suggest about the nature of music and food?">
     <word original="樂" calque="music"/>
     <word original="與" calque="and"/>
     <word original="餌" calque="bait"/>
@@ -34,42 +30,37 @@
     <word original="客" calque="guest"/>
     <word original="止" calque="stop"/>
 </line>
-
-<line>
+<line commentary="Notice how 淡 (bland/plain) is often used positively in Daoist texts, contrary to our usual associations.">
     <word original="道" calque="way"/>
     <word original="之" calque="of"/>
-    <word original="出" calque="emerge"/>
+    <word original="出" calque="exit"/>
     <word original="(言)" calque="(speak)"/>
     <word original="淡" calque="bland"/>
     <word original="(呵)" calque="(ah)"/>
 </line>
-
 <line>
     <word original="其" calque="its"/>
     <word original="無" calque="without"/>
     <word original="味" calque="flavor"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-
-<line commentary="The next three lines form a powerful parallel structure about the ineffable nature of Dao">
+<line commentary="This begins a powerful triplet structure using parallel grammar. What might 不足 (not-enough) suggest about our normal ways of perceiving?">
     <word original="視" calque="look"/>
-    <word original="之" calque="at-it"/>
+    <word original="之" calque="it"/>
     <word original="不" calque="not"/>
     <word original="足" calque="enough"/>
     <word original="見" calque="see"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-
 <line>
     <word original="聽" calque="listen"/>
-    <word original="之" calque="to-it"/>
+    <word original="之" calque="it"/>
     <word original="不" calque="not"/>
     <word original="足" calque="enough"/>
     <word original="聞" calque="hear"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-
-<line>
+<line commentary="既 (exhaust/finish) creates an interesting tension with 不足 (not-enough) - consider how this relates to the Dao's inexhaustible nature.">
     <word original="用" calque="use"/>
     <word original="之" calque="it"/>
     <word original="不" calque="not"/>

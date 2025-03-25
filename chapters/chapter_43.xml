@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="43">
-<line commentary="This opening line establishes a profound contrast - the softest thing under heaven. In Classical Chinese, extremes often reveal deeper truths.">
+<line commentary="This opening line introduces a fascinating contrast - what could be the 'softest/most yielding thing under heaven'? Keep this imagery in mind...">
     <word original="天" calque="heaven"/>
     <word original="下" calque="below"/>
     <word original="之" calque="of"/>
@@ -8,38 +8,38 @@
     <word original="柔" calque="soft"/>
 </line>
 
-<line commentary="A powerful image of the softest thing riding over/conquering the hardest - a key Daoist paradox where softness overcomes hardness.">
+<line commentary="Notice how this line mirrors the structure of the first, but with 'hard' replacing 'soft'. The character 馳騁 gives a sense of galloping/charging - suggesting forceful movement through or against something.">
     <word original="馳" calque="gallop"/>
-    <word original="騁" calque="race"/>
+    <word original="騁" calque="charge"/>
     <word original="天" calque="heaven"/>
-    <word original="下" calque="below"/>
+    <word original="下" calque="below"/> 
     <word original="之" calque="of"/>
     <word original="至" calque="most"/>
     <word original="堅" calque="hard"/>
 </line>
 
-<line commentary="This line speaks to how the formless can penetrate where there seems to be no space - like water seeping into stone.">
-    <word original="無" calque="nothing"/>
-    <word original="有" calque="exist"/>
+<line commentary="A cryptic line about nothingness and gaps - what could enter where there is no space? Think about water seeping into stone...">
+    <word original="無" calque="not-have"/>
+    <word original="有" calque="have"/>
     <word original="入" calque="enter"/>
-    <word original="無" calque="nothing"/>
+    <word original="無" calque="not-have"/>
     <word original="間" calque="space"/>
 </line>
 
-<line>
+<line commentary="Here 無為 (wu-wei) appears - one of Daoism's key concepts meaning 'non-action' or 'effortless action'. Notice how it's connected to 'benefit' (益).">
     <word original="吾" calque="I"/>
     <word original="是" calque="this"/>
     <word original="以" calque="by-means-of"/>
     <word original="知" calque="know"/>
-    <word original="無" calque="nothing"/>
+    <word original="無" calque="not-have"/>
     <word original="為" calque="do"/>
     <word original="之" calque="of"/>
-    <word original="有" calque="exist"/>
+    <word original="有" calque="have"/>
     <word original="益" calque="benefit"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Note how 'teaching without words' parallels 'acting without action' - both paradoxical Daoist concepts.">
+<line commentary="教 (teach) without 言 (words) - how might one teach without speaking? Think of learning by observation or experience...">
     <word original="不" calque="not"/>
     <word original="言" calque="speak"/>
     <word original="之" calque="of"/>
@@ -47,13 +47,13 @@
 </line>
 
 <line>
-    <word original="無" calque="nothing"/>
+    <word original="無" calque="not-have"/>
     <word original="為" calque="do"/>
     <word original="之" calque="of"/>
     <word original="益" calque="benefit"/>
 </line>
 
-<line commentary="The final line suggests how rare it is for people to grasp these profound paradoxes - few in the world attain this understanding.">
+<line commentary="希 suggests rarity or scarcity - what might be so rare? Why might these concepts be difficult for people to grasp?">
     <word original="天" calque="heaven"/>
     <word original="下" calque="below"/>
     <word original="希" calque="rare"/>

@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="53">
-<line commentary="This chapter begins with introspective reflection on wisdom and its relationship to following the Way">
+<line commentary="This opening line uses '.' markers to set apart an important declaration. The character 介 (介然) suggests a state of being cautious or modest.">
     <word original="." calque="." punctuation="true"/>
     <word original="使" calque="cause"/>
     <word original="我" calque="I"/>
-    <word original="介" calque="armor"/>
+    <word original="介" calque="cautious"/>
     <word original="然" calque="thus"/>
     <word original="有" calque="have"/>
     <word original="知" calque="know"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line>
+<line commentary="大道 (Great Way) is a key concept in Daoism - notice how it's positioned with 行 (walk/practice) and 於 (in/at/to).">
     <word original="行" calque="walk"/>
     <word original="於" calque="in"/>
     <word original="大" calque="great"/>
     <word original="道" calque="way"/>
 </line>
 
-<line>
+<line commentary="唯 often marks what follows as the only thing that matters - what might it mean if the only thing to fear is 迤 (straying/deviating)?">
     <word original="唯" calque="only"/>
-    <word original="迤" calque="winding"/>
+    <word original="迤" calque="stray"/>
     <word original="是" calque="this"/>
     <word original="畏" calque="fear"/>
 </line>
 
-<line commentary="A powerful contrast is being set up between the 'great way' and what follows">
+<line commentary="夷 means level/peaceful - consider how this describes the Great Way.">
     <word original="大" calque="great"/>
     <word original="道" calque="way"/>
     <word original="甚" calque="very"/>
@@ -33,22 +33,22 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="而" calque="yet"/>
+<line commentary="徑 means path/shortcut - notice the contrast between the 'great way' and what people prefer.">
+    <word original="而" calque="but"/>
     <word original="民" calque="people"/>
     <word original="好" calque="prefer"/>
     <word original="徑" calque="shortcut"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="The next several lines paint a picture of neglect and misplaced priorities">
+<line commentary="朝 refers to the court/government. 除 means to clear/remove - what might a 'very cleared' court suggest?">
     <word original="朝" calque="court"/>
     <word original="甚" calque="very"/>
-    <word original="除" calque="bare"/>
+    <word original="除" calque="cleared"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line>
+<line commentary="蕪 means overgrown/neglected - notice the contrast with the previous line about the court.">
     <word original="田" calque="field"/>
     <word original="甚" calque="very"/>
     <word original="蕪" calque="overgrown"/>
@@ -61,10 +61,10 @@
     <word original="虛" calque="empty"/>
 </line>
 
-<line>
+<line commentary="文綵 refers to decorated/ornate clothing - consider what this might suggest about priorities.">
     <word original="服" calque="wear"/>
-    <word original="文" calque="ornate"/>
-    <word original="綵" calque="silk"/>
+    <word original="文" calque="decorated"/>
+    <word original="綵" calque="colored"/>
 </line>
 
 <line>
@@ -74,31 +74,31 @@
 </line>
 
 <line>
-    <word original="厭" calque="gorge"/>
+    <word original="厭" calque="satiated"/>
     <word original="飲" calque="drink"/>
     <word original="食" calque="food"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line>
+<line commentary="Notice how 有餘 (have excess) connects to the earlier mentions of empty granaries.">
     <word original="財" calque="wealth"/>
     <word original="貨" calque="goods"/>
     <word original="有" calque="have"/>
     <word original="餘" calque="excess"/>
 </line>
 
-<line commentary="This powerful conclusion draws attention to how excess and showing off are forms of robbery">
+<line commentary="盜夸 combines 'thief' and 'boast' - what might this say about flaunting wealth?">
     <word original="是" calque="this"/>
     <word original="謂" calque="called"/>
-    <word original="盜" calque="robber"/>
+    <word original="盜" calque="thief"/>
     <word original="夸" calque="boast"/>
 </line>
 
-<line>
+<line commentary="The final line ends with 哉, an emphatic particle expressing strong emotion. 非 negates what precedes it.">
     <word original="非" calque="not"/>
     <word original="道" calque="way"/>
     <word original="也" calque="indeed"/>
-    <word original="哉" calque="indeed"/>
+    <word original="哉" calque="ah"/>
     <word original="(.)" calque="(.)" punctuation="true"/>
 </line>
 </chapter>

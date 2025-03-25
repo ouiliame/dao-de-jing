@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="71">
-<line commentary="This opening line plays with the contrast between knowing and not-knowing, suggesting that claiming to know what one doesn't know is problematic.">
+<line commentary="This opening line plays with the concepts of knowing and not-knowing in a fascinating way. In Classical Chinese, repeating a word (知 know) can create different grammatical functions - here we see a noun-verb relationship.">
     <word original="知" calque="know"/>
     <word original="不" calque="not"/>
     <word original="知" calque="know"/>
-    <word original="(尚)" calque="(superior)"/>
+    <word original="(尚)" calque="(value)"/>
     <word original="[矣(.)]" calque="[indeed(.)]"/>
 </line>
 
-<line commentary="This line reverses the previous pattern, suggesting that not recognizing one's own knowledge is a form of sickness.">
+<line commentary="Notice how this line mirrors and inverts the previous line's structure - this is a common poetic device in Classical Chinese.">
     <word original="不" calque="not"/>
     <word original="知" calque="know"/>
     <word original="知" calque="know"/>
@@ -16,9 +16,9 @@
     <word original="[矣(.)]" calque="[indeed(.)]"/>
 </line>
 
-<line commentary="The character 夫 here serves as an emphatic opener, while 唯 emphasizes the following statement about recognizing sickness.">
+<line commentary="夫 often starts a statement of universal truth - like saying 'Now...' or 'Indeed...' in English. 唯 is expressing exclusivity.">
     <word original="(.)" calque="(.)"/>
-    <word original="夫" calque="indeed"/>
+    <word original="夫" calque="now"/>
     <word original="唯" calque="only"/>
     <word original="病" calque="sickness"/>
     <word original="病" calque="sickness"/>
@@ -31,23 +31,23 @@
     <word original="病" calque="sickness"/>
 </line>
 
-<line>
+<line commentary="聖人 (sage-person) is a key concept in Daoist texts - representing the ideal cultivated individual who understands and lives in harmony with the Dao.">
     <word original="聖" calque="sage"/>
     <word original="人" calque="person"/>
     <word original="不" calque="not"/>
     <word original="病" calque="sickness"/>
-    <word original="." calque="."/>
+    <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="This line uses 其 to refer back to the sage's recognition of sickness.">
+<line>
     <word original="以" calque="by-means-of"/>
     <word original="其" calque="their"/>
     <word original="病" calque="sickness"/>
     <word original="病" calque="sickness"/>
-    <word original="." calque="."/>
+    <word original="." calque="." punctuation="true"/>
 </line>
 
-<line>
+<line commentary="Notice how this final line echoes line 4, creating a circular structure to the chapter. What might this repetition suggest about the nature of the sage's understanding?">
     <word original="是" calque="this"/>
     <word original="以" calque="by-means-of"/>
     <word original="不" calque="not"/>

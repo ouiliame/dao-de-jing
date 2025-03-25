@@ -1,25 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="67">
-<line commentary="This opening line plays with the concept of paradox - the speaker is describing how others view them as 'great' while suggesting this perception may be mistaken">
+<line commentary="This opening line sets up an interesting paradox about size/greatness. Notice how 天下 (heaven-below) is the classical way to say 'all under heaven' or 'the world'">
     <word original="天" calque="heaven"/>
     <word original="下" calque="below"/>
     <word original="皆" calque="all"/>
-    <word original="謂" calque="call"/>
-    <word original="我" calque="me"/>
+    <word original="謂" calque="say"/>
+    <word original="我" calque="I"/>
     <word original="__" calque="..."/>
     <word original="大" calque="great"/>
 </line>
-<line>
+<line commentary="肖 (xiao) is a fascinating character meaning 'resemblance/similar' - but with 不 (not) it creates a paradox about unlikeness">
     <word original="似" calque="seem"/>
     <word original="不" calque="not"/>
     <word original="肖" calque="resemble"/>
 </line>
-<line commentary="This line reveals a key Daoist paradox - true greatness comes from not trying to be great">
+<line>
     <word original="(.)" calque="(.)"/>
     <word original="夫" calque="indeed"/>
     <word original="唯" calque="only"/>
-    <word original="(不" calque="(not"/>
-    <word original="肖)" calque="resemble)"/>
+    <word original="(不 肖)" calque="(not-resemble)"/>
     <word original="故" calque="therefore"/>
     <word original="[能]" calque="[can]"/>
     <word original="(大)" calque="(great)"/>
@@ -30,21 +29,21 @@
     <word original="肖" calque="resemble"/>
     <word original="." calque="."/>
 </line>
-<line>
-    <word original="久" calque="long"/>
+<line commentary="Notice how 矣 is a classical particle indicating completion of action">
+    <word original="久" calque="long-time"/>
     <word original="矣" calque="already"/>
     <word original="其" calque="its"/>
     <word original="細" calque="small"/>
     <word original="也" calque="indeed"/>
     <word original="(.)" calque="(.)"/>
 </line>
-<line commentary="The 'three treasures' (三寶) introduced here are fundamental Daoist virtues">
+<line commentary="Here begins the famous 'Three Treasures' (三寶) section">
     <word original="(.)" calque="(.)"/>
     <word original="夫" calque="indeed"/>
     <word original="我" calque="I"/>
     <word original="有" calque="have"/>
     <word original="三" calque="three"/>
-    <word original="寶" calque="treasures"/>
+    <word original="寶" calque="treasure"/>
 </line>
 <line>
     <word original="持" calque="hold"/>
@@ -64,12 +63,12 @@
     <word original="曰" calque="called"/>
     <word original="儉" calque="frugality"/>
 </line>
-<line commentary="The third treasure embodies the Daoist virtue of humility">
+<line commentary="Note how 不敢為天下先 (not-dare-be-heaven-below-first) is a complete concept meaning 'not daring to be first in the world'">
     <word original="三" calque="three"/>
     <word original="曰" calque="called"/>
     <word original="不" calque="not"/>
     <word original="敢" calque="dare"/>
-    <word original="為" calque="act-as"/>
+    <word original="為" calque="be"/>
     <word original="天" calque="heaven"/>
     <word original="下" calque="below"/>
     <word original="先" calque="first"/>
@@ -89,12 +88,12 @@
 <line>
     <word original="不" calque="not"/>
     <word original="敢" calque="dare"/>
-    <word original="為" calque="act-as"/>
+    <word original="為" calque="be"/>
     <word original="天" calque="heaven"/>
     <word original="下" calque="below"/>
     <word original="先" calque="first"/>
 </line>
-<line>
+<line commentary="器 (vessel) is often used metaphorically in Daoist texts to represent capability or potential">
     <word original="(.)" calque="(.)"/>
     <word original="故" calque="therefore"/>
     <word original="能" calque="can"/>
@@ -103,32 +102,32 @@
     <word original="長" calque="leader"/>
     <word original="." calque="."/>
 </line>
-<line commentary="These next lines warn against abandoning the three treasures">
+<line commentary="且 (moreover) here introduces a contrasting situation">
     <word original="今" calque="now"/>
     <word original="舍" calque="abandon"/>
     <word original="慈" calque="compassion"/>
-    <word original="且" calque="and"/>
+    <word original="且" calque="moreover"/>
     <word original="勇" calque="brave"/>
     <word original="." calque="."/>
 </line>
 <line>
     <word original="舍" calque="abandon"/>
     <word original="儉" calque="frugality"/>
-    <word original="且" calque="and"/>
+    <word original="且" calque="moreover"/>
     <word original="廣" calque="broad"/>
 </line>
 <line>
     <word original="舍" calque="abandon"/>
     <word original="後" calque="behind"/>
-    <word original="且" calque="and"/>
+    <word original="且" calque="moreover"/>
     <word original="先" calque="first"/>
 </line>
 <line>
     <word original="死" calque="die"/>
-    <word original="矣" calque="indeed"/>
+    <word original="矣" calque="already"/>
     <word original="(.)" calque="(.)"/>
 </line>
-<line commentary="The chapter concludes by showing how compassion leads to victory - a paradoxical concept that true power comes through gentleness">
+<line commentary="Note how 以 (by-means-of) appears multiple times in this final section, showing method or instrument">
     <word original="(.)" calque="(.)"/>
     <word original="夫" calque="indeed"/>
     <word original="慈" calque="compassion"/>
@@ -141,7 +140,7 @@
     <word original="以" calque="by-means-of"/>
     <word original="守" calque="defend"/>
     <word original="則" calque="then"/>
-    <word original="固" calque="secure"/>
+    <word original="固" calque="firm"/>
 </line>
 <line>
     <word original="天" calque="heaven"/>

@@ -1,111 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="10">
-<line commentary="This opening line discusses nurturing both the physical and spiritual aspects of one's being through maintaining unity">
+<line commentary="This opening line introduces profound concepts about cultivating one's inner essence. 載 (carry) and 營 (manage/nurture) create a sense of actively maintaining something precious.">
     <word original="載" calque="carry"/>
-    <word original="營" calque="manage"/>
+    <word original="營" calque="nurture"/>
     <word original="魄" calque="soul"/>
     <word original="抱" calque="embrace"/>
     <word original="一" calque="one"/>
 </line>
-<line>
+
+<line commentary="Notice how 能 (can/able) starts this and several following lines - creating a rhythmic pattern of questioning capability.">
     <word original="能" calque="can"/>
-    <word original="無" calque="not"/>
+    <word original="無" calque="without"/>
     <word original="離" calque="separate"/>
     <word original="乎" calque="question"/>
-    <word original="(.)" calque="(.)" punctuation="true"/>
+    <word original="(.)" calque="." punctuation="true"/>
 </line>
-<line commentary="This line speaks to cultivating softness through breath control - a fundamental Daoist practice">
+
+<line commentary="氣 refers to vital life force/energy - a fundamental concept in Chinese philosophy. 致 means 'bring forth' but implies directing or focusing.">
     <word original="專" calque="focus"/>
     <word original="氣" calque="energy"/>
-    <word original="致" calque="achieve"/>
+    <word original="致" calque="bring-forth"/>
     <word original="柔" calque="soft"/>
 </line>
-<line>
+
+<line commentary="嬰兒 (infant) is a powerful metaphor in Daoism - what qualities might an infant possess that make it worth emulating?">
     <word original="能" calque="can"/>
     <word original="嬰" calque="infant"/>
     <word original="兒" calque="child"/>
     <word original="乎" calque="question"/>
-    <word original="(.)" calque="(.)" punctuation="true"/>
-    <word original="." calque="." punctuation="true"/>
+    <word original="(.)" calque="." punctuation="true"/>
 </line>
-<line commentary="This line refers to clearing one's vision to see the mysterious">
+
+<line commentary="玄 is a fascinating character meaning 'dark/mysterious' - but it's often used to refer to profound wisdom or the Dao itself.">
     <word original="滌" calque="cleanse"/>
     <word original="除" calque="remove"/>
     <word original="玄" calque="mysterious"/>
     <word original="覽" calque="view"/>
 </line>
-<line>
+
+<line commentary="疵 means blemish/flaw - consider what it means to be without flaws in the context of Daoist thought.">
     <word original="能" calque="can"/>
-    <word original="無" calque="not"/>
+    <word original="無" calque="without"/>
     <word original="疵" calque="flaw"/>
     <word original="乎" calque="question"/>
-    <word original="(.)" calque="(.)" punctuation="true"/>
+    <word original="(.)" calque="." punctuation="true"/>
 </line>
-<line commentary="A pivotal line about governance through non-interference">
+
+<line commentary="This line shifts to governance - notice how personal cultivation (previous lines) connects to ruling.">
     <word original="愛" calque="love"/>
     <word original="民" calque="people"/>
     <word original="治" calque="govern"/>
     <word original="國" calque="country"/>
 </line>
-<line>
+
+<line commentary="無為 (without-action) is a key Daoist concept - but what kind of action is it suggesting to avoid?">
     <word original="能" calque="can"/>
-    <word original="無" calque="not"/>
-    <word original="為" calque="act"/>
+    <word original="無" calque="without"/>
+    <word original="為" calque="action"/>
     <word original="乎" calque="question"/>
-    <word original="(.)" calque="(.)" punctuation="true"/>
+    <word original="(.)" calque="." punctuation="true"/>
 </line>
-<line commentary="Uses natural imagery of gates opening and closing">
+
+<line commentary="天門 (heaven-gate) is rich with meaning - what might 'opening and closing' of heaven's gate represent?">
     <word original="天" calque="heaven"/>
     <word original="門" calque="gate"/>
     <word original="開" calque="open"/>
     <word original="闔" calque="close"/>
 </line>
-<line>
+
+<line commentary="雌 (female) is often used in Daoism to represent receptivity and nurturing qualities.">
     <word original="能" calque="can"/>
     <word original="為" calque="be"/>
-    <word original="雌" calque="feminine"/>
+    <word original="雌" calque="female"/>
     <word original="乎" calque="question"/>
-    <word original="(.)" calque="(.)" punctuation="true"/>
+    <word original="(.)" calque="." punctuation="true"/>
 </line>
-<line>
+
+<line commentary="四達 literally means 'four directions' but implies comprehensive understanding or enlightenment.">
     <word original="明" calque="bright"/>
     <word original="白" calque="clear"/>
     <word original="四" calque="four"/>
     <word original="達" calque="reach"/>
 </line>
+
 <line>
     <word original="能" calque="can"/>
-    <word original="無" calque="not"/>
+    <word original="無" calque="without"/>
     <word original="[以]" calque="by-means-of"/>
     <word original="知" calque="know"/>
     <word original="乎" calque="question"/>
-    <word original="(.)" calque="(.)" punctuation="true"/>
+    <word original="(.)" calque="." punctuation="true"/>
 </line>
-<line commentary="These lines speak to nurturing without possessing - a key Daoist concept">
+
+<line commentary="Notice how these next lines describe actions and their relationship to attachment.">
     <word original="生" calque="give-birth"/>
     <word original="之" calque="it"/>
     <word original="畜" calque="nurture"/>
     <word original="之" calque="it"/>
 </line>
+
 <line>
     <word original="生" calque="give-birth"/>
-    <word original="而" calque="yet"/>
+    <word original="而" calque="but"/>
     <word original="不" calque="not"/>
     <word original="有" calque="possess"/>
 </line>
+
 <line>
     <word original="為" calque="act"/>
-    <word original="而" calque="yet"/>
+    <word original="而" calque="but"/>
     <word original="不" calque="not"/>
     <word original="恃" calque="rely-on"/>
 </line>
+
 <line>
     <word original="長" calque="grow"/>
-    <word original="而" calque="yet"/>
+    <word original="而" calque="but"/>
     <word original="不" calque="not"/>
     <word original="宰" calque="control"/>
 </line>
-<line commentary="The closing line introduces 'mysterious virtue' (玄德) - a fundamental Daoist concept of hidden or subtle power">
+
+<line commentary="玄德 (mysterious virtue) appears as a conclusion - how do all the previous lines lead to this concept?">
     <word original="是" calque="this"/>
     <word original="謂" calque="called"/>
     <word original="玄" calque="mysterious"/>

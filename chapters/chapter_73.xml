@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="73">
-<line commentary="This opening presents a paradox about bravery that challenges our usual thinking">
-    <word original="." calque="." punctuation="true"/>
+<line commentary="This opening line sets up a profound contrast between two types of courage - notice how the structure parallels but contrasts">
+    <word original="." calque="."/>
     <word original="勇" calque="brave"/>
     <word original="於" calque="in"/>
     <word original="敢" calque="dare"/>
@@ -10,7 +10,7 @@
     <word original="則" calque="then"/>
     <word original="殺" calque="kill"/>
 </line>
-<line>
+<line commentary="Note how this line mirrors the first, but with the addition of 不 (not) - what difference does this make to the meaning?">
     <word original="勇" calque="brave"/>
     <word original="於" calque="in"/>
     <word original="不" calque="not"/>
@@ -20,7 +20,7 @@
     <word original="則" calque="then"/>
     <word original="活" calque="live"/>
 </line>
-<line>
+<line commentary="Here 此兩者 (these-two-things) refers back to the two types of courage just mentioned">
     <word original="此" calque="these"/>
     <word original="兩" calque="two"/>
     <word original="者" calque="ones"/>
@@ -29,7 +29,7 @@
     <word original="或" calque="perhaps"/>
     <word original="害" calque="harm"/>
 </line>
-<line commentary="A profound rhetorical question about the mysteries of heaven's preferences">
+<line commentary="孰 is an classical interrogative meaning 'who' or 'what' - this line poses a philosophical question">
     <word original="天" calque="heaven"/>
     <word original="之" calque="'s"/>
     <word original="所" calque="that-which"/>
@@ -48,42 +48,42 @@
     <word original="難" calque="difficult"/>
     <word original="之" calque="it"/>
 </line>
-<line>
+<line commentary="Notice how the next several lines follow a pattern: 不X而善Y (not X but good-at Y)">
     <word original="天" calque="heaven"/>
     <word original="之" calque="'s"/>
     <word original="道" calque="way"/>
 </line>
-<line commentary="These next four lines describe the paradoxical power of non-action (wuwei)">
+<line>
     <word original="不" calque="not"/>
     <word original="爭" calque="compete"/>
-    <word original="而" calque="yet"/>
+    <word original="而" calque="but"/>
     <word original="善" calque="good-at"/>
-    <word original="勝" calque="victory"/>
-    <word original="." calque="." punctuation="true"/>
+    <word original="勝" calque="win"/>
+    <word original="." calque="."/>
 </line>
 <line>
     <word original="不" calque="not"/>
     <word original="言" calque="speak"/>
-    <word original="而" calque="yet"/>
+    <word original="而" calque="but"/>
     <word original="善" calque="good-at"/>
     <word original="應" calque="respond"/>
-    <word original="." calque="." punctuation="true"/>
+    <word original="." calque="."/>
 </line>
 <line>
     <word original="不" calque="not"/>
     <word original="召" calque="summon"/>
-    <word original="而" calque="yet"/>
+    <word original="而" calque="but"/>
     <word original="自" calque="self"/>
     <word original="來" calque="come"/>
 </line>
-<line>
-    <word original="繟" calque="slow"/>
+<line commentary="繟然 is an fascinating word describing something that appears loose or relaxed but is actually well-planned">
+    <word original="繟" calque="relaxed"/>
     <word original="然" calque="thus"/>
-    <word original="而" calque="yet"/>
+    <word original="而" calque="but"/>
     <word original="善" calque="good-at"/>
     <word original="謀" calque="plan"/>
 </line>
-<line commentary="A powerful metaphor comparing heaven's justice to a vast net">
+<line commentary="This famous metaphor 天網 (heaven's net) introduces a powerful image - what kind of net could be both loose and never miss?">
     <word original="天" calque="heaven"/>
     <word original="網" calque="net"/>
     <word original="恢" calque="vast"/>
@@ -91,7 +91,7 @@
 </line>
 <line>
     <word original="疏" calque="loose"/>
-    <word original="而" calque="yet"/>
+    <word original="而" calque="but"/>
     <word original="不" calque="not"/>
     <word original="失" calque="lose"/>
 </line>

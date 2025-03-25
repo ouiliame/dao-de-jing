@@ -1,54 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="59">
-<line commentary="This opening line establishes the theme of governing both human affairs and natural/heavenly matters">
+<line commentary="This opening line sets up a contrast between managing human affairs (治人) and dealing with heaven/nature (事天) - a common philosophical pairing in Chinese thought.">
     <word original="治" calque="govern"/>
     <word original="人" calque="person"/>
-    <word original="事" calque="affairs"/>
+    <word original="事" calque="serve"/>
     <word original="天" calque="heaven"/>
 </line>
-<line>
+
+<line commentary="莫若 is a common Classical Chinese construction meaning 'nothing compares to' or 'nothing is better than'. Here we're introduced to a key concept 嗇 (frugality/conservation).">
     <word original="莫" calque="none"/>
     <word original="若" calque="like"/>
-    <word original="嗇" calque="frugal" commentary="This character originally meant 'miserly' but takes on a deeper meaning of 'conservation' or 'careful management of resources' in Daoist thought"/>
+    <word original="嗇" calque="frugal"/>
 </line>
+
 <line>
-    <word original="(.)" calque="(.)" punctuation="true"/>
+    <word original="(." calque="(.)" punctuation="true"/>
     <word original="夫" calque="indeed"/>
     <word original="唯" calque="only"/>
     <word original="嗇" calque="frugal"/>
 </line>
-<line commentary="'Early submission' here refers to addressing things before they become problems">
+
+<line commentary="服 typically means 'to submit/follow' but here has the sense of 'mastering' or 'achieving' early">
     <word original="是" calque="this"/>
     <word original="謂" calque="called"/>
     <word original="早" calque="early"/>
     <word original="服" calque="submit"/>
 </line>
-<line>
+
+<line commentary="Note how 重 (heavy/repeated) is used with 積 (accumulate) to emphasize the gradual building up of virtue">
     <word original="早" calque="early"/>
     <word original="服" calque="submit"/>
     <word original="謂" calque="called"/>
     <word original="之" calque="it"/>
     <word original="重" calque="repeated"/>
     <word original="積" calque="accumulate"/>
-    <word original="德" calque="virtue" commentary="德 (de) is a key concept in Daoism, representing both moral virtue and inherent power/potential"/>
+    <word original="德" calque="virtue"/>
 </line>
+
 <line>
     <word original="重" calque="repeated"/>
     <word original="積" calque="accumulate"/>
     <word original="德" calque="virtue"/>
 </line>
-<line>
+
+<line commentary="克 here carries the sense of 'overcome/master' - what happens when virtue is accumulated?">
     <word original="則" calque="then"/>
     <word original="無" calque="none"/>
     <word original="不" calque="not"/>
     <word original="克" calque="overcome"/>
     <word original="." calque="." punctuation="true"/>
 </line>
+
 <line>
     <word original="無" calque="none"/>
     <word original="不" calque="not"/>
     <word original="克" calque="overcome"/>
 </line>
+
 <line>
     <word original="則" calque="then"/>
     <word original="莫" calque="none"/>
@@ -56,31 +64,36 @@
     <word original="其" calque="its"/>
     <word original="極" calque="limit"/>
 </line>
+
 <line>
     <word original="莫" calque="none"/>
     <word original="知" calque="know"/>
     <word original="其" calque="its"/>
     <word original="極" calque="limit"/>
 </line>
-<line>
+
+<line commentary="有國 literally means 'to have a state' but implies ruling/managing a state">
     <word original="可" calque="can"/>
     <word original="以" calque="by-means-of"/>
-    <word original="有" calque="possess"/>
-    <word original="國" calque="country"/>
+    <word original="有" calque="have"/>
+    <word original="國" calque="state"/>
 </line>
-<line commentary="'Mother of the country' is a metaphor for the fundamental principles that sustain a nation">
-    <word original="有" calque="possess"/>
-    <word original="國" calque="country"/>
+
+<line commentary="母 (mother) is used metaphorically here - what might it mean to be the 'mother' of a state?">
+    <word original="有" calque="have"/>
+    <word original="國" calque="state"/>
     <word original="之" calque="of"/>
     <word original="母" calque="mother"/>
 </line>
+
 <line>
     <word original="可" calque="can"/>
     <word original="以" calque="by-means-of"/>
     <word original="長" calque="long"/>
-    <word original="久" calque="endure"/>
+    <word original="久" calque="lasting"/>
 </line>
-<line>
+
+<line commentary="Notice the imagery in 根 (root) and 柢 (base) - what kind of metaphor is being built?">
     <word original="是" calque="this"/>
     <word original="謂" calque="called"/>
     <word original="深" calque="deep"/>
@@ -88,10 +101,11 @@
     <word original="固" calque="firm"/>
     <word original="柢" calque="base"/>
 </line>
-<line commentary="This final line connects the practical governance described above with the eternal Dao">
+
+<line commentary="This final line brings together several key concepts - 長 (long), 生 (life), 久 (lasting), 視 (see/perspective) - connecting them to the 道 (Way)">
     <word original="長" calque="long"/>
-    <word original="生" calque="live"/>
-    <word original="久" calque="endure"/>
+    <word original="生" calque="life"/>
+    <word original="久" calque="lasting"/>
     <word original="視" calque="see"/>
     <word original="之" calque="of"/>
     <word original="道" calque="way"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="78">
-<line commentary="This opening line presents water as a metaphor for softness and adaptability - a key Daoist concept">
+<line commentary="This opening line sets up a profound observation about water - notice how 天下 (heaven-below) is often used to mean 'all under heaven' or 'the world'">
     <word original="天" calque="heaven"/>
     <word original="下" calque="below"/>
     <word original="莫" calque="none"/>
@@ -9,21 +9,24 @@
     <word original="於" calque="than"/>
     <word original="水" calque="water"/>
 </line>
-<line commentary="Yet water can overcome the hardest things - introducing the paradox">
+
+<line commentary="Yet (而) introduces a contrast - watch how this builds on the water metaphor">
     <word original="而" calque="yet"/>
     <word original="攻" calque="attack"/>
-    <word original="堅" calque="firm"/>
+    <word original="堅" calque="hard"/>
     <word original="強" calque="strong"/>
     <word original="者" calque="one"/>
 </line>
+
 <line>
     <word original="莫" calque="none"/>
     <word original="之" calque="it"/>
-    <word original="能" calque="can"/>
+    <word original="能" calque="able"/>
     <word original="勝" calque="overcome"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line>
+
+<line commentary="以 is a key Classical Chinese word that often indicates means/method - 'by means of' or 'because of'">
     <word original="以" calque="by-means-of"/>
     <word original="其" calque="its"/>
     <word original="無" calque="nothing"/>
@@ -32,13 +35,15 @@
     <word original="之" calque="it"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="A core principle of Daoism - the power of yielding">
+
+<line commentary="Notice how these next two lines form a parallel structure - a common poetic device in Classical Chinese">
     <word original="弱" calque="weak"/>
     <word original="之" calque="it"/>
     <word original="勝" calque="overcome"/>
     <word original="強" calque="strong"/>
     <word original="." calque="." punctuation="true"/>
 </line>
+
 <line>
     <word original="柔" calque="soft"/>
     <word original="之" calque="it"/>
@@ -47,7 +52,8 @@
     <word original="." calque="." punctuation="true"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line>
+
+<line commentary="Another instance of 天下 (heaven-below) - consider how this line relates to the opening observation">
     <word original="天" calque="heaven"/>
     <word original="下" calque="below"/>
     <word original="莫" calque="none"/>
@@ -55,12 +61,14 @@
     <word original="知" calque="know"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line>
+
+<line commentary="This short line carries significant weight - what's the disconnect between knowing and doing?">
     <word original="莫" calque="none"/>
-    <word original="能" calque="can"/>
+    <word original="能" calque="able"/>
     <word original="行" calque="practice"/>
     <word original="." calque="." punctuation="true"/>
 </line>
+
 <line>
     <word original="是" calque="this"/>
     <word original="以" calque="by-means-of"/>
@@ -69,12 +77,14 @@
     <word original="云" calque="say"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="The sage leader takes on the 'dirt' of the nation - showing humility">
+
+<line commentary="垢 (filth/disgrace) is a strong word choice here - consider what it means to 'receive' such a thing">
     <word original="受" calque="receive"/>
     <word original="國" calque="country"/>
     <word original="之" calque="of"/>
-    <word original="垢" calque="dirt"/>
+    <word original="垢" calque="filth"/>
 </line>
+
 <line>
     <word original="是" calque="this"/>
     <word original="謂" calque="called"/>
@@ -83,6 +93,7 @@
     <word original="[之]" calque="[of]"/>
     <word original="主" calque="master"/>
 </line>
+
 <line>
     <word original="受" calque="receive"/>
     <word original="國" calque="country"/>
@@ -90,6 +101,7 @@
     <word original="不" calque="not"/>
     <word original="祥" calque="fortune"/>
 </line>
+
 <line>
     <word original="是" calque="this"/>
     <word original="謂" calque="called"/>
@@ -98,7 +110,8 @@
     <word original="[之]" calque="[of]"/>
     <word original="王" calque="king"/>
 </line>
-<line commentary="A famous line suggesting that truth often seems paradoxical">
+
+<line commentary="This final line is a famous Daoist paradox - 正 (correct) words seem 反 (opposite). Consider how this relates to the water metaphor at the start">
     <word original="正" calque="correct"/>
     <word original="言" calque="words"/>
     <word original="若" calque="seem"/>

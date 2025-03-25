@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="72">
-<line commentary="This opening line sets up a key principle about the relationship between authority and fear">
+<line commentary="This opening line sets up a conditional statement - notice how 民 (people) appears first, emphasizing their role as the subject">
     <word original="民" calque="people"/>
     <word original="不" calque="not"/>
     <word original="畏" calque="fear"/>
     <word original="威" calque="power"/>
 </line>
-<line>
+<line commentary="則 often indicates 'then' in if-then statements. Notice how 大威 (great-power) is followed by 至 (arrive) - what might this suggest about the consequences?">
     <word original="則" calque="then"/>
     <word original="大" calque="great"/>
     <word original="威" calque="power"/>
@@ -14,40 +14,39 @@
     <word original="[矣(.)]" calque="[indeed(.)]"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="An elegant parallel construction warning against taking things for granted">
+<line commentary="狎 is a fascinating character meaning 'to treat with disrespect' or 'to be overly familiar with' - consider how this relates to 所居 (place-dwell)">
     <word original="無" calque="do-not"/>
-    <word original="狎" calque="familiar"/>
-    <word original="其" calque="its"/>
+    <word original="狎" calque="disrespect"/>
+    <word original="其" calque="their"/>
     <word original="所" calque="place"/>
     <word original="居" calque="dwell"/>
 </line>
 <line>
     <word original="無" calque="do-not"/>
-    <word original="厭" calque="tire-of"/>
-    <word original="其" calque="its"/>
+    <word original="厭" calque="weary-of"/>
+    <word original="其" calque="their"/>
     <word original="所" calque="place"/>
     <word original="生" calque="live"/>
 </line>
-<line commentary="Note how 夫 marks the start of an explanation section">
-    <word original="(.)" calque="(.)"/>
-    <word original="夫" calque="now"/>
+<line commentary="Notice how 夫 often starts a statement of universal truth in Classical Chinese. 唯 emphasizes what follows.">
+    <word original="(.)夫" calque="(.)indeed"/>
     <word original="唯" calque="only"/>
     <word original="不" calque="not"/>
-    <word original="厭" calque="tire-of"/>
+    <word original="厭" calque="weary-of"/>
 </line>
-<line>
+<line commentary="是以 is a common Classical Chinese construction meaning 'therefore' or 'thus' - literally 'by-means-of this'">
     <word original="是" calque="this"/>
     <word original="以" calque="by-means-of"/>
     <word original="不" calque="not"/>
-    <word original="厭" calque="tire-of"/>
+    <word original="厭" calque="weary-of"/>
 </line>
-<line commentary="Introduction of the sage (聖人) as exemplar">
+<line>
     <word original="是" calque="this"/>
     <word original="以" calque="by-means-of"/>
     <word original="聖" calque="sage"/>
     <word original="人" calque="person"/>
 </line>
-<line commentary="Beautiful parallel construction showing paradox of self-knowledge">
+<line commentary="Notice the parallel structure in this and the next line - 自X不自Y. This is a common poetic device in Classical Chinese">
     <word original="自" calque="self"/>
     <word original="知" calque="know"/>
     <word original="不" calque="not"/>
@@ -63,12 +62,11 @@
     <word original="貴" calque="value"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="Classic Daoist conclusion preferring this (此) over that (彼)">
-    <word original="(.)" calque="(.)"/>
-    <word original="故" calque="therefore"/>
-    <word original="去" calque="reject"/>
+<line commentary="故 signals a conclusion. 彼 (that) and 此 (this) are often used as opposites - what might they refer to based on the previous lines?">
+    <word original="(.)故" calque="(.)therefore"/>
+    <word original="去" calque="remove"/>
     <word original="彼" calque="that"/>
-    <word original="取" calque="choose"/>
+    <word original="取" calque="take"/>
     <word original="此" calque="this"/>
 </line>
 </chapter>

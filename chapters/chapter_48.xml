@@ -1,61 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="48">
-<line commentary="This line contrasts pursuing academic knowledge vs the Dao - knowledge accumulates while the Dao strips away">
+<line commentary="This opening line establishes a profound contrast between academic learning and following the Dao. Notice how '者' marks the subject - 'one who...'">
     <word original="為" calque="do"/>
     <word original="學" calque="study"/>
     <word original="(者)" calque="(one-who)"/>
     <word original="日" calque="day"/>
     <word original="益" calque="increase"/>
 </line>
-<line>
+
+<line commentary="A direct parallel structure to the first line, but with 'dao' replacing 'study' - watch how the meaning shifts with just one character changed">
     <word original="為" calque="do"/>
     <word original="道" calque="way"/>
     <word original="(者)" calque="(one-who)"/>
     <word original="日" calque="day"/>
     <word original="損" calque="decrease"/>
 </line>
-<line commentary="This emphasizes the continuous process of reduction - 'decrease and decrease again'">
+
+<line commentary="'Again and again' is emphasized through repetition of 損 - what keeps decreasing?">
     <word original="損" calque="decrease"/>
     <word original="之" calque="it"/>
     <word original="又" calque="again"/>
     <word original="損" calque="decrease"/>
 </line>
-<line>
+
+<line commentary="Note how 以 functions here - 'by means of' reaching (至) something">
     <word original="以" calque="by-means-of"/>
-    <word original="至" calque="arrive"/>
+    <word original="至" calque="reach"/>
     <word original="於" calque="at"/>
-    <word original="無" calque="nothing"/>
-    <word original="為" calque="do"/>
+    <word original="無" calque="without"/>
+    <word original="為" calque="doing"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="A famous paradox - 'doing nothing yet leaving nothing undone'">
-    <word original="無" calque="nothing"/>
-    <word original="為" calque="do"/>
+
+<line commentary="A famous paradox! Look at how 而 connects the two phrases - what happens when you do nothing?">
+    <word original="無" calque="without"/>
+    <word original="為" calque="doing"/>
     <word original="而" calque="yet"/>
-    <word original="無" calque="nothing"/>
+    <word original="無" calque="without"/>
     <word original="不" calque="not"/>
-    <word original="為" calque="do"/>
+    <word original="為" calque="doing"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line>
+
+<line commentary="常 here suggests a general principle - what's the relationship between governing and 'no affairs'?">
     <word original="取" calque="take"/>
     <word original="天" calque="heaven"/>
     <word original="下" calque="below"/>
     <word original="常" calque="always"/>
     <word original="以" calque="by-means-of"/>
-    <word original="無" calque="nothing"/>
-    <word original="事" calque="affair"/>
+    <word original="無" calque="without"/>
+    <word original="事" calque="affairs"/>
 </line>
+
 <line>
     <word original="及" calque="reach"/>
     <word original="其" calque="its"/>
     <word original="有" calque="have"/>
-    <word original="事" calque="affair"/>
+    <word original="事" calque="affairs"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="This final line completes the paradox - trying to actively control or 'take' the world will fail">
+
+<line commentary="This final line completes the thought - consider how 不足 ('not enough') relates to the previous statements about doing and not-doing">
     <word original="不" calque="not"/>
-    <word original="足" calque="sufficient"/>
+    <word original="足" calque="enough"/>
     <word original="以" calque="by-means-of"/>
     <word original="取" calque="take"/>
     <word original="天" calque="heaven"/>

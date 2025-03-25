@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="9">
-<line>
+<line commentary="This opening line sets up a common pattern in Daoist thought - what happens when we try to hold onto or maintain extremes">
     <word original="持" calque="hold"/>
     <word original="而" calque="and"/>
     <word original="盈" calque="fill"/>
     <word original="之" calque="it"/>
 </line>
-<line>
+<line commentary="An interesting construction using 不如 (not-like/prefer) to make a comparison - a gentle way of suggesting an alternative">
     <word original="不" calque="not"/>
     <word original="如" calque="like"/>
     <word original="其" calque="its"/>
     <word original="已" calque="stop"/>
 </line>
-<line commentary="This line uses 揣 (measure/estimate) with 銳 (sharp/keen) to warn against excessive sharpening">
-    <word original="揣" calque="measure"/>
+<line commentary="揣 is a fascinating character showing hands measuring or handling something - think about trying to sharpen something to its absolute peak">
+    <word original="揣" calque="handle"/>
     <word original="而" calque="and"/>
     <word original="(銳)" calque="(sharp)"/>
     <word original="之" calque="it"/>
@@ -25,7 +25,7 @@
     <word original="保" calque="maintain"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="A vivid image of material excess using 金玉 (gold-jade) and 滿堂 (full-hall)">
+<line commentary="A vivid image that would have resonated with readers in ancient China - what happens when we accumulate too much?">
     <word original="金" calque="gold"/>
     <word original="玉" calque="jade"/>
     <word original="滿" calque="full"/>
@@ -34,30 +34,29 @@
 <line>
     <word original="莫" calque="none"/>
     <word original="之" calque="it"/>
-    <word original="能" calque="can"/>
+    <word original="能" calque="able"/>
     <word original="守" calque="guard"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line>
+<line commentary="Notice how 而 is used here to connect two related concepts - wealth/status and pride. What relationship does it suggest?">
     <word original="富" calque="wealth"/>
     <word original="貴" calque="noble"/>
     <word original="而" calque="and"/>
     <word original="驕" calque="pride"/>
 </line>
-<line>
+<line commentary="自 (self) combined with 遺 (leave-behind) creates a powerful image of self-inflicted consequences">
     <word original="自" calque="self"/>
-    <word original="遺" calque="leave"/>
+    <word original="遺" calque="leave-behind"/>
     <word original="其" calque="its"/>
     <word original="咎" calque="blame"/>
-    <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="A powerful conclusion about knowing when to retreat after success">
-    <word original="功" calque="merit"/>
-    <word original="遂" calque="achieve"/>
+<line commentary="This line introduces a profound natural law - what happens after reaching the peak of success?">
+    <word original="功" calque="achievement"/>
+    <word original="遂" calque="complete"/>
     <word original="身" calque="body"/>
     <word original="退" calque="withdraw"/>
 </line>
-<line>
+<line commentary="The chapter concludes by elevating this observation to a cosmic principle - 天之道 is a phrase that appears several times in the Dao De Jing">
     <word original="天" calque="heaven"/>
     <word original="之" calque="of"/>
     <word original="道" calque="way"/>

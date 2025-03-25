@@ -1,37 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="25">
-<line commentary="This opening line describes the primordial state - 混成 (hun-cheng) is a key concept meaning 'chaotic wholeness' before separation">
+<line commentary="This opening line introduces a mysterious 'something' - notice how 混成 (mixed-complete) suggests a primordial state of wholeness">
     <word original="有" calque="exist"/>
     <word original="物" calque="thing"/>
     <word original="混" calque="mixed"/>
     <word original="成" calque="complete"/>
 </line>
-<line commentary="A temporal reference to the origin before heaven and earth">
+
+<line commentary="A temporal marker showing this 'thing' predates even heaven and earth - what could be so fundamental?">
     <word original="先" calque="before"/>
     <word original="天" calque="heaven"/>
-    <word original="地" calque="earth"/> 
+    <word original="地" calque="earth"/>
     <word original="生" calque="born"/>
 </line>
-<line commentary="Beautiful sound symbolism here with 兮 (xi) giving a drawn-out, echoing quality">
+
+<line commentary="兮 is a poetic particle that adds rhythm and emphasis - these characters paint a picture of absolute stillness and emptiness">
     <word original="寂" calque="silent"/>
     <word original="兮" calque="!"/>
     <word original="寥" calque="vast-empty"/>
     <word original="兮" calque="!"/>
 </line>
-<line>
+
+<line commentary="Notice how 獨立 (alone-stand) creates a powerful image of independence and self-sufficiency">
     <word original="獨" calque="alone"/>
     <word original="立" calque="stand"/>
     <word original="不" calque="not"/>
     <word original="改" calque="change"/>
 </line>
-<line>
+
+<line commentary="周 suggests completeness/all-around motion - how does this contrast with the earlier stillness?">
     <word original="周" calque="complete"/>
     <word original="行" calque="move"/>
     <word original="而" calque="and"/>
     <word original="不" calque="not"/>
     <word original="殆" calque="danger"/>
 </line>
-<line commentary="A profound metaphor comparing the Dao to a mother figure">
+
+<line commentary="Think about what quality would allow something to be the 'mother' of all under heaven">
     <word original="可" calque="can"/>
     <word original="以" calque="by-means-of"/>
     <word original="為" calque="become"/>
@@ -39,6 +44,7 @@
     <word original="下" calque="below"/>
     <word original="母" calque="mother"/>
 </line>
+
 <line>
     <word original="吾" calque="I"/>
     <word original="不" calque="not"/>
@@ -47,12 +53,14 @@
     <word original="名" calque="name"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="This shows how 道 (Dao) is a later human attempt to name the unnamed">
-    <word original="字" calque="label"/>
+
+<line commentary="字 refers to giving a designation - notice how the text struggles with naming the unnameable">
+    <word original="字" calque="designate"/>
     <word original="之" calque="it"/>
     <word original="曰" calque="say"/>
     <word original="道" calque="way"/>
 </line>
+
 <line>
     <word original="強" calque="force"/>
     <word original="為" calque="make"/>
@@ -61,76 +69,88 @@
     <word original="曰" calque="say"/>
     <word original="大" calque="great"/>
 </line>
+
 <line>
     <word original="大" calque="great"/>
     <word original="曰" calque="say"/>
     <word original="逝" calque="depart"/>
 </line>
+
 <line>
     <word original="逝" calque="depart"/>
     <word original="曰" calque="say"/>
     <word original="遠" calque="far"/>
 </line>
-<line>
+
+<line commentary="Notice the circular logic: far leads to return - a key concept in Daoist thought">
     <word original="遠" calque="far"/>
     <word original="曰" calque="say"/>
     <word original="反" calque="return"/>
 </line>
+
 <line>
     <word original="(.)" calque="(.)" punctuation="true"/>
-    <word original="__" calque="..."/>
+    <word original="__" calque="..." punctuation="true"/>
     <word original="道" calque="way"/>
     <word original="大" calque="great"/>
 </line>
-<line commentary="Here begins the famous 'four greats' sequence">
+
+<line>
     <word original="天" calque="heaven"/>
     <word original="大" calque="great"/>
 </line>
+
 <line>
     <word original="地" calque="earth"/>
     <word original="大" calque="great"/>
 </line>
+
 <line>
     <word original="王" calque="king"/>
     <word original="亦" calque="also"/>
     <word original="大" calque="great"/>
 </line>
-<line>
+
+<line commentary="域 refers to the realm/world - notice how the text establishes a hierarchy of four great things">
     <word original="域" calque="realm"/>
     <word original="中" calque="within"/>
     <word original="有" calque="exist"/>
     <word original="四" calque="four"/>
     <word original="大" calque="great"/>
 </line>
+
 <line>
     <word original="而" calque="and"/>
     <word original="王" calque="king"/>
     <word original="居" calque="dwell"/>
     <word original="其" calque="its"/>
     <word original="一" calque="one"/>
-    <word original="焉" calque="thus"/>
+    <word original="焉" calque="therein"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="The following sequence shows the chain of modeling/emulation">
+
+<line commentary="法 means to model/follow - watch how a chain of modeling unfolds">
     <word original="人" calque="human"/>
     <word original="法" calque="model"/>
     <word original="地" calque="earth"/>
 </line>
+
 <line>
     <word original="地" calque="earth"/>
     <word original="法" calque="model"/>
     <word original="天" calque="heaven"/>
 </line>
+
 <line>
     <word original="天" calque="heaven"/>
     <word original="法" calque="model"/>
     <word original="道" calque="way"/>
 </line>
-<line commentary="The final line reveals that even the Dao models something - spontaneous naturalness itself">
+
+<line commentary="自然 literally means 'self-so' - what might it mean for the Dao to model that which is naturally self-so?">
     <word original="道" calque="way"/>
     <word original="法" calque="model"/>
     <word original="自" calque="self"/>
     <word original="然" calque="so"/>
-    <word original="." calque="." punctuation="true"/>
 </line>
 </chapter>

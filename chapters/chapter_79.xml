@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="79">
-<line commentary="This opening line introduces a profound observation about reconciling grievances">
-    <word original="和" calque="reconcile"/>
+<line commentary="This opening line presents a profound paradox about reconciling great grievances">
+    <word original="和" calque="harmonize"/>
     <word original="大" calque="great"/>
     <word original="怨" calque="grievance"/>
 </line>
 
-<line>
+<line commentary="Note how 必 (must) and 餘 (remain/surplus) work together to create a sense of inevitability">
     <word original="必" calque="must"/>
     <word original="有" calque="have"/>
-    <word original="餘" calque="remaining"/>
+    <word original="餘" calque="remain"/>
     <word original="怨" calque="grievance"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="This line questions the conventional wisdom about what constitutes 'good'">
+<line commentary="This rhetorical question uses 安 (how) with 可 (can) - a common Classical Chinese construction expressing skepticism">
     <word original="安" calque="how"/>
     <word original="可" calque="can"/>
     <word original="以" calque="by-means-of"/>
@@ -22,17 +22,17 @@
     <word original="善" calque="good"/>
 </line>
 
-<line>
+<line commentary="是以 is a connecting phrase meaning 'therefore/thus' - watch how it leads to the sage's response to this problem">
     <word original="是" calque="this"/>
     <word original="以" calque="by-means-of"/>
     <word original="聖" calque="sage"/>
     <word original="人" calque="person"/>
 </line>
 
-<line commentary="The 'left' side of the contract typically represents the debtor's portion - an interesting metaphor">
+<line commentary="契 refers to ancient contractual tallies that were split in two - one side held by each party. Which side would you rather hold?">
     <word original="執" calque="hold"/>
     <word original="左" calque="left"/>
-    <word original="契" calque="contract"/>
+    <word original="契" calque="tally"/>
 </line>
 
 <line>
@@ -43,31 +43,31 @@
     <word original="人" calque="person"/>
 </line>
 
-<line>
+<line commentary="Note how this phrase in brackets creates a transition connecting the previous idea to what follows">
     <word original="[(.)故]" calque="[therefore]"/>
     <word original="有" calque="have"/>
     <word original="德" calque="virtue"/>
     <word original="司" calque="manage"/>
-    <word original="契" calque="contract"/>
+    <word original="契" calque="tally"/>
 </line>
 
 <line>
     <word original="無" calque="without"/>
     <word original="德" calque="virtue"/>
     <word original="司" calque="manage"/>
-    <word original="徹" calque="collection"/>
+    <word original="徹" calque="taxation"/>
 </line>
 
-<line commentary="This is one of the most quoted lines about the impartial nature of the Dao">
+<line commentary="This famous line uses 親 (relatives/favoritism) with 無 (without) to express supreme impartiality">
     <word original="天" calque="heaven"/>
     <word original="道" calque="way"/>
     <word original="無" calque="without"/>
     <word original="親" calque="favoritism"/>
 </line>
 
-<line>
+<line commentary="與 here means 'sides with/assists' - consider how this relates to the opening paradox about grievances">
     <word original="常" calque="always"/>
-    <word original="與" calque="with"/>
+    <word original="與" calque="assist"/>
     <word original="善" calque="good"/>
     <word original="人" calque="person"/>
 </line>

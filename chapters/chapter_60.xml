@@ -1,36 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="60">
-<line commentary="This opening line uses a cooking metaphor - comparing governing a large state to cooking small fish, suggesting gentleness and restraint">
+<line commentary="This opening line uses a powerful metaphor comparing governing a large state to cooking small fish - suggesting both require a delicate touch!">
     <word original="治" calque="govern"/>
-    <word original="大" calque="great"/>
+    <word original="大" calque="big"/>
     <word original="國" calque="state"/>
     <word original="若" calque="like"/>
     <word original="烹" calque="cook"/>
     <word original="小" calque="small"/>
     <word original="鮮" calque="fish"/>
 </line>
-<line commentary="A pivotal line establishing how to approach rulership - through the Way">
+
+<line commentary="Notice how 以 (by-means-of) connects 道 (way) to the action - a common Classical Chinese grammatical pattern showing how something is accomplished">
     <word original="以" calque="by-means-of"/>
     <word original="道" calque="way"/>
     <word original="莅" calque="oversee"/>
     <word original="天" calque="heaven"/>
     <word original="下" calque="below"/>
 </line>
-<line>
+
+<line commentary="Here 其 is being used as a possessive pronoun - whose ghosts? The state's ghosts!">
     <word original="其" calque="its"/>
     <word original="鬼" calque="ghost"/>
     <word original="不" calque="not"/>
     <word original="神" calque="spirit"/>
 </line>
+
 <line>
-    <word original="非" calque="not"/>
+    <word original="非" calque="not-that"/>
     <word original="其" calque="its"/>
     <word original="鬼" calque="ghost"/>
     <word original="不" calque="not"/>
     <word original="神" calque="spirit"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line>
+
+<line commentary="Notice how 傷 (harm/injure) is used repeatedly in the following lines - what might this repetition emphasize?">
     <word original="其" calque="its"/>
     <word original="神" calque="spirit"/>
     <word original="不" calque="not"/>
@@ -38,8 +42,9 @@
     <word original="人" calque="person"/>
     <word original="." calque="." punctuation="true"/>
 </line>
+
 <line>
-    <word original="非" calque="not"/>
+    <word original="非" calque="not-that"/>
     <word original="其" calque="its"/>
     <word original="神" calque="spirit"/>
     <word original="不" calque="not"/>
@@ -47,7 +52,8 @@
     <word original="人" calque="person"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="Notice how the sage is equated with spiritual forces - neither causing harm">
+
+<line>
     <word original="聖" calque="sage"/>
     <word original="人" calque="person"/>
     <word original="亦" calque="also"/>
@@ -56,18 +62,20 @@
     <word original="人" calque="person"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="A key principle of Daoism - mutual non-interference leads to harmony">
+
+<line commentary="夫 often introduces an important conclusion or summary - pay attention to what follows!">
     <word original="夫" calque="thus"/>
     <word original="兩" calque="both"/>
     <word original="不" calque="not"/>
     <word original="相" calque="mutual"/>
     <word original="傷" calque="harm"/>
 </line>
-<line commentary="The final line shows the natural result - virtue/power (de) naturally returns">
-    <word original="(.)故" calque="therefore"/>
+
+<line commentary="The final line uses 焉 (here/therein) - a common Classical Chinese ending particle that often signals a conclusion">
+    <word original="(.)故" calque="(therefore)"/>
     <word original="德" calque="virtue"/>
     <word original="交" calque="exchange"/>
     <word original="歸" calque="return"/>
-    <word original="焉" calque="herein"/>
+    <word original="焉" calque="therein"/>
 </line>
 </chapter>

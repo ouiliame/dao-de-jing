@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="21">
-<line commentary="This opening line speaks to how supreme virtue/power (孔德) manifests through following the Dao">
-    <word original="孔" calque="supreme"/>
-    <word original="德" calque="virtue/power"/>
+<line commentary="This opening line sets up a profound discussion about the nature of virtue (德) and how it relates to the Dao. The character 孔 means 'great/vast' but is also associated with Confucius (孔子) - an interesting potential wordplay.">
+    <word original="孔" calque="vast"/>
+    <word original="德" calque="virtue"/>
     <word original="之" calque="of"/>
     <word original="容" calque="appearance"/>
     <word original="(唯)" calque="(only)"/>
@@ -10,83 +10,93 @@
     <word original="是" calque="this"/>
     <word original="從" calque="follow"/>
 </line>
-<line commentary="Here the text begins to describe the elusive nature of Dao as a 'thing/substance'">
+
+<line commentary="Here we encounter two fascinating descriptive words 恍 and 惚 that try to capture the elusive nature of Dao. They suggest haziness, dimness, indistinctness - like trying to describe something just at the edge of perception.">
     <word original="道" calque="way"/>
     <word original="之" calque="of"/>
     <word original="為" calque="being"/>
     <word original="物" calque="thing"/>
     <word original="(唯)" calque="(only)"/>
-    <word original="恍" calque="hazy"/>
+    <word original="恍" calque="vague"/>
     <word original="(唯)" calque="(only)"/>
     <word original="惚" calque="indistinct"/>
 </line>
-<line>
+
+<line commentary="Notice how the particle 兮 (xi) is used poetically to create rhythm and emphasis. This gives the text an almost chant-like quality.">
     <word original="惚" calque="indistinct"/>
-    <word original="兮" calque="oh"/>
-    <word original="恍" calque="hazy"/>
-    <word original="兮" calque="oh"/>
+    <word original="兮" calque="ah"/>
+    <word original="恍" calque="vague"/>
+    <word original="兮" calque="ah"/>
     <word original="其" calque="its"/>
     <word original="中" calque="within"/>
-    <word original="有" calque="have"/>
+    <word original="有" calque="exist"/>
     <word original="象" calque="image"/>
     <word original="." calque="." punctuation="true"/>
 </line>
+
 <line>
-    <word original="恍" calque="hazy"/>
-    <word original="兮" calque="oh"/>
+    <word original="恍" calque="vague"/>
+    <word original="兮" calque="ah"/>
     <word original="惚" calque="indistinct"/>
-    <word original="兮" calque="oh"/>
+    <word original="兮" calque="ah"/>
     <word original="其" calque="its"/>
     <word original="中" calque="within"/>
-    <word original="有" calque="have"/>
+    <word original="有" calque="exist"/>
     <word original="物" calque="thing"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="These three parallel lines build a poetic description of increasing depth and mystery">
+
+<line commentary="窈 and 冥 both refer to darkness/obscurity but with slightly different connotations - 窈 suggests deep/remote while 冥 suggests darkness/mysterious. What might be hidden in such depths?">
     <word original="窈" calque="deep"/>
-    <word original="兮" calque="oh"/>
+    <word original="兮" calque="ah"/>
     <word original="冥" calque="dark"/>
-    <word original="兮" calque="oh"/>
+    <word original="兮" calque="ah"/>
     <word original="其" calque="its"/>
     <word original="中" calque="within"/>
-    <word original="有" calque="have"/>
+    <word original="有" calque="exist"/>
     <word original="精" calque="essence"/>
     <word original="." calque="." punctuation="true"/>
 </line>
+
 <line>
     <word original="其" calque="its"/>
     <word original="精" calque="essence"/>
     <word original="甚" calque="very"/>
     <word original="真" calque="real"/>
 </line>
+
 <line>
     <word original="其" calque="its"/>
     <word original="中" calque="within"/>
-    <word original="有" calque="have"/>
+    <word original="有" calque="exist"/>
     <word original="信" calque="truth"/>
 </line>
-<line>
+
+<line commentary="Notice how Classical Chinese can express time spans elegantly - just two characters 今 (now) and 古 (ancient) can express 'from ancient times until now'">
     <word original="自" calque="from"/>
     <word original="(今)" calque="(now)"/>
     <word original="及" calque="reach"/>
     <word original="(古)" calque="(ancient)"/>
 </line>
+
 <line>
     <word original="其" calque="its"/>
     <word original="名" calque="name"/>
     <word original="不" calque="not"/>
     <word original="去" calque="depart"/>
 </line>
-<line>
+
+<line commentary="甫 is a fascinating character - it can mean 'beginning' or 'origin' but also carries the sense of 'measuring' or 'judging'. What might it mean to 'observe all beginnings'?">
     <word original="以" calque="by-means-of"/>
     <word original="閱" calque="examine"/>
     <word original="眾" calque="many"/>
     <word original="甫" calque="beginning"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="This rhetorical question uses 何 (what) to ask how we can know the nature of all beginnings">
+
+<line>
     <word original="吾" calque="I"/>
-    <word original="何" calque="what"/>
+    <word original="何" calque="how"/>
     <word original="以" calque="by-means-of"/>
     <word original="知" calque="know"/>
     <word original="眾" calque="many"/>
@@ -96,6 +106,7 @@
     <word original="哉" calque="indeed"/>
     <word original="(.)" calque="(.)" punctuation="true"/>
 </line>
+
 <line>
     <word original="以" calque="by-means-of"/>
     <word original="此" calque="this"/>

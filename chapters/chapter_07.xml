@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="7">
-<line commentary="This opening line establishes a cosmic perspective - heaven's endurance and earth's permanence as natural phenomena">
+<line commentary="This opening line sets up a profound observation about heaven and earth's endurance">
     <word original="天" calque="heaven"/>
     <word original="長" calque="long"/>
     <word original="地" calque="earth"/>
-    <word original="久" calque="endure"/>
+    <word original="久" calque="enduring"/>
 </line>
 
-<line commentary="This line questions why heaven and earth can persist eternally">
+<line commentary="Here's where Classical Chinese grammar gets interesting - 'suo yi' (所以) is a common grammatical construction meaning 'that by which' or 'the reason why'">
     <word original="天" calque="heaven"/>
     <word original="地" calque="earth"/>
     <word original="所" calque="that-which"/>
     <word original="以" calque="by-means-of"/>
-    <word original="能" calque="able"/>
+    <word original="能" calque="can"/>
     <word original="長" calque="long"/>
     <word original="且" calque="and"/>
-    <word original="久" calque="endure"/>
+    <word original="久" calque="enduring"/>
     <word original="者" calque="one-who"/>
 </line>
 
-<line commentary="A profound paradox - their endurance comes from not living for themselves">
+<line commentary="Notice how 自 (self) modifies 生 (live/give-birth) - what could it mean to not 'self-live'?">
     <word original="以" calque="by-means-of"/>
-    <word original="其" calque="their"/>
+    <word original="其" calque="its"/>
     <word original="不" calque="not"/>
     <word original="自" calque="self"/>
     <word original="生" calque="live"/>
@@ -29,23 +29,23 @@
 </line>
 
 <line>
-    <word original="(.)故" calque="therefore"/>
-    <word original="能" calque="able"/>
+    <word original="(.)故" calque="(therefore)"/>
+    <word original="能" calque="can"/>
     <word original="長" calque="long"/>
     <word original="生" calque="live"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Introduces how the sage embodies this cosmic principle">
+<line commentary="Here we meet the 聖人 (sage) - a key figure in Daoist philosophy. Watch how the following lines describe their paradoxical behavior">
     <word original="是" calque="this"/>
     <word original="以" calque="by-means-of"/>
     <word original="聖" calque="sage"/>
     <word original="人" calque="person"/>
 </line>
 
-<line commentary="A beautiful paradox: by putting oneself last, one comes first">
+<line commentary="This line plays with position (先/後) - what happens when you put yourself last?">
     <word original="後" calque="behind"/>
-    <word original="其" calque="their"/>
+    <word original="其" calque="his"/>
     <word original="身" calque="body"/>
     <word original="而" calque="yet"/>
     <word original="身" calque="body"/>
@@ -55,30 +55,29 @@
 
 <line>
     <word original="外" calque="outside"/>
-    <word original="其" calque="their"/>
+    <word original="其" calque="his"/>
     <word original="身" calque="body"/>
     <word original="而" calque="yet"/>
     <word original="身" calque="body"/>
-    <word original="存" calque="exist"/>
+    <word original="存" calque="exists"/>
 </line>
 
-<line commentary="邪 here acts as an interrogative particle, questioning if this selflessness is the reason">
+<line commentary="邪 here is an archaic particle indicating a rhetorical question - can you see how this line questions the reason for the sage's survival?">
     <word original="非" calque="is-not"/>
     <word original="以" calque="by-means-of"/>
-    <word original="其" calque="their"/>
+    <word original="其" calque="his"/>
     <word original="無" calque="without"/>
-    <word original="私" calque="private"/>
-    <word original="邪(.)" calque="(question)"/>
+    <word original="私" calque="self-interest"/>
+    <word original="邪" calque="(rhetorical)"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="(.)故" calque="therefore"/>
-    <word original="能" calque="able"/>
+<line commentary="Notice how this conclusion mirrors the pattern from earlier - 故 (therefore) leading to an outcome. What's the relationship between having no self-interest and fulfilling it?">
+    <word original="(.)故" calque="(therefore)"/>
+    <word original="能" calque="can"/>
     <word original="成" calque="accomplish"/>
-    <word original="其" calque="their"/>
-    <word original="私" calque="private"/>
+    <word original="其" calque="his"/>
+    <word original="私" calque="self-interest"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-
 </chapter>

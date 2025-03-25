@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="2">
-<line commentary="This opening line sets up a fundamental Daoist paradox about the relativity of human value judgments">
+<line commentary="This opening line sets up a profound philosophical observation about how we perceive beauty and its opposite. Notice how '之' marks the object, and '為' here means 'to be considered as'">
     <word original="天" calque="heaven"/>
     <word original="下" calque="below"/>
     <word original="皆" calque="all"/>
     <word original="知" calque="know"/>
     <word original="美" calque="beautiful"/>
-    <word original="之" calque="possessive"/>
-    <word original="為" calque="make"/>
+    <word original="之" calque="it"/>
+    <word original="為" calque="be"/>
     <word original="美" calque="beautiful"/>
     <word original="斯" calque="then"/>
     <word original="惡" calque="ugly"/>
     <word original="已" calque="already"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line>
+
+<line commentary="Notice how this line parallels the structure of the previous one, a common Classical Chinese rhetorical device called 'parallel prose' (駢文)">
     <word original="皆" calque="all"/>
     <word original="知" calque="know"/>
     <word original="善" calque="good"/>
-    <word original="之" calque="possessive"/>
-    <word original="為" calque="make"/>
+    <word original="之" calque="it"/>
+    <word original="為" calque="be"/>
     <word original="善" calque="good"/>
     <word original="斯" calque="then"/>
     <word original="不" calque="not"/>
@@ -27,21 +28,24 @@
     <word original="已" calque="already"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line>
-    <word original="(.)故" calque="therefore"/>
+
+<line commentary="'相' is a key word appearing throughout this chapter, indicating mutual relationship or reciprocal action">
+    <word original="(.)故" calque="(therefore)"/>
     <word original="有" calque="have"/>
     <word original="無" calque="nothing"/>
     <word original="相" calque="mutually"/>
     <word original="生" calque="generate"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="The next several lines demonstrate the interdependence of apparent opposites">
+
+<line>
     <word original="難" calque="difficult"/>
     <word original="易" calque="easy"/>
     <word original="相" calque="mutually"/>
     <word original="成" calque="complete"/>
     <word original="." calque="." punctuation="true"/>
 </line>
+
 <line>
     <word original="長" calque="long"/>
     <word original="短" calque="short"/>
@@ -49,13 +53,15 @@
     <word original="較" calque="compare"/>
     <word original="." calque="." punctuation="true"/>
 </line>
+
 <line>
     <word original="高" calque="high"/>
     <word original="下" calque="low"/>
     <word original="相" calque="mutually"/>
-    <word original="傾" calque="lean"/>
+    <word original="傾" calque="incline"/>
     <word original="." calque="." punctuation="true"/>
 </line>
+
 <line>
     <word original="音" calque="tone"/>
     <word original="聲" calque="sound"/>
@@ -63,6 +69,7 @@
     <word original="和" calque="harmonize"/>
     <word original="." calque="." punctuation="true"/>
 </line>
+
 <line>
     <word original="前" calque="before"/>
     <word original="後" calque="after"/>
@@ -70,29 +77,33 @@
     <word original="隨" calque="follow"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line>
+
+<line commentary="'是以' is a common Classical Chinese phrase introducing a conclusion or result">
     <word original="是" calque="this"/>
     <word original="以" calque="by-means-of"/>
     <word original="聖" calque="sage"/>
     <word original="人" calque="person"/>
 </line>
-<line commentary="Here begins the description of the sage's method - note the emphasis on non-action and teaching without words">
+
+<line commentary="'無為' is a key Daoist concept - try to piece together what it might mean from the literal characters">
     <word original="處" calque="dwell"/>
-    <word original="無" calque="non"/>
-    <word original="為" calque="action"/>
-    <word original="之" calque="possessive"/>
-    <word original="事" calque="affairs"/>
+    <word original="無" calque="nothing"/>
+    <word original="為" calque="do"/>
+    <word original="之" calque="of"/>
+    <word original="事" calque="matter"/>
 </line>
+
 <line>
     <word original="行" calque="practice"/>
     <word original="不" calque="not"/>
     <word original="言" calque="speak"/>
-    <word original="之" calque="possessive"/>
+    <word original="之" calque="of"/>
     <word original="教" calque="teaching"/>
 </line>
-<line>
+
+<line commentary="Notice how '作' here might mean 'arise/occur' rather than 'make/do'">
     <word original="萬" calque="ten-thousand"/>
-    <word original="物" calque="things"/>
+    <word original="物" calque="thing"/>
     <word original="作" calque="arise"/>
     <word original="__" calque="..."/>
     <word original="而" calque="and"/>
@@ -100,39 +111,44 @@
     <word original="(始)" calque="(begin)"/>
     <word original="." calque="." punctuation="true"/>
 </line>
+
 <line>
     <word original="生" calque="give-birth"/>
     <word original="而" calque="and"/>
     <word original="不" calque="not"/>
     <word original="有" calque="possess"/>
 </line>
+
 <line>
-    <word original="為" calque="act"/>
+    <word original="為" calque="do"/>
     <word original="而" calque="and"/>
     <word original="不" calque="not"/>
     <word original="恃" calque="rely-on"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="This describes the sage's non-attachment to achievements">
-    <word original="功" calque="merit"/>
+
+<line>
+    <word original="功" calque="achievement"/>
     <word original="成" calque="complete"/>
     <word original="而" calque="and"/>
     <word original="弗" calque="not"/>
     <word original="居" calque="dwell"/>
     <word original="." calque="." punctuation="true"/>
 </line>
+
 <line>
-    <word original="(.)夫" calque="indeed"/>
+    <word original="(.)夫" calque="(indeed)"/>
     <word original="唯" calque="only"/>
     <word original="弗" calque="not"/>
     <word original="居" calque="dwell"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line>
+
+<line commentary="A powerful conclusion that plays on multiple meanings of '去' - to leave/depart/remove">
     <word original="是" calque="this"/>
     <word original="以" calque="by-means-of"/>
     <word original="不" calque="not"/>
-    <word original="去" calque="depart"/>
+    <word original="去" calque="leave"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 </chapter>

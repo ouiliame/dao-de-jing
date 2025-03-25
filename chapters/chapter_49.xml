@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="49">
-<line commentary="This opening line introduces a profound concept about the sage's adaptable mindset">
+<line commentary="This opening line introduces a profound concept about the sage's mind - notice how 無常 (without-constant) relates to adaptability">
     <word original="聖" calque="sage"/>
     <word original="人" calque="person"/>
     <word original="無" calque="without"/>
     <word original="常" calque="constant"/>
     <word original="心" calque="heart-mind"/>
 </line>
-<line commentary="Shows how the sage aligns with the people's hearts">
+
+<line commentary="A key line showing how the sage relates to others - watch how 為 (make/become) creates a relationship between the two instances of 心 (heart-mind)">
     <word original="以" calque="by-means-of"/>
     <word original="百" calque="hundred"/>
     <word original="姓" calque="surnames"/>
@@ -15,6 +16,7 @@
     <word original="為" calque="make"/>
     <word original="心" calque="heart-mind"/>
 </line>
+
 <line>
     <word original="善" calque="good"/>
     <word original="者" calque="one-who"/>
@@ -22,7 +24,8 @@
     <word original="善" calque="good"/>
     <word original="之" calque="them"/>
 </line>
-<line>
+
+<line commentary="Notice the parallel structure with the previous line - a common poetic device in Classical Chinese">
     <word original="不" calque="not"/>
     <word original="善" calque="good"/>
     <word original="者" calque="one-who"/>
@@ -31,11 +34,13 @@
     <word original="善" calque="good"/>
     <word original="之" calque="them"/>
 </line>
-<line commentary="A powerful statement about the nature of virtue">
+
+<line commentary="This short line carries deep meaning - 德 (virtue/power) is paired with 善 (good)">
     <word original="德" calque="virtue"/>
     <word original="善" calque="good"/>
     <word original="." calque="." punctuation="true"/>
 </line>
+
 <line>
     <word original="信" calque="trust"/>
     <word original="者" calque="one-who"/>
@@ -43,6 +48,7 @@
     <word original="信" calque="trust"/>
     <word original="之" calque="them"/>
 </line>
+
 <line>
     <word original="不" calque="not"/>
     <word original="信" calque="trust"/>
@@ -52,29 +58,33 @@
     <word original="信" calque="trust"/>
     <word original="之" calque="them"/>
 </line>
+
 <line>
     <word original="德" calque="virtue"/>
     <word original="信" calque="trust"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="This beautiful metaphor describes the sage's careful attention to the world">
+
+<line commentary="歙歙 (xi xi) is an interesting onomatopoeia suggesting gathering or drawing in - think about what this implies about the sage's presence">
     <word original="聖" calque="sage"/>
     <word original="人" calque="person"/>
     <word original="在" calque="at"/>
     <word original="天" calque="heaven"/>
     <word original="下" calque="below"/>
-    <word original="歙" calque="gather-in"/>
-    <word original="歙" calque="gather-in"/>
+    <word original="歙" calque="gather"/>
+    <word original="歙" calque="gather"/>
 </line>
-<line>
-    <word original="[焉]" calque="[therein]"/>
+
+<line commentary="渾 suggests a mixing or muddling - consider why the sage would 'muddle' their heart-mind for all under heaven">
+    <word original="[焉]" calque="[thereby]"/>
     <word original="為" calque="make"/>
     <word original="天" calque="heaven"/>
     <word original="下" calque="below"/>
-    <word original="渾" calque="merge"/>
+    <word original="渾" calque="muddle"/>
     <word original="其" calque="their"/>
     <word original="心" calque="heart-mind"/>
 </line>
+
 <line>
     <word original="百" calque="hundred"/>
     <word original="姓" calque="surnames"/>
@@ -84,7 +94,8 @@
     <word original="耳" calque="ears"/>
     <word original="目" calque="eyes"/>
 </line>
-<line commentary="The final line reveals how the sage views all people as children - with acceptance and care">
+
+<line commentary="The final line uses 孩 (child/infant) - what might it mean for a sage to treat everyone as children?">
     <word original="聖" calque="sage"/>
     <word original="人" calque="person"/>
     <word original="皆" calque="all"/>

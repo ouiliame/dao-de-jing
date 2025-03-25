@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="29">
-<line commentary="This opening line sets up a hypothetical scenario about attempting to control/seize the world">
-    <word original="將" calque="about-to"/>
+<line commentary="This opening line sets up a hypothetical scenario about attempting to 'grasp/control' (取) the 'world/empire' (天下). Notice how 將 here serves as a future marker, and 欲 indicates desire/wish.">
+    <word original="將" calque="will"/>
     <word original="欲" calque="desire"/>
-    <word original="取" calque="take"/>
+    <word original="取" calque="grasp"/>
     <word original="天" calque="heaven"/>
     <word original="下" calque="below"/>
     <word original="而" calque="and"/>
@@ -11,7 +11,7 @@
     <word original="之" calque="it"/>
 </line>
 
-<line commentary="The speaker observes the futility of such attempts">
+<line commentary="Notice how 見 (see) is used metaphorically here - it's about perception/understanding rather than literal sight.">
     <word original="吾" calque="I"/>
     <word original="見" calque="see"/>
     <word original="其" calque="its"/>
@@ -20,13 +20,13 @@
     <word original="已" calque="already"/>
 </line>
 
-<line commentary="'Divine vessel' is a metaphor for the world/empire - suggesting it has its own sacred nature">
-    <word original="[(.)夫]" calque="(indeed)"/>
+<line commentary="神器 (divine-vessel) is a powerful term - what kind of 'vessel' might the world/empire be? Why 'divine'?">
+    <word original="[(.)夫]" calque="[indeed]"/>
     <word original="天" calque="heaven"/>
     <word original="下" calque="below"/>
     <word original="神" calque="divine"/>
     <word original="器" calque="vessel"/>
-    <word original="." calque="." punctuation="true"/>
+    <word original="." calque="."/>
 </line>
 
 <line>
@@ -34,13 +34,13 @@
     <word original="可" calque="can"/>
     <word original="為" calque="do"/>
     <word original="也" calque="indeed"/>
-    <word original="(.)" calque="(.)" punctuation="true"/>
+    <word original="(.)" calque="(.)"/>
 </line>
 
-<line commentary="A powerful statement about how forcing control leads to loss">
+<line commentary="Notice the parallel structure in this and the next line - what's the relationship between 'defeat' and 'lose'?">
     <word original="為" calque="do"/>
     <word original="者" calque="one-who"/>
-    <word original="敗" calque="ruin"/>
+    <word original="敗" calque="defeat"/>
     <word original="之" calque="it"/>
 </line>
 
@@ -56,7 +56,7 @@
     <word original="物" calque="things"/>
 </line>
 
-<line commentary="These paired lines describe natural cycles and opposites in nature">
+<line commentary="The next several lines present pairs of opposites using 或...或... (either...or...) structure. What natural phenomena might these describe?">
     <word original="或" calque="some"/>
     <word original="行" calque="go"/>
     <word original="或" calque="some"/>
@@ -65,7 +65,7 @@
 
 <line>
     <word original="或" calque="some"/>
-    <word original="(歔)" calque="(warm)"/>
+    <word original="(歔)" calque="(inhale)"/>
     <word original="或" calque="some"/>
     <word original="吹" calque="blow"/>
 </line>
@@ -84,21 +84,21 @@
     <word original="隳" calque="destroy"/>
 </line>
 
-<line commentary="Introduces the sage's response to these observations">
+<line commentary="是以 (therefore) often signals an important conclusion in Daoist texts. What kind of person is a 聖人 (sage)?">
     <word original="是" calque="this"/>
     <word original="以" calque="by-means-of"/>
     <word original="聖" calque="sage"/>
     <word original="人" calque="person"/>
 </line>
 
-<line commentary="The final three lines present a powerful triple repetition of 'removing extremes' - a key teaching of moderation">
+<line commentary="The final three lines follow a parallel structure, all beginning with 去 (remove/eliminate). What might these three things have in common?">
     <word original="去" calque="remove"/>
-    <word original="甚" calque="excessive"/>
+    <word original="甚" calque="excess"/>
 </line>
 
 <line>
     <word original="去" calque="remove"/>
-    <word original="奢" calque="extravagant"/>
+    <word original="奢" calque="extravagance"/>
 </line>
 
 <line>

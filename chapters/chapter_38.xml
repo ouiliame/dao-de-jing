@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="38">
-<line commentary="This chapter explores the hierarchy of virtue, beginning with a paradoxical statement about highest virtue">
-    <word original="上" calque="highest"/>
+<line commentary="This opening line introduces a fascinating paradox about virtue (德/de). Notice how the first two characters combine - what kind of virtue is being discussed?">
+    <word original="上" calque="high"/>
     <word original="德" calque="virtue"/>
     <word original="不" calque="not"/>
     <word original="德" calque="virtue"/>
@@ -10,8 +10,9 @@
     <word original="有" calque="have"/>
     <word original="德" calque="virtue"/>
 </line>
-<line>
-    <word original="下" calque="lower"/>
+
+<line commentary="Compare this with the previous line - what's the key difference between 'high virtue' and 'low virtue'?">
+    <word original="下" calque="low"/>
     <word original="德" calque="virtue"/>
     <word original="不" calque="not"/>
     <word original="失" calque="lose"/>
@@ -21,19 +22,21 @@
     <word original="無" calque="without"/>
     <word original="德" calque="virtue"/>
 </line>
-<line commentary="Note how 無為 (non-action) is a key Daoist concept - acting without forcing or interfering">
-    <word original="上" calque="highest"/>
+
+<line commentary="無為 (wu-wei) is a key Daoist concept - notice how it's paired with the second half of the line">
+    <word original="上" calque="high"/>
     <word original="德" calque="virtue"/>
     <word original="無" calque="without"/>
     <word original="為" calque="action"/>
     <word original="而" calque="and"/>
     <word original="無" calque="without"/>
     <word original="以" calque="by-means-of"/>
-    <word original="為" calque="do"/>
+    <word original="為" calque="action"/>
     <word original="." calque="." punctuation="true"/>
 </line>
+
 <line>
-    <word original="下" calque="lower"/>
+    <word original="下" calque="low"/>
     <word original="德" calque="virtue"/>
     <word original="為" calque="do"/>
     <word original="之" calque="it"/>
@@ -42,8 +45,9 @@
     <word original="以" calque="by-means-of"/>
     <word original="為" calque="do"/>
 </line>
-<line>
-    <word original="上" calque="highest"/>
+
+<line commentary="Notice how the text moves down a hierarchy: from virtue (德) to benevolence (仁) to righteousness (義) to ritual (禮)">
+    <word original="上" calque="high"/>
     <word original="仁" calque="benevolence"/>
     <word original="為" calque="do"/>
     <word original="之" calque="it"/>
@@ -53,8 +57,9 @@
     <word original="為" calque="do"/>
     <word original="." calque="." punctuation="true"/>
 </line>
+
 <line>
-    <word original="上" calque="highest"/>
+    <word original="上" calque="high"/>
     <word original="義" calque="righteousness"/>
     <word original="為" calque="do"/>
     <word original="之" calque="it"/>
@@ -64,8 +69,9 @@
     <word original="為" calque="do"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line>
-    <word original="上" calque="highest"/>
+
+<line commentary="This line presents an interesting image - what happens when ritual is performed but receives no response?">
+    <word original="上" calque="high"/>
     <word original="禮" calque="ritual"/>
     <word original="為" calque="do"/>
     <word original="之" calque="it"/>
@@ -76,15 +82,17 @@
     <word original="應" calque="respond"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="A vivid image of forcing compliance through ritual">
+
+<line commentary="攘臂 (rang bi) literally means 'bare the arms' - what kind of action does this suggest?">
     <word original="則" calque="then"/>
-    <word original="攘" calque="raise"/>
+    <word original="攘" calque="bare"/>
     <word original="臂" calque="arms"/>
     <word original="而" calque="and"/>
     <word original="(仍)" calque="(still)"/>
     <word original="之" calque="it"/>
 </line>
-<line>
+
+<line commentary="Here begins a sequence showing the degradation from Dao downward - notice the pattern">
     <word original="(.)故" calque="(therefore)"/>
     <word original="失" calque="lose"/>
     <word original="道" calque="way"/>
@@ -92,13 +100,15 @@
     <word original="後" calque="after"/>
     <word original="德" calque="virtue"/>
 </line>
-<line commentary="This section shows the degradation from Dao to mere ritual - a key criticism of Confucian emphasis on ritual">
+
+<line>
     <word original="失" calque="lose"/>
     <word original="德" calque="virtue"/>
     <word original="而" calque="and"/>
     <word original="後" calque="after"/>
     <word original="仁" calque="benevolence"/>
 </line>
+
 <line>
     <word original="失" calque="lose"/>
     <word original="仁" calque="benevolence"/>
@@ -107,6 +117,7 @@
     <word original="義" calque="righteousness"/>
     <word original="." calque="." punctuation="true"/>
 </line>
+
 <line>
     <word original="失" calque="lose"/>
     <word original="義" calque="righteousness"/>
@@ -114,7 +125,8 @@
     <word original="後" calque="after"/>
     <word original="禮" calque="ritual"/>
 </line>
-<line commentary="A powerful critique of empty ritual - 薄 meaning thin/superficial is key here">
+
+<line commentary="This is a powerful critique of ritual - what does it mean for ritual to be the 'thinning' of loyalty and trust?">
     <word original="(.)夫" calque="(now)"/>
     <word original="禮" calque="ritual"/>
     <word original="者" calque="that-which"/>
@@ -124,6 +136,7 @@
     <word original="薄" calque="thin"/>
     <word original="." calque="." punctuation="true"/>
 </line>
+
 <line>
     <word original="而" calque="and"/>
     <word original="亂" calque="chaos"/>
@@ -131,8 +144,9 @@
     <word original="首" calque="beginning"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line>
-    <word original="前" calque="forward"/>
+
+<line commentary="前識 (qian shi) refers to foreknowledge - why might this be considered merely the 'flower' of the Way?">
+    <word original="前" calque="fore"/>
     <word original="識" calque="knowledge"/>
     <word original="者" calque="that-which"/>
     <word original="道" calque="way"/>
@@ -140,6 +154,7 @@
     <word original="華" calque="flower"/>
     <word original="." calque="." punctuation="true"/>
 </line>
+
 <line>
     <word original="而" calque="and"/>
     <word original="愚" calque="foolishness"/>
@@ -147,13 +162,15 @@
     <word original="始" calque="beginning"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="大丈夫 'great person' represents the ideal sage in Daoism">
+
+<line commentary="大丈夫 (da zhang fu) - 'great person' - what qualities make someone 'great' according to this text?">
     <word original="是" calque="this"/>
     <word original="以" calque="by-means-of"/>
     <word original="大" calque="great"/>
     <word original="丈" calque="measure"/>
     <word original="夫" calque="person"/>
 </line>
+
 <line>
     <word original="處" calque="dwell"/>
     <word original="其" calque="its"/>
@@ -163,6 +180,7 @@
     <word original="其" calque="its"/>
     <word original="薄" calque="thin"/>
 </line>
+
 <line>
     <word original="處" calque="dwell"/>
     <word original="其" calque="its"/>
@@ -172,6 +190,7 @@
     <word original="其" calque="its"/>
     <word original="華" calque="flower"/>
 </line>
+
 <line>
     <word original="(.)故" calque="(therefore)"/>
     <word original="去" calque="reject"/>

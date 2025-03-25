@@ -1,34 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="32">
-<line>
+<line commentary="This opening line introduces a profound paradox about the Dao - something that has no fixed name yet is 'constant'">
     <word original="道" calque="way"/>
     <word original="常" calque="constant"/>
     <word original="無" calque="without"/>
     <word original="名" calque="name"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line>
+
+<line commentary="'pu' (樸) is a key concept meaning 'uncarved block' or natural simplicity - a metaphor for original nature before cultural refinement">
     <word original="樸" calque="uncarved-block"/>
     <word original="雖" calque="although"/>
     <word original="小" calque="small"/>
 </line>
+
 <line>
     <word original="天" calque="heaven"/>
     <word original="下" calque="below"/>
     <word original="莫" calque="none"/>
     <word original="能" calque="can"/>
     <word original="臣" calque="subject"/>
-    <word original="__" calque="..."/>
-    <word original="." calque="." punctuation="true"/>
+    <word original="__" calque="..." punctuation="true"/>
 </line>
-<line commentary="Note how 若 (if) sets up a conditional statement - a common Classical Chinese construction">
+
+<line commentary="Notice how 守 (guard/keep) connects with 之 (it) - a common grammatical pattern showing action upon an object">
     <word original="侯" calque="marquis"/>
     <word original="王" calque="king"/>
     <word original="若" calque="if"/>
     <word original="能" calque="can"/>
-    <word original="守" calque="keep"/>
+    <word original="守" calque="guard"/>
     <word original="之" calque="it"/>
 </line>
+
 <line>
     <word original="萬" calque="ten-thousand"/>
     <word original="物" calque="things"/>
@@ -37,6 +40,7 @@
     <word original="賓" calque="guest"/>
     <word original="." calque="." punctuation="true"/>
 </line>
+
 <line>
     <word original="天" calque="heaven"/>
     <word original="地" calque="earth"/>
@@ -44,46 +48,52 @@
     <word original="合" calque="join"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="甘露 (sweet dew) is a metaphor for natural harmony and blessing">
+
+<line commentary="甘露 (sweet dew) was believed to be an auspicious sign of harmony between heaven and earth">
     <word original="以" calque="by-means-of"/>
     <word original="降" calque="descend"/>
     <word original="甘" calque="sweet"/>
     <word original="露" calque="dew"/>
     <word original="." calque="." punctuation="true"/>
 </line>
+
 <line>
     <word original="民" calque="people"/>
     <word original="莫" calque="none"/>
     <word original="之" calque="it"/>
-    <word original="令" calque="order"/>
+    <word original="令" calque="command"/>
 </line>
+
 <line>
     <word original="而" calque="yet"/>
     <word original="自" calque="self"/>
     <word original="均" calque="equal"/>
 </line>
-<line>
-    <word original="[焉]" calque="[thereupon]"/>
+
+<line commentary="This line marks a transition in the text, discussing how names/labels come into being">
+    <word original="[焉]" calque="[thereby]"/>
     <word original="始" calque="begin"/>
-    <word original="制" calque="system"/>
+    <word original="制" calque="establish"/>
     <word original="有" calque="have"/>
     <word original="名" calque="name"/>
 </line>
+
 <line>
     <word original="名" calque="name"/>
     <word original="亦" calque="also"/>
     <word original="既" calque="already"/>
     <word original="有" calque="have"/>
 </line>
+
 <line>
-    <word original="(.)" calque="(.)" punctuation="true"/>
-    <word original="夫" calque="that"/>
+    <word original="(.)夫" calque="(.)then"/>
     <word original="亦" calque="also"/>
     <word original="將" calque="will"/>
     <word original="知" calque="know"/>
     <word original="止" calque="stop"/>
 </line>
-<line commentary="A key Daoist concept - knowing when to stop prevents danger">
+
+<line commentary="This line contains a profound insight about knowing when to stop - 殆 means 'danger' but implies potential disaster from not knowing limits">
     <word original="知" calque="know"/>
     <word original="止" calque="stop"/>
     <word original="(所)" calque="(that-which)"/>
@@ -91,20 +101,22 @@
     <word original="不" calque="not"/>
     <word original="殆" calque="danger"/>
 </line>
+
 <line>
     <word original="譬" calque="compare"/>
     <word original="道" calque="way"/>
-    <word original="之" calque="of"/>
+    <word original="之" calque="it"/>
     <word original="在" calque="exist"/>
     <word original="天" calque="heaven"/>
     <word original="下" calque="below"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="The final metaphor compares the Dao to water flowing naturally to lower places">
+
+<line commentary="The chapter ends with a beautiful metaphor comparing the Dao to waters flowing - notice how 川谷 (streams and valleys) naturally flow to 江海 (rivers and seas)">
     <word original="猶" calque="like"/>
     <word original="川" calque="stream"/>
     <word original="谷" calque="valley"/>
-    <word original="之" calque="of"/>
+    <word original="之" calque="it"/>
     <word original="(與)" calque="(and)"/>
     <word original="江" calque="river"/>
     <word original="海" calque="sea"/>

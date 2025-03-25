@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="46">
-<line commentary="This opening line sets up a contrast between when the world follows the Way vs doesn't">
+<line commentary="This opening line sets up a contrast between two states of the world - when there is 道 (Way) and when there isn't. Watch how the outcomes differ!">
     <word original="天" calque="heaven"/>
     <word original="下" calque="below"/>
     <word original="有" calque="have"/>
     <word original="道" calque="way"/>
 </line>
 
-<line commentary="A powerful image: in times of peace, warhorses are retired to farming work">
-    <word original="卻" calque="withdraw"/>
+<line commentary="An fascinating image! Notice how 卻 (to send back/return) combines with 走馬 (running horses) and 糞 (manure) - what might using horses for fertilizer rather than war suggest about a society?">
+    <word original="卻" calque="return"/>
     <word original="走" calque="run"/>
     <word original="馬" calque="horse"/>
     <word original="以" calque="by-means-of"/>
@@ -22,16 +22,16 @@
     <word original="道" calque="way"/>
 </line>
 
-<line commentary="Contrasting image: in chaotic times, war horses are bred at the borders">
+<line commentary="Compare this to the previous horse imagery - now where are the horses and what kind are they?">
     <word original="戎" calque="military"/>
     <word original="馬" calque="horse"/>
     <word original="生" calque="born"/>
     <word original="於" calque="at"/>
-    <word original="郊" calque="suburbs"/>
+    <word original="郊" calque="outskirts"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line>
+<line commentary="This parenthetical line introduces the first of three parallel statements about 莫大於 (nothing greater than). Notice how 可欲 combines 'possible' and 'desire'">
     <word original="(罪" calque="(crime"/>
     <word original="莫" calque="none"/>
     <word original="大" calque="greater"/>
@@ -40,7 +40,7 @@
     <word original="欲)" calque="desire)"/>
 </line>
 
-<line commentary="This line introduces a key theme about the dangers of endless wanting">
+<line>
     <word original="禍" calque="disaster"/>
     <word original="莫" calque="none"/>
     <word original="大" calque="greater"/>
@@ -59,15 +59,15 @@
     <word original="得" calque="obtain"/>
 </line>
 
-<line commentary="A famous concluding line about contentment. Note how 足 is used three times with slightly different meanings: 'enough', 'sufficiency', and 'satisfied'">
+<line commentary="A beautiful conclusion that plays with the word 足 (enough). Notice how it appears three times - as a verb 'to be enough', as a noun 'what is enough', and again as 'enough'. The repetition creates a sense of completeness.">
     <word original="(.)故" calque="(.)therefore"/>
     <word original="知" calque="know"/>
     <word original="足" calque="enough"/>
     <word original="之" calque="of"/>
-    <word original="足" calque="sufficiency"/>
+    <word original="足" calque="enough"/>
     <word original="常" calque="always"/>
-    <word original="足" calque="satisfied"/>
-    <word original="矣" calque="already"/>
+    <word original="足" calque="enough"/>
+    <word original="矣" calque="indeed"/>
     <word original="(.)" calque="(.)" punctuation="true"/>
     <word original="." calque="." punctuation="true"/>
 </line>

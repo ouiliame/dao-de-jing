@@ -1,88 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="75">
-<line commentary="This chapter explores how the actions of rulers/those above affect the common people below">
+<line commentary="This chapter opens with a powerful statement about hunger - notice how the (.) marks create emphasis">
     <word original="." calque="." punctuation="true"/>
     <word original="民" calque="people"/>
     <word original="之" calque="of"/>
     <word original="饑" calque="hunger"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="A powerful statement on how taxation leads to hunger - note the causative structure with 以">
+
+<line commentary="Look at how 'food' and 'tax' are connected here - what might that tell us about the relationship between rulers and ruled?">
     <word original="以" calque="by-means-of"/>
     <word original="其" calque="their"/>
     <word original="上" calque="above"/>
-    <word original="食" calque="eat"/>
+    <word original="食" calque="food"/>
     <word original="稅" calque="tax"/>
     <word original="之" calque="of"/>
     <word original="多" calque="much"/>
-    <word original="." calque="." punctuation="true"/>
 </line>
+
 <line>
     <word original="是" calque="this"/>
     <word original="以" calque="by-means-of"/>
     <word original="饑" calque="hunger"/>
 </line>
-<line>
+
+<line commentary="難治 appears twice in this chapter - notice how it creates a parallel structure">
     <word original="民" calque="people"/>
     <word original="之" calque="of"/>
     <word original="難" calque="difficult"/>
     <word original="治" calque="govern"/>
-    <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="Note 為 (doing/action) is a key concept in Daoism, often contrasted with 無為 (non-action)">
+
+<line commentary="有為 is a key Daoist concept meaning 'artificial action' or 'contrived action' - opposite of 無為 (non-action)">
     <word original="以" calque="by-means-of"/>
     <word original="其" calque="their"/>
     <word original="上" calque="above"/>
     <word original="之" calque="of"/>
     <word original="有" calque="have"/>
-    <word original="為" calque="doing"/>
-    <word original="." calque="." punctuation="true"/>
+    <word original="為" calque="do"/>
 </line>
+
 <line>
     <word original="是" calque="this"/>
     <word original="以" calque="by-means-of"/>
     <word original="難" calque="difficult"/>
     <word original="治" calque="govern"/>
-    <word original="." calque="." punctuation="true"/>
 </line>
-<line>
+
+<line commentary="Notice how 'light' here modifies 'death' - what could it mean to treat death lightly?">
     <word original="民" calque="people"/>
     <word original="之" calque="of"/>
     <word original="輕" calque="light"/>
     <word original="死" calque="death"/>
-    <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="厚 (thick/rich) here refers to excessive or extravagant ways of living">
+
+<line>
     <word original="以" calque="by-means-of"/>
     <word original="其" calque="their"/>
     <word original="求" calque="seek"/>
     <word original="生" calque="life"/>
     <word original="之" calque="of"/>
     <word original="厚" calque="thick"/>
-    <word original="." calque="." punctuation="true"/>
 </line>
+
 <line>
     <word original="是" calque="this"/>
     <word original="以" calque="by-means-of"/>
     <word original="輕" calque="light"/>
     <word original="死" calque="death"/>
 </line>
-<line commentary="夫唯 often marks an important conclusion or truth. This line presents the ideal of simple living.">
-    <word original="(.)" calque="(.)" punctuation="true"/>
+
+<line commentary="夫 is often used to start philosophical statements - it's like saying 'Now...' or 'Indeed...'">
+    <word original="(•)" calque="(•)" punctuation="true"/>
     <word original="夫" calque="indeed"/>
     <word original="唯" calque="only"/>
-    <word original="無" calque="not"/>
+    <word original="無" calque="without"/>
     <word original="以" calque="by-means-of"/>
     <word original="生" calque="life"/>
-    <word original="為" calque="doing"/>
+    <word original="為" calque="do"/>
     <word original="者" calque="one-who"/>
 </line>
-<line>
+
+<line commentary="This final line provides the resolution - notice how 賢 (worthy/wise) contrasts with the earlier problems">
     <word original="是" calque="this"/>
     <word original="賢" calque="worthy"/>
     <word original="於" calque="than"/>
     <word original="貴" calque="value"/>
     <word original="生" calque="life"/>
-    <word original="." calque="." punctuation="true"/>
 </line>
 </chapter>

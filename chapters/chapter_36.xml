@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="36">
-<line commentary="This chapter opens with a series of parallel constructions showing opposing forces">
+<line commentary="This chapter opens with a recurring pattern structure. Notice how '將欲' (about-to want) starts several lines - this is a grammatical structure indicating intention or imminent action.">
     <word original="將" calque="about-to"/>
-    <word original="欲" calque="desire"/>
+    <word original="欲" calque="want"/>
     <word original="歙" calque="contract"/>
     <word original="之" calque="it"/>
 </line>
 
-<line>
+<line commentary="Notice how each response line begins with '必固' (must surely) - creating a strong rhetorical parallel structure.">
     <word original="必" calque="must"/>
-    <word original="固" calque="certainly"/>
+    <word original="固" calque="surely"/>
     <word original="張" calque="expand"/>
     <word original="之" calque="it"/>
 </line>
 
 <line>
     <word original="將" calque="about-to"/>
-    <word original="欲" calque="desire"/>
+    <word original="欲" calque="want"/>
     <word original="弱" calque="weaken"/>
     <word original="之" calque="it"/>
 </line>
 
 <line>
     <word original="必" calque="must"/>
-    <word original="固" calque="certainly"/>
+    <word original="固" calque="surely"/>
     <word original="強" calque="strengthen"/>
     <word original="之" calque="it"/>
 </line>
 
 <line>
     <word original="將" calque="about-to"/>
-    <word original="欲" calque="desire"/>
-    <word original="廢" calque="abandon"/>
+    <word original="欲" calque="want"/>
+    <word original="廢" calque="abolish"/>
     <word original="之" calque="it"/>
 </line>
 
 <line>
     <word original="必" calque="must"/>
-    <word original="固" calque="certainly"/>
+    <word original="固" calque="surely"/>
     <word original="興" calque="rise"/>
     <word original="之" calque="it"/>
     <word original="." calque="." punctuation="true"/>
@@ -45,51 +45,51 @@
 
 <line>
     <word original="將" calque="about-to"/>
-    <word original="欲" calque="desire"/>
-    <word original="奪" calque="take-away"/>
+    <word original="欲" calque="want"/>
+    <word original="奪" calque="seize"/>
     <word original="之" calque="it"/>
 </line>
 
 <line>
     <word original="必" calque="must"/>
-    <word original="固" calque="certainly"/>
+    <word original="固" calque="surely"/>
     <word original="與" calque="give"/>
     <word original="之" calque="it"/>
 </line>
 
-<line commentary="微明 (subtle-brightness) is a key concept suggesting paradoxical wisdom">
+<line commentary="'微明' (subtle bright) is a fascinating compound - consider how something can be both subtle and bright at the same time. What kind of wisdom might that represent?">
     <word original="是" calque="this"/>
     <word original="謂" calque="called"/>
     <word original="微" calque="subtle"/>
-    <word original="明" calque="brightness"/>
+    <word original="明" calque="bright"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="A famous line expressing how the soft overcomes the hard - a central Daoist principle">
+<line commentary="This line presents a profound conclusion about the nature of strength and weakness. Notice how the word order emphasizes 'soft weak' conquering 'hard strong'">
     <word original="柔" calque="soft"/>
     <word original="弱" calque="weak"/>
-    <word original="勝" calque="overcome"/>
+    <word original="勝" calque="conquer"/>
     <word original="剛" calque="hard"/>
     <word original="強" calque="strong"/>
 </line>
 
-<line commentary="An metaphorical image comparing state power to fish in deep waters">
+<line commentary="An interesting metaphor appears - what might a fish and deep water represent in terms of natural belonging and power?">
     <word original="魚" calque="fish"/>
     <word original="不" calque="not"/>
     <word original="可" calque="can"/>
     <word original="脫" calque="escape"/>
     <word original="於" calque="from"/>
-    <word original="淵" calque="deep-waters"/>
+    <word original="淵" calque="deep-water"/>
 </line>
 
 <line>
     <word original="國" calque="state"/>
-    <word original="之" calque="of"/>
+    <word original="之" calque="'s"/>
     <word original="利" calque="sharp"/>
-    <word original="器" calque="instrument"/>
+    <word original="器" calque="implement"/>
 </line>
 
-<line commentary="A warning about showing state power openly">
+<line commentary="The chapter ends with a warning about power and its display. Consider why showing 'sharp implements' might be unwise for a state.">
     <word original="不" calque="not"/>
     <word original="可" calque="can"/>
     <word original="以" calque="by-means-of"/>

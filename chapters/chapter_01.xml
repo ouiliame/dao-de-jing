@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="1">
-<line commentary="This opening line plays with multiple meanings of 道 (way/speak) to create a profound paradox about the ineffable nature of the Dao">
+<line commentary="This opening line plays with multiple meanings of 道 (dao) as both 'speak/explain' and 'way/path' - a profound philosophical wordplay that sets up the entire text.">
     <word original="." calque="." punctuation="true"/>
     <word original="道" calque="way"/>
     <word original="可" calque="can"/>
@@ -11,7 +11,7 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Mirrors the structure of the first line, now applying the same paradox to 'naming'">
+<line commentary="This line parallels the first, using 名 (name) in place of 道 - suggesting deep connections between naming/language and reality.">
     <word original="名" calque="name"/>
     <word original="可" calque="can"/>
     <word original="名" calque="name"/>
@@ -21,27 +21,27 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Introduces the concept of 無 (nothing/absence) as the origin of existence">
+<line commentary="無 (without) and 有 (with/having) form an important philosophical pair in Daoist thought. Notice how these two lines mirror each other.">
     <word original="無" calque="without"/>
     <word original="名" calque="name"/>
     <word original="天" calque="heaven"/>
     <word original="地" calque="earth"/>
-    <word original="之" calque="of"/>
+    <word original="之" calque="'s"/>
     <word original="始" calque="beginning"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
 <line>
-    <word original="有" calque="have"/>
+    <word original="有" calque="with"/>
     <word original="名" calque="name"/>
     <word original="萬" calque="ten-thousand"/>
     <word original="物" calque="things"/>
-    <word original="之" calque="of"/>
+    <word original="之" calque="'s"/>
     <word original="母" calque="mother"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Note how 以 connects desire (or lack thereof) with perception">
+<line commentary="以 is a versatile grammatical particle - here it indicates using one thing to achieve another.">
     <word original="(.)故" calque="therefore"/>
     <word original="常" calque="constant"/>
     <word original="無" calque="without"/>
@@ -49,13 +49,13 @@
     <word original="以" calque="by-means-of"/>
     <word original="觀" calque="observe"/>
     <word original="其" calque="its"/>
-    <word original="妙" calque="mystery"/>
+    <word original="妙" calque="subtlety"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
 <line>
     <word original="常" calque="constant"/>
-    <word original="有" calque="have"/>
+    <word original="有" calque="with"/>
     <word original="欲" calque="desire"/>
     <word original="以" calque="by-means-of"/>
     <word original="觀" calque="observe"/>
@@ -63,35 +63,35 @@
     <word original="徼" calque="boundary"/>
 </line>
 
-<line>
+<line commentary="兩 literally means 'two' but here refers to the previous contrasting statements. Notice how 而 connects related ideas.">
     <word original="此" calque="these"/>
     <word original="兩" calque="two"/>
     <word original="者" calque="ones"/>
     <word original="同" calque="same"/>
     <word original="出" calque="emerge"/>
-    <word original="而" calque="but"/>
+    <word original="而" calque="yet"/>
     <word original="異" calque="different"/>
     <word original="名" calque="name"/>
 </line>
 
-<line commentary="玄 (dark/profound) is a key concept suggesting deep mystery beyond ordinary understanding">
+<line>
     <word original="同" calque="same"/>
     <word original="謂" calque="called"/>
     <word original="之" calque="it"/>
-    <word original="玄" calque="dark"/>
+    <word original="玄" calque="dark/mysterious"/>
 </line>
 
-<line>
-    <word original="玄" calque="dark"/>
-    <word original="之" calque="of"/>
-    <word original="又" calque="also"/>
-    <word original="玄" calque="dark"/>
+<line commentary="玄 (mysterious darkness) is repeated, intensifying its meaning - like peering into deeper and deeper mysteries.">
+    <word original="玄" calque="dark/mysterious"/>
+    <word original="之" calque="'s"/>
+    <word original="又" calque="further"/>
+    <word original="玄" calque="dark/mysterious"/>
 </line>
 
-<line commentary="This final line presents the gateway to all mysteries - suggesting that embracing paradox leads to understanding">
+<line commentary="門 (gate/door) is a powerful metaphor - suggesting these mysteries are an entrance to understanding.">
     <word original="眾" calque="many"/>
-    <word original="妙" calque="mystery"/>
-    <word original="之" calque="of"/>
-    <word original="門" calque="gateway"/>
+    <word original="妙" calque="subtle"/>
+    <word original="之" calque="'s"/>
+    <word original="門" calque="gate"/>
 </line>
 </chapter>

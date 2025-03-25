@@ -1,61 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="76">
-<line>
+<line commentary="This chapter opens with a profound observation about the nature of life and death. Notice how '之' is used to show possession/relation, and '也' marks the end of a topic.">
     <word original="." calque="." punctuation="true"/>
     <word original="人" calque="person"/>
-    <word original="之" calque="possessive"/>
+    <word original="之" calque="of"/>
     <word original="生" calque="life"/>
-    <word original="也" calque="is"/>
+    <word original="也" calque="indeed"/>
     <word original="柔" calque="soft"/>
     <word original="弱" calque="weak"/>
 </line>
-<line>
+
+<line commentary="Notice the parallel structure with the previous line - this is a common poetic device in Classical Chinese.">
     <word original="其" calque="their"/>
     <word original="死" calque="death"/>
-    <word original="也" calque="is"/>
+    <word original="也" calque="indeed"/>
     <word original="堅" calque="hard"/>
     <word original="強" calque="strong"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="Notice how the text uses natural metaphors from plants to illustrate its philosophical points about strength and weakness">
+
+<line commentary="草木 (grass-trees) is a compound meaning vegetation/plants. This line extends the metaphor to all living things.">
     <word original="萬" calque="ten-thousand"/>
     <word original="物" calque="things"/>
     <word original="草" calque="grass"/>
     <word original="木" calque="tree"/>
-    <word original="之" calque="possessive"/>
+    <word original="之" calque="of"/>
     <word original="生" calque="life"/>
-    <word original="也" calque="is"/>
+    <word original="也" calque="indeed"/>
     <word original="柔" calque="soft"/>
     <word original="脆" calque="tender"/>
 </line>
+
 <line>
     <word original="其" calque="their"/>
     <word original="死" calque="death"/>
-    <word original="也" calque="is"/>
+    <word original="也" calque="indeed"/>
     <word original="枯" calque="withered"/>
-    <word original="槁" calque="dried"/>
+    <word original="槁" calque="dried-out"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line>
-    <word original="(.)故" calque="therefore"/>
+
+<line commentary="故 (therefore) signals this is a conclusion drawn from the previous observations. 者 marks the subject, and 徒 literally means 'follower' but implies 'category/group'">
+    <word original="(." calque="(.)" punctuation="true"/>
+    <word original="故" calque="therefore"/>
     <word original="堅" calque="hard"/>
     <word original="強" calque="strong"/>
     <word original="者" calque="one-who"/>
     <word original="死" calque="death"/>
-    <word original="之" calque="possessive"/>
+    <word original="之" calque="of"/>
     <word original="徒" calque="follower"/>
     <word original="." calque="." punctuation="true"/>
 </line>
+
 <line>
     <word original="柔" calque="soft"/>
     <word original="弱" calque="weak"/>
     <word original="者" calque="one-who"/>
     <word original="生" calque="life"/>
-    <word original="之" calque="possessive"/>
+    <word original="之" calque="of"/>
     <word original="徒" calque="follower"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="This line uses military metaphor to illustrate the paradox that excessive strength leads to defeat">
+
+<line commentary="是以 (therefore) introduces practical applications of the principle. 兵 can mean both 'weapon' and 'military/soldier'">
     <word original="是" calque="this"/>
     <word original="以" calque="by-means-of"/>
     <word original="兵" calque="weapon"/>
@@ -64,21 +71,24 @@
     <word original="不" calque="not"/>
     <word original="勝" calque="victory"/>
 </line>
-<line>
+
+<line commentary="This line has multiple possible readings - what happens when trees become too rigid? Consider the word order carefully.">
     <word original="木" calque="tree"/>
     <word original="強" calque="strong"/>
     <word original="則" calque="then"/>
     <word original="兵" calque="weapon"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line>
+
+<line commentary="處 means 'dwell/place' - consider what this means metaphorically about the relationship between strong and weak positions.">
     <word original="強" calque="strong"/>
     <word original="大" calque="great"/>
     <word original="處" calque="dwell"/>
     <word original="下" calque="below"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="This final line completes the paradox - what seems weak actually has the superior position">
+
+<line>
     <word original="柔" calque="soft"/>
     <word original="弱" calque="weak"/>
     <word original="處" calque="dwell"/>

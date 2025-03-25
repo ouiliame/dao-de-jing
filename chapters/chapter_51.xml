@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="51">
-<line commentary="This opening line establishes the foundational relationship between Dao and creation">
+<line commentary="This opening line establishes a powerful relationship between Dao and creation. Notice how '之' is used as an object pronoun throughout this chapter - it refers back to '萬物' (ten-thousand things/all things).">
     <word original="道" calque="way"/>
     <word original="生" calque="give-birth"/>
     <word original="之" calque="it"/>
 </line>
-<line>
+<line commentary="The character '畜' (xu4) originally showed animals in an enclosure - think about nurturing, raising, fostering.">
     <word original="德" calque="virtue"/>
     <word original="畜" calque="nurture"/>
     <word original="之" calque="it"/>
@@ -15,7 +15,7 @@
     <word original="形" calque="shape"/>
     <word original="之" calque="it"/>
 </line>
-<line>
+<line commentary="'勢' refers to the natural tendency or inherent power of things - like water flowing downhill.">
     <word original="勢" calque="momentum"/>
     <word original="成" calque="complete"/>
     <word original="之" calque="it"/>
@@ -24,9 +24,9 @@
     <word original="是" calque="this"/>
     <word original="以" calque="by-means-of"/>
     <word original="萬" calque="ten-thousand"/>
-    <word original="物" calque="thing"/>
+    <word original="物" calque="things"/>
 </line>
-<line commentary="Note how the double negative 莫不 creates emphasis">
+<line commentary="Notice the elegant negative construction '莫不' (none-not) - what might this double negative suggest?">
     <word original="莫" calque="none"/>
     <word original="不" calque="not"/>
     <word original="尊" calque="revere"/>
@@ -38,7 +38,7 @@
 <line>
     <word original="道" calque="way"/>
     <word original="之" calque="of"/>
-    <word original="尊" calque="revere"/>
+    <word original="尊" calque="reverence"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 <line>
@@ -47,24 +47,21 @@
     <word original="貴" calque="value"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line>
-    <word original="(.)" calque="(.)" punctuation="true"/>
-    <word original="夫" calque="that"/>
+<line commentary="'夫' here serves as an emphatic particle - it draws attention to what follows.">
+    <word original="(.)夫" calque="(indeed)"/>
     <word original="莫" calque="none"/>
     <word original="之" calque="it"/>
     <word original="命" calque="command"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="自然 (spontaneous-so) is a key concept in Daoism, suggesting natural authenticity">
+<line commentary="'自然' is a key concept in Daoism - literally 'self-so' - meaning naturally occurring without forced effort.">
     <word original="而" calque="yet"/>
     <word original="常" calque="constant"/>
     <word original="自" calque="self"/>
     <word original="然" calque="so"/>
-    <word original="." calque="." punctuation="true"/>
 </line>
 <line>
-    <word original="(.)" calque="(.)" punctuation="true"/>
-    <word original="故" calque="therefore"/>
+    <word original="(.)故" calque="(therefore)"/>
     <word original="道" calque="way"/>
     <word original="生" calque="give-birth"/>
     <word original="之" calque="it"/>
@@ -72,45 +69,45 @@
     <word original="畜" calque="nurture"/>
     <word original="之" calque="it"/>
 </line>
-<line>
+<line commentary="Notice how the next several lines create a powerful rhythm through parallel structure - each ending with '之'.">
     <word original="長" calque="grow"/>
     <word original="之" calque="it"/>
     <word original="育" calque="raise"/>
     <word original="之" calque="it"/>
 </line>
-<line commentary="亭 here suggests providing shelter/support">
-    <word original="亭" calque="shelter"/>
+<line commentary="'亭' suggests maturation while '毒' here means to perfect or bring to fruition - not the modern meaning of poison!">
+    <word original="亭" calque="mature"/>
     <word original="之" calque="it"/>
-    <word original="毒" calque="nourish"/>
-    <word original="之" calque="it"/>
-</line>
-<line>
-    <word original="養" calque="sustain"/>
-    <word original="之" calque="it"/>
-    <word original="覆" calque="cover"/>
+    <word original="毒" calque="perfect"/>
     <word original="之" calque="it"/>
 </line>
 <line>
+    <word original="養" calque="nourish"/>
+    <word original="之" calque="it"/>
+    <word original="覆" calque="protect"/>
+    <word original="之" calque="it"/>
+</line>
+<line commentary="This begins a series of paradoxical statements characteristic of Daoist thought. Notice the parallel structure with '而不' (and-not).">
     <word original="生" calque="give-birth"/>
-    <word original="而" calque="yet"/>
+    <word original="而" calque="and"/>
     <word original="不" calque="not"/>
     <word original="有" calque="possess"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 <line>
     <word original="為" calque="act"/>
-    <word original="而" calque="yet"/>
+    <word original="而" calque="and"/>
     <word original="不" calque="not"/>
     <word original="恃" calque="rely-on"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 <line>
     <word original="長" calque="grow"/>
-    <word original="而" calque="yet"/>
+    <word original="而" calque="and"/>
     <word original="不" calque="not"/>
     <word original="宰" calque="control"/>
 </line>
-<line commentary="玄德 (dark virtue) represents a profound, mysterious virtue that operates without conscious effort">
+<line commentary="'玄德' (dark virtue) is a profound concept in Daoism - what might 'dark' suggest about the nature of true virtue?">
     <word original="是" calque="this"/>
     <word original="謂" calque="called"/>
     <word original="玄" calque="dark"/>

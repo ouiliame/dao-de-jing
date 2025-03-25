@@ -1,113 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="28">
-<line commentary="This opening line establishes a key theme of balancing opposing forces - masculine/feminine energies">
+<line commentary="This opening line uses contrasting pairs (雄/雌 male/female) to set up an important philosophical concept. Notice how 知/守 (know/keep) create a parallel structure.">
     <word original="知" calque="know"/>
     <word original="其" calque="its"/>
     <word original="雄" calque="male"/>
-    <word original="守" calque="guard"/>
-    <word original="其" calque="its"/> 
+    <word original="守" calque="keep"/>
+    <word original="其" calque="its"/>
     <word original="雌" calque="female"/>
 </line>
+
+<line commentary="谿 (valley-stream) is a powerful metaphor in Daoism - water naturally flows to low places, suggesting humility and naturalness.">
+    <word original="為" calque="become"/>
+    <word original="天" calque="heaven"/>
+    <word original="下" calque="below"/>
+    <word original="谿" calque="valley-stream"/>
+</line>
+
 <line>
     <word original="為" calque="become"/>
     <word original="天" calque="heaven"/>
     <word original="下" calque="below"/>
-    <word original="谿" calque="stream"/>
+    <word original="谿" calque="valley-stream"/>
 </line>
-<line>
-    <word original="為" calque="become"/>
-    <word original="天" calque="heaven"/>
-    <word original="下" calque="below"/>
-    <word original="谿" calque="stream"/>
-</line>
-<line commentary="德 (virtue/power) that is 常 (constant) does not depart - a key concept in Daoism">
+
+<line commentary="常德 (constant virtue) is a key concept - notice how it appears multiple times in this chapter, always followed by 不 (not).">
     <word original="常" calque="constant"/>
     <word original="德" calque="virtue"/>
     <word original="不" calque="not"/>
     <word original="離" calque="depart"/>
 </line>
-<line commentary="The image of returning to an infant state represents returning to natural simplicity">
+
+<line commentary="嬰兒 (infant) represents a state of natural simplicity and authenticity in Daoist thought.">
     <word original="復" calque="return"/>
-    <word original="歸" calque="revert"/>
+    <word original="歸" calque="go-back"/>
     <word original="於" calque="to"/>
     <word original="嬰" calque="infant"/>
     <word original="兒" calque="child"/>
 </line>
-<line>
+
+<line commentary="Another contrasting pair (白/黑 white/black) following the same grammatical pattern as the opening line.">
     <word original="知" calque="know"/>
     <word original="其" calque="its"/>
     <word original="白" calque="white"/>
-    <word original="守" calque="guard"/>
+    <word original="守" calque="keep"/>
     <word original="其" calque="its"/>
     <word original="黑" calque="black"/>
     <word original="." calque="." punctuation="true"/>
 </line>
+
 <line>
     <word original="為" calque="become"/>
     <word original="天" calque="heaven"/>
     <word original="下" calque="below"/>
     <word original="式" calque="model"/>
 </line>
+
 <line>
     <word original="為" calque="become"/>
     <word original="天" calque="heaven"/>
     <word original="下" calque="below"/>
     <word original="式" calque="model"/>
 </line>
+
 <line>
     <word original="常" calque="constant"/>
     <word original="德" calque="virtue"/>
     <word original="不" calque="not"/>
     <word original="忒" calque="err"/>
 </line>
-<line commentary="無極 represents the infinite/boundless - another return to the origin">
+
+<line commentary="無極 (limitless) is a profound concept in Chinese philosophy - the state before differentiation.">
     <word original="復" calque="return"/>
-    <word original="歸" calque="revert"/>
+    <word original="歸" calque="go-back"/>
     <word original="於" calque="to"/>
     <word original="無" calque="without"/>
     <word original="極" calque="limit"/>
 </line>
-<line>
+
+<line commentary="A third pair of contrasts (榮/辱 glory/shame) completing the pattern established earlier.">
     <word original="知" calque="know"/>
     <word original="其" calque="its"/>
     <word original="榮" calque="glory"/>
-    <word original="守" calque="guard"/>
+    <word original="守" calque="keep"/>
     <word original="其" calque="its"/>
-    <word original="辱" calque="disgrace"/>
+    <word original="辱" calque="shame"/>
 </line>
+
 <line>
     <word original="為" calque="become"/>
     <word original="天" calque="heaven"/>
     <word original="下" calque="below"/>
     <word original="谷" calque="valley"/>
 </line>
+
 <line>
     <word original="為" calque="become"/>
     <word original="天" calque="heaven"/>
     <word original="下" calque="below"/>
     <word original="谷" calque="valley"/>
 </line>
+
 <line>
     <word original="常" calque="constant"/>
     <word original="德" calque="virtue"/>
     <word original="乃" calque="then"/>
     <word original="足" calque="sufficient"/>
 </line>
-<line commentary="樸 (uncarved block) is a key metaphor for natural simplicity in Daoism">
+
+<line>
     <word original="復" calque="return"/>
-    <word original="歸" calque="revert"/>
+    <word original="歸" calque="go-back"/>
     <word original="於" calque="to"/>
-    <word original="樸" calque="simplicity"/>
+    <word original="樸" calque="uncarved-block"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line>
-    <word original="樸" calque="simplicity"/>
+
+<line commentary="樸 (uncarved block) is another key Daoist concept - representing natural simplicity before human intervention.">
+    <word original="樸" calque="uncarved-block"/>
     <word original="散" calque="scatter"/>
     <word original="則" calque="then"/>
     <word original="為" calque="become"/>
     <word original="器" calque="vessel"/>
 </line>
-<line commentary="This line shows how the natural state gets transformed into societal roles">
+
+<line>
     <word original="聖" calque="sage"/>
     <word original="人" calque="person"/>
     <word original="用" calque="use"/>
@@ -117,8 +133,9 @@
     <word original="官" calque="official"/>
     <word original="長" calque="chief"/>
 </line>
-<line>
-    <word original="(.)故" calque="therefore"/>
+
+<line commentary="This final line contains profound wisdom about how true greatness works - notice how 制 (control/system) connects to the idea of the uncarved block.">
+    <word original="(.)故" calque="(therefore)"/>
     <word original="大" calque="great"/>
     <word original="制" calque="system"/>
     <word original="不" calque="not"/>

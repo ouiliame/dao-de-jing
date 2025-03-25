@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="30">
-<line commentary="This opening line sets up a contrast between ruling through dao versus military might">
+<line commentary="This opening line introduces a profound discussion about leadership and warfare. Notice how '以道' (by-means-of Way) is contrasted with '以兵' (by-means-of weapons) in the next line.">
     <word original="以" calque="by-means-of"/>
-    <word original="道" calque="way"/>
+    <word original="道" calque="Way"/>
     <word original="佐" calque="assist"/>
     <word original="人" calque="person"/>
     <word original="主" calque="ruler"/>
@@ -11,24 +11,24 @@
 <line>
     <word original="不" calque="not"/>
     <word original="以" calque="by-means-of"/>
-    <word original="兵" calque="weapon"/>
+    <word original="兵" calque="weapons"/>
     <word original="強" calque="force"/>
     <word original="天" calque="heaven"/>
     <word original="下" calque="below"/>
 </line>
-<line commentary="A subtle observation about how violence tends to cycle back">
+<line commentary="Notice how '還' (return/rebound) suggests consequences - a key theme in Daoist thought about how actions have natural reactions.">
     <word original="其" calque="its"/>
-    <word original="事" calque="affair"/>
+    <word original="事" calque="affairs"/>
     <word original="好" calque="tend-to"/>
     <word original="還" calque="return"/>
 </line>
-<line commentary="A powerful metaphor: where armies camp, thorns grow - suggesting how violence leaves lasting scars">
+<line commentary="This vivid imagery of thorns growing where armies camp paints a powerful picture of war's lasting effects.">
     <word original="師" calque="army"/>
     <word original="之" calque="of"/>
     <word original="所" calque="place"/>
     <word original="處" calque="dwell"/>
-    <word original="荊" calque="thorn"/>
-    <word original="棘" calque="bramble"/>
+    <word original="荊" calque="thorns"/>
+    <word original="棘" calque="brambles"/>
     <word original="生" calque="grow"/>
 </line>
 <line>
@@ -37,15 +37,15 @@
     <word original="軍" calque="army"/>
     <word original="之" calque="of"/>
     <word original="後" calque="after"/>
-    <word original="必" calque="surely"/>
+    <word original="必" calque="must"/>
     <word original="有" calque="have"/>
-    <word original="凶" calque="disaster"/>
+    <word original="凶" calque="ill-fortune"/>
     <word original="年" calque="year"/>
 </line>
-<line commentary="The next several lines use repetition of 果 (resolve/result) to build a meditation on proper action">
+<line commentary="The next several lines use repetition of '果' (accomplish/result) with different warnings. This rhetorical device emphasizes restraint in victory.">
     <word original="善" calque="good"/>
     <word original="者" calque="one-who"/>
-    <word original="果" calque="resolve"/>
+    <word original="果" calque="accomplish"/>
     <word original="而" calque="and"/>
     <word original="已" calque="stop"/>
     <word original="." calque="." punctuation="true"/>
@@ -59,42 +59,42 @@
     <word original="." calque="." punctuation="true"/>
 </line>
 <line>
-    <word original="果" calque="resolve"/>
+    <word original="果" calque="accomplish"/>
     <word original="而" calque="and"/>
-    <word original="勿" calque="not"/>
+    <word original="勿" calque="do-not"/>
     <word original="矜" calque="boast"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 <line>
-    <word original="果" calque="resolve"/>
+    <word original="果" calque="accomplish"/>
     <word original="而" calque="and"/>
-    <word original="勿" calque="not"/>
+    <word original="勿" calque="do-not"/>
     <word original="伐" calque="attack"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 <line>
-    <word original="果" calque="resolve"/>
+    <word original="果" calque="accomplish"/>
     <word original="而" calque="and"/>
-    <word original="勿" calque="not"/>
+    <word original="勿" calque="do-not"/>
     <word original="驕" calque="pride"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 <line>
-    <word original="果" calque="resolve"/>
+    <word original="果" calque="accomplish"/>
     <word original="而" calque="and"/>
     <word original="不" calque="not"/>
-    <word original="得" calque="get"/>
-    <word original="已" calque="stop"/>
+    <word original="得" calque="obtain"/>
+    <word original="已" calque="already"/>
 </line>
 <line>
-    <word original="果" calque="resolve"/>
+    <word original="果" calque="accomplish"/>
     <word original="而" calque="and"/>
-    <word original="勿" calque="not"/>
+    <word original="勿" calque="do-not"/>
     <word original="強" calque="force"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="A profound observation about the natural cycle of things">
-    <word original="物" calque="thing"/>
+<line commentary="Here's a powerful observation about the natural way of things - consider how this relates to the previous warnings about force and pride.">
+    <word original="物" calque="things"/>
     <word original="壯" calque="strong"/>
     <word original="則" calque="then"/>
     <word original="老" calque="old"/>
@@ -103,11 +103,11 @@
     <word original="是" calque="this"/>
     <word original="謂" calque="called"/>
     <word original="不" calque="not"/>
-    <word original="道" calque="way"/>
+    <word original="道" calque="Way"/>
 </line>
 <line>
     <word original="不" calque="not"/>
-    <word original="道" calque="way"/>
+    <word original="道" calque="Way"/>
     <word original="早" calque="early"/>
     <word original="已" calque="end"/>
     <word original="." calque="." punctuation="true"/>

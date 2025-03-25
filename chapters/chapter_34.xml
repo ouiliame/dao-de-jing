@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="34">
-<line commentary="This opening line paints a picture of the Dao as vast and flowing like water">
+<line commentary="This opening line uses 兮 (xi), a classical particle that adds poetic rhythm and emphasis - like saying 'ah!' or 'indeed!'">
     <word original="大" calque="great"/>
     <word original="道" calque="way"/>
     <word original="氾" calque="overflow"/>
-    <word original="兮" calque="ah"/>
+    <word original="兮" calque="indeed"/>
 </line>
-<line>
-    <word original="其" calque="its"/>
+<line commentary="Left and right here may suggest 'all directions' or 'everywhere' - a common metaphorical usage in Classical Chinese">
+    <word original="其" calque="it"/>
     <word original="可" calque="can"/>
     <word original="左" calque="left"/>
     <word original="右" calque="right"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="Notice how 恃 (rely-on) connects all beings to the Dao">
+<line commentary="恃 is a fascinating character meaning to rely/depend on - notice how all things 'lean on' the Dao">
     <word original="萬" calque="ten-thousand"/>
     <word original="物" calque="things"/>
-    <word original="恃" calque="rely-on"/>
+    <word original="恃" calque="depend-on"/>
     <word original="之" calque="it"/>
     <word original="(以)" calque="(by-means-of)"/>
     <word original="生" calque="live"/>
@@ -39,7 +39,7 @@
     <word original="有" calque="possess"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="A beautiful metaphor showing how the Dao nurtures without dominating">
+<line commentary="衣 typically means 'clothes' but here acts as a verb meaning 'to clothe/provide for' - notice this elegant metaphor">
     <word original="衣" calque="clothe"/>
     <word original="養" calque="nourish"/>
     <word original="萬" calque="ten-thousand"/>
@@ -52,8 +52,8 @@
     <word original="主" calque="master"/>
 </line>
 <line>
-    <word original="[(.)故]" calque="[therefore]"/>
-    <word original="常" calque="constant"/>
+    <word original="[(.)故]" calque="[(therefore)]"/>
+    <word original="常" calque="always"/>
     <word original="無" calque="without"/>
     <word original="欲" calque="desire"/>
     <word original="." calque="." punctuation="true"/>
@@ -61,11 +61,11 @@
 <line>
     <word original="可" calque="can"/>
     <word original="名" calque="name"/>
-    <word original="於" calque="at"/>
+    <word original="於" calque="as"/>
     <word original="小" calque="small"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line>
+<line commentary="歸 (return/revert) is a key concept in Daoism - what might it mean that all things 'return' to something that doesn't act as their master?">
     <word original="萬" calque="ten-thousand"/>
     <word original="物" calque="things"/>
     <word original="歸" calque="return"/>
@@ -80,20 +80,20 @@
 <line>
     <word original="可" calque="can"/>
     <word original="名" calque="name"/>
-    <word original="(於)" calque="(at)"/>
+    <word original="(於)" calque="(as)"/>
     <word original="大" calque="great"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 <line>
     <word original="(是以聖人之能成大.)" calque="(thus-sage's-ability-achieve-greatness.)"/>
 </line>
-<line>
+<line commentary="Notice how this chapter plays with the concept of 大 (great/greatness) - what paradox might it be suggesting about achieving greatness?">
     <word original="[以其不為大.]" calque="[because-not-act-great.]"/>
 </line>
-<line commentary="This final line emphasizes the paradox that true greatness comes from not trying to be great">
-    <word original="(.)故" calque="therefore"/>
+<line>
+    <word original="(.)故" calque="(therefore)"/>
     <word original="能" calque="able"/>
-    <word original="成" calque="complete"/>
+    <word original="成" calque="achieve"/>
     <word original="__" calque="(...)"/>
     <word original="大" calque="great"/>
 </line>

@@ -1,56 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="56">
-<line commentary="This famous opening couplet emphasizes the paradoxical nature of true wisdom - those who truly know don't speak of it, while those who speak much may not truly know.">
+<line commentary="This opening couplet is one of the most famous paradoxes in the Dao De Jing. Notice how it creates a logical puzzle - if those who know don't speak, how can anyone speak of knowing?">
     <word original="知" calque="know"/>
     <word original="者" calque="one-who"/>
     <word original="不" calque="not"/>
     <word original="言" calque="speak"/>
     <word original="." calque="." punctuation="true"/>
 </line>
+
 <line>
     <word original="言" calque="speak"/>
     <word original="者" calque="one-who"/>
-    <word original="不" calque="not"/>
+    <word original="不" calque="not"/> 
     <word original="知" calque="know"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="The next series of lines describe practices for achieving a state of profound awareness through various forms of restraint and moderation.">
+
+<line commentary="The next several lines use very concrete, physical actions as metaphors. 塞/閉 (block/close) paired with 兌/門 (opening/door) creates parallel structure common in Classical Chinese poetry.">
     <word original="塞" calque="block"/>
     <word original="其" calque="its"/>
-    <word original="兌" calque="openings"/>
+    <word original="兌" calque="opening"/>
     <word original="閉" calque="close"/>
     <word original="其" calque="its"/>
-    <word original="門" calque="gates"/>
+    <word original="門" calque="door"/>
 </line>
+
 <line>
     <word original="挫" calque="blunt"/>
     <word original="其" calque="its"/>
     <word original="銳" calque="sharpness"/>
 </line>
+
 <line>
     <word original="解" calque="unravel"/>
     <word original="其" calque="its"/>
-    <word original="紛" calque="tangles"/>
+    <word original="紛" calque="confusion"/>
 </line>
-<line>
+
+<line commentary="光 (light/brightness) and 塵 (dust) form an interesting contrast. What might it mean to 'harmonize one's light' or 'unite with dust'?">
     <word original="和" calque="harmonize"/>
     <word original="其" calque="its"/>
     <word original="光" calque="light"/>
 </line>
+
 <line>
-    <word original="同" calque="unite"/>
+    <word original="同" calque="unite-with"/>
     <word original="其" calque="its"/>
     <word original="塵" calque="dust"/>
 </line>
-<line commentary="'Mysterious unity' (玄同) is a key concept in Daoism, representing the profound state of being one with the Dao.">
+
+<line commentary="玄同 (mysterious-unity) is a key concept in Daoism. 玄 literally means 'dark/black' but takes on mystical connotations.">
     <word original="是" calque="this"/>
     <word original="謂" calque="called"/>
     <word original="玄" calque="mysterious"/>
     <word original="同" calque="unity"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line>
-    <word original="(.)故" calque="therefore"/>
+
+<line commentary="The next section follows a repeated grammatical pattern: 不可得而X. This construction means something is 'impossible to be X-ed'. Watch how it builds through opposites.">
+    <word original="(.)故" calque="(therefore)"/>
     <word original="不" calque="not"/>
     <word original="可" calque="can"/>
     <word original="得" calque="obtain"/>
@@ -58,7 +66,8 @@
     <word original="親" calque="close"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="These parallel lines describe how one who achieves this state transcends ordinary human distinctions.">
+
+<line>
     <word original="不" calque="not"/>
     <word original="可" calque="can"/>
     <word original="得" calque="obtain"/>
@@ -66,6 +75,7 @@
     <word original="疏" calque="distant"/>
     <word original="." calque="." punctuation="true"/>
 </line>
+
 <line>
     <word original="不" calque="not"/>
     <word original="可" calque="can"/>
@@ -73,6 +83,7 @@
     <word original="而" calque="and"/>
     <word original="利" calque="benefit"/>
 </line>
+
 <line>
     <word original="不" calque="not"/>
     <word original="可" calque="can"/>
@@ -80,25 +91,28 @@
     <word original="而" calque="and"/>
     <word original="害" calque="harm"/>
 </line>
+
 <line>
     <word original="不" calque="not"/>
     <word original="可" calque="can"/>
     <word original="得" calque="obtain"/>
     <word original="而" calque="and"/>
-    <word original="貴" calque="noble"/>
+    <word original="貴" calque="value"/>
 </line>
+
 <line>
     <word original="不" calque="not"/>
     <word original="可" calque="can"/>
     <word original="得" calque="obtain"/>
     <word original="而" calque="and"/>
-    <word original="賤" calque="humble"/>
+    <word original="賤" calque="despise"/>
 </line>
-<line commentary="The final line reveals that by transcending these distinctions, one becomes truly valuable to all under heaven.">
-    <word original="(.)故" calque="therefore"/>
+
+<line commentary="The final line provides the conclusion. Notice how 天下 (under-heaven) is a common way to refer to 'the world' or 'all under heaven'. How does this relate to all the previous lines about being unable to be valued or despised?">
+    <word original="(.)故" calque="(therefore)"/>
     <word original="為" calque="become"/>
     <word original="天" calque="heaven"/>
-    <word original="下" calque="below"/>
+    <word original="下" calque="under"/>
     <word original="貴" calque="precious"/>
     <word original="." calque="." punctuation="true"/>
 </line>

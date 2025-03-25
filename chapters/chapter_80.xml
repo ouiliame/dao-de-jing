@@ -7,34 +7,34 @@
     <word original="寡" calque="few"/>
     <word original="民" calque="people"/>
 </line>
-<line>
+<line commentary="Notice how 使 (cause/make) introduces what the ruler does - it's like 'let there be' or 'make it so that'">
     <word original="使" calque="cause"/>
     <word original="有" calque="have"/>
     <word original="什" calque="ten"/>
     <word original="伯" calque="hundred"/>
     <word original="之" calque="of"/>
-    <word original="器" calque="tool"/>
-    <word original="而" calque="but"/>
+    <word original="器" calque="vessel/tool"/>
+    <word original="而" calque="yet"/>
     <word original="不" calque="not"/>
     <word original="用" calque="use"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 <line>
-    <word original="使" calque="cause"/>
+    <word original="使" calque="cause"/> 
     <word original="民" calque="people"/>
     <word original="重" calque="value"/>
     <word original="死" calque="death"/>
-    <word original="而" calque="but"/>
+    <word original="而" calque="yet"/>
     <word original="不" calque="not"/>
     <word original="遠" calque="far"/>
     <word original="徙" calque="move"/>
 </line>
-<line commentary="Note how 雖有 (although-have) creates a hypothetical scenario that is then negated - a common Classical Chinese construction">
+<line commentary="Note how 雖 (although) sets up a contrast - they have these things but...">
     <word original="雖" calque="although"/>
     <word original="有" calque="have"/>
     <word original="舟" calque="boat"/>
     <word original="輿" calque="carriage"/>
-    <word original="無" calque="none"/>
+    <word original="無" calque="not-have"/>
     <word original="所" calque="place"/>
     <word original="乘" calque="ride"/>
     <word original="之" calque="it"/>
@@ -44,12 +44,12 @@
     <word original="有" calque="have"/>
     <word original="甲" calque="armor"/>
     <word original="兵" calque="weapon"/>
-    <word original="無" calque="none"/>
+    <word original="無" calque="not-have"/>
     <word original="所" calque="place"/>
     <word original="陳" calque="display"/>
     <word original="之" calque="it"/>
 </line>
-<line>
+<line commentary="An fascinating historical reference - 結繩 refers to the ancient practice of keeping records by tying knots in rope, predating written characters">
     <word original="使" calque="cause"/>
     <word original="(民)" calque="(people)"/>
     <word original="復" calque="return"/>
@@ -59,7 +59,7 @@
     <word original="用" calque="use"/>
     <word original="之" calque="it"/>
 </line>
-<line commentary="The next four lines show contentment through parallel structure, each starting with an adjective followed by 其 (their)">
+<line commentary="Notice how the next four lines follow the same grammatical pattern: [adjective] 其 [noun]. 其 is a possessive particle - what might these lines be expressing?">
     <word original="甘" calque="sweet"/>
     <word original="其" calque="their"/>
     <word original="食" calque="food"/>
@@ -79,14 +79,14 @@
     <word original="其" calque="their"/>
     <word original="俗" calque="customs"/>
 </line>
-<line>
+<line commentary="相 is being used as a reciprocal marker - indicating actions between multiple parties. How might neighboring states relate to each other in this ideal?">
     <word original="鄰" calque="neighbor"/>
     <word original="國" calque="state"/>
     <word original="相" calque="mutual"/>
     <word original="望" calque="gaze"/>
 </line>
-<line commentary="This vivid image of hearing neighboring roosters and dogs suggests both proximity and separation">
-    <word original="雞" calque="rooster"/>
+<line>
+    <word original="雞" calque="chicken"/>
     <word original="犬" calque="dog"/>
     <word original="之" calque="of"/>
     <word original="聲" calque="sound"/>

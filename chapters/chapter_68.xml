@@ -1,40 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="68">
-<line commentary="This chapter explores the paradoxical nature of true mastery - how the best leaders achieve their aims through restraint rather than force.">
-    <word original="善" calque="good-at"/>
+<line commentary="This opening line sets up a pattern using '善為X者' (one who is good at being X) - notice how each line starts similarly but builds different ideas">
+    <word original="善" calque="good"/>
     <word original="為" calque="act-as"/>
-    <word original="士" calque="scholar-official"/>
+    <word original="士" calque="scholar"/>
     <word original="者" calque="one-who"/>
     <word original="不" calque="not"/>
     <word original="武" calque="martial"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="Notice the parallel structure starting with 善 (good-at) in these opening lines, building a powerful rhythm.">
-    <word original="善" calque="good-at"/>
+
+<line commentary="Notice how 戰 (battle/war) pairs with 怒 (anger) - what might this tell us about the Daoist view of conflict?">
+    <word original="善" calque="good"/>
     <word original="戰" calque="battle"/>
     <word original="者" calque="one-who"/>
     <word original="不" calque="not"/>
     <word original="怒" calque="anger"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line>
-    <word original="善" calque="good-at"/>
+
+<line commentary="This line ends without punctuation, creating a sense of incompletion - what might be missing after 與 (engage/participate)?">
+    <word original="善" calque="good"/>
     <word original="勝" calque="victory"/>
     <word original="敵" calque="enemy"/>
     <word original="者" calque="one-who"/>
     <word original="不" calque="not"/>
     <word original="與" calque="engage"/>
 </line>
-<line commentary="Note how 下 (below/beneath) here carries the profound meaning of humbling oneself to lead effectively.">
-    <word original="善" calque="good-at"/>
+
+<line commentary="A fascinating paradox emerges here - how can 'being below' (為之下) relate to 'using people' (用人)?">
+    <word original="善" calque="good"/>
     <word original="用" calque="use"/>
     <word original="人" calque="person"/>
     <word original="者" calque="one-who"/>
     <word original="為" calque="act-as"/>
-    <word original="之" calque="their"/>
+    <word original="之" calque="it"/>
     <word original="下" calque="below"/>
 </line>
-<line commentary="The repeated structure 是謂 (this-called) introduces three powerful conclusions about non-contention.">
+
+<line commentary="是謂 (this-is-called) introduces three parallel statements. Notice how each describes a virtue through negation or paradox">
     <word original="是" calque="this"/>
     <word original="謂" calque="called"/>
     <word original="不" calque="not"/>
@@ -42,6 +46,7 @@
     <word original="之" calque="of"/>
     <word original="德" calque="virtue"/>
 </line>
+
 <line>
     <word original="是" calque="this"/>
     <word original="謂" calque="called"/>
@@ -50,7 +55,8 @@
     <word original="之" calque="of"/>
     <word original="力" calque="strength"/>
 </line>
-<line commentary="The final line elevates these principles to cosmic significance, linking them to Heaven itself.">
+
+<line commentary="配天 (matching heaven) appears with 古 (ancient) - suggesting this wisdom is both cosmic and timelessly old">
     <word original="是" calque="this"/>
     <word original="謂" calque="called"/>
     <word original="配" calque="match"/>

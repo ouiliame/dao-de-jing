@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="58">
-<line commentary="This opening set of contrasts shows how different governing styles affect the people">
-    <word original="其" calque="its"/>
+<line commentary="This opening stanza sets up a fascinating contrast using repetition. Notice how each line starts with 其 (their/its) followed by either 政 (government) or 民 (people)">
+    <word original="其" calque="their"/>
     <word original="政" calque="government"/>
     <word original="悶" calque="dull"/>
     <word original="悶" calque="dull"/>
 </line>
 <line>
-    <word original="其" calque="its"/>
+    <word original="其" calque="their"/>
     <word original="民" calque="people"/>
-    <word original="淳" calque="simple"/>
-    <word original="淳" calque="simple"/>
+    <word original="淳" calque="pure"/>
+    <word original="淳" calque="pure"/>
 </line>
 <line>
-    <word original="其" calque="its"/>
+    <word original="其" calque="their"/>
     <word original="政" calque="government"/>
     <word original="察" calque="examine"/>
     <word original="察" calque="examine"/>
 </line>
 <line>
-    <word original="其" calque="its"/>
+    <word original="其" calque="their"/>
     <word original="民" calque="people"/>
     <word original="缺" calque="lacking"/>
     <word original="缺" calque="lacking"/>
 </line>
-<line commentary="Note the use of 兮 (xi) as a classical particle expressing emotion or emphasis">
+<line commentary="Notice how 兮 is a classical particle that adds emphasis or exclamation. This line introduces a profound observation about fortune/misfortune.">
     <word original="禍" calque="misfortune"/>
     <word original="兮" calque="ah"/>
     <word original="福" calque="fortune"/>
     <word original="之" calque="of"/>
     <word original="所" calque="place"/>
-    <word original="倚" calque="lean"/>
+    <word original="倚" calque="lean-upon"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 <line>
@@ -41,7 +41,7 @@
     <word original="所" calque="place"/>
     <word original="伏" calque="hide"/>
 </line>
-<line commentary="孰 is an interrogative meaning 'who' or 'what' - showing philosophical questioning">
+<line commentary="孰 is an interrogative word meaning 'who' or 'what' - this line poses a philosophical question">
     <word original="孰" calque="who"/>
     <word original="知" calque="know"/>
     <word original="其" calque="its"/>
@@ -50,11 +50,11 @@
 <line>
     <word original="其" calque="its"/>
     <word original="無" calque="not-have"/>
-    <word original="正" calque="correct"/>
+    <word original="正" calque="straight"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line>
-    <word original="正" calque="correct"/>
+<line commentary="Notice how 復 (return/again) is used to show transformation - one state becoming another">
+    <word original="正" calque="straight"/>
     <word original="復" calque="return"/>
     <word original="為" calque="become"/>
     <word original="奇" calque="strange"/>
@@ -77,20 +77,20 @@
     <word original="固" calque="indeed"/>
     <word original="久" calque="long"/>
 </line>
-<line commentary="Here begins the description of the sage's balanced way">
+<line commentary="是以 is a common classical Chinese conjunction meaning 'therefore' or 'thus'">
     <word original="是" calque="this"/>
     <word original="以" calque="by-means-of"/>
     <word original="聖" calque="sage"/>
     <word original="人" calque="person"/>
 </line>
-<line>
+<line commentary="The final stanzas present four parallel constructions, each describing the sage's balanced way">
     <word original="方" calque="square"/>
     <word original="而" calque="but"/>
     <word original="不" calque="not"/>
     <word original="割" calque="cut"/>
 </line>
 <line>
-    <word original="廉" calque="corner"/>
+    <word original="廉" calque="sharp"/>
     <word original="而" calque="but"/>
     <word original="不" calque="not"/>
     <word original="劌" calque="pierce"/>
@@ -101,10 +101,10 @@
     <word original="不" calque="not"/>
     <word original="肆" calque="unrestrained"/>
 </line>
-<line commentary="The final lines present beautiful metaphors of balanced action">
-    <word original="光" calque="light"/>
+<line>
+    <word original="光" calque="bright"/>
     <word original="而" calque="but"/>
     <word original="不" calque="not"/>
-    <word original="燿" calque="glare"/>
+    <word original="燿" calque="dazzle"/>
 </line>
 </chapter>

@@ -1,41 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="37">
-<line commentary="This opening line establishes one of the most fundamental concepts in Daoism - the paradox of wuwei (non-action)">
+<line commentary="This opening line establishes a profound paradox about the Dao's relationship with action/non-action (wei/wuwei). Notice how 常 (constant) modifies 無為 (non-action)">
     <word original="道" calque="way"/>
     <word original="常" calque="constant"/>
     <word original="無" calque="not-have"/>
     <word original="為" calque="act"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line>
+
+<line commentary="The word 而 here acts as a conjunction showing contrast - watch how it connects to the previous line to complete the paradox">
     <word original="而" calque="yet"/>
     <word original="無" calque="not-have"/>
     <word original="不" calque="not"/>
     <word original="為" calque="act"/>
     <word original="." calque="." punctuation="true"/>
 </line>
-<line commentary="Here 'lords and kings' represents those in positions of power and leadership">
-    <word original="侯" calque="lord"/>
+
+<line commentary="Notice how 若能 (if-can) creates a conditional statement - what would happen if rulers could achieve this?">
+    <word original="侯" calque="marquis"/>
     <word original="王" calque="king"/>
     <word original="若" calque="if"/>
     <word original="能" calque="can"/>
     <word original="守" calque="maintain"/>
     <word original="之" calque="it"/>
 </line>
-<line>
+
+<line commentary="The character 將 here indicates something that will happen in the future - notice how it pairs with 自 (self) to suggest spontaneous action">
     <word original="萬" calque="ten-thousand"/>
-    <word original="物" calque="things"/>
+    <word original="物" calque="thing"/>
     <word original="將" calque="will"/>
     <word original="自" calque="self"/>
     <word original="化" calque="transform"/>
 </line>
+
 <line>
     <word original="化" calque="transform"/>
     <word original="而" calque="yet"/>
     <word original="欲" calque="desire"/>
     <word original="作" calque="arise"/>
 </line>
-<line commentary="樸 (pu) is a key concept meaning 'uncarved wood' - representing natural simplicity">
+
+<line commentary="Notice the use of 以 (by-means-of) here - it's showing how something is accomplished. What's significant about using 'nameless simplicity' as a tool?">
     <word original="吾" calque="I"/>
     <word original="將" calque="will"/>
     <word original="鎮" calque="steady"/>
@@ -46,26 +51,30 @@
     <word original="之" calque="of"/>
     <word original="樸" calque="simplicity"/>
 </line>
+
 <line>
     <word original="無" calque="not-have"/>
     <word original="名" calque="name"/>
     <word original="之" calque="of"/>
     <word original="樸" calque="simplicity"/>
 </line>
-<line>
-    <word original="夫" calque="that"/>
+
+<line commentary="The particle 夫 here is serving to mark the start of a conclusion - watch how these final lines build to the chapter's ultimate point">
+    <word original="夫" calque="indeed"/>
     <word original="亦" calque="also"/>
     <word original="將" calque="will"/>
     <word original="無" calque="not-have"/>
     <word original="欲" calque="desire"/>
 </line>
+
 <line>
     <word original="不" calque="not"/>
     <word original="欲" calque="desire"/>
     <word original="以" calque="by-means-of"/>
     <word original="靜" calque="stillness"/>
 </line>
-<line commentary="This final line suggests that when desire ceases, natural order emerges">
+
+<line commentary="Notice how this final line mirrors the structure about 'ten thousand things' transforming themselves - but now it's about the world ordering itself">
     <word original="天" calque="heaven"/>
     <word original="下" calque="below"/>
     <word original="將" calque="will"/>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="57">
-<line>
+<line commentary="This opening sequence establishes a parallel structure comparing three approaches to ruling. Notice how '以' (by-means-of) introduces each method.">
     <word original="." calque="." punctuation="true"/>
     <word original="以" calque="by-means-of"/>
-    <word original="正" calque="upright"/>
+    <word original="正" calque="proper"/>
     <word original="治" calque="govern"/>
     <word original="國" calque="state"/>
 </line>
 <line>
     <word original="以" calque="by-means-of"/>
-    <word original="奇" calque="strange"/>
+    <word original="奇" calque="strange" commentary="'奇' can mean strange/unusual/unorthodox - consider how this contrasts with '正' (proper/orthodox) above"/>
     <word original="用" calque="use"/>
-    <word original="兵" calque="soldiers"/>
+    <word original="兵" calque="military"/>
 </line>
 <line>
     <word original="以" calque="by-means-of"/>
@@ -21,12 +21,12 @@
     <word original="天" calque="heaven"/>
     <word original="下" calque="below"/>
 </line>
-<line>
+<line commentary="This is a rhetorical question pattern common in Classical Chinese. '何以' together means 'how' or 'by what means'">
     <word original="吾" calque="I"/>
-    <word original="何" calque="how"/>
+    <word original="何" calque="what"/>
     <word original="以" calque="by-means-of"/>
     <word original="知" calque="know"/>
-    <word original="其" calque="its"/>
+    <word original="其" calque="it"/>
     <word original="然" calque="so"/>
     <word original="哉" calque="indeed"/>
     <word original="(.)" calque="(.)" punctuation="true"/>
@@ -35,7 +35,7 @@
     <word original="以" calque="by-means-of"/>
     <word original="此" calque="this"/>
 </line>
-<line commentary="Notice how 天下 (heaven-below) appears again - this compound means 'the world' or 'all under heaven'">
+<line commentary="Notice how the pattern '滋' (increasingly) repeats in the following lines, showing escalating negative consequences">
     <word original="天" calque="heaven"/>
     <word original="下" calque="below"/>
     <word original="多" calque="many"/>
@@ -43,7 +43,7 @@
     <word original="諱" calque="avoid"/>
 </line>
 <line>
-    <word original="而" calque="and"/>
+    <word original="而" calque="yet"/>
     <word original="民" calque="people"/>
     <word original="彌" calque="increasingly"/>
     <word original="貧" calque="poor"/>
@@ -56,29 +56,29 @@
     <word original="器" calque="tools"/>
 </line>
 <line>
-    <word original="[而]" calque="[and]"/>
+    <word original="[而]" calque="[yet]"/>
     <word original="國" calque="state"/>
     <word original="家" calque="family"/>
-    <word original="滋" calque="more"/>
+    <word original="滋" calque="increasingly"/>
     <word original="昏" calque="dark"/>
 </line>
-<line commentary="Note how 知 (know) in brackets implies knowledge in a negative sense - clever or cunning">
-    <word original="人" calque="person"/>
+<line>
+    <word original="人" calque="people"/>
     <word original="多" calque="many"/>
-    <word original="(知)" calque="(know)"/>
-    <word original="巧" calque="skill"/>
+    <word original="(知)" calque="(knowledge)"/>
+    <word original="巧" calque="clever"/>
 </line>
 <line>
-    <word original="[而]" calque="[and]"/>
+    <word original="[而]" calque="[yet]"/>
     <word original="奇" calque="strange"/>
     <word original="物" calque="things"/>
-    <word original="滋" calque="more"/>
+    <word original="滋" calque="increasingly"/>
     <word original="起" calque="arise"/>
 </line>
 <line>
     <word original="法" calque="law"/>
     <word original="(物)" calque="(things)"/>
-    <word original="滋" calque="more"/>
+    <word original="滋" calque="increasingly"/>
     <word original="(章)" calque="(manifest)"/>
 </line>
 <line>
@@ -87,18 +87,17 @@
     <word original="多" calque="many"/>
     <word original="有" calque="exist"/>
 </line>
-<line>
-    <word original="(.)" calque="(.)" punctuation="true"/>
-    <word original="故" calque="therefore"/>
+<line commentary="Here begins the sage's response, structured in four parallel statements. Notice how each line follows the pattern: 我 (I) + negative + 而 (yet) + 民 (people) + 自 (self) + result">
+    <word original="(.)故" calque="(therefore)"/>
     <word original="聖" calque="sage"/>
     <word original="人" calque="person"/>
     <word original="云" calque="say"/>
 </line>
-<line commentary="This begins a powerful series of parallel statements showing the sage's approach">
+<line>
     <word original="我" calque="I"/>
     <word original="無" calque="without"/>
     <word original="為" calque="action"/>
-    <word original="而" calque="and"/>
+    <word original="而" calque="yet"/>
     <word original="民" calque="people"/>
     <word original="自" calque="self"/>
     <word original="化" calque="transform"/>
@@ -106,17 +105,17 @@
 <line>
     <word original="我" calque="I"/>
     <word original="好" calque="love"/>
-    <word original="靜" calque="quiet"/>
-    <word original="而" calque="and"/>
+    <word original="靜" calque="stillness"/>
+    <word original="而" calque="yet"/>
     <word original="民" calque="people"/>
     <word original="自" calque="self"/>
-    <word original="正" calque="upright"/>
+    <word original="正" calque="proper"/>
 </line>
 <line>
     <word original="我" calque="I"/>
     <word original="無" calque="without"/>
     <word original="事" calque="affairs"/>
-    <word original="而" calque="and"/>
+    <word original="而" calque="yet"/>
     <word original="民" calque="people"/>
     <word original="自" calque="self"/>
     <word original="富" calque="rich"/>
@@ -125,7 +124,7 @@
     <word original="我" calque="I"/>
     <word original="無" calque="without"/>
     <word original="欲" calque="desire"/>
-    <word original="而" calque="and"/>
+    <word original="而" calque="yet"/>
     <word original="民" calque="people"/>
     <word original="自" calque="self"/>
     <word original="樸" calque="simple"/>
