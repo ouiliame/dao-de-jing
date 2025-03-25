@@ -1,74 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="79">
-<line commentary="Consider: Can forced reconciliation truly resolve deep resentment?">
-    <word original="和" calque="reconcile"/>
-    <word original="大" calque="great"/>
-    <word original="怨" calque="grievance"/>
+<line commentary="A profound paradox emerges: can the resolution of deep grievances ever be complete? What remains in the wake of reconciliation?">
+    <word original="和" pinyin="hé" calque="reconcile"/>
+    <word original="大" pinyin="dà" calque="great"/>
+    <word original="怨" pinyin="yuàn" calque="resentment"/>
 </line>
 
-<line commentary="A profound observation about the cyclical nature of revenge">
-    <word original="必" calque="surely"/>
-    <word original="有" calque="have"/>
-    <word original="餘" calque="remaining"/>
-    <word original="怨" calque="grievance"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="The character 餘 suggests 'remainder' - perhaps pointing to the cyclical nature of conflict and resolution.">
+    <word original="必" pinyin="bì" calque="must"/>
+    <word original="有" pinyin="yǒu" calque="have"/>
+    <word original="餘" pinyin="yú" calque="remaining"/>
+    <word original="怨" pinyin="yuàn" calque="resentment"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="How can forcing resolution be considered truly good?">
-    <word original="安" calque="how"/>
-    <word original="可" calque="can"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="為" calque="become"/>
-    <word original="善" calque="good"/>
+<line commentary="A rhetorical question that invites us to ponder: what constitutes true goodness in conflict resolution?">
+    <word original="安" pinyin="ān" calque="how"/>
+    <word original="可" pinyin="kě" calque="can"/>
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="為" pinyin="wéi" calque="act-as"/>
+    <word original="善" pinyin="shàn" calque="good"/>
 </line>
 
-<line>
-    <word original="是" calque="this"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="聖" calque="sage"/>
-    <word original="人" calque="person"/>
+<line commentary="The sage enters the discourse - what wisdom might follow?">
+    <word original="是" pinyin="shì" calque="this"/>
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="聖" pinyin="shèng" calque="sage"/>
+    <word original="人" pinyin="rén" calque="person"/>
 </line>
 
-<line commentary="The sage holds the debtor's portion - suggesting responsibility over rights">
-    <word original="執" calque="hold"/>
-    <word original="左" calque="left"/>
-    <word original="契" calque="tally"/>
+<line commentary="The left side of the tally was traditionally the creditor's - yet here the sage holds it without demanding. What might this reveal about true authority?">
+    <word original="執" pinyin="zhí" calque="hold"/>
+    <word original="左" pinyin="zuǒ" calque="left"/>
+    <word original="契" pinyin="qì" calque="contract"/>
 </line>
 
-<line commentary="What's the difference between demanding and expecting?">
-    <word original="而" calque="yet"/>
-    <word original="不" calque="not"/>
-    <word original="責" calque="demand"/>
-    <word original="於" calque="from"/>
-    <word original="人" calque="person"/>
+<line commentary="Notice how 'yet does not demand' follows 'holds the contract' - what kind of power lies in such restraint?">
+    <word original="而" pinyin="ér" calque="yet"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="責" pinyin="zé" calque="demand"/>
+    <word original="於" pinyin="yú" calque="from"/>
+    <word original="人" pinyin="rén" calque="person"/>
 </line>
 
-<line>
-    <word original="[(.)故]" calque="[therefore]"/>
-    <word original="有" calque="have"/>
-    <word original="德" calque="virtue"/>
-    <word original="司" calque="manage"/>
-    <word original="契" calque="tally"/>
+<line commentary="A natural law is revealed - how do contracts and virtue interweave?">
+    <word original="[(.)故]" pinyin="gù" calque="[(.)therefore]"/>
+    <word original="有" pinyin="yǒu" calque="have"/>
+    <word original="德" pinyin="dé" calque="virtue"/>
+    <word original="司" pinyin="sī" calque="manage"/>
+    <word original="契" pinyin="qì" calque="contracts"/>
 </line>
 
-<line commentary="Notice the elegant parallel structure contrasting virtue and its absence">
-    <word original="無" calque="without"/>
-    <word original="德" calque="virtue"/>
-    <word original="司" calque="manage"/>
-    <word original="徹" calque="collect"/>
+<line commentary="The opposite condition emerges - what happens when virtue is absent?">
+    <word original="無" pinyin="wú" calque="without"/>
+    <word original="德" pinyin="dé" calque="virtue"/>
+    <word original="司" pinyin="sī" calque="manage"/>
+    <word original="徹" pinyin="chè" calque="collection"/>
 </line>
 
-<line commentary="Does Heaven truly play favorites?">
-    <word original="天" calque="heaven"/>
-    <word original="道" calque="the Dao"/>
-    <word original="無" calque="without"/>
-    <word original="親" calque="favorites"/>
+<line commentary="A cosmic principle emerges - how might this absence of favoritism reflect perfect justice?">
+    <word original="天" pinyin="tiān" calque="heaven"/>
+    <word original="道" pinyin="dào" calque="way"/>
+    <word original="無" pinyin="wú" calque="without"/>
+    <word original="親" pinyin="qīn" calque="favorites"/>
 </line>
 
-<line commentary="What makes one 'good' in the eyes of the Dao?">
-    <word original="常" calque="always"/>
-    <word original="與" calque="with"/>
-    <word original="善" calque="good"/>
-    <word original="人" calque="person"/>
+<line commentary="The final line resolves with elegant simplicity - what makes one 'good' in the eyes of the cosmos?">
+    <word original="常" pinyin="cháng" calque="always"/>
+    <word original="與" pinyin="yǔ" calque="with"/>
+    <word original="善" pinyin="shàn" calque="good"/>
+    <word original="人" pinyin="rén" calque="person"/>
 </line>
 </chapter>

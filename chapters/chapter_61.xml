@@ -1,119 +1,137 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="61">
-<line commentary="Like water naturally flowing downstream, true power follows the path of least resistance">
-    <word original="大國" calque="great-state"/>
-    <word original="者" calque="one-who"/>
-    <word original="下流" calque="flow-downward"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Like a great river flowing downstream - what power lies in choosing the lower position?">
+    <word original="大" pinyin="dà" calque="great"/>
+    <word original="國" pinyin="guó" calque="state"/>
+    <word original="者" pinyin="zhě" calque="one-who"/>
+    <word original="下" pinyin="xià" calque="downstream"/>
+    <word original="流" pinyin="liú" calque="flow"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="A profound metaphor: the meeting point of all streams is always at the lowest point">
-    <word original="天下" calque="under-heaven"/>
-    <word original="之" calque="'s"/>
-    <word original="交" calque="intersection"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Where waters meet, what emerges in the space between?">
+    <word original="天" pinyin="tiān" calque="heaven"/>
+    <word original="下" pinyin="xià" calque="below"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="交" pinyin="jiāo" calque="intersection"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Consider: why compare a great state to the feminine principle?">
-    <word original="天下" calque="under-heaven"/>
-    <word original="之" calque="'s"/>
-    <word original="牝" calque="female"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="The feminine principle of Earth receives all rivers - what wisdom in this receptivity?">
+    <word original="天" pinyin="tiān" calque="heaven"/>
+    <word original="下" pinyin="xià" calque="below"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="牝" pinyin="pìn" calque="female"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="In nature, stillness overcomes movement, softness overcomes hardness">
-    <word original="牝" calque="female"/>
-    <word original="常" calque="always"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="靜" calque="stillness"/>
-    <word original="勝" calque="overcome"/>
-    <word original="牡" calque="male"/>
+<line commentary="In stillness lies an unexpected strength - how might quietude overcome force?">
+    <word original="牝" pinyin="pìn" calque="female"/>
+    <word original="常" pinyin="cháng" calque="always"/>
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="靜" pinyin="jìng" calque="stillness"/>
+    <word original="勝" pinyin="shèng" calque="overcome"/>
+    <word original="牡" pinyin="mǔ" calque="male"/>
 </line>
 
-<line>
-    <word original="以" calque="by-means-of"/>
-    <word original="靜" calque="stillness"/>
-    <word original="為" calque="become"/>
-    <word original="下" calque="lower"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Stillness settles naturally below - what virtue in this placement?">
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="靜" pinyin="jìng" calque="stillness"/>
+    <word original="為" pinyin="wéi" calque="become"/>
+    <word original="下" pinyin="xià" calque="below"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="How can lowering oneself lead to gaining?">
-    <word original="故" calque="therefore"/>
-    <word original="大國" calque="great-state"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="下" calque="lower"/>
-    <word original="小國" calque="small-state"/>
+<line commentary="How might humility become a strategy?">
+    <word original="(.)故" pinyin="gù" calque="(.)therefore"/>
+    <word original="大" pinyin="dà" calque="great"/>
+    <word original="國" pinyin="guó" calque="state"/>
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="下" pinyin="xià" calque="lower"/>
+    <word original="小" pinyin="xiǎo" calque="small"/>
+    <word original="國" pinyin="guó" calque="state"/>
 </line>
 
-<line>
-    <word original="則" calque="then"/>
-    <word original="取" calque="obtain"/>
-    <word original="小國" calque="small-state"/>
+<line commentary="What is truly gained in taking?">
+    <word original="則" pinyin="zé" calque="then"/>
+    <word original="取" pinyin="qǔ" calque="obtain"/>
+    <word original="小" pinyin="xiǎo" calque="small"/>
+    <word original="國" pinyin="guó" calque="state"/>
 </line>
 
-<line>
-    <word original="小國" calque="small-state"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="下" calque="lower"/>
-    <word original="大國" calque="great-state"/>
+<line commentary="A mirror image - the small state's strategy reflects the large">
+    <word original="小" pinyin="xiǎo" calque="small"/>
+    <word original="國" pinyin="guó" calque="state"/>
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="下" pinyin="xià" calque="lower"/>
+    <word original="大" pinyin="dà" calque="great"/>
+    <word original="國" pinyin="guó" calque="state"/>
 </line>
 
-<line>
-    <word original="則" calque="then"/>
-    <word original="取" calque="obtain"/>
-    <word original="[於]" calque="[from]"/>
-    <word original="大國" calque="great-state"/>
+<line commentary="Consider how 'obtaining from' differs from simple 'obtaining'">
+    <word original="則" pinyin="zé" calque="then"/>
+    <word original="取" pinyin="qǔ" calque="obtain"/>
+    <word original="[於]" pinyin="yú" calque="[from]"/>
+    <word original="大" pinyin="dà" calque="great"/>
+    <word original="國" pinyin="guó" calque="state"/>
 </line>
 
-<line commentary="A subtle paradox: gaining through yielding">
-    <word original="故" calque="therefore"/>
-    <word original="或" calque="some"/>
-    <word original="下" calque="lower"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="取" calque="obtain"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="The paradox of lowering oneself to gain - what wisdom here?">
+    <word original="(.)故" pinyin="gù" calque="(.)therefore"/>
+    <word original="或" pinyin="huò" calque="some"/>
+    <word original="下" pinyin="xià" calque="lower"/>
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="取" pinyin="qǔ" calque="obtain"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="或" calque="some"/>
-    <word original="下" calque="lower"/>
-    <word original="而" calque="and"/>
-    <word original="取" calque="obtain"/>
+<line commentary="A subtle distinction between lowering to obtain and obtaining through lowering">
+    <word original="或" pinyin="huò" calque="some"/>
+    <word original="下" pinyin="xià" calque="lower"/>
+    <word original="而" pinyin="ér" calque="and"/>
+    <word original="取" pinyin="qǔ" calque="obtain"/>
 </line>
 
-<line commentary="What does it mean to 'nurture people' versus 'serve people'?">
-    <word original="大國" calque="great-state"/>
-    <word original="不過" calque="nothing-more-than"/>
-    <word original="欲" calque="desire"/>
-    <word original="兼畜" calque="nurture"/>
-    <word original="人" calque="people"/>
+<line commentary="What does it mean to 'nurture together' rather than simply rule?">
+    <word original="大" pinyin="dà" calque="great"/>
+    <word original="國" pinyin="guó" calque="state"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="過" pinyin="guò" calque="exceed"/>
+    <word original="欲" pinyin="yù" calque="desire"/>
+    <word original="兼" pinyin="jiān" calque="together"/>
+    <word original="畜" pinyin="xù" calque="nurture"/>
+    <word original="人" pinyin="rén" calque="people"/>
 </line>
 
-<line>
-    <word original="小國" calque="small-state"/>
-    <word original="不過" calque="nothing-more-than"/>
-    <word original="欲" calque="desire"/>
-    <word original="入" calque="enter"/>
-    <word original="事" calque="serve"/>
-    <word original="人" calque="people"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Consider the distinction between serving and being subjugated">
+    <word original="小" pinyin="xiǎo" calque="small"/>
+    <word original="國" pinyin="guó" calque="state"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="過" pinyin="guò" calque="exceed"/>
+    <word original="欲" pinyin="yù" calque="desire"/>
+    <word original="入" pinyin="rù" calque="enter"/>
+    <word original="事" pinyin="shì" calque="serve"/>
+    <word original="人" pinyin="rén" calque="people"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="When both sides embrace their natural roles, harmony emerges">
-    <word original="夫" calque="now"/>
-    <word original="兩者" calque="both-parties"/>
-    <word original="各" calque="each"/>
-    <word original="得" calque="obtain"/>
-    <word original="[其]" calque="[its]"/>
-    <word original="所欲" calque="what-is-desired"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="When desires align naturally, who is truly governing whom?">
+    <word original="夫" pinyin="fū" calque="now"/>
+    <word original="兩" pinyin="liǎng" calque="both"/>
+    <word original="者" pinyin="zhě" calque="ones"/>
+    <word original="各" pinyin="gè" calque="each"/>
+    <word original="得" pinyin="dé" calque="obtain"/>
+    <word original="[其]" pinyin="qí" calque="[its]"/>
+    <word original="所" pinyin="suǒ" calque="that-which"/>
+    <word original="欲" pinyin="yù" calque="desire"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="The chapter's essence: true greatness lies in humility">
-    <word original="大者" calque="great-one"/>
-    <word original="宜" calque="should"/>
-    <word original="為" calque="become"/>
-    <word original="下" calque="lower"/>
+<line commentary="The chapter closes with its central paradox - greatness through lowering">
+    <word original="大" pinyin="dà" calque="great"/>
+    <word original="者" pinyin="zhě" calque="one"/>
+    <word original="宜" pinyin="yí" calque="suitable"/>
+    <word original="為" pinyin="wéi" calque="become"/>
+    <word original="下" pinyin="xià" calque="lower"/>
 </line>
 </chapter>

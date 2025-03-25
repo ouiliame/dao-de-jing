@@ -1,69 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="68">
-<line commentary="Consider: How can a warrior be most effective by not being warlike?">
-    <word original="善" calque="good-at"/>
-    <word original="為" calque="act-as"/>
-    <word original="士" calque="warrior"/>
-    <word original="者" calque="one-who"/>
-    <word original="不" calque="not"/>
-    <word original="武" calque="martial"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Consider: How might true martial skill manifest as its seeming opposite? What strength lies in appearing unwarlike?">
+    <word original="善" pinyin="shàn" calque="skilled-at"/>
+    <word original="為" pinyin="wéi" calque="being"/>
+    <word original="士" pinyin="shì" calque="warrior-scholar"/>
+    <word original="者" pinyin="zhě" calque="one-who"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="武" pinyin="wǔ" calque="martial"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Notice how 'anger' relates to both fighting and effectiveness">
-    <word original="善" calque="good-at"/>
-    <word original="戰" calque="battle"/>
-    <word original="者" calque="one-who"/>
-    <word original="不" calque="not"/>
-    <word original="怒" calque="anger"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="What power might reside in maintaining tranquility amid conflict?">
+    <word original="善" pinyin="shàn" calque="skilled-at"/>
+    <word original="戰" pinyin="zhàn" calque="battle"/>
+    <word original="者" pinyin="zhě" calque="one-who"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="怒" pinyin="nù" calque="anger"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="What does it mean to not 'engage' with enemies? Is this physical or psychological?">
-    <word original="善" calque="good-at"/>
-    <word original="勝" calque="defeat"/>
-    <word original="敵" calque="enemy"/>
-    <word original="者" calque="one-who"/>
-    <word original="不" calque="not"/>
-    <word original="與" calque="engage"/>
+<line commentary="A subtle twist - victory without engagement. How might this paradox reshape our view of conflict?">
+    <word original="善" pinyin="shàn" calque="skilled-at"/>
+    <word original="勝" pinyin="shèng" calque="defeating"/>
+    <word original="敵" pinyin="dí" calque="enemy"/>
+    <word original="者" pinyin="zhě" calque="one-who"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="與" pinyin="yǔ" calque="engage"/>
 </line>
 
-<line commentary="Ponder: How does placing oneself below others create effective leadership?">
-    <word original="善" calque="good-at"/>
-    <word original="用" calque="use"/>
-    <word original="人" calque="person"/>
-    <word original="者" calque="one-who"/>
-    <word original="為" calque="become"/>
-    <word original="之" calque="their"/>
-    <word original="下" calque="below"/>
+<line commentary="Ponder the wisdom: How might lowering oneself elevate one's ability to lead?">
+    <word original="善" pinyin="shàn" calque="skilled-at"/>
+    <word original="用" pinyin="yòng" calque="using"/>
+    <word original="人" pinyin="rén" calque="people"/>
+    <word original="者" pinyin="zhě" calque="one-who"/>
+    <word original="為" pinyin="wéi" calque="becomes"/>
+    <word original="之" pinyin="zhī" calque="their"/>
+    <word original="下" pinyin="xià" calque="beneath"/>
 </line>
 
-<line commentary="The character 德 suggests both virtue and power - how are they related?">
-    <word original="是" calque="this"/>
-    <word original="謂" calque="called"/>
-    <word original="不" calque="non"/>
-    <word original="爭" calque="contention"/>
-    <word original="之" calque="'s"/>
-    <word original="德" calque="virtue"/>
+<line commentary="The character 德 suggests both virtue and power - how might non-contention manifest both?">
+    <word original="是" pinyin="shì" calque="this"/>
+    <word original="謂" pinyin="wèi" calque="called"/>
+    <word original="不" pinyin="bù" calque="non"/>
+    <word original="爭" pinyin="zhēng" calque="contention"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="德" pinyin="dé" calque="virtue-power"/>
 </line>
 
-<line commentary="How does non-contention become a source of strength?">
-    <word original="是" calque="this"/>
-    <word original="謂" calque="called"/>
-    <word original="用" calque="use"/>
-    <word original="人" calque="person"/>
-    <word original="之" calque="'s"/>
-    <word original="力" calque="force"/>
+<line commentary="What deeper strength might emerge when we align with others rather than command them?">
+    <word original="是" pinyin="shì" calque="this"/>
+    <word original="謂" pinyin="wèi" calque="called"/>
+    <word original="用" pinyin="yòng" calque="using"/>
+    <word original="人" pinyin="rén" calque="people"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="力" pinyin="lì" calque="strength"/>
 </line>
 
-<line commentary="What does it mean to 'match heaven'? Consider how this connects to the opening lines about non-aggression.">
-    <word original="是" calque="this"/>
-    <word original="謂" calque="called"/>
-    <word original="配" calque="match"/>
-    <word original="天" calque="heaven"/>
-    <word original="古" calque="ancient"/>
-    <word original="之" calque="'s"/>
-    <word original="極" calque="ultimate"/>
-    <word original="[也(.)]" calque="[indeed(.)]" punctuation="true"/>
+<line commentary="The final line connects human action to cosmic harmony - how might this transform our understanding of mastery?">
+    <word original="是" pinyin="shì" calque="this"/>
+    <word original="謂" pinyin="wèi" calque="called"/>
+    <word original="配" pinyin="pèi" calque="matching"/>
+    <word original="天" pinyin="tiān" calque="heaven"/>
+    <word original="古" pinyin="gǔ" calque="ancient"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="極" pinyin="jí" calque="ultimate"/>
+    <word original="[也(.)]" pinyin="" calque="[indeed(.)]" punctuation="true"/>
 </line>
 </chapter>

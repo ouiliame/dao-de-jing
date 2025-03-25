@@ -1,134 +1,134 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="77">
-<line commentary="Opens with a powerful metaphor comparing Heaven's way to a bow - consider how a bow works through opposing forces in perfect balance">
-    <word original="天" calque="heaven"/>
-    <word original="之" calque="'s"/>
-    <word original="道" calque="the Dao"/>
-    <word original="其" calque="it"/>
-    <word original="猶" calque="like"/>
-    <word original="張" calque="draw"/>
-    <word original="弓" calque="bow"/>
-    <word original="與" calque="indeed"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="The bow metaphor opens profound possibilities - what tension teaches us about natural balance.">
+    <word original="天" calque="heaven" pinyin="tiān"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="道" calque="way" pinyin="dào"/>
+    <word original="其" calque="it" pinyin="qí"/>
+    <word original="猶" calque="like" pinyin="yóu"/>
+    <word original="張" calque="draw" pinyin="zhāng"/>
+    <word original="弓" calque="bow" pinyin="gōng"/>
+    <word original="與" calque="indeed" pinyin="yǔ"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line commentary="What happens when you pull down on a bow's high point?">
-    <word original="高" calque="high"/>
-    <word original="者" calque="one"/>
-    <word original="抑" calque="press-down"/>
-    <word original="之" calque="it"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="What force gently presses downward that which rises too high?">
+    <word original="高" calque="high" pinyin="gāo"/>
+    <word original="者" calque="that-which" pinyin="zhě"/>
+    <word original="抑" calque="press-down" pinyin="yì"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="下" calque="low"/>
-    <word original="者" calque="one"/>
-    <word original="舉" calque="raise"/>
-    <word original="之" calque="it"/>
+<line commentary="The balanced opposite - natural lift meeting natural descent.">
+    <word original="下" calque="low" pinyin="xià"/>
+    <word original="者" calque="that-which" pinyin="zhě"/>
+    <word original="舉" calque="lift-up" pinyin="jǔ"/>
+    <word original="之" calque="it" pinyin="zhī"/>
 </line>
 
-<line commentary="Consider: what happens in nature when there is excess?">
-    <word original="有" calque="have"/>
-    <word original="餘" calque="excess"/>
-    <word original="者" calque="one"/>
-    <word original="損" calque="reduce"/>
-    <word original="之" calque="it"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Consider how nature handles excess - does it waste or redistribute?">
+    <word original="有" calque="have" pinyin="yǒu"/>
+    <word original="餘" calque="excess" pinyin="yú"/>
+    <word original="者" calque="that-which" pinyin="zhě"/>
+    <word original="損" calque="decrease" pinyin="sǔn"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="不" calque="not"/>
-    <word original="足" calque="sufficient"/>
-    <word original="者" calque="one"/>
-    <word original="補" calque="supplement"/>
-    <word original="之" calque="it"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Where deficiency exists, what force moves to fill the void?">
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="足" calque="sufficient" pinyin="zú"/>
+    <word original="者" calque="that-which" pinyin="zhě"/>
+    <word original="補" calque="supplement" pinyin="bǔ"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="天" calque="heaven"/>
-    <word original="之" calque="'s"/>
-    <word original="道" calque="the Dao"/>
+<line commentary="The way of heaven returns - notice how this phrase echoes through the text.">
+    <word original="天" calque="heaven" pinyin="tiān"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="道" calque="way" pinyin="dào"/>
 </line>
 
-<line commentary="Notice how this line echoes natural cycles - floods and droughts, day and night, seasons">
-    <word original="損" calque="reduce"/>
-    <word original="有" calque="have"/>
-    <word original="餘" calque="excess"/>
-    <word original="而" calque="and"/>
-    <word original="補" calque="supplement"/>
-    <word original="不" calque="not"/>
-    <word original="足" calque="sufficient"/>
+<line commentary="Natural balance expressed in action - what wisdom lies in this pattern?">
+    <word original="損" calque="decrease" pinyin="sǔn"/>
+    <word original="有" calque="have" pinyin="yǒu"/>
+    <word original="餘" calque="excess" pinyin="yú"/>
+    <word original="而" calque="and" pinyin="ér"/>
+    <word original="補" calque="supplement" pinyin="bǔ"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="足" calque="sufficient" pinyin="zú"/>
 </line>
 
-<line commentary="How do human systems often work differently from natural ones?">
-    <word original="人" calque="human"/>
-    <word original="之" calque="'s"/>
-    <word original="道" calque="the Dao"/>
-    <word original="則" calque="however"/>
-    <word original="不" calque="not"/>
-    <word original="然" calque="so"/>
+<line commentary="Human ways often reverse nature's pattern - what might this reveal about our institutions?">
+    <word original="人" calque="human" pinyin="rén"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="道" calque="way" pinyin="dào"/>
+    <word original="則" calque="then" pinyin="zé"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="然" calque="thus" pinyin="rán"/>
 </line>
 
-<line>
-    <word original="損" calque="reduce"/>
-    <word original="不" calque="not"/>
-    <word original="足" calque="sufficient"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="奉" calque="serve"/>
-    <word original="有" calque="have"/>
-    <word original="餘" calque="excess"/>
+<line commentary="A pointed observation of human tendency - do we recognize this pattern in our world?">
+    <word original="損" calque="decrease" pinyin="sǔn"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="足" calque="sufficient" pinyin="zú"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="奉" calque="serve" pinyin="fèng"/>
+    <word original="有" calque="have" pinyin="yǒu"/>
+    <word original="餘" calque="excess" pinyin="yú"/>
 </line>
 
-<line commentary="A profound question about power and responsibility">
-    <word original="孰" calque="who"/>
-    <word original="能" calque="can"/>
-    <word original="有" calque="have"/>
-    <word original="餘" calque="excess"/>
-    <word original="而" calque="and"/>
-    <word original="奉" calque="serve"/>
-    <word original="於" calque="to"/>
-    <word original="天" calque="heaven"/>
-    <word original="下" calque="below"/>
+<line commentary="A profound question that turns inward - what capacity must one cultivate to truly serve?">
+    <word original="孰" calque="who" pinyin="shú"/>
+    <word original="能" calque="can" pinyin="néng"/>
+    <word original="有" calque="have" pinyin="yǒu"/>
+    <word original="餘" calque="excess" pinyin="yú"/>
+    <word original="(而)" calque="(and)" pinyin="ér"/>
+    <word original="奉" calque="serve" pinyin="fèng"/>
+    <word original="[於]" calque="[to]" pinyin="yú"/>
+    <word original="天" calque="heaven" pinyin="tiān"/>
+    <word original="下" calque="below" pinyin="xià"/>
 </line>
 
-<line>
-    <word original="唯" calque="only"/>
-    <word original="有" calque="have"/>
-    <word original="道" calque="the Dao"/>
-    <word original="者" calque="one"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="The answer emerges in simplicity - what makes this person different?">
+    <word original="唯" calque="only" pinyin="wéi"/>
+    <word original="有" calque="have" pinyin="yǒu"/>
+    <word original="道" calque="way" pinyin="dào"/>
+    <word original="者" calque="one-who" pinyin="zhě"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="是" calque="this"/>
-    <word original="以" calque="therefore"/>
-    <word original="聖" calque="sage"/>
-    <word original="人" calque="person"/>
+<line commentary="Watch how the sage emerges in the text - not as commander but as exemplar.">
+    <word original="是" calque="this" pinyin="shì"/>
+    <word original="以" calque="therefore" pinyin="yǐ"/>
+    <word original="聖" calque="sage" pinyin="shèng"/>
+    <word original="人" calque="person" pinyin="rén"/>
 </line>
 
-<line commentary="Ponder: what is the difference between acting and depending on action?">
-    <word original="為" calque="act"/>
-    <word original="而" calque="but"/>
-    <word original="不" calque="not"/>
-    <word original="恃" calque="rely-on"/>
+<line commentary="Action without attachment - can we imagine such pure movement?">
+    <word original="為" calque="act" pinyin="wéi"/>
+    <word original="而" calque="yet" pinyin="ér"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="恃" calque="rely-on" pinyin="shì"/>
 </line>
 
-<line>
-    <word original="功" calque="merit"/>
-    <word original="成" calque="complete"/>
-    <word original="而" calque="but"/>
-    <word original="不" calque="not"/>
-    <word original="處" calque="dwell"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Achievement without dwelling - what freedom might this offer?">
+    <word original="功" calque="merit" pinyin="gōng"/>
+    <word original="成" calque="complete" pinyin="chéng"/>
+    <word original="而" calque="yet" pinyin="ér"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="處" calque="dwell" pinyin="chǔ"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line commentary="What might it mean to not wish to appear worthy?">
-    <word original="其" calque="his"/>
-    <word original="不" calque="not"/>
-    <word original="欲" calque="desire"/>
-    <word original="見" calque="appear"/>
-    <word original="賢" calque="worthy"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="A final twist - what virtue lies in not wanting to appear virtuous?">
+    <word original="其" calque="it" pinyin="qí"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="欲" calque="desire" pinyin="yù"/>
+    <word original="見" calque="appear" pinyin="xiàn"/>
+    <word original="賢" calque="worthy" pinyin="xián"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 </chapter>

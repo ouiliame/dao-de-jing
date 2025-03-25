@@ -1,56 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="71">
-<line commentary="A playful paradox: what happens when knowledge meets its own limits?">
-    <word original="知" calque="know"/>
-    <word original="不" calque="not"/>
-    <word original="知" calque="know"/>
-    <word original="(尚)" calque="(superior)"/>
-    <word original="[矣(.)]" calque="[indeed(.)]"/>
+
+<line commentary="A subtle dance between knowing and not-knowing - what happens when we become aware of our ignorance?">
+    <word original="知" calque="know" pinyin="zhī"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="知" calque="know" pinyin="zhī"/>
+    <word original="(尚)" calque="(superior)" pinyin="shàng"/>
+    <word original="[矣(.)]" calque="[indeed(.)]" pinyin="yǐ"/>
 </line>
 
-<line commentary="Consider: which is more dangerous - ignorance, or ignorance of our ignorance?">
-    <word original="不" calque="not"/>
-    <word original="知" calque="know"/>
-    <word original="知" calque="know"/>
-    <word original="病" calque="illness"/>
-    <word original="[矣(.)]" calque="[indeed(.)]"/>
+<line commentary="When does confidence in our knowledge become its own form of ignorance?">
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="知" calque="know" pinyin="zhī"/>
+    <word original="知" calque="know" pinyin="zhī"/>
+    <word original="病" calque="illness" pinyin="bìng"/>
+    <word original="[矣(.)]" calque="[indeed(.)]" pinyin="yǐ"/>
 </line>
 
-<line commentary="病 dances between noun and verb here - what is truly being diagnosed?">
-    <word original="(.)" calque="(.)"/>
-    <word original="夫" calque="indeed"/>
-    <word original="唯" calque="only"/>
-    <word original="病" calque="sick"/>
-    <word original="病" calque="sickness"/>
+<line commentary="The character 病 holds both 'illness' and 'fault' - how might recognizing our flaws lead to healing?">
+    <word original="(.)" calque="(.)" pinyin=""/>
+    <word original="夫" calque="indeed" pinyin="fú"/>
+    <word original="唯" calque="only" pinyin="wéi"/>
+    <word original="病" calque="illness" pinyin="bìng"/>
+    <word original="病" calque="illness" pinyin="bìng"/>
 </line>
 
-<line commentary="A formula for health: how does recognizing illness lead to its cure?">
-    <word original="是" calque="this"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="不" calque="not"/>
-    <word original="病" calque="sick"/>
+<line commentary="A paradox emerges: might awareness of our ailments be the path to wellness?">
+    <word original="是" calque="this" pinyin="shì"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="病" calque="illness" pinyin="bìng"/>
 </line>
 
-<line>
-    <word original="聖" calque="sage"/>
-    <word original="人" calque="person"/>
-    <word original="不" calque="not"/>
-    <word original="病" calque="sick"/>
-    <word original="." calque="."/>
+<line commentary="What makes the sage different? Not immunity to illness, but a different relationship with it.">
+    <word original="聖" calque="sage" pinyin="shèng"/>
+    <word original="人" calque="person" pinyin="rén"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="病" calque="illness" pinyin="bìng"/>
+    <word original="." calque="." pinyin="" punctuation="true"/>
 </line>
 
-<line commentary="Notice how 其 points to what came before - who owns this sickness?">
-    <word original="以" calque="by-means-of"/>
-    <word original="其" calque="their"/>
-    <word original="病" calque="sick"/>
-    <word original="病" calque="sickness"/>
-    <word original="." calque="."/>
+<line commentary="Consider how 'because' (以) and 'illness' (病) dance together - cause and effect blur.">
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="其" calque="their" pinyin="qí"/>
+    <word original="病" calque="illness" pinyin="bìng"/>
+    <word original="病" calque="illness" pinyin="bìng"/>
+    <word original="." calque="." pinyin="" punctuation="true"/>
 </line>
 
-<line>
-    <word original="是" calque="this"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="不" calque="not"/>
-    <word original="病" calque="sick"/>
+<line commentary="The final echo of the pattern - how does this conclusion reshape our understanding of the opening?">
+    <word original="是" calque="this" pinyin="shì"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="病" calque="illness" pinyin="bìng"/>
 </line>
+
 </chapter>

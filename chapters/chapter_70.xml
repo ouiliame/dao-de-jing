@@ -1,93 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="70">
-<line commentary="The opening states a deceptively simple truth - but is anything truly simple?">
-    <word original="吾" calque="I"/>
-    <word original="言" calque="words"/>
-    <word original="甚" calque="very"/>
-    <word original="易" calque="easy"/>
-    <word original="知" calque="understand"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="A deceptively simple opening that contains its own contradiction - if truly easy to understand, why must it be stated?">
+    <word original="吾" pinyin="wú" calque="I"/>
+    <word original="言" pinyin="yán" calque="words"/>
+    <word original="甚" pinyin="shèn" calque="very"/>
+    <word original="易" pinyin="yì" calque="easy"/>
+    <word original="知" pinyin="zhī" calque="know"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="What's the difference between understanding and doing?">
-    <word original="甚" calque="very"/>
-    <word original="易" calque="easy"/>
-    <word original="行" calque="practice"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="The parallel structure hints at a deeper truth - what is the relationship between knowing and doing?">
+    <word original="甚" pinyin="shèn" calque="very"/>
+    <word original="易" pinyin="yì" calque="easy"/>
+    <word original="行" pinyin="xíng" calque="practice"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="'Heaven-below' (天下) is the world - but why does no one understand?">
-    <word original="[而]" calque="[yet]"/>
-    <word original="天下" calque="heaven-below"/>
-    <word original="莫" calque="none"/>
-    <word original="[之]" calque="[it]"/>
-    <word original="能" calque="can"/>
-    <word original="知" calque="understand"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="What tension exists between 'easy to know' and 'none can know'? Consider the space between simple truth and deep understanding.">
+    <word original="[而]" pinyin="ér" calque="[yet]"/>
+    <word original="天下" pinyin="tiān-xià" calque="under-heaven"/>
+    <word original="莫" pinyin="mò" calque="none"/>
+    <word original="[之]" pinyin="zhī" calque="[it]"/>
+    <word original="能" pinyin="néng" calque="can"/>
+    <word original="知" pinyin="zhī" calque="know"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="If something is easy, why can no one do it?">
-    <word original="莫" calque="none"/>
-    <word original="[之]" calque="[it]"/>
-    <word original="能" calque="can"/>
-    <word original="行" calque="practice"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="The echo of inability - does the parallel structure suggest a connection between understanding and action?">
+    <word original="莫" pinyin="mò" calque="none"/>
+    <word original="[之]" pinyin="zhī" calque="[it]"/>
+    <word original="能" pinyin="néng" calque="can"/>
+    <word original="行" pinyin="xíng" calque="practice"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="What gives words their power? Their source?">
-    <word original="言" calque="words"/>
-    <word original="有" calque="have"/>
-    <word original="宗" calque="ancestor"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="What ancestral wisdom might words contain? Consider the depth beneath simple expressions.">
+    <word original="言" pinyin="yán" calque="words"/>
+    <word original="有" pinyin="yǒu" calque="have"/>
+    <word original="宗" pinyin="zōng" calque="ancestor"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="What gives actions their authority?">
-    <word original="事" calque="affairs"/>
-    <word original="有" calque="have"/>
-    <word original="君" calque="ruler"/>
+<line commentary="Affairs have their sovereign - how might this mirror the relationship between words and their source?">
+    <word original="事" pinyin="shì" calque="affairs"/>
+    <word original="有" pinyin="yǒu" calque="have"/>
+    <word original="君" pinyin="jūn" calque="sovereign"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Is 'not knowing' actually a form of deeper knowledge?">
-    <word original="(.)夫" calque="(.)indeed"/>
-    <word original="唯" calque="only"/>
-    <word original="無" calque="without"/>
-    <word original="知" calque="knowledge"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="A provocative paradox - how might 'not knowing' lead to understanding?">
+    <word original="(.)夫" pinyin="fú" calque="(.)indeed"/>
+    <word original="唯" pinyin="wéi" calque="only"/>
+    <word original="無" pinyin="wú" calque="without"/>
+    <word original="知" pinyin="zhī" calque="knowledge"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="What happens when we try to be understood?">
-    <word original="是以" calque="therefore"/>
-    <word original="不" calque="not"/>
-    <word original="我" calque="me"/>
-    <word original="知" calque="know"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Who is the 'I' that remains unknown? Consider the space between self-knowledge and others' understanding.">
+    <word original="是以" pinyin="shì-yǐ" calque="therefore"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="我" pinyin="wǒ" calque="me"/>
+    <word original="知" pinyin="zhī" calque="know"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Why is rarity valuable?">
-    <word original="知" calque="know"/>
-    <word original="我" calque="me"/>
-    <word original="者" calque="one-who"/>
-    <word original="希" calque="rare"/>
+<line commentary="'Rare' suggests value - but what kind of value emerges from being unknown?">
+    <word original="知" pinyin="zhī" calque="know"/>
+    <word original="我" pinyin="wǒ" calque="me"/>
+    <word original="者" pinyin="zhě" calque="one-who"/>
+    <word original="希" pinyin="xī" calque="rare"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Does value come from being understood or misunderstood?">
-    <word original="則" calque="then"/>
-    <word original="我" calque="I"/>
-    <word original="者" calque="one-who"/>
-    <word original="貴" calque="precious"/>
-    <word original="[矣(.)]" calque="[indeed(.)]"/>
+<line commentary="How does rarity contribute to value? What paradox lies in being valued for being unknown?">
+    <word original="則" pinyin="zé" calque="then"/>
+    <word original="我" pinyin="wǒ" calque="I"/>
+    <word original="者" pinyin="zhě" calque="one-who"/>
+    <word original="貴" pinyin="guì" calque="precious"/>
+    <word original="[矣(.)]" pinyin="yǐ" calque="[indeed(.)]"/>
 </line>
 
-<line commentary="How does this conclusion follow?">
-    <word original="是以" calque="therefore"/>
-    <word original="聖人" calque="sage"/>
+<line commentary="What transformation occurs in the sage that leads to the final image?">
+    <word original="是以" pinyin="shì-yǐ" calque="therefore"/>
+    <word original="聖" pinyin="shèng" calque="sage"/>
+    <word original="人" pinyin="rén" calque="person"/>
 </line>
 
-<line commentary="The image of coarse cloth hiding jade - what does this tell us about true worth?">
-    <word original="被" calque="wear"/>
-    <word original="褐" calque="coarse-cloth"/>
-    <word original="[而]" calque="[yet]"/>
-    <word original="懷" calque="embrace"/>
-    <word original="玉" calque="jade"/>
+<line commentary="The final image presents a striking contrast - coarse cloth outside, precious jade within. What truth about wisdom does this reveal?">
+    <word original="被" pinyin="pī" calque="wear"/>
+    <word original="褐" pinyin="hè" calque="coarse-cloth"/>
+    <word original="[而]" pinyin="ér" calque="[yet]"/>
+    <word original="懷" pinyin="huái" calque="embrace"/>
+    <word original="玉" pinyin="yù" calque="jade"/>
 </line>
 </chapter>

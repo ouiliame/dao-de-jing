@@ -1,93 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="81">
-<line commentary="A profound statement about the nature of truth - can beautiful rhetoric be trusted?">
-    <word original="信" calque="trustworthy"/>
-    <word original="言" calque="words"/>
-    <word original="不" calque="not"/>
-    <word original="美" calque="beautiful"/>
+<line commentary="Consider: When does a statement's beauty diminish its truth? When might plain speech carry deeper authenticity?">
+    <word original="信" calque="trustworthy" pinyin="xìn"/>
+    <word original="言" calque="words" pinyin="yán"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="美" calque="beautiful" pinyin="měi"/>
 </line>
 
-<line commentary="The inverse relationship between ornate language and truth. Consider: when do we embellish our words?">
-    <word original="美" calque="beautiful"/>
-    <word original="言" calque="words"/>
-    <word original="不" calque="not"/>
-    <word original="信" calque="trustworthy"/>
+<line commentary="A mirror to the first line - does ornamentation obscure truth?">
+    <word original="美" calque="beautiful" pinyin="měi"/>
+    <word original="言" calque="words" pinyin="yán"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="信" calque="trustworthy" pinyin="xìn"/>
 </line>
 
-<line commentary="Those who are truly good don't need to argue their case. Why?">
-    <word original="善" calque="good"/>
-    <word original="者" calque="one-who"/>
-    <word original="不" calque="not"/>
-    <word original="辯" calque="argue"/>
+<line commentary="What might silence reveal that argument conceals?">
+    <word original="善" calque="good" pinyin="shàn"/>
+    <word original="者" calque="one-who" pinyin="zhě"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="辯" calque="debate" pinyin="biàn"/>
 </line>
 
-<line commentary="Those who argue much might be compensating for something...">
-    <word original="辯" calque="argue"/>
-    <word original="者" calque="one-who"/>
-    <word original="不" calque="not"/>
-    <word original="善" calque="good"/>
+<line commentary="How might the need to defend a position weaken its truth?">
+    <word original="辯" calque="debate" pinyin="biàn"/>
+    <word original="者" calque="one-who" pinyin="zhě"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="善" calque="good" pinyin="shàn"/>
 </line>
 
-<line commentary="True wisdom vs. accumulated knowledge - what's the difference?">
-    <word original="知" calque="know"/>
-    <word original="者" calque="one-who"/>
-    <word original="不" calque="not"/>
-    <word original="博" calque="broad-learning"/>
+<line commentary="Does depth require breadth? What wisdom might lie in focused simplicity?">
+    <word original="知" calque="know" pinyin="zhī"/>
+    <word original="者" calque="one-who" pinyin="zhě"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="博" calque="broad" pinyin="bó"/>
 </line>
 
-<line>
-    <word original="博" calque="broad-learning"/>
-    <word original="者" calque="one-who"/>
-    <word original="不" calque="not"/>
-    <word original="知" calque="know"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="When might extensive knowledge cloud true understanding?">
+    <word original="博" calque="broad" pinyin="bó"/>
+    <word original="者" calque="one-who" pinyin="zhě"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="知" calque="know" pinyin="zhī"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line commentary="The sage's approach to wealth and accumulation">
-    <word original="聖" calque="sage"/>
-    <word original="人" calque="person"/>
-    <word original="不" calque="not"/>
-    <word original="積" calque="accumulate"/>
+<line commentary="What wealth might come from emptying oneself?">
+    <word original="聖" calque="sage" pinyin="shèng"/>
+    <word original="人" calque="person" pinyin="rén"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="積" calque="accumulate" pinyin="jī"/>
 </line>
 
-<line commentary="A beautiful paradox of giving and receiving. What happens when you help others?">
-    <word original="既" calque="already"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="為" calque="do-for"/>
-    <word original="人" calque="others"/>
-    <word original="己" calque="self"/>
-    <word original="愈" calque="more"/>
-    <word original="有" calque="have"/>
+<line commentary="A paradox of giving - how might serving others serve oneself?">
+    <word original="既" calque="already" pinyin="jì"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="為" calque="do-for" pinyin="wéi"/>
+    <word original="人" calque="others" pinyin="rén"/>
+    <word original="己" calque="self" pinyin="jǐ"/>
+    <word original="愈" calque="more" pinyin="yù"/>
+    <word original="有" calque="have" pinyin="yǒu"/>
 </line>
 
-<line commentary="The more you give, the more you receive. How does this work?">
-    <word original="既" calque="already"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="與" calque="give"/>
-    <word original="人" calque="others"/>
-    <word original="己" calque="self"/>
-    <word original="愈" calque="more"/>
-    <word original="多" calque="abundant"/>
+<line commentary="The mystery deepens - how does giving lead to abundance?">
+    <word original="既" calque="already" pinyin="jì"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="與" calque="give" pinyin="yǔ"/>
+    <word original="人" calque="others" pinyin="rén"/>
+    <word original="己" calque="self" pinyin="jǐ"/>
+    <word original="愈" calque="more" pinyin="yù"/>
+    <word original="多" calque="abundant" pinyin="duō"/>
 </line>
 
-<line commentary="How does nature benefit all without causing harm?">
-    <word original="天" calque="heaven"/>
-    <word original="之" calque="'s"/>
-    <word original="道" calque="the Dao"/>
-    <word original="利" calque="benefit"/>
-    <word original="而" calque="and-yet"/>
-    <word original="不" calque="not"/>
-    <word original="害" calque="harm"/>
+<line commentary="Can you feel the gentle power in this description of natural law?">
+    <word original="天" calque="heaven" pinyin="tiān"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="道" calque="way" pinyin="dào"/>
+    <word original="利" calque="benefit" pinyin="lì"/>
+    <word original="而" calque="yet" pinyin="ér"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="害" calque="harm" pinyin="hài"/>
 </line>
 
-<line commentary="The sage mirrors nature's way - accomplishing without contention">
-    <word original="聖" calque="sage"/>
-    <word original="人" calque="person"/>
-    <word original="之" calque="'s"/>
-    <word original="道" calque="the Dao"/>
-    <word original="為" calque="act"/>
-    <word original="而" calque="and-yet"/>
-    <word original="不" calque="not"/>
-    <word original="爭" calque="compete"/>
+<line commentary="A final meditation on effortless action - what victories might come from not striving?">
+    <word original="聖" calque="sage" pinyin="shèng"/>
+    <word original="人" calque="person" pinyin="rén"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="道" calque="way" pinyin="dào"/>
+    <word original="為" calque="act" pinyin="wéi"/>
+    <word original="而" calque="yet" pinyin="ér"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="爭" calque="compete" pinyin="zhēng"/>
 </line>
 </chapter>

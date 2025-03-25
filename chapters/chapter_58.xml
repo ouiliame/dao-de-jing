@@ -1,122 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="58">
-<line commentary="Notice how the first four lines form two contrasting pairs, showing cause and effect in governance.">
-    <word original="其" calque="its"/>
-    <word original="政" calque="governance"/>
-    <word original="悶悶" calque="simple-quiet" commentary="Reduplication emphasizes the quality"/>
+<line commentary="Consider how 'dull' governance might actually be ideal - what happens when leadership becomes too clever?">
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="政" pinyin="zhèng" calque="governance"/>
+    <word original="悶" pinyin="mèn" calque="dull"/>
+    <word original="悶" pinyin="mèn" calque="dull"/>
 </line>
 
-<line>
-    <word original="其" calque="its"/>
-    <word original="民" calque="people"/>
-    <word original="淳淳" calque="pure-honest"/>
+<line commentary="A people's character often reflects their governance - notice the repetition suggesting a natural state.">
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="民" pinyin="mín" calque="people"/>
+    <word original="淳" pinyin="chún" calque="pure"/>
+    <word original="淳" pinyin="chún" calque="pure"/>
 </line>
 
-<line>
-    <word original="其" calque="its"/>
-    <word original="政" calque="governance"/>
-    <word original="察察" calque="scrutinizing"/>
+<line commentary="What happens when governance becomes too sharp-eyed, too controlling?">
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="政" pinyin="zhèng" calque="governance"/>
+    <word original="察" pinyin="chá" calque="scrutinize"/>
+    <word original="察" pinyin="chá" calque="scrutinize"/>
 </line>
 
-<line commentary="How might excessive scrutiny affect people's behavior?">
-    <word original="其" calque="its"/>
-    <word original="民" calque="people"/>
-    <word original="缺缺" calque="lacking-deficient"/>
+<line commentary="How might excessive control lead to deficiency in the people?">
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="民" pinyin="mín" calque="people"/>
+    <word original="缺" pinyin="quē" calque="lacking"/>
+    <word original="缺" pinyin="quē" calque="lacking"/>
 </line>
 
-<line commentary="Consider how fortune and misfortune lean on each other like back-to-back chairs">
-    <word original="禍" calque="misfortune"/>
-    <word original="兮" calque="ah"/>
-    <word original="福" calque="fortune"/>
-    <word original="之" calque="'s"/>
-    <word original="所" calque="place"/>
-    <word original="倚" calque="lean"/>
-    <word original="." calque="."/>
+<line commentary="Misfortune leans against fortune - what might this proximity suggest?">
+    <word original="禍" pinyin="huō" calque="misfortune"/>
+    <word original="兮" pinyin="xī" calque="ah"/>
+    <word original="福" pinyin="fú" calque="fortune"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="所" pinyin="suǒ" calque="place"/>
+    <word original="倚" pinyin="yǐ" calque="lean"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="福" calque="fortune"/>
-    <word original="兮" calque="ah"/>
-    <word original="禍" calque="misfortune"/>
-    <word original="之" calque="'s"/>
-    <word original="所" calque="place"/>
-    <word original="伏" calque="hide"/>
+<line commentary="Fortune conceals misfortune - how might this hidden relationship shape our understanding of good fortune?">
+    <word original="福" pinyin="fú" calque="fortune"/>
+    <word original="兮" pinyin="xī" calque="ah"/>
+    <word original="禍" pinyin="huō" calque="misfortune"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="所" pinyin="suǒ" calque="place"/>
+    <word original="伏" pinyin="fú" calque="hide"/>
 </line>
 
-<line commentary="Who indeed can know the limits of this cycle?">
-    <word original="孰" calque="who"/>
-    <word original="知" calque="know"/>
-    <word original="其" calque="its"/>
-    <word original="極" calque="limit"/>
+<line commentary="Who can know the limit - where one transforms into the other?">
+    <word original="孰" pinyin="shú" calque="who"/>
+    <word original="知" pinyin="zhī" calque="know"/>
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="極" pinyin="jí" calque="limit"/>
 </line>
 
-<line>
-    <word original="其" calque="it"/>
-    <word original="無" calque="not-have"/>
-    <word original="正" calque="correct"/>
-    <word original="." calque="."/>
+<line commentary="Consider how the absence of the normal might itself become a pattern.">
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="無" pinyin="wú" calque="without"/>
+    <word original="正" pinyin="zhèng" calque="normal"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Watch how 'correct' transforms into 'strange' - nothing stays fixed">
-    <word original="正" calque="correct"/>
-    <word original="復" calque="return"/>
-    <word original="為" calque="become"/>
-    <word original="奇" calque="strange"/>
+<line commentary="Watch how the normal transforms into the strange - is this transformation itself normal?">
+    <word original="正" pinyin="zhèng" calque="normal"/>
+    <word original="復" pinyin="fù" calque="return"/>
+    <word original="為" pinyin="wéi" calque="become"/>
+    <word original="奇" pinyin="qí" calque="strange"/>
 </line>
 
-<line>
-    <word original="善" calque="good"/>
-    <word original="復" calque="return"/>
-    <word original="為" calque="become"/>
-    <word original="妖" calque="evil"/>
+<line commentary="How might goodness itself become monstrous?">
+    <word original="善" pinyin="shàn" calque="good"/>
+    <word original="復" pinyin="fù" calque="return"/>
+    <word original="為" pinyin="wéi" calque="become"/>
+    <word original="妖" pinyin="yāo" calque="evil"/>
 </line>
 
-<line>
-    <word original="人" calque="people"/>
-    <word original="之" calque="'s"/>
-    <word original="迷" calque="confusion"/>
-    <word original="." calque="."/>
+<line commentary="People's confusion - a statement or a lament?">
+    <word original="人" pinyin="rén" calque="person"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="迷" pinyin="mí" calque="lost"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="其" calque="its"/>
-    <word original="日" calque="days"/>
-    <word original="固" calque="indeed"/>
-    <word original="久" calque="long"/>
+<line commentary="Time solidifies confusion - what might this suggest about our certainties?">
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="日" pinyin="rì" calque="days"/>
+    <word original="固" pinyin="gù" calque="indeed"/>
+    <word original="久" pinyin="jiǔ" calque="long"/>
 </line>
 
-<line commentary="Here begins the sage's response to all this chaos">
-    <word original="是" calque="this"/>
-    <word original="以" calque="therefore"/>
-    <word original="聖" calque="sage"/>
-    <word original="人" calque="person"/>
+<line commentary="What qualities mark the sage's approach?">
+    <word original="是" pinyin="shì" calque="this"/>
+    <word original="以" pinyin="yǐ" calque="therefore"/>
+    <word original="聖" pinyin="shèng" calque="sage"/>
+    <word original="人" pinyin="rén" calque="person"/>
 </line>
 
-<line commentary="The final sections use parallel structure to show balanced action">
-    <word original="方" calque="square"/>
-    <word original="而" calque="but"/>
-    <word original="不" calque="not"/>
-    <word original="割" calque="cut"/>
+<line commentary="Square without cutting - how might this paradox guide action?">
+    <word original="方" pinyin="fāng" calque="square"/>
+    <word original="而" pinyin="ér" calque="yet"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="割" pinyin="gē" calque="cut"/>
 </line>
 
-<line>
-    <word original="廉" calque="sharp"/>
-    <word original="而" calque="but"/>
-    <word original="不" calque="not"/>
-    <word original="劌" calque="pierce"/>
+<line commentary="Sharp without piercing - what kind of strength might this suggest?">
+    <word original="廉" pinyin="lián" calque="sharp"/>
+    <word original="而" pinyin="ér" calque="yet"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="劌" pinyin="guì" calque="pierce"/>
 </line>
 
-<line>
-    <word original="直" calque="straight"/>
-    <word original="而" calque="but"/>
-    <word original="不" calque="not"/>
-    <word original="肆" calque="unrestrained"/>
+<line commentary="Straight without excess - how might restraint enhance directness?">
+    <word original="直" pinyin="zhí" calque="straight"/>
+    <word original="而" pinyin="ér" calque="yet"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="肆" pinyin="sì" calque="unrestrained"/>
 </line>
 
-<line>
-    <word original="光" calque="bright"/>
-    <word original="而" calque="but"/>
-    <word original="不" calque="not"/>
-    <word original="燿" calque="dazzle"/>
+<line commentary="Bright without dazzling - what wisdom lies in this measured radiance?">
+    <word original="光" pinyin="guāng" calque="bright"/>
+    <word original="而" pinyin="ér" calque="yet"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="燿" pinyin="yào" calque="dazzle"/>
 </line>
 </chapter>

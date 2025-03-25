@@ -1,5 +1,5 @@
 <chapter number="67">
-  <line commentary="The opening presents a paradox: everyone considers the Dao great, yet it seems unlike conventional greatness. Consider how true greatness might differ from what most people recognize as 'great.'">
+  <line commentary="A mysterious empty space invites us to consider what greatness might consist of when recognized by all yet unnamed.">
     <word original="天" calque="heaven" pinyin="tiān"/>
     <word original="下" calque="below" pinyin="xià"/>
     <word original="皆" calque="all" pinyin="jiē"/>
@@ -8,12 +8,12 @@
     <word original="__" calque="__" pinyin="__"/>
     <word original="大" calque="great" pinyin="dà"/>
   </line>
-  <line>
+  <line commentary="What happens when something doesn't match the expected pattern? A tension between appearance and essence emerges.">
     <word original="似" calque="seems" pinyin="sì"/>
     <word original="不" calque="not" pinyin="bù"/>
     <word original="肖" calque="resemble" pinyin="xiào"/>
   </line>
-  <line commentary="A striking paradox: it is precisely by being 'unlike' (不肖) that the Dao achieves true greatness. The character 肖 suggests resemblance or conformity - what might it mean to achieve greatness by not conforming?">
+  <line commentary="The bracketed addition suggests textual uncertainty - what power might lie in deliberate non-conformity?">
     <word original="(.)夫" calque="(.)indeed" pinyin="fú"/>
     <word original="唯" calque="only" pinyin="wéi"/>
     <word original="(不" calque="(not" pinyin="bù"/>
@@ -23,12 +23,12 @@
     <word original="(大)" calque="(great)" pinyin="dà"/>
     <word original="." calque="." pinyin="." punctuation="true"/>
   </line>
-  <line>
+  <line commentary="A hypothetical alternative introduces consequences - what happens when we try too hard to fit in?">
     <word original="若" calque="if" pinyin="ruò"/>
     <word original="肖" calque="resemble" pinyin="xiào"/>
     <word original="." calque="." pinyin="." punctuation="true"/>
   </line>
-  <line>
+  <line commentary="Time reveals what conformity produces - a gradual diminishment echoes through this poetic observation.">
     <word original="久" calque="long" pinyin="jiǔ"/>
     <word original="矣" calque="already" pinyin="yǐ"/>
     <word original="其" calque="its" pinyin="qí"/>
@@ -36,32 +36,32 @@
     <word original="也" calque="indeed" pinyin="yě"/>
     <word original="(.)" calque="(.)" pinyin="(.)" punctuation="true"/>
   </line>
-  <line commentary="Here begins the introduction to the 'three treasures' (三寶) - core Daoist virtues that challenge conventional values. These treasures are cherished and protected (持而保之).">
+  <line commentary="A shift to first-person voice signals personal revelation - what might these treasures represent in contrast to worldly valuables?">
     <word original="(.)夫" calque="(.)indeed" pinyin="fú"/>
     <word original="我" calque="I" pinyin="wǒ"/>
     <word original="有" calque="have" pinyin="yǒu"/>
     <word original="三" calque="three" pinyin="sān"/>
     <word original="寶" calque="treasures" pinyin="bǎo"/>
   </line>
-  <line>
+  <line commentary="These treasures require active protection - suggesting both preciousness and vulnerability in a world that might not value them.">
     <word original="持" calque="hold" pinyin="chí"/>
     <word original="而" calque="and" pinyin="ér"/>
     <word original="保" calque="protect" pinyin="bǎo"/>
     <word original="之" calque="them" pinyin="zhī"/>
     <word original="." calque="." pinyin="." punctuation="true"/>
   </line>
-  <line commentary="The first treasure: compassion (慈). In a world that often values strength and domination, the text elevates gentleness as a primary virtue. What kind of strength might emerge from compassion?">
+  <line commentary="The first treasure emerges - a quality often associated with maternal tenderness and selfless care.">
     <word original="一" calque="first" pinyin="yī"/>
     <word original="曰" calque="called" pinyin="yuē"/>
     <word original="慈" calque="compassion" pinyin="cí"/>
     <word original="." calque="." pinyin="." punctuation="true"/>
   </line>
-  <line>
+  <line commentary="The second treasure appears - what virtue might lie in restraint rather than excess?">
     <word original="二" calque="second" pinyin="èr"/>
     <word original="曰" calque="called" pinyin="yuē"/>
     <word original="儉" calque="frugal" pinyin="jiǎn"/>
   </line>
-  <line>
+  <line commentary="The third treasure completes the triad - reluctance to push ahead stands in stark contrast to ambition and competition.">
     <word original="三" calque="third" pinyin="sān"/>
     <word original="曰" calque="called" pinyin="yuē"/>
     <word original="不" calque="not" pinyin="bù"/>
@@ -71,19 +71,19 @@
     <word original="下" calque="below" pinyin="xià"/>
     <word original="先" calque="first" pinyin="xiān"/>
   </line>
-  <line commentary="Now begins a series of paradoxical relationships. How can compassion lead to courage? Perhaps true courage comes not from aggression but from caring deeply enough to act despite risk.">
+  <line commentary="A startling inversion - could the gentle quality named first actually birth its seeming opposite?">
     <word original="慈" calque="compassion" pinyin="cí"/>
     <word original="故" calque="therefore" pinyin="gù"/>
     <word original="能" calque="can" pinyin="néng"/>
     <word original="勇" calque="brave" pinyin="yǒng"/>
   </line>
-  <line>
+  <line commentary="Another paradox - how might restraint lead to abundance rather than scarcity?">
     <word original="儉" calque="frugal" pinyin="jiǎn"/>
     <word original="故" calque="therefore" pinyin="gù"/>
     <word original="能" calque="can" pinyin="néng"/>
     <word original="廣" calque="expansive" pinyin="guǎng"/>
   </line>
-  <line>
+  <line commentary="The third treasure's power repeats the formula - yielding priority produces unexpected results.">
     <word original="不" calque="not" pinyin="bù"/>
     <word original="敢" calque="dare" pinyin="gǎn"/>
     <word original="為" calque="act-as" pinyin="wéi"/>
@@ -91,7 +91,7 @@
     <word original="下" calque="below" pinyin="xià"/>
     <word original="先" calque="first" pinyin="xiān"/>
   </line>
-  <line commentary="Being last enables one to become a 'vessel chief' (器長). This paradoxical leadership emerges from humility rather than self-promotion. How might stepping back actually enable one to lead more effectively?">
+  <line commentary="An enigmatic outcome emerges - what kind of leadership or mastery might the humble achieve?">
     <word original="(.)故" calque="(.)therefore" pinyin="gù"/>
     <word original="能" calque="can" pinyin="néng"/>
     <word original="成" calque="become" pinyin="chéng"/>
@@ -99,7 +99,7 @@
     <word original="長" calque="chief" pinyin="zhǎng"/>
     <word original="." calque="." pinyin="." punctuation="true"/>
   </line>
-  <line commentary="The text now warns against abandoning these treasures. The structure '舍X且Y' (abandon X and adopt Y) shows the temptation to revert to conventional values - with fatal consequences.">
+  <line commentary="The pattern shifts to warning - notice how abandonment pairs with apparent pursuit of the very quality that naturally emerges from the treasure.">
     <word original="今" calque="now" pinyin="jīn"/>
     <word original="舍" calque="abandon" pinyin="shě"/>
     <word original="慈" calque="compassion" pinyin="cí"/>
@@ -107,24 +107,24 @@
     <word original="勇" calque="brave" pinyin="yǒng"/>
     <word original="." calque="." pinyin="." punctuation="true"/>
   </line>
-  <line>
+  <line commentary="The parallel structure continues - each treasure abandoned for what appears to be its fruit, yet cannot be directly pursued.">
     <word original="舍" calque="abandon" pinyin="shě"/>
     <word original="儉" calque="frugal" pinyin="jiǎn"/>
     <word original="且" calque="and" pinyin="qiě"/>
     <word original="廣" calque="expansive" pinyin="guǎng"/>
   </line>
-  <line>
+  <line commentary="The final member of the triad completes the pattern - what irony in trying to force what would come naturally through its opposite?">
     <word original="舍" calque="abandon" pinyin="shě"/>
     <word original="後" calque="behind" pinyin="hòu"/>
     <word original="且" calque="and" pinyin="qiě"/>
     <word original="先" calque="ahead" pinyin="xiān"/>
   </line>
-  <line>
+  <line commentary="A stark single-character consequence - the brevity underscores its gravity.">
     <word original="死" calque="death" pinyin="sǐ"/>
     <word original="矣" calque="indeed" pinyin="yǐ"/>
     <word original="(.)" calque="(.)" pinyin="(.)" punctuation="true"/>
   </line>
-  <line commentary="The chapter concludes by demonstrating the practical power of compassion in conflict. Rather than seeing compassion as weakness in battle, it becomes the source of victory and protection.">
+  <line commentary="A surprising application appears - could the gentlest virtue succeed even in conflict's harshest realm?">
     <word original="(.)夫" calque="(.)indeed" pinyin="fú"/>
     <word original="慈" calque="compassion" pinyin="cí"/>
     <word original="以" calque="by-means-of" pinyin="yǐ"/>
@@ -132,19 +132,19 @@
     <word original="則" calque="then" pinyin="zé"/>
     <word original="勝" calque="victory" pinyin="shèng"/>
   </line>
-  <line>
+  <line commentary="The military metaphor continues - what strength might softness provide for protection?">
     <word original="以" calque="by-means-of" pinyin="yǐ"/>
     <word original="守" calque="defend" pinyin="shǒu"/>
     <word original="則" calque="then" pinyin="zé"/>
     <word original="固" calque="firm" pinyin="gù"/>
   </line>
-  <line>
+  <line commentary="Cosmic forces enter the equation - what alignment with natural principles might this suggest?">
     <word original="天" calque="heaven" pinyin="tiān"/>
     <word original="將" calque="will" pinyin="jiāng"/>
     <word original="救" calque="save" pinyin="jiù"/>
     <word original="之" calque="them" pinyin="zhī"/>
   </line>
-  <line commentary="The final line suggests divine protection for those who embody compassion. The character 衛 (to guard) implies active protection, not just passive safety - suggesting that the universe itself supports those who embrace these paradoxical values.">
+  <line commentary="The chapter closes with divine protection - perhaps the universe itself supports those who embody certain principles?">
     <word original="以" calque="by-means-of" pinyin="yǐ"/>
     <word original="慈" calque="compassion" pinyin="cí"/>
     <word original="衛" calque="guard" pinyin="wèi"/>

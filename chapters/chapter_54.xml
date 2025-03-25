@@ -1,119 +1,134 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="54">
-<line commentary="Consider: What makes a building last? Is it the height of its walls or the depth of its foundations?">
-    <word original="善" calque="good-at"/>
-    <word original="建" calque="build"/>
-    <word original="者" calque="one-who"/>
-    <word original="不" calque="not"/>
-    <word original="拔" calque="uproot"/>
+<line commentary="What kind of foundation persists? Consider how 善 'skill' pairs with 不 'not' to suggest mastery through negation.">
+    <word original="善" calque="skilled" pinyin="shàn"/>
+    <word original="建" calque="build" pinyin="jiàn"/>
+    <word original="者" calque="one-who" pinyin="zhě"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="拔" calque="uproot" pinyin="bá"/>
 </line>
-<line commentary="What is truly held cannot be lost. Think of how a baby naturally grips its parent's finger.">
-    <word original="善" calque="good-at"/>
-    <word original="抱" calque="embrace"/>
-    <word original="者" calque="one-who"/>
-    <word original="不" calque="not"/>
-    <word original="脫" calque="slip-away"/>
+
+<line commentary="The embrace that doesn't constrain—what wisdom lies in gentle holding?">
+    <word original="善" calque="skilled" pinyin="shàn"/>
+    <word original="抱" calque="embrace" pinyin="bào"/>
+    <word original="者" calque="one-who" pinyin="zhě"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="脫" calque="slip-away" pinyin="tuō"/>
 </line>
-<line commentary="Continuity through generations - how does regular practice create lasting impact?">
-    <word original="子孫" calque="descendants"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="祭祀" calque="ancestral-offerings"/>
-    <word original="不" calque="not"/>
-    <word original="輟" calque="cease"/>
+
+<line commentary="Continuity through generations—how does unbroken practice create lasting power?">
+    <word original="子" calque="children" pinyin="zǐ"/>
+    <word original="孫" calque="grandchildren" pinyin="sūn"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="祭祀" calque="ancestral-offerings" pinyin="jìsì"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="輟" calque="cease" pinyin="chuò"/>
 </line>
-<line commentary="Truth emerges from self-cultivation. What makes virtue 'real'?">
-    <word original="修" calque="cultivate"/>
-    <word original="之" calque="it"/>
-    <word original="__" calque="..."/>
-    <word original="身" calque="self"/>
-    <word original="其" calque="its"/>
-    <word original="德" calque="virtue"/>
-    <word original="乃" calque="then"/>
-    <word original="(眞)" calque="(true)"/>
+
+<line commentary="The first level of cultivation—what makes virtue 'true'?">
+    <word original="修" calque="cultivate" pinyin="xiū"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="__" calque="..." pinyin=""/>
+    <word original="身" calque="body" pinyin="shēn"/>
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="德" calque="virtue" pinyin="dé"/>
+    <word original="乃" calque="then" pinyin="nǎi"/>
+    <word original="(眞)" calque="(true)" pinyin="zhēn"/>
 </line>
-<line>
-    <word original="修" calque="cultivate"/>
-    <word original="之" calque="it"/>
-    <word original="__" calque="..."/>
-    <word original="家" calque="family"/>
-    <word original="其" calque="its"/>
-    <word original="德" calque="virtue"/>
-    <word original="乃" calque="then"/>
-    <word original="餘" calque="overflow"/>
+
+<line commentary="From personal to familial—how does virtue overflow?">
+    <word original="修" calque="cultivate" pinyin="xiū"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="__" calque="..." pinyin=""/>
+    <word original="家" calque="family" pinyin="jiā"/>
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="德" calque="virtue" pinyin="dé"/>
+    <word original="乃" calque="then" pinyin="nǎi"/>
+    <word original="餘" calque="surplus" pinyin="yú"/>
 </line>
-<line>
-    <word original="修" calque="cultivate"/>
-    <word original="之" calque="it"/>
-    <word original="__" calque="..."/>
-    <word original="鄉" calque="village"/>
-    <word original="其" calque="its"/>
-    <word original="德" calque="virtue"/>
-    <word original="乃" calque="then"/>
-    <word original="長" calque="endure"/>
+
+<line commentary="The village level—virtue growing in duration and reach.">
+    <word original="修" calque="cultivate" pinyin="xiū"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="__" calque="..." pinyin=""/>
+    <word original="鄉" calque="village" pinyin="xiāng"/>
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="德" calque="virtue" pinyin="dé"/>
+    <word original="乃" calque="then" pinyin="nǎi"/>
+    <word original="長" calque="long" pinyin="cháng"/>
 </line>
-<line>
-    <word original="修" calque="cultivate"/>
-    <word original="之" calque="it"/>
-    <word original="__" calque="..."/>
-    <word original="國" calque="country"/>
-    <word original="其" calque="its"/>
-    <word original="德" calque="virtue"/>
-    <word original="乃" calque="then"/>
-    <word original="豐" calque="abundant"/>
+
+<line commentary="At the state level—abundance emerges. What transforms quantity into quality?">
+    <word original="修" calque="cultivate" pinyin="xiū"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="__" calque="..." pinyin=""/>
+    <word original="國" calque="state" pinyin="guó"/>
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="德" calque="virtue" pinyin="dé"/>
+    <word original="乃" calque="then" pinyin="nǎi"/>
+    <word original="豐" calque="abundant" pinyin="fēng"/>
 </line>
-<line commentary="How does personal cultivation ultimately affect the whole world?">
-    <word original="修" calque="cultivate"/>
-    <word original="之" calque="it"/>
-    <word original="__" calque="..."/>
-    <word original="天下" calque="under-heaven"/>
-    <word original="其" calque="its"/>
-    <word original="德" calque="virtue"/>
-    <word original="乃" calque="then"/>
-    <word original="普" calque="universal"/>
+
+<line commentary="The ultimate expansion—virtue becomes universal. How does the particular become universal?">
+    <word original="修" calque="cultivate" pinyin="xiū"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="__" calque="..." pinyin=""/>
+    <word original="天下" calque="all-under-heaven" pinyin="tiānxià"/>
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="德" calque="virtue" pinyin="dé"/>
+    <word original="乃" calque="then" pinyin="nǎi"/>
+    <word original="普" calque="universal" pinyin="pǔ"/>
 </line>
-<line>
-    <word original="(.)故" calque="(therefore)"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="身" calque="self"/>
-    <word original="觀" calque="observe"/>
-    <word original="身" calque="self"/>
+
+<line commentary="The method of understanding revealed—observation beginning with self.">
+    <word original="(故)" calque="(therefore)" pinyin="gù"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="身" calque="body" pinyin="shēn"/>
+    <word original="觀" calque="observe" pinyin="guān"/>
+    <word original="身" calque="body" pinyin="shēn"/>
 </line>
-<line>
-    <word original="以" calque="by-means-of"/>
-    <word original="家" calque="family"/>
-    <word original="觀" calque="observe"/>
-    <word original="家" calque="family"/>
+
+<line commentary="Each level of observation builds upon the previous.">
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="家" calque="family" pinyin="jiā"/>
+    <word original="觀" calque="observe" pinyin="guān"/>
+    <word original="家" calque="family" pinyin="jiā"/>
 </line>
-<line>
-    <word original="以" calque="by-means-of"/>
-    <word original="鄉" calque="village"/>
-    <word original="觀" calque="observe"/>
-    <word original="鄉" calque="village"/>
+
+<line commentary="The pattern continues—what insights emerge from this layered perspective?">
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="鄉" calque="village" pinyin="xiāng"/>
+    <word original="觀" calque="observe" pinyin="guān"/>
+    <word original="鄉" calque="village" pinyin="xiāng"/>
 </line>
-<line>
-    <word original="以" calque="by-means-of"/>
-    <word original="國" calque="country"/>
-    <word original="觀" calque="observe"/>
-    <word original="國" calque="country"/>
+
+<line commentary="State as both subject and object of observation.">
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="國" calque="state" pinyin="guó"/>
+    <word original="觀" calque="observe" pinyin="guān"/>
+    <word original="國" calque="state" pinyin="guó"/>
 </line>
-<line>
-    <word original="以" calque="by-means-of"/>
-    <word original="天下" calque="under-heaven"/>
-    <word original="觀" calque="observe"/>
-    <word original="天下" calque="under-heaven"/>
+
+<line commentary="The culmination of perspective—what does it mean to observe the world through the world?">
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="天下" calque="all-under-heaven" pinyin="tiānxià"/>
+    <word original="觀" calque="observe" pinyin="guān"/>
+    <word original="天下" calque="all-under-heaven" pinyin="tiānxià"/>
 </line>
-<line commentary="Can understanding of the largest things come from understanding the smallest?">
-    <word original="吾" calque="I"/>
-    <word original="何" calque="how"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="知" calque="know"/>
-    <word original="天下" calque="under-heaven"/>
-    <word original="然" calque="thus"/>
-    <word original="哉" calque="indeed"/>
-    <word original="(.)" calque="(.)"/>
+
+<line commentary="A profound question of knowledge—how do we know what we know?">
+    <word original="吾" calque="I" pinyin="wú"/>
+    <word original="何" calque="how" pinyin="hé"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="知" calque="know" pinyin="zhī"/>
+    <word original="天下" calque="all-under-heaven" pinyin="tiānxià"/>
+    <word original="然" calque="so" pinyin="rán"/>
+    <word original="哉" calque="indeed" pinyin="zāi"/>
+    <word original="(.)" calque="(.)" pinyin=""/>
 </line>
-<line commentary="The answer lies in what came before. What is 'this'?">
-    <word original="以" calque="by-means-of"/>
-    <word original="此" calque="this"/>
+
+<line commentary="The final answer points back to the method itself—what mysteries does this circularity contain?">
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="此" calque="this" pinyin="cǐ"/>
 </line>
 </chapter>

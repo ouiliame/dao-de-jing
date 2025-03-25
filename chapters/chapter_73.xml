@@ -1,111 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="73">
-<line commentary="Consider: What makes an action truly brave?">
-    <word original="." calque="." punctuation="true"/>
-    <word original="勇" calque="brave"/>
-    <word original="於" calque="in"/>
-    <word original="敢" calque="dare"/>
+<line commentary="A stark beginning that challenges our understanding of courage. What does it mean to be brave in daring?">
+    <word original="." calque="." pinyin="." punctuation="true"/>
+    <word original="勇" calque="brave" pinyin="yǒng"/>
+    <word original="於" calque="in" pinyin="yú"/>
+    <word original="敢" calque="dare" pinyin="gǎn"/>
 </line>
 
-<line commentary="A stark consequence that makes us question: Is daring always wise?">
-    <word original="則" calque="then"/>
-    <word original="殺" calque="kill"/>
+<line commentary="The shortest line carries the heaviest consequence. Notice how the brevity amplifies its weight.">
+    <word original="則" calque="then" pinyin="zé"/>
+    <word original="殺" calque="kill" pinyin="shā"/>
 </line>
 
-<line>
-    <word original="勇" calque="brave"/>
-    <word original="於" calque="in"/>
-    <word original="不" calque="not"/>
-    <word original="敢" calque="dare"/>
+<line commentary="A paradox emerges - can one be brave in not daring? What kind of courage is this?">
+    <word original="勇" calque="brave" pinyin="yǒng"/>
+    <word original="於" calque="in" pinyin="yú"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="敢" calque="dare" pinyin="gǎn"/>
 </line>
 
-<line>
-    <word original="則" calque="then"/>
-    <word original="活" calque="live"/>
+<line commentary="Life emerges from restraint - what wisdom lies in knowing when not to act?">
+    <word original="則" calque="then" pinyin="zé"/>
+    <word original="活" calque="live" pinyin="huó"/>
 </line>
 
-<line commentary="How often do we mistake benefit for harm, and harm for benefit?">
-    <word original="此" calque="these"/>
-    <word original="兩" calque="two"/>
-    <word original="者" calque="ones"/>
-    <word original="或" calque="perhaps"/>
-    <word original="利" calque="benefit"/>
-    <word original="或" calque="perhaps"/>
-    <word original="害" calque="harm"/>
+<line commentary="A contemplation of duality - how do benefit and harm intertwine?">
+    <word original="此" calque="these" pinyin="cǐ"/>
+    <word original="兩" calque="two" pinyin="liǎng"/>
+    <word original="者" calque="ones" pinyin="zhě"/>
+    <word original="或" calque="perhaps" pinyin="huò"/>
+    <word original="利" calque="benefit" pinyin="lì"/>
+    <word original="或" calque="perhaps" pinyin="huò"/>
+    <word original="害" calque="harm" pinyin="hài"/>
 </line>
 
-<line commentary="Even heaven's preferences remain mysterious to us. Why?">
-    <word original="天" calque="heaven"/>
-    <word original="之" calque="'s"/>
-    <word original="所" calque="that-which"/>
-    <word original="惡" calque="hate"/>
-    <word original="孰" calque="who"/>
-    <word original="知" calque="know"/>
-    <word original="其" calque="its"/>
-    <word original="故" calque="reason"/>
+<line commentary="Even heaven's dislikes remain mysterious - what lies beyond human understanding?">
+    <word original="天" calque="heaven" pinyin="tiān"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="所" calque="that-which" pinyin="suǒ"/>
+    <word original="惡" calque="dislike" pinyin="wù"/>
+    <word original="孰" calque="who" pinyin="shú"/>
+    <word original="知" calque="knows" pinyin="zhī"/>
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="故" calque="reason" pinyin="gù"/>
 </line>
 
-<line commentary="If even the sage finds this difficult, what hope have we? Or is that the point?">
-    <word original="是" calque="this"/>
-    <word original="以" calque="therefore"/>
-    <word original="聖" calque="sage"/>
-    <word original="人" calque="person"/>
-    <word original="猶" calque="still"/>
-    <word original="難" calque="difficult"/>
-    <word original="之" calque="it"/>
+<line commentary="Even the sage approaches with difficulty - what does this reveal about certainty?">
+    <word original="是" calque="thus" pinyin="shì"/>
+    <word original="以" calque="therefore" pinyin="yǐ"/>
+    <word original="聖" calque="sage" pinyin="shèng"/>
+    <word original="人" calque="person" pinyin="rén"/>
+    <word original="猶" calque="still" pinyin="yóu"/>
+    <word original="難" calque="difficult" pinyin="nán"/>
+    <word original="之" calque="it" pinyin="zhī"/>
 </line>
 
-<line>
-    <word original="天" calque="heaven"/>
-    <word original="之" calque="'s"/>
-    <word original="道" calque="the Dao"/>
+<line commentary="The way of heaven is introduced - notice how it sets up the following paradoxes.">
+    <word original="天" calque="heaven" pinyin="tiān"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="道" calque="way" pinyin="dào"/>
 </line>
 
-<line commentary="How does non-striving lead to victory?">
-    <word original="不" calque="not"/>
-    <word original="爭" calque="compete"/>
-    <word original="而" calque="yet"/>
-    <word original="善" calque="good-at"/>
-    <word original="勝" calque="victory"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Victory without struggle - can you feel the lightness in these words?">
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="爭" calque="compete" pinyin="zhēng"/>
+    <word original="而" calque="yet" pinyin="ér"/>
+    <word original="善" calque="good-at" pinyin="shàn"/>
+    <word original="勝" calque="victory" pinyin="shèng"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="不" calque="not"/>
-    <word original="言" calque="speak"/>
-    <word original="而" calque="yet"/>
-    <word original="善" calque="good-at"/>
-    <word original="應" calque="respond"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Response without speech - what kind of communication transcends words?">
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="言" calque="speak" pinyin="yán"/>
+    <word original="而" calque="yet" pinyin="ér"/>
+    <word original="善" calque="good-at" pinyin="shàn"/>
+    <word original="應" calque="respond" pinyin="yìng"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="不" calque="not"/>
-    <word original="召" calque="summon"/>
-    <word original="而" calque="yet"/>
-    <word original="自" calque="self"/>
-    <word original="來" calque="come"/>
+<line commentary="Spontaneous arrival - what power lies in not seeking?">
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="召" calque="summon" pinyin="zhào"/>
+    <word original="而" calque="yet" pinyin="ér"/>
+    <word original="自" calque="self" pinyin="zì"/>
+    <word original="來" calque="come" pinyin="lái"/>
 </line>
 
-<line>
-    <word original="繟" calque="slow"/>
-    <word original="然" calque="thus"/>
-    <word original="而" calque="yet"/>
-    <word original="善" calque="good-at"/>
-    <word original="謀" calque="plan"/>
+<line commentary="Careful planning within apparent ease - can you sense the hidden mastery?">
+    <word original="繟" calque="slow" pinyin="chān"/>
+    <word original="然" calque="thus" pinyin="rán"/>
+    <word original="而" calque="yet" pinyin="ér"/>
+    <word original="善" calque="good-at" pinyin="shàn"/>
+    <word original="謀" calque="plan" pinyin="móu"/>
 </line>
 
-<line commentary="Like a fisher's net - does catching everything require tight mesh?">
-    <word original="天" calque="heaven"/>
-    <word original="網" calque="net"/>
-    <word original="恢" calque="vast"/>
-    <word original="恢" calque="vast"/>
+<line commentary="The net of heaven appears - vast beyond measure, yet precisely crafted.">
+    <word original="天" calque="heaven" pinyin="tiān"/>
+    <word original="網" calque="net" pinyin="wǎng"/>
+    <word original="恢" calque="vast" pinyin="huī"/>
+    <word original="恢" calque="vast" pinyin="huī"/>
 </line>
 
-<line commentary="A profound paradox: How can looseness ensure nothing is lost?">
-    <word original="疏" calque="loose"/>
-    <word original="而" calque="yet"/>
-    <word original="不" calque="not"/>
-    <word original="失" calque="lose"/>
+<line commentary="A final paradox - how can looseness ensure nothing is lost? What might this reveal about control?">
+    <word original="疏" calque="loose" pinyin="shū"/>
+    <word original="而" calque="yet" pinyin="ér"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="失" calque="lose" pinyin="shī"/>
 </line>
 </chapter>

@@ -1,114 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="66">
-<line commentary="Consider: Why does Chinese philosophy so often use water as metaphor for wisdom?">
-    <word original="江海" calque="rivers-and-seas"/>
-    <word original="所以" calque="reason-that"/>
-    <word original="能" calque="able"/>
-    <word original="為" calque="become"/>
-    <word original="百谷" calque="hundred-valleys"/>
-    <word original="王" calque="king"/>
-    <word original="者" calque="one-who"/>
+<line commentary="Consider how rivers and seas command such power - is it through force, or through their nature of flowing downward?">
+    <word original="江" pinyin="jiāng" calque="river"/>
+    <word original="海" pinyin="hǎi" calque="sea"/>
+    <word original="所" pinyin="suǒ" calque="that-which"/>
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="能" pinyin="néng" calque="able"/>
+    <word original="為" pinyin="wéi" calque="become"/>
+    <word original="百" pinyin="bǎi" calque="hundred"/>
+    <word original="谷" pinyin="gǔ" calque="valleys"/>
+    <word original="王" pinyin="wáng" calque="king"/>
+    <word original="者" pinyin="zhě" calque="one-who"/>
 </line>
 
-<line commentary="Note how 'below' here isn't just physical position, but attitude">
-    <word original="以" calque="by-means-of"/>
-    <word original="其" calque="its"/>
-    <word original="善" calque="good-at"/>
-    <word original="下" calque="being-below"/>
-    <word original="之" calque="it"/>
-    <word original="." calque="."/>
+<line commentary="What wisdom lies in the downward flow of water? What power exists in choosing the lowest position?">
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="善" pinyin="shàn" calque="good-at"/>
+    <word original="下" pinyin="xià" calque="lower"/>
+    <word original="之" pinyin="zhī" calque="it"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="(.)故" calque="therefore"/>
-    <word original="能" calque="able"/>
-    <word original="為" calque="become"/>
-    <word original="百谷" calque="hundred-valleys"/>
-    <word original="王" calque="king"/>
+<line commentary="How does yielding to the low position create authority? What paradox emerges?">
+    <word original="(.)故" pinyin="gù" calque="(.)therefore"/>
+    <word original="能" pinyin="néng" calque="able"/>
+    <word original="為" pinyin="wéi" calque="become"/>
+    <word original="百" pinyin="bǎi" calque="hundred"/>
+    <word original="谷" pinyin="gǔ" calque="valleys"/>
+    <word original="王" pinyin="wáng" calque="king"/>
 </line>
 
-<line>
-    <word original="是以" calque="thus"/>
-    <word original="[聖人]" calque="[sage]"/>
+<line commentary="The sage appears - watch how their actions mirror the water's way.">
+    <word original="是" pinyin="shì" calque="this"/>
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="[聖" pinyin="shèng" calque="[sage"/>
+    <word original="人]" pinyin="rén" calque="person]"/>
 </line>
 
-<line commentary="Ponder: How does being 'below' the people elevate a leader?">
-    <word original="欲" calque="desire"/>
-    <word original="上" calque="above"/>
-    <word original="民" calque="people"/>
-    <word original="." calque="."/>
+<line commentary="A pattern emerges: desire for height met with conscious lowering. What transformation occurs in this reversal?">
+    <word original="欲" pinyin="yù" calque="desire"/>
+    <word original="上" pinyin="shàng" calque="above"/>
+    <word original="民" pinyin="mín" calque="people"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="必" calque="must"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="言" calque="words"/>
-    <word original="下" calque="lower"/>
-    <word original="之" calque="them"/>
+<line commentary="Words become a vehicle for humility - how might speech reveal true leadership?">
+    <word original="必" pinyin="bì" calque="must"/>
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="言" pinyin="yán" calque="words"/>
+    <word original="下" pinyin="xià" calque="lower"/>
+    <word original="之" pinyin="zhī" calque="them"/>
 </line>
 
-<line>
-    <word original="欲" calque="desire"/>
-    <word original="先" calque="before"/>
-    <word original="民" calque="people"/>
-    <word original="." calque="."/>
+<line commentary="Another paradox: leading by following. How does sequence relate to leadership?">
+    <word original="欲" pinyin="yù" calque="desire"/>
+    <word original="先" pinyin="xiān" calque="ahead"/>
+    <word original="民" pinyin="mín" calque="people"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Notice how the body itself becomes an instrument of leadership">
-    <word original="必" calque="must"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="身" calque="body"/>
-    <word original="後" calque="behind"/>
-    <word original="之" calque="them"/>
+<line commentary="Body and action align with words - what happens when leadership embodies this principle?">
+    <word original="必" pinyin="bì" calque="must"/>
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="身" pinyin="shēn" calque="body"/>
+    <word original="後" pinyin="hòu" calque="behind"/>
+    <word original="之" pinyin="zhī" calque="them"/>
 </line>
 
-<line>
-    <word original="是以" calque="thus"/>
-    <word original="聖人" calque="sage"/>
+<line commentary="The refrain returns - watch how principle becomes practice.">
+    <word original="是" pinyin="shì" calque="this"/>
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="聖" pinyin="shèng" calque="sage"/>
+    <word original="人" pinyin="rén" calque="person"/>
 </line>
 
-<line commentary="What makes a burden feel light?">
-    <word original="處" calque="dwell"/>
-    <word original="上" calque="above"/>
-    <word original="而" calque="yet"/>
-    <word original="民" calque="people"/>
-    <word original="不" calque="not"/>
-    <word original="重" calque="burden"/>
+<line commentary="What burden dissolves when authority flows like water?">
+    <word original="處" pinyin="chǔ" calque="dwell"/>
+    <word original="上" pinyin="shàng" calque="above"/>
+    <word original="而" pinyin="ér" calque="yet"/>
+    <word original="民" pinyin="mín" calque="people"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="重" pinyin="zhòng" calque="weight"/>
 </line>
 
-<line commentary="How does position without imposing create safety?">
-    <word original="處" calque="dwell"/>
-    <word original="前" calque="front"/>
-    <word original="而" calque="yet"/>
-    <word original="民" calque="people"/>
-    <word original="不" calque="not"/>
-    <word original="害" calque="harm"/>
+<line commentary="How does leading from behind protect both leader and led?">
+    <word original="處" pinyin="chǔ" calque="dwell"/>
+    <word original="前" pinyin="qián" calque="front"/>
+    <word original="而" pinyin="ér" calque="yet"/>
+    <word original="民" pinyin="mín" calque="people"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="害" pinyin="hài" calque="harm"/>
 </line>
 
-<line>
-    <word original="是以" calque="thus"/>
-    <word original="天下" calque="all-under-heaven"/>
-    <word original="樂" calque="joy"/>
-    <word original="推" calque="promote"/>
-    <word original="而" calque="yet"/>
-    <word original="不" calque="not"/>
-    <word original="厭" calque="weary"/>
+<line commentary="Joy in following emerges naturally - what creates this willing support?">
+    <word original="是" pinyin="shì" calque="this"/>
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="天" pinyin="tiān" calque="heaven"/>
+    <word original="下" pinyin="xià" calque="below"/>
+    <word original="樂" pinyin="lè" calque="joy"/>
+    <word original="推" pinyin="tuī" calque="support"/>
+    <word original="而" pinyin="ér" calque="yet"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="厭" pinyin="yàn" calque="weary"/>
 </line>
 
-<line>
-    <word original="以" calque="by-means-of"/>
-    <word original="其" calque="their"/>
-    <word original="不" calque="not"/>
-    <word original="爭" calque="compete"/>
+<line commentary="The profound power of non-contention reveals itself.">
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="其" pinyin="qí" calque="their"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="爭" pinyin="zhēng" calque="compete"/>
 </line>
 
-<line commentary="Consider: How does non-contention make one uncontestable?">
-    <word original="(.)故" calque="therefore"/>
-    <word original="天下" calque="all-under-heaven"/>
-    <word original="莫" calque="none"/>
-    <word original="能" calque="able"/>
-    <word original="與" calque="with"/>
-    <word original="之" calque="them"/>
-    <word original="爭" calque="compete"/>
+<line commentary="Like water finding its level, natural authority needs no defense.">
+    <word original="(.)故" pinyin="gù" calque="(.)therefore"/>
+    <word original="天" pinyin="tiān" calque="heaven"/>
+    <word original="下" pinyin="xià" calque="below"/>
+    <word original="莫" pinyin="mò" calque="none"/>
+    <word original="能" pinyin="néng" calque="able"/>
+    <word original="與" pinyin="yǔ" calque="with"/>
+    <word original="之" pinyin="zhī" calque="them"/>
+    <word original="爭" pinyin="zhēng" calque="compete"/>
 </line>
 </chapter>

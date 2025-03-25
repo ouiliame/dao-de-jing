@@ -1,118 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="56">
-<line commentary="A famous paradox: those who truly know don't speak of it. What kind of knowledge might this be?">
-    <word original="知" calque="know"/>
-    <word original="者" calque="one-who"/>
-    <word original="不" calque="not"/>
-    <word original="言" calque="speak"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="A profound paradox opens the chapter - what kind of knowing transcends the need for words?">
+    <word original="知" pinyin="zhī" calque="know"/>
+    <word original="者" pinyin="zhě" calque="one-who"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="言" pinyin="yán" calque="speak"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="The reverse statement completes the paradox. Consider: why might speaking indicate a lack of knowing?">
-    <word original="言" calque="speak"/>
-    <word original="者" calque="one-who"/>
-    <word original="不" calque="not"/>
-    <word original="知" calque="know"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="The mirror reflection completes the paradox - what happens when words and knowledge chase each other?">
+    <word original="言" pinyin="yán" calque="speak"/>
+    <word original="者" pinyin="zhě" calque="one-who"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="知" pinyin="zhī" calque="know"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="These actions describe a meditative state. What senses are being addressed?">
-    <word original="塞" calque="block"/>
-    <word original="其" calque="its"/>
-    <word original="兌" calque="opening"/>
-    <word original="閉" calque="close"/>
-    <word original="其" calque="its"/>
-    <word original="門" calque="gate"/>
+<line commentary="Physical actions mirror inner cultivation - what openings might need closing?">
+    <word original="塞" pinyin="sāi" calque="block"/>
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="兌" pinyin="duì" calque="opening"/>
+    <word original="閉" pinyin="bì" calque="close"/>
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="門" pinyin="mén" calque="gate"/>
 </line>
 
-<line commentary="'Sharp' here could refer to both mental and physical attributes. What needs dulling?">
-    <word original="挫" calque="blunt"/>
-    <word original="其" calque="its"/>
-    <word original="銳" calque="sharpness"/>
+<line commentary="What sharpness within ourselves requires blunting?">
+    <word original="挫" pinyin="cuò" calque="blunt"/>
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="銳" pinyin="ruì" calque="sharp"/>
 </line>
 
-<line>
-    <word original="解" calque="unravel"/>
-    <word original="其" calque="its"/>
-    <word original="紛" calque="tangles"/>
+<line commentary="Untangling knots - but what kind of knots are these?">
+    <word original="解" pinyin="jiě" calque="unravel"/>
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="紛" pinyin="fēn" calque="tangle"/>
 </line>
 
-<line commentary="Light here might represent distinction or discrimination. What happens when we harmonize it?">
-    <word original="和" calque="harmonize"/>
-    <word original="其" calque="its"/>
-    <word original="光" calque="light"/>
+<line commentary="Light that harmonizes rather than blinds - what might this suggest about our presence in the world?">
+    <word original="和" pinyin="hé" calque="harmonize"/>
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="光" pinyin="guāng" calque="light"/>
 </line>
 
-<line commentary="Dust represents the ordinary world. What does it mean to become one with it?">
-    <word original="同" calque="unite-with"/>
-    <word original="其" calque="its"/>
-    <word original="塵" calque="dust"/>
+<line commentary="Becoming one with the dust - is this descent or transcendence?">
+    <word original="同" pinyin="tóng" calque="unite"/>
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="塵" pinyin="chén" calque="dust"/>
 </line>
 
-<line commentary="'Dark unity' - a profound state beyond ordinary distinctions. Why 'dark'?">
-    <word original="是" calque="this"/>
-    <word original="謂" calque="called"/>
-    <word original="玄" calque="dark"/>
-    <word original="同" calque="unity"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="'Dark unity' - what mysteries might lie in perfect integration?">
+    <word original="是" pinyin="shì" calque="this"/>
+    <word original="謂" pinyin="wèi" calque="called"/>
+    <word original="玄" pinyin="xuán" calque="dark"/>
+    <word original="同" pinyin="tóng" calque="unity"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="(.)故" calque="therefore"/>
-    <word original="不" calque="not"/>
-    <word original="可" calque="can"/>
-    <word original="得" calque="be"/>
-    <word original="而" calque="and"/>
-    <word original="親" calque="intimate"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="A sequence of impossibilities begins - what freedom might lie in these limitations?">
+    <word original="(.)故" pinyin="gù" calque="(.)therefore"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="可" pinyin="kě" calque="can"/>
+    <word original="得" pinyin="dé" calque="obtain"/>
+    <word original="而" pinyin="ér" calque="and"/>
+    <word original="親" pinyin="qīn" calque="close"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="A series of opposites begins. Notice how each line follows the same pattern.">
-    <word original="不" calque="not"/>
-    <word original="可" calque="can"/>
-    <word original="得" calque="be"/>
-    <word original="而" calque="and"/>
-    <word original="疏" calque="distant"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Neither close nor distant - where does this leave us?">
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="可" pinyin="kě" calque="can"/>
+    <word original="得" pinyin="dé" calque="obtain"/>
+    <word original="而" pinyin="ér" calque="and"/>
+    <word original="疏" pinyin="shū" calque="distant"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="不" calque="not"/>
-    <word original="可" calque="can"/>
-    <word original="得" calque="be"/>
-    <word original="而" calque="and"/>
-    <word original="利" calque="benefit"/>
+<line commentary="Beyond gain and loss - what remains?">
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="可" pinyin="kě" calque="can"/>
+    <word original="得" pinyin="dé" calque="obtain"/>
+    <word original="而" pinyin="ér" calque="and"/>
+    <word original="利" pinyin="lì" calque="benefit"/>
 </line>
 
-<line>
-    <word original="不" calque="not"/>
-    <word original="可" calque="can"/>
-    <word original="得" calque="be"/>
-    <word original="而" calque="and"/>
-    <word original="害" calque="harm"/>
+<line commentary="Harm becomes impossible when advantage is abandoned - what protection is this?">
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="可" pinyin="kě" calque="can"/>
+    <word original="得" pinyin="dé" calque="obtain"/>
+    <word original="而" pinyin="ér" calque="and"/>
+    <word original="害" pinyin="hài" calque="harm"/>
 </line>
 
-<line>
-    <word original="不" calque="not"/>
-    <word original="可" calque="can"/>
-    <word original="得" calque="be"/>
-    <word original="而" calque="and"/>
-    <word original="貴" calque="value"/>
+<line commentary="Value and worthlessness - what lies beyond these judgments?">
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="可" pinyin="kě" calque="can"/>
+    <word original="得" pinyin="dé" calque="obtain"/>
+    <word original="而" pinyin="ér" calque="and"/>
+    <word original="貴" pinyin="guì" calque="precious"/>
 </line>
 
-<line>
-    <word original="不" calque="not"/>
-    <word original="可" calque="can"/>
-    <word original="得" calque="be"/>
-    <word original="而" calque="and"/>
-    <word original="賤" calque="despise"/>
+<line commentary="The paradox deepens - how does renouncing value create true worth?">
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="可" pinyin="kě" calque="can"/>
+    <word original="得" pinyin="dé" calque="obtain"/>
+    <word original="而" pinyin="ér" calque="and"/>
+    <word original="賤" pinyin="jiàn" calque="cheap"/>
 </line>
 
-<line commentary="A final paradox: true value comes from transcending value itself. How does this connect to the chapter's opening?">
-    <word original="(.)故" calque="therefore"/>
-    <word original="為" calque="become"/>
-    <word original="天下" calque="under-heaven"/>
-    <word original="貴" calque="precious"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="The final paradox - in transcending all values, true value emerges. How?">
+    <word original="(.)故" pinyin="gù" calque="(.)therefore"/>
+    <word original="為" pinyin="wéi" calque="become"/>
+    <word original="天" pinyin="tiān" calque="heaven"/>
+    <word original="下" pinyin="xià" calque="below"/>
+    <word original="貴" pinyin="guì" calque="precious"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 </chapter>

@@ -1,114 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="59">
-<line commentary="Notice how governance of people and affairs of heaven are paired - what might this suggest about the relationship between human and cosmic order?">
-    <word original="治" calque="govern"/>
-    <word original="人" calque="person"/>
-    <word original="事" calque="affairs"/>
-    <word original="天" calque="heaven"/>
+<line commentary="A profound opening that pairs human governance with cosmic alignment. What connection might exist between these two domains?">
+    <word original="治" calque="govern" pinyin="zhì"/>
+    <word original="人" calque="people" pinyin="rén"/>
+    <word original="事" calque="serve" pinyin="shì"/>
+    <word original="天" calque="heaven" pinyin="tiān"/>
 </line>
 
-<line commentary="莫若 creates a powerful comparative - 'nothing compares to...' - why might conservation be the highest principle?">
-    <word original="莫" calque="none"/>
-    <word original="若" calque="like"/>
-    <word original="嗇" calque="conserve" commentary="This character shows grain in a storehouse - think about what it means to store up energy or virtue"/>
+<line commentary="嗇 suggests both frugality and careful cultivation - what wisdom lies in this restraint?">
+    <word original="莫" calque="none" pinyin="mò"/>
+    <word original="若" calque="like" pinyin="ruò"/>
+    <word original="嗇" calque="conserve" pinyin="sè"/>
 </line>
 
-<line>
-    <word original="(." calque="(.)" punctuation="true"/>
-    <word original="夫" calque="indeed"/>
-    <word original="唯" calque="only"/>
-    <word original="嗇" calque="conserve"/>
+<line commentary="The particle 夫 often introduces a profound observation. What follows?">
+    <word original="(." calque="(.)" pinyin=""/>
+    <word original="夫" calque="indeed" pinyin="fū"/>
+    <word original="唯" calque="only" pinyin="wéi"/>
+    <word original="嗇" calque="conserve" pinyin="sè"/>
 </line>
 
-<line commentary="'Early submission' - but to what? Consider how timing relates to effortless action">
-    <word original="是" calque="this"/>
-    <word original="謂" calque="called"/>
-    <word original="早" calque="early"/>
-    <word original="服" calque="submit"/>
+<line commentary="Early submission - to what? Consider the multiple meanings of 服.">
+    <word original="是" calque="this" pinyin="shì"/>
+    <word original="謂" calque="called" pinyin="wèi"/>
+    <word original="早" calque="early" pinyin="zǎo"/>
+    <word original="服" calque="submit" pinyin="fú"/>
 </line>
 
-<line commentary="Notice how 重 (heavy/repeated) pairs with 積 (accumulate) - what kind of process is being described?">
-    <word original="早" calque="early"/>
-    <word original="服" calque="submit"/>
-    <word original="謂" calque="called"/>
-    <word original="之" calque="it"/>
-    <word original="重" calque="repeated"/>
-    <word original="積" calque="accumulate"/>
-    <word original="德" calque="virtue"/>
+<line commentary="A pivotal line linking early preparation with virtue accumulation. What relationship exists between timing and virtue?">
+    <word original="早" calque="early" pinyin="zǎo"/>
+    <word original="服" calque="submit" pinyin="fú"/>
+    <word original="謂" calque="called" pinyin="wèi"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="重" calque="repeated" pinyin="chóng"/>
+    <word original="積" calque="accumulate" pinyin="jī"/>
+    <word original="德" calque="virtue" pinyin="dé"/>
 </line>
 
-<line>
-    <word original="重" calque="repeated"/>
-    <word original="積" calque="accumulate"/>
-    <word original="德" calque="virtue"/>
+<line commentary="Notice how the previous line's end becomes this line's beginning - a poetic echo of accumulation.">
+    <word original="重" calque="repeated" pinyin="chóng"/>
+    <word original="積" calque="accumulate" pinyin="jī"/>
+    <word original="德" calque="virtue" pinyin="dé"/>
 </line>
 
-<line commentary="What can't be overcome when virtue is accumulated?">
-    <word original="則" calque="then"/>
-    <word original="無" calque="none"/>
-    <word original="不" calque="not"/>
-    <word original="克" calque="overcome"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="What can't be overcome when virtue accumulates? Consider the double negative.">
+    <word original="則" calque="then" pinyin="zé"/>
+    <word original="無" calque="nothing" pinyin="wú"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="克" calque="overcome" pinyin="kè"/>
+    <word original="." calque="." pinyin=""/>
 </line>
 
-<line>
-    <word original="無" calque="none"/>
-    <word original="不" calque="not"/>
-    <word original="克" calque="overcome"/>
+<line commentary="The cycle of overcoming continues - where does it lead?">
+    <word original="無" calque="nothing" pinyin="wú"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="克" calque="overcome" pinyin="kè"/>
 </line>
 
-<line commentary="When there are no limits, what becomes possible?">
-    <word original="則" calque="then"/>
-    <word original="莫" calque="none"/>
-    <word original="知" calque="know"/>
-    <word original="其" calque="its"/>
-    <word original="極" calque="limit"/>
+<line commentary="When limits become unknowable - is this liberation or challenge?">
+    <word original="則" calque="then" pinyin="zé"/>
+    <word original="莫" calque="none" pinyin="mò"/>
+    <word original="知" calque="know" pinyin="zhī"/>
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="極" calque="limit" pinyin="jí"/>
 </line>
 
-<line>
-    <word original="莫" calque="none"/>
-    <word original="知" calque="know"/>
-    <word original="其" calque="its"/>
-    <word original="極" calque="limit"/>
+<line commentary="The previous line repeats - what emphasis does this create?">
+    <word original="莫" calque="none" pinyin="mò"/>
+    <word original="知" calque="know" pinyin="zhī"/>
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="極" calque="limit" pinyin="jí"/>
 </line>
 
-<line>
-    <word original="可" calque="can"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="有" calque="possess"/>
-    <word original="國" calque="state"/>
+<line commentary="From limitlessness emerges governance - what paradox might this suggest?">
+    <word original="可" calque="can" pinyin="kě"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="有" calque="possess" pinyin="yǒu"/>
+    <word original="國" calque="state" pinyin="guó"/>
 </line>
 
-<line commentary="What does it mean for the state to have a 'mother'?">
-    <word original="有" calque="possess"/>
-    <word original="國" calque="state"/>
-    <word original="之" calque="'s"/>
-    <word original="母" calque="mother"/>
+<line commentary="The mother metaphor appears - what nurturing principle might this suggest for governance?">
+    <word original="有" calque="possess" pinyin="yǒu"/>
+    <word original="國" calque="state" pinyin="guó"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="母" calque="mother" pinyin="mǔ"/>
 </line>
 
-<line>
-    <word original="可" calque="can"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="長" calque="long"/>
-    <word original="久" calque="lasting"/>
+<line commentary="Duration emerges from proper foundation - what timeline does this suggest?">
+    <word original="可" calque="can" pinyin="kě"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="長" calque="long" pinyin="cháng"/>
+    <word original="久" calque="lasting" pinyin="jiǔ"/>
 </line>
 
-<line commentary="Deep roots and firm foundation - how does this relate to conservation?">
-    <word original="是" calque="this"/>
-    <word original="謂" calque="called"/>
-    <word original="深" calque="deep"/>
-    <word original="根" calque="root"/>
-    <word original="固" calque="firm"/>
-    <word original="柢" calque="foundation"/>
+<line commentary="The metaphor of roots appears - what grows from deep roots?">
+    <word original="是" calque="this" pinyin="shì"/>
+    <word original="謂" calque="called" pinyin="wèi"/>
+    <word original="深" calque="deep" pinyin="shēn"/>
+    <word original="根" calque="root" pinyin="gēn"/>
+    <word original="固" calque="firm" pinyin="gù"/>
+    <word original="柢" calque="foundation" pinyin="dǐ"/>
 </line>
 
-<line commentary="The final line connects personal cultivation with cosmic longevity - how are they related?">
-    <word original="長" calque="long"/>
-    <word original="生" calque="life"/>
-    <word original="久" calque="lasting"/>
-    <word original="視" calque="vision"/>
-    <word original="之" calque="'s"/>
-    <word original="道" calque="the Dao"/>
-    <word original=". ." calque=". ." punctuation="true"/>
+<line commentary="The chapter concludes with the way of endurance - how do the previous metaphors support this final image?">
+    <word original="長" calque="long" pinyin="cháng"/>
+    <word original="生" calque="life" pinyin="shēng"/>
+    <word original="久" calque="lasting" pinyin="jiǔ"/>
+    <word original="視" calque="vision" pinyin="shì"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="道" calque="way" pinyin="dào"/>
+    <word original="." calque="." pinyin=""/>
+    <word original="." calque="." pinyin=""/>
 </line>
 </chapter>

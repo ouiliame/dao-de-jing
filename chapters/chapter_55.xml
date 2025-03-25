@@ -1,141 +1,141 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="55">
-<line commentary="The opening introduces someone who embodies deep virtue - notice how 之 links 德 (virtue) with 厚 (thickness/depth)">
-    <word original="含" calque="contain"/>
-    <word original="德" calque="virtue"/>
-    <word original="之" calque="'s"/>
-    <word original="厚" calque="thick"/>
-    <word original="[者]" calque="[one-who]"/>
+<line commentary="What depth of virtue might be contained within something that appears simple and unrefined?">
+    <word original="含" pinyin="hán" calque="contain"/>
+    <word original="德" pinyin="dé" calque="virtue"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="厚" pinyin="hòu" calque="thick"/>
+    <word original="[者]" pinyin="zhě" calque="[one-who]"/>
 </line>
 
-<line commentary="A powerful simile comparing the virtuous to an infant. Why this comparison?">
-    <word original="比" calque="compare"/>
-    <word original="於" calque="to"/>
-    <word original="赤" calque="red"/>
-    <word original="子" calque="child"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="The infant - nature's purest expression. Why this comparison?">
+    <word original="比" pinyin="bǐ" calque="compare"/>
+    <word original="於" pinyin="yú" calque="to"/>
+    <word original="赤" pinyin="chì" calque="red"/>
+    <word original="子" pinyin="zǐ" calque="child"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="What power does an infant possess that dangerous creatures won't harm it?">
-    <word original="蜂" calque="bee"/>
-    <word original="蠆" calque="scorpion"/>
-    <word original="虺" calque="viper"/>
-    <word original="蛇" calque="snake"/>
-    <word original="不" calque="not"/>
-    <word original="螫" calque="sting"/>
+<line commentary="Consider: what makes these creatures spare the infant? Is it active protection or natural harmony?">
+    <word original="蜂" pinyin="fēng" calque="bee"/>
+    <word original="蠆" pinyin="chài" calque="scorpion"/>
+    <word original="虺" pinyin="huǐ" calque="viper"/>
+    <word original="蛇" pinyin="shé" calque="snake"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="螫" pinyin="shì" calque="sting"/>
 </line>
 
-<line>
-    <word original="猛" calque="fierce"/>
-    <word original="獸" calque="beast"/>
-    <word original="不" calque="not"/>
-    <word original="據" calque="seize"/>
+<line commentary="The paradox of defenselessness as protection begins to unfold.">
+    <word original="猛" pinyin="měng" calque="fierce"/>
+    <word original="獸" pinyin="shòu" calque="beast"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="據" pinyin="jù" calque="seize"/>
 </line>
 
-<line>
-    <word original="攫" calque="swooping"/>
-    <word original="鳥" calque="bird"/>
-    <word original="不" calque="not"/>
-    <word original="摶" calque="grab"/>
+<line commentary="A third instance of natural protection - what pattern emerges?">
+    <word original="攫" pinyin="jué" calque="swooping"/>
+    <word original="鳥" pinyin="niǎo" calque="bird"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="摶" pinyin="tuán" calque="grab"/>
 </line>
 
-<line commentary="A paradox: how can something weak have such a strong grip?">
-    <word original="骨" calque="bone"/>
-    <word original="弱" calque="weak"/>
-    <word original="筋" calque="sinew"/>
-    <word original="柔" calque="soft"/>
-    <word original="而" calque="yet"/>
-    <word original="握" calque="grip"/>
-    <word original="固" calque="firm"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="How can softness create firmness? A paradox to contemplate.">
+    <word original="骨" pinyin="gǔ" calque="bone"/>
+    <word original="弱" pinyin="ruò" calque="weak"/>
+    <word original="筋" pinyin="jīn" calque="sinew"/>
+    <word original="柔" pinyin="róu" calque="soft"/>
+    <word original="而" pinyin="ér" calque="yet"/>
+    <word original="握" pinyin="wò" calque="grip"/>
+    <word original="固" pinyin="gù" calque="firm"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="The mystery of vital essence - before conscious knowing">
-    <word original="未" calque="not-yet"/>
-    <word original="知" calque="know"/>
-    <word original="牝" calque="female"/>
-    <word original="牡" calque="male"/>
-    <word original="之" calque="'s"/>
-    <word original="合" calque="unite"/>
-    <word original="而" calque="yet"/>
-    <word original="(脧)" calque="(aroused)"/>
-    <word original="作" calque="arise"/>
+<line commentary="Innocent vitality - before knowledge, yet full of life force. What might this suggest about the nature of wisdom?">
+    <word original="未" pinyin="wèi" calque="not-yet"/>
+    <word original="知" pinyin="zhī" calque="know"/>
+    <word original="牝" pinyin="pìn" calque="female"/>
+    <word original="牡" pinyin="mǔ" calque="male"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="合" pinyin="hé" calque="joining"/>
+    <word original="而" pinyin="ér" calque="yet"/>
+    <word original="(脧)" pinyin="xuān" calque="(aroused)"/>
+    <word original="作" pinyin="zuò" calque="arise"/>
 </line>
 
-<line>
-    <word original="精" calque="essence"/>
-    <word original="之" calque="'s"/>
-    <word original="至" calque="ultimate"/>
-    <word original="也" calque="indeed"/>
-    <word original="(.)" calque="(.)" punctuation="true"/>
+<line commentary="The essence of life at its peak - what does this perfection look like?">
+    <word original="精" pinyin="jīng" calque="essence"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="至" pinyin="zhì" calque="ultimate"/>
+    <word original="也" pinyin="yě" calque="indeed"/>
+    <word original="(.)" pinyin="" calque="(.)" punctuation="true"/>
 </line>
 
-<line commentary="Consider: how can crying all day not lead to hoarseness?">
-    <word original="終" calque="whole"/>
-    <word original="日" calque="day"/>
-    <word original="號" calque="cry"/>
-    <word original="而" calque="yet"/>
-    <word original="不" calque="not"/>
-    <word original="嗄" calque="hoarse"/>
+<line commentary="Endless crying without hoarseness - what kind of strength is this?">
+    <word original="終" pinyin="zhōng" calque="whole"/>
+    <word original="日" pinyin="rì" calque="day"/>
+    <word original="號" pinyin="háo" calque="cry"/>
+    <word original="而" pinyin="ér" calque="yet"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="嗄" pinyin="shà" calque="hoarse"/>
 </line>
 
-<line>
-    <word original="和" calque="harmony"/>
-    <word original="之" calque="'s"/>
-    <word original="至" calque="ultimate"/>
-    <word original="也" calque="indeed"/>
-    <word original="(.)" calque="(.)" punctuation="true"/>
+<line commentary="Perfect harmony manifests - but what creates this state?">
+    <word original="和" pinyin="hé" calque="harmony"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="至" pinyin="zhì" calque="ultimate"/>
+    <word original="也" pinyin="yě" calque="indeed"/>
+    <word original="(.)" pinyin="" calque="(.)" punctuation="true"/>
 </line>
 
-<line commentary="A series of definitions that link knowing, harmony, and illumination">
-    <word original="知" calque="know"/>
-    <word original="和" calque="harmony"/>
-    <word original="曰" calque="called"/>
-    <word original="常" calque="constant"/>
+<line commentary="How does knowing harmony lead to constancy?">
+    <word original="知" pinyin="zhī" calque="know"/>
+    <word original="和" pinyin="hé" calque="harmony"/>
+    <word original="曰" pinyin="yuē" calque="call"/>
+    <word original="常" pinyin="cháng" calque="constant"/>
 </line>
 
-<line>
-    <word original="知" calque="know"/>
-    <word original="常" calque="constant"/>
-    <word original="曰" calque="called"/>
-    <word original="明" calque="bright"/>
+<line commentary="The relationship between constancy and clarity emerges - what connects them?">
+    <word original="知" pinyin="zhī" calque="know"/>
+    <word original="常" pinyin="cháng" calque="constant"/>
+    <word original="曰" pinyin="yuē" calque="call"/>
+    <word original="明" pinyin="míng" calque="bright"/>
 </line>
 
-<line>
-    <word original="益" calque="benefit"/>
-    <word original="生" calque="life"/>
-    <word original="曰" calque="called"/>
-    <word original="祥" calque="auspicious"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="When is enhancement truly auspicious?">
+    <word original="益" pinyin="yì" calque="increase"/>
+    <word original="生" pinyin="shēng" calque="life"/>
+    <word original="曰" pinyin="yuē" calque="call"/>
+    <word original="祥" pinyin="xiáng" calque="auspicious"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="The relationship between mind, qi, and strength - what makes something truly strong?">
-    <word original="心" calque="heart-mind"/>
-    <word original="使" calque="control"/>
-    <word original="氣" calque="qi"/>
-    <word original="曰" calque="called"/>
-    <word original="強" calque="force"/>
+<line commentary="Heart commanding breath - what happens when will forces nature?">
+    <word original="心" pinyin="xīn" calque="heart"/>
+    <word original="使" pinyin="shǐ" calque="command"/>
+    <word original="氣" pinyin="qì" calque="breath"/>
+    <word original="曰" pinyin="yuē" calque="call"/>
+    <word original="強" pinyin="qiáng" calque="strong"/>
 </line>
 
-<line commentary="A natural law: the cycle of growth and decline">
-    <word original="物" calque="thing"/>
-    <word original="壯" calque="strong"/>
-    <word original="則" calque="then"/>
-    <word original="老" calque="old"/>
+<line commentary="The natural law of growth and decay - can we resist this cycle?">
+    <word original="物" pinyin="wù" calque="thing"/>
+    <word original="壯" pinyin="zhuàng" calque="strong"/>
+    <word original="則" pinyin="zé" calque="then"/>
+    <word original="老" pinyin="lǎo" calque="old"/>
 </line>
 
-<line>
-    <word original="謂" calque="called"/>
-    <word original="之" calque="it"/>
-    <word original="不" calque="not"/>
-    <word original="道" calque="the Dao"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="What makes something contrary to the Way?">
+    <word original="謂" pinyin="wèi" calque="call"/>
+    <word original="之" pinyin="zhī" calque="it"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="道" pinyin="dào" calque="way"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="A warning about departing from the natural way">
-    <word original="不" calque="not"/>
-    <word original="道" calque="the Dao"/>
-    <word original="早" calque="early"/>
-    <word original="已" calque="already"/>
+<line commentary="The consequence of opposing natural law - when does this end begin?">
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="道" pinyin="dào" calque="way"/>
+    <word original="早" pinyin="zǎo" calque="early"/>
+    <word original="已" pinyin="yǐ" calque="already"/>
 </line>
 </chapter>

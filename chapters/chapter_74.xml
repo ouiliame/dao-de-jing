@@ -1,96 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="74">
-<line commentary="Consider: Why start with a statement about death? What does it reveal about human nature?">
-    <word original="民" calque="people"/>
-    <word original="不" calque="not"/>
-    <word original="畏" calque="fear"/>
-    <word original="死" calque="death"/>
+<line commentary="A stark opening that challenges our assumptions about fear and death. What happens when people lose fear of the ultimate consequence?">
+    <word original="民" pinyin="mín" calque="people"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="畏" pinyin="wèi" calque="fear"/>
+    <word original="死" pinyin="sǐ" calque="death"/>
 </line>
 
-<line commentary="'奈何' introduces a profound philosophical question - notice how it challenges the previous statement">
-    <word original="奈何" calque="how-then"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="死" calque="death"/>
-    <word original="懼" calque="frighten"/>
-    <word original="之" calque="them"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="How effective is death as a tool of control? Notice the subtle criticism in the structure of this question.">
+    <word original="奈" pinyin="nài" calque="how"/>
+    <word original="何" pinyin="hé" calque="what"/>
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="死" pinyin="sǐ" calque="death"/>
+    <word original="懼" pinyin="jù" calque="frighten"/>
+    <word original="之" pinyin="zhī" calque="them"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="若" calque="if"/>
-    <word original="使" calque="make"/>
-    <word original="民" calque="people"/>
-    <word original="常" calque="always"/>
-    <word original="畏" calque="fear"/>
-    <word original="死" calque="death"/>
+<line commentary="A hypothetical scenario begins - what might constant fear of death do to a society?">
+    <word original="若" pinyin="ruò" calque="if"/>
+    <word original="使" pinyin="shǐ" calque="cause"/>
+    <word original="民" pinyin="mín" calque="people"/>
+    <word original="常" pinyin="cháng" calque="always"/>
+    <word original="畏" pinyin="wèi" calque="fear"/>
+    <word original="死" pinyin="sǐ" calque="death"/>
 </line>
 
-<line commentary="Notice the shift from abstract principle to specific action">
-    <word original="而" calque="and"/>
-    <word original="為" calque="do"/>
-    <word original="奇" calque="strange"/>
-    <word original="者" calque="one-who"/>
-    <word original="吾" calque="I"/>
-    <word original="得" calque="can"/>
-    <word original="執" calque="seize"/>
-    <word original="而" calque="and"/>
-    <word original="殺" calque="kill"/>
-    <word original="之" calque="them"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Notice how 奇 (strange/extraordinary) connects to execution - what might this suggest about the relationship between power and spectacle?">
+    <word original="而" pinyin="ér" calque="and"/>
+    <word original="為" pinyin="wéi" calque="do"/>
+    <word original="奇" pinyin="qí" calque="strange"/>
+    <word original="者" pinyin="zhě" calque="ones"/>
+    <word original="吾" pinyin="wú" calque="I"/>
+    <word original="得" pinyin="dé" calque="can"/>
+    <word original="執" pinyin="zhí" calque="seize"/>
+    <word original="而" pinyin="ér" calque="and"/>
+    <word original="殺" pinyin="shā" calque="kill"/>
+    <word original="之" pinyin="zhī" calque="them"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="A powerful rhetorical question that makes us pause and reflect">
-    <word original="孰" calque="who"/>
-    <word original="敢" calque="dare"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="A single rhetorical question that carries the weight of challenge to authority.">
+    <word original="孰" pinyin="shú" calque="who"/>
+    <word original="敢" pinyin="gǎn" calque="dare"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="常" calque="always"/>
-    <word original="有" calque="exist"/>
-    <word original="司" calque="official"/>
-    <word original="殺" calque="kill"/>
-    <word original="者" calque="one-who"/>
-    <word original="__" calque="..." punctuation="true"/>
+<line commentary="Consider the implications of a permanent office of execution. What does this suggest about institutionalized violence?">
+    <word original="常" pinyin="cháng" calque="always"/>
+    <word original="有" pinyin="yǒu" calque="exist"/>
+    <word original="司" pinyin="sī" calque="officer"/>
+    <word original="殺" pinyin="shā" calque="kill"/>
+    <word original="者" pinyin="zhě" calque="one"/>
+    <word original="__" pinyin="" calque="..." punctuation="true"/>
 </line>
 
-<line commentary="Consider how this line speaks to the natural order of things">
-    <word original="(.)夫" calque="(now)"/>
-    <word original="代" calque="replace"/>
-    <word original="司" calque="official"/>
-    <word original="殺" calque="kill"/>
-    <word original="者" calque="one-who"/>
-    <word original="殺" calque="kill"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="A profound observation about the cycle of violence - who kills the killer?">
+    <word original="(.)夫" pinyin="fú" calque="(.)now"/>
+    <word original="代" pinyin="dài" calque="replace"/>
+    <word original="司" pinyin="sī" calque="officer"/>
+    <word original="殺" pinyin="shā" calque="kill"/>
+    <word original="者" pinyin="zhě" calque="one"/>
+    <word original="殺" pinyin="shā" calque="kill"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="是" calque="this"/>
-    <word original="謂" calque="called"/>
-    <word original="代" calque="replace"/>
-    <word original="大" calque="great"/>
-    <word original="匠" calque="carpenter"/>
-    <word original="斲" calque="chop"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="The metaphor shifts to carpentry - how might chopping wood relate to governance?">
+    <word original="是" pinyin="shì" calque="this"/>
+    <word original="謂" pinyin="wèi" calque="called"/>
+    <word original="代" pinyin="dài" calque="replacing"/>
+    <word original="大" pinyin="dà" calque="great"/>
+    <word original="匠" pinyin="jiàng" calque="craftsman"/>
+    <word original="斲" pinyin="zhuó" calque="chop"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="(.)夫" calque="(now)"/>
-    <word original="代" calque="replace"/>
-    <word original="大" calque="great"/>
-    <word original="匠" calque="carpenter"/>
-    <word original="斲" calque="chop"/>
-    <word original="者" calque="one-who"/>
+<line commentary="The metaphor continues - what wisdom might lie in letting the master craftsman handle their own work?">
+    <word original="(.)夫" pinyin="fú" calque="(.)now"/>
+    <word original="代" pinyin="dài" calque="replace"/>
+    <word original="大" pinyin="dà" calque="great"/>
+    <word original="匠" pinyin="jiàng" calque="craftsman"/>
+    <word original="斲" pinyin="zhuó" calque="chop"/>
+    <word original="者" pinyin="zhě" calque="one"/>
 </line>
 
-<line commentary="The final metaphor crystalizes the entire chapter's wisdom. What does the hand represent?">
-    <word original="希" calque="rare"/>
-    <word original="__" calque="..."/>
-    <word original="不" calque="not"/>
-    <word original="傷" calque="harm"/>
-    <word original="其" calque="their"/>
-    <word original="手" calque="hand"/>
-    <word original="矣" calque="indeed"/>
-    <word original="(.)" calque="(.)" punctuation="true"/>
+<line commentary="A final warning wrapped in carpentry metaphor - what happens when we interfere with natural expertise?">
+    <word original="希" pinyin="xī" calque="rare"/>
+    <word original="__" pinyin="" calque="..." punctuation="true"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="傷" pinyin="shāng" calque="harm"/>
+    <word original="其" pinyin="qí" calque="their"/>
+    <word original="手" pinyin="shǒu" calque="hands"/>
+    <word original="矣" pinyin="yǐ" calque="indeed"/>
+    <word original="(.)" pinyin="" calque="(.)" punctuation="true"/>
 </line>
 </chapter>

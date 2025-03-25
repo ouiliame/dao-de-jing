@@ -11,7 +11,7 @@ load_dotenv('.env.local')
 if not os.path.exists('chapters'):
     os.makedirs('chapters')
 
-start_chapter = 53
+start_chapter = 54
 
 def process_chapter_text(file_path):
     # Read the chapter text file
@@ -45,32 +45,35 @@ def process_chapter_text(file_path):
     # Sort chapters by number
     chapters.sort(key=lambda x: x[0])
     
-    # Process chapters in parallel
-    import concurrent.futures
-    
-    def process_single_chapter(chapter_data):
-        chapter_num, chapter_text = chapter_data
-        # Skip empty chapters
-        if not chapter_text:
-            return
+    # Process chapters in batches of 8
+    batch_size = 8
+    for i in range(0, len(chapters), batch_size):
+        batch = chapters[i:i+batch_size]
+        batch_results = []
+        
+        # Process batch in parallel
+        import concurrent.futures
+        with concurrent.futures.ThreadPoolExecutor() as executor:
+            # Submit all tasks
+            future_to_chapter = {
+                executor.submit(generate_xml_with_ai, llm, str(chapter_num), chapter_text): 
+                (chapter_num, chapter_text) for chapter_num, chapter_text in batch if chapter_text
+            }
             
-        # Create the complete XML content using AI
-        padded_num = str(chapter_num).zfill(2)
-        
-        # Output file path
-        output_file = f'chapters/chapter_{padded_num}.xml'
-        
-        # Use AI to generate the XML
-        xml_content = generate_xml_with_ai(llm, str(chapter_num), chapter_text)
-        
-        with open(output_file, 'w', encoding='utf-8') as f:
-            f.write(xml_content)
-            
-        print(f"Created {output_file}")
-    
-    # Use ThreadPoolExecutor to process chapters in parallel
-    with concurrent.futures.ThreadPoolExecutor() as executor:
-        executor.map(process_single_chapter, chapters)
+            # Process results as they complete
+            for future in concurrent.futures.as_completed(future_to_chapter):
+                chapter_num, _ = future_to_chapter[future]
+                try:
+                    xml_content = future.result()
+                    padded_num = str(chapter_num).zfill(2)
+                    output_file = f'chapters/chapter_{padded_num}.xml'
+                    
+                    with open(output_file, 'w', encoding='utf-8') as f:
+                        f.write(xml_content)
+                        
+                    print(f"Created {output_file}")
+                except Exception as e:
+                    print(f"Error processing chapter {chapter_num}: {e}")
 prompt = ChatPromptTemplate.from_template("""
 You are a Classical Chinese XML formatter specializing in the Dao De Jing (Tao Te Ching). 
 

@@ -1,81 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="60">
-<line commentary="A state is like a delicate fish - what happens when we handle it too roughly?">
-    <word original="治" calque="govern"/>
-    <word original="大" calque="great"/>
-    <word original="國" calque="state"/>
-    <word original="若" calque="like"/>
-    <word original="烹" calque="cook"/>
-    <word original="小" calque="small"/>
-    <word original="鮮" calque="fish"/>
+
+<line commentary="A profound cooking metaphor: what might the careful attention needed for small fish suggest about governing large states?">
+    <word original="治" pinyin="zhì" calque="govern"/>
+    <word original="大" pinyin="dà" calque="great"/>
+    <word original="國" pinyin="guó" calque="state"/>
+    <word original="若" pinyin="ruò" calque="like"/>
+    <word original="烹" pinyin="pēng" calque="cook"/>
+    <word original="小" pinyin="xiǎo" calque="small"/>
+    <word original="鮮" pinyin="xiān" calque="fish"/>
 </line>
 
-<line commentary="What path leads to effective oversight of all under heaven?">
-    <word original="以" calque="by-means-of"/>
-    <word original="道" calque="the Dao"/>
-    <word original="莅" calque="oversee"/>
-    <word original="天" calque="heaven"/>
-    <word original="下" calque="below"/>
+<line commentary="How might the Way transform conventional approaches to power?">
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="道" pinyin="dào" calque="way"/>
+    <word original="莅" pinyin="lì" calque="approach"/>
+    <word original="天" pinyin="tiān" calque="heaven"/>
+    <word original="下" pinyin="xià" calque="below"/>
 </line>
 
-<line commentary="When governance is right, do spirits need to assert their power?">
-    <word original="其" calque="its"/>
-    <word original="鬼" calque="ghost"/>
-    <word original="不" calque="not"/>
-    <word original="神" calque="divine"/>
+<line commentary="Consider: when spirits lose their power to frighten, what remains?">
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="鬼" pinyin="guǐ" calque="spirits"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="神" pinyin="shén" calque="divine"/>
 </line>
 
-<line>
-    <word original="非" calque="not-that"/>
-    <word original="其" calque="its"/>
-    <word original="鬼" calque="ghost"/>
-    <word original="不" calque="not"/>
-    <word original="神" calque="divine"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="A double negative creates emphasis - what happens when spiritual power diminishes?">
+    <word original="非" pinyin="fēi" calque="not"/>
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="鬼" pinyin="guǐ" calque="spirits"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="神" pinyin="shén" calque="divine"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="What happens when spiritual powers remain in harmony?">
-    <word original="其" calque="its"/>
-    <word original="神" calque="divine"/>
-    <word original="不" calque="not"/>
-    <word original="傷" calque="harm"/>
-    <word original="人" calque="person"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="When spiritual forces cease to harm, what kind of power emerges?">
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="神" pinyin="shén" calque="divine"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="傷" pinyin="shāng" calque="harm"/>
+    <word original="人" pinyin="rén" calque="person"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="非" calque="not-that"/>
-    <word original="其" calque="its"/>
-    <word original="神" calque="divine"/>
-    <word original="不" calque="not"/>
-    <word original="傷" calque="harm"/>
-    <word original="人" calque="person"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="The pattern deepens - what happens when neither divine nor human forces seek to harm?">
+    <word original="非" pinyin="fēi" calque="not"/>
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="神" pinyin="shén" calque="divine"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="傷" pinyin="shāng" calque="harm"/>
+    <word original="人" pinyin="rén" calque="person"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Where does the sage fit in this harmony between earthly and spiritual powers?">
-    <word original="聖" calque="sage"/>
-    <word original="人" calque="person"/>
-    <word original="亦" calque="also"/>
-    <word original="不" calque="not"/>
-    <word original="傷" calque="harm"/>
-    <word original="人" calque="person"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="The sage enters the pattern - how does non-harm create wisdom?">
+    <word original="聖" pinyin="shèng" calque="sage"/>
+    <word original="人" pinyin="rén" calque="person"/>
+    <word original="亦" pinyin="yì" calque="also"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="傷" pinyin="shāng" calque="harm"/>
+    <word original="人" pinyin="rén" calque="person"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="When two forces avoid harming each other, what emerges?">
-    <word original="夫" calque="thus"/>
-    <word original="兩" calque="both"/>
-    <word original="不" calque="not"/>
-    <word original="相" calque="mutual"/>
-    <word original="傷" calque="harm"/>
+<line commentary="Two forces in harmony - what emerges in the space between?">
+    <word original="夫" pinyin="fú" calque="thus"/>
+    <word original="兩" pinyin="liǎng" calque="two"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="相" pinyin="xiāng" calque="mutual"/>
+    <word original="傷" pinyin="shāng" calque="harm"/>
 </line>
 
-<line commentary="Consider how virtue flows when harmony prevails...">
-    <word original="故" calque="therefore"/>
-    <word original="德" calque="virtue"/>
-    <word original="交" calque="exchange"/>
-    <word original="歸" calque="return"/>
-    <word original="焉" calque="therein"/>
+<line commentary="Virtue returns naturally - like water finding its level?">
+    <word original="(.)故" pinyin="gù" calque="therefore"/>
+    <word original="德" pinyin="dé" calque="virtue"/>
+    <word original="交" pinyin="jiāo" calque="exchange"/>
+    <word original="歸" pinyin="guī" calque="return"/>
+    <word original="焉" pinyin="yān" calque="therein"/>
 </line>
+
 </chapter>

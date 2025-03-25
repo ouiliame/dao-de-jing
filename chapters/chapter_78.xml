@@ -1,112 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="78">
-<line commentary="Water, seemingly the softest substance, becomes the chapter's central metaphor. What power lies in apparent weakness?">
-    <word original="天下" calque="under-heaven"/>
-    <word original="莫" calque="none"/>
-    <word original="柔弱" calque="soft-weak"/>
-    <word original="於" calque="than"/>
-    <word original="水" calque="water"/>
+
+<line commentary="Consider water's unique property: nothing softer exists, yet it shapes mountains. What power lies in apparent powerlessness?">
+    <word original="天" pinyin="tiān" calque="heaven"/>
+    <word original="下" pinyin="xià" calque="below"/>
+    <word original="莫" pinyin="mò" calque="none"/>
+    <word original="柔" pinyin="róu" calque="soft"/>
+    <word original="弱" pinyin="ruò" calque="weak"/>
+    <word original="於" pinyin="yú" calque="than"/>
+    <word original="水" pinyin="shuǐ" calque="water"/>
 </line>
 
-<line commentary="Consider: How does water overcome stone over time?">
-    <word original="而" calque="yet"/>
-    <word original="攻" calque="attack"/>
-    <word original="堅強" calque="hard-strong"/>
-    <word original="者" calque="ones"/>
+<line commentary="Watch how the text shifts from water's softness to its incredible capacity to overcome hardness.">
+    <word original="而" pinyin="ér" calque="yet"/>
+    <word original="攻" pinyin="gōng" calque="attack"/>
+    <word original="堅" pinyin="jiān" calque="hard"/>
+    <word original="強" pinyin="qiáng" calque="strong"/>
+    <word original="者" pinyin="zhě" calque="one"/>
 </line>
 
-<line>
-    <word original="莫" calque="none"/>
-    <word original="之" calque="it"/>
-    <word original="能" calque="can"/>
-    <word original="勝" calque="overcome"/>
-    <word original="." calque="."/>
+<line commentary="The character 莫 appears again - what kind of absolute statement is being made about water's effectiveness?">
+    <word original="莫" pinyin="mò" calque="none"/>
+    <word original="之" pinyin="zhī" calque="it"/>
+    <word original="能" pinyin="néng" calque="can"/>
+    <word original="勝" pinyin="shèng" calque="overcome"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="What cannot be replaced cannot be defeated - ponder the wisdom here">
-    <word original="以" calque="by-means-of"/>
-    <word original="其" calque="its"/>
-    <word original="無" calque="not-have"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="易" calque="change"/>
-    <word original="之" calque="it"/>
-    <word original="." calque="."/>
+<line commentary="What cannot be replaced often cannot be defeated. How does water embody this principle?">
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="無" pinyin="wú" calque="without"/>
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="易" pinyin="yì" calque="change"/>
+    <word original="之" pinyin="zhī" calque="it"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="弱" calque="weak"/>
-    <word original="之" calque="'s"/>
-    <word original="勝" calque="overcome"/>
-    <word original="強" calque="strong"/>
-    <word original="." calque="."/>
+<line commentary="A profound paradox presented in just four characters. How does this mirror natural law?">
+    <word original="弱" pinyin="ruò" calque="weak"/>
+    <word original="之" pinyin="zhī" calque="possessive"/>
+    <word original="勝" pinyin="shèng" calque="overcome"/>
+    <word original="強" pinyin="qiáng" calque="strong"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="柔" calque="soft"/>
-    <word original="之" calque="'s"/>
-    <word original="勝" calque="overcome"/>
-    <word original="剛" calque="hard"/>
-    <word original="." calque="."/>
-    <word original="." calque="."/>
+<line commentary="The parallel structure reinforces the paradox. What examples of this principle exist in nature?">
+    <word original="柔" pinyin="róu" calque="soft"/>
+    <word original="之" pinyin="zhī" calque="possessive"/>
+    <word original="勝" pinyin="shèng" calque="overcome"/>
+    <word original="剛" pinyin="gāng" calque="hard"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Why might everyone know this truth yet fail to practice it?">
-    <word original="天下" calque="under-heaven"/>
-    <word original="莫" calque="none"/>
-    <word original="不" calque="not"/>
-    <word original="知" calque="know"/>
-    <word original="." calque="."/>
+<line commentary="A shift from natural principle to human understanding - why this universal knowledge?">
+    <word original="天" pinyin="tiān" calque="heaven"/>
+    <word original="下" pinyin="xià" calque="below"/>
+    <word original="莫" pinyin="mò" calque="none"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="知" pinyin="zhī" calque="know"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="莫" calque="none"/>
-    <word original="能" calque="can"/>
-    <word original="行" calque="practice"/>
-    <word original="." calque="."/>
+<line commentary="Knowledge versus action - what prevents the application of understood wisdom?">
+    <word original="莫" pinyin="mò" calque="none"/>
+    <word original="能" pinyin="néng" calque="can"/>
+    <word original="行" pinyin="xíng" calque="practice"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="是以" calque="therefore"/>
-    <word original="聖人" calque="sage"/>
-    <word original="云" calque="say"/>
-    <word original="." calque="."/>
+<line commentary="The sage enters the discussion - notice how 云 (speaks) signals incoming wisdom.">
+    <word original="是" pinyin="shì" calque="this"/>
+    <word original="以" pinyin="yǐ" calque="therefore"/>
+    <word original="聖" pinyin="shèng" calque="sage"/>
+    <word original="人" pinyin="rén" calque="person"/>
+    <word original="云" pinyin="yún" calque="says"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="How might accepting blame strengthen leadership?">
-    <word original="受" calque="receive"/>
-    <word original="國" calque="country"/>
-    <word original="之" calque="'s"/>
-    <word original="垢" calque="disgrace"/>
+<line commentary="What kind of leader accepts the nation's shame? Consider this paradox of leadership.">
+    <word original="受" pinyin="shòu" calque="receive"/>
+    <word original="國" pinyin="guó" calque="country"/>
+    <word original="之" pinyin="zhī" calque="possessive"/>
+    <word original="垢" pinyin="gòu" calque="filth"/>
 </line>
 
-<line>
-    <word original="是" calque="this"/>
-    <word original="謂" calque="called"/>
-    <word original="社稷" calque="state-altars"/>
-    <word original="[之]" calque="['s]"/>
-    <word original="主" calque="lord"/>
+<line commentary="社稷 represents the state altars - physical and spiritual center of the nation. What makes one worthy to guard them?">
+    <word original="是" pinyin="shì" calque="this"/>
+    <word original="謂" pinyin="wèi" calque="called"/>
+    <word original="社" pinyin="shè" calque="earth-altar"/>
+    <word original="稷" pinyin="jì" calque="grain-altar"/>
+    <word original="[之]" pinyin="zhī" calque="[of]"/>
+    <word original="主" pinyin="zhǔ" calque="lord"/>
 </line>
 
-<line>
-    <word original="受" calque="receive"/>
-    <word original="國" calque="country"/>
-    <word original="[之]" calque="['s]"/>
-    <word original="不祥" calque="misfortune"/>
+<line commentary="The character 祥 suggests both fortune and misfortune - what burden does a true leader bear?">
+    <word original="受" pinyin="shòu" calque="receive"/>
+    <word original="國" pinyin="guó" calque="country"/>
+    <word original="[之]" pinyin="zhī" calque="[of]"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="祥" pinyin="xiáng" calque="fortune"/>
 </line>
 
-<line>
-    <word original="是" calque="this"/>
-    <word original="謂" calque="called"/>
-    <word original="天下" calque="under-heaven"/>
-    <word original="[之]" calque="['s]"/>
-    <word original="王" calque="king"/>
+<line commentary="How does accepting misfortune lead to true rulership?">
+    <word original="是" pinyin="shì" calque="this"/>
+    <word original="謂" pinyin="wèi" calque="called"/>
+    <word original="天" pinyin="tiān" calque="heaven"/>
+    <word original="下" pinyin="xià" calque="below"/>
+    <word original="[之]" pinyin="zhī" calque="[of]"/>
+    <word original="王" pinyin="wáng" calque="king"/>
 </line>
 
-<line commentary="A profound paradox: how often do truth and appearance seem to contradict?">
-    <word original="正" calque="correct"/>
-    <word original="言" calque="words"/>
-    <word original="若" calque="seem"/>
-    <word original="反" calque="opposite"/>
-    <word original="." calque="."/>
+<line commentary="The final line circles back to the chapter's theme of paradox. How do truth and its opposite relate?">
+    <word original="正" pinyin="zhèng" calque="correct"/>
+    <word original="言" pinyin="yán" calque="words"/>
+    <word original="若" pinyin="ruò" calque="seem"/>
+    <word original="反" pinyin="fǎn" calque="opposite"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
+
 </chapter>
