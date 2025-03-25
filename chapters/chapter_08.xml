@@ -1,97 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="8">
-<line commentary="Water is used throughout Chinese philosophy as the ultimate example of natural wisdom. Why might that be?">
-    <word original="上善" calque="highest-good"/>
-    <word original="若" calque="like"/>
-    <word original="水" calque="water"/>
+<line commentary="Water embodies the highest virtue without conscious striving. What qualities make water an ideal metaphor for excellence?">
+    <word original="上" pinyin="shàng" calque="highest"/>
+    <word original="善" pinyin="shàn" calque="goodness"/>
+    <word original="若" pinyin="ruò" calque="like"/>
+    <word original="水" pinyin="shuǐ" calque="water"/>
 </line>
 
-<line commentary="Notice how water's virtue is described through action, not abstract qualities">
-    <word original="水" calque="water"/>
-    <word original="善" calque="good-at"/>
-    <word original="利" calque="benefit"/>
-    <word original="萬物" calque="ten-thousand-things"/>
-    <word original="而" calque="yet"/>
-    <word original="不" calque="not"/>
-    <word original="爭" calque="contend"/>
+<line commentary="Water nourishes all things while remaining in the lowest places. What paradox of power lies in this humility?">
+    <word original="水" pinyin="shuǐ" calque="water"/>
+    <word original="善" pinyin="shàn" calque="good-at"/>
+    <word original="利" pinyin="lì" calque="benefit"/>
+    <word original="萬" pinyin="wàn" calque="ten-thousand"/>
+    <word original="物" pinyin="wù" calque="things"/>
+    <word original="而" pinyin="ér" calque="yet"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="爭" pinyin="zhēng" calque="compete"/>
 </line>
 
-<line commentary="What others avoid might be the most enlightened position. Consider: why do people avoid low places?">
-    <word original="處" calque="dwell"/>
-    <word original="眾" calque="masses"/>
-    <word original="人" calque="person"/>
-    <word original="之" calque="'s"/>
-    <word original="所" calque="place"/>
-    <word original="惡" calque="detest"/>
+<line commentary="Water flows to places others avoid. What wisdom might we find in embracing the overlooked and unwanted?">
+    <word original="處" pinyin="chǔ" calque="dwells"/>
+    <word original="眾" pinyin="zhòng" calque="many"/>
+    <word original="人" pinyin="rén" calque="people"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="所" pinyin="suǒ" calque="that-which"/>
+    <word original="惡" pinyin="wù" calque="dislike"/>
 </line>
 
-<line>
-    <word original="故" calque="therefore"/>
-    <word original="幾" calque="near"/>
-    <word original="於" calque="to"/>
-    <word original="道" calque="the Dao"/>
-    <word original="[矣(.)]" calque="[indeed(.)]"/>
-    <word original="." calque="."/>
+<line commentary="How close is 'nearly' to the Way? Consider the space between almost and arrival.">
+    <word original="故" pinyin="gù" calque="therefore"/>
+    <word original="幾" pinyin="jī" calque="nearly"/>
+    <word original="於" pinyin="yú" calque="to"/>
+    <word original="道" pinyin="dào" calque="way"/>
+    <word original="[矣(.)]" pinyin="" calque="[indeed(.)]" punctuation="true"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="The following lines present aspects of natural excellence. How does each reflect water's qualities?">
-    <word original="居" calque="dwelling"/>
-    <word original="善" calque="good-at"/>
-    <word original="地" calque="earth"/>
+<line commentary="What makes a location 'good'? Is it the place itself, or how we dwell within it?">
+    <word original="居" pinyin="jū" calque="dwelling"/>
+    <word original="善" pinyin="shàn" calque="good-at"/>
+    <word original="地" pinyin="dì" calque="earth"/>
 </line>
 
-<line>
-    <word original="心" calque="heart"/>
-    <word original="善" calque="good-at"/>
-    <word original="淵" calque="depths"/>
-    <word original="." calque="."/>
+<line commentary="The heart is likened to a deep pool - still, clear, unfathomable. What might surface in such depths?">
+    <word original="心" pinyin="xīn" calque="heart"/>
+    <word original="善" pinyin="shàn" calque="good-at"/>
+    <word original="淵" pinyin="yuān" calque="depths"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="與" calque="giving"/>
-    <word original="善" calque="good-at"/>
-    <word original="仁" calque="benevolence"/>
+<line commentary="How might giving embody excellence? Consider the movement between self and other.">
+    <word original="與" pinyin="yǔ" calque="giving"/>
+    <word original="善" pinyin="shàn" calque="good-at"/>
+    <word original="仁" pinyin="rén" calque="benevolence"/>
 </line>
 
-<line>
-    <word original="言" calque="words"/>
-    <word original="善" calque="good-at"/>
-    <word original="信" calque="trust"/>
-    <word original="." calque="."/>
+<line commentary="Words aligned with truth - but whose truth, and measured how?">
+    <word original="言" pinyin="yán" calque="words"/>
+    <word original="善" pinyin="shàn" calque="good-at"/>
+    <word original="信" pinyin="xìn" calque="trust"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="正" calque="governing"/>
-    <word original="善" calque="good-at"/>
-    <word original="治" calque="order"/>
-    <word original="." calque="."/>
+<line commentary="Consider governance as alignment rather than control. What patterns in nature might guide human order?">
+    <word original="正" pinyin="zhèng" calque="proper"/>
+    <word original="善" pinyin="shàn" calque="good-at"/>
+    <word original="治" pinyin="zhì" calque="govern"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="事" calque="affairs"/>
-    <word original="善" calque="good-at"/>
-    <word original="能" calque="capability"/>
+<line commentary="Capability without display - how might true skill manifest without assertion?">
+    <word original="事" pinyin="shì" calque="affairs"/>
+    <word original="善" pinyin="shàn" calque="good-at"/>
+    <word original="能" pinyin="néng" calque="ability"/>
 </line>
 
-<line>
-    <word original="動" calque="movement"/>
-    <word original="善" calque="good-at"/>
-    <word original="時" calque="timing"/>
-    <word original="." calque="."/>
+<line commentary="Moving in harmony with time - what wisdom lies in waiting for the right moment?">
+    <word original="動" pinyin="dòng" calque="movement"/>
+    <word original="善" pinyin="shàn" calque="good-at"/>
+    <word original="時" pinyin="shí" calque="timing"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Consider: is non-contention passive or active?">
-    <word original="(.)夫" calque="(.)indeed"/>
-    <word original="唯" calque="only"/>
-    <word original="不" calque="not"/>
-    <word original="爭" calque="contend"/>
-    <word original="." calque="."/>
+<line commentary="The profound simplicity of non-contention - what power lies in stepping back?">
+    <word original="(.)夫" pinyin="fú" calque="(.)indeed"/>
+    <word original="唯" pinyin="wéi" calque="only"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="爭" pinyin="zhēng" calque="compete"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="What is the relationship between non-contention and blamelessness?">
-    <word original="(.)故" calque="(.)therefore"/>
-    <word original="無" calque="without"/>
-    <word original="尤" calque="blame"/>
-    <word original="." calque="."/>
+<line commentary="Freedom from blame through non-contention - how might yielding lead to perfection?">
+    <word original="(.)故" pinyin="gù" calque="(.)therefore"/>
+    <word original="無" pinyin="wú" calque="without"/>
+    <word original="尤" pinyin="yóu" calque="blame"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 </chapter>

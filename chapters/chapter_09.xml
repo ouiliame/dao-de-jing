@@ -1,73 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="9">
-<line commentary="Consider: What happens when you keep pouring into a full cup?">
-    <word original="持" calque="hold"/>
-    <word original="而" calque="and"/>
-    <word original="盈" calque="fill-to-brim"/>
-    <word original="之" calque="it"/>
+<line commentary="Consider: what happens when we keep filling a vessel that's already full? The character 盈 suggests both fullness and excess.">
+    <word original="持" calque="hold" pinyin="chí"/>
+    <word original="而" calque="and" pinyin="ér"/>
+    <word original="盈" calque="fill-full" pinyin="yíng"/>
+    <word original="之" calque="it" pinyin="zhī"/>
 </line>
 
-<line commentary="'Already' here suggests a natural limit - when is enough truly enough?">
-    <word original="不" calque="not"/>
-    <word original="如" calque="as-good-as"/>
-    <word original="其" calque="its"/>
-    <word original="已" calque="already"/>
+<line commentary="已 hints at cessation - might there be wisdom in knowing when to stop?">
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="如" calque="like" pinyin="rú"/>
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="已" calque="stop" pinyin="yǐ"/>
 </line>
 
-<line commentary="Sharp edges wear down first - what does this tell us about extremes?">
-    <word original="揣" calque="handle"/>
-    <word original="而" calque="and"/>
-    <word original="(銳)" calque="(sharp)"/>
-    <word original="之" calque="it"/>
+<line commentary="The image of honing something to extreme sharpness - at what point does refinement become vulnerability?">
+    <word original="揣" calque="measure" pinyin="chuǎi"/>
+    <word original="而" calque="and" pinyin="ér"/>
+    <word original="(銳)" calque="(sharp)" pinyin="ruì"/>
+    <word original="之" calque="it" pinyin="zhī"/>
 </line>
 
-<line>
-    <word original="不" calque="not"/>
-    <word original="可" calque="can"/>
-    <word original="長" calque="long"/>
-    <word original="保" calque="maintain"/>
-    <word original="." calque="."/>
+<line commentary="長 carries both temporal and spatial meanings - what kind of 'long' is impossible to maintain?">
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="可" calque="can" pinyin="kě"/>
+    <word original="長" calque="long" pinyin="cháng"/>
+    <word original="保" calque="maintain" pinyin="bǎo"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line commentary="Wealth portrayed through concrete imagery - feel the weight of these precious materials">
-    <word original="金" calque="gold"/>
-    <word original="玉" calque="jade"/>
-    <word original="滿" calque="fill"/>
-    <word original="堂" calque="hall"/>
+<line commentary="A hall filled with precious metals and stones - yet what makes wealth truly secure?">
+    <word original="金" calque="gold" pinyin="jīn"/>
+    <word original="玉" calque="jade" pinyin="yù"/>
+    <word original="滿" calque="full" pinyin="mǎn"/>
+    <word original="堂" calque="hall" pinyin="táng"/>
 </line>
 
-<line>
-    <word original="莫" calque="none"/>
-    <word original="之" calque="it"/>
-    <word original="能" calque="able"/>
-    <word original="守" calque="guard"/>
+<line commentary="The character 莫 suggests impossibility - what makes some things fundamentally unguardable?">
+    <word original="莫" calque="none" pinyin="mò"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="能" calque="can" pinyin="néng"/>
+    <word original="守" calque="guard" pinyin="shǒu"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line commentary="Pride and wealth - what's the relationship between position and personality?">
-    <word original="富" calque="wealth"/>
-    <word original="貴" calque="noble"/>
-    <word original="而" calque="and"/>
-    <word original="驕" calque="proud"/>
+<line commentary="驕 (pride) written with the horse radical - how does wealth gallop away with our humility?">
+    <word original="富" calque="wealth" pinyin="fù"/>
+    <word original="貴" calque="noble" pinyin="guì"/>
+    <word original="而" calque="and" pinyin="ér"/>
+    <word original="驕" calque="pride" pinyin="jiāo"/>
 </line>
 
-<line>
-    <word original="自" calque="self"/>
-    <word original="遺" calque="leave-behind"/>
-    <word original="其" calque="its"/>
-    <word original="咎" calque="blame"/>
+<line commentary="遺 suggests both leaving behind and inheritance - what legacy does pride bequeath?">
+    <word original="自" calque="self" pinyin="zì"/>
+    <word original="遺" calque="leave" pinyin="yí"/>
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="咎" calque="blame" pinyin="jiù"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line commentary="A profound truth in just three characters - when is it time to step back?">
-    <word original="功" calque="achievement"/>
-    <word original="遂" calque="complete"/>
-    <word original="身" calque="body"/>
-    <word original="退" calque="withdraw"/>
+<line commentary="A profound paradox: achievement and withdrawal paired in a single breath. When is the moment to step back?">
+    <word original="功" calque="merit" pinyin="gōng"/>
+    <word original="遂" calque="complete" pinyin="suì"/>
+    <word original="身" calque="body" pinyin="shēn"/>
+    <word original="退" calque="withdraw" pinyin="tuì"/>
 </line>
 
-<line commentary="Does nature herself demonstrate this principle of knowing when to withdraw?">
-    <word original="天" calque="heaven"/>
-    <word original="之" calque="'s"/>
-    <word original="道" calque="the Dao"/>
-    <word original="." calque="."/>
+<line commentary="Heaven's way operates through natural cycles of advance and retreat - where in your life do you see this pattern?">
+    <word original="天" calque="heaven" pinyin="tiān"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="道" calque="way" pinyin="dào"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 </chapter>

@@ -1,71 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="5">
-<line commentary="A bold opening challenging conventional morality - notice how 天地 (heaven-earth) forms a natural pair representing the cosmos.">
-    <word original="天地" calque="heaven-earth"/>
-    <word original="不" calque="not"/>
-    <word original="仁" calque="benevolent" commentary="仁 represents the highest Confucian virtue - why might the cosmos not possess this human quality?"/>
+<line commentary="Consider: What does it mean to be 'not benevolent' yet sustain all life? Perhaps a deeper form of impartiality?">
+    <word original="天" pinyin="tiān" calque="heaven"/>
+    <word original="地" pinyin="dì" calque="earth"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="仁" pinyin="rén" calque="benevolent"/>
 </line>
 
-<line commentary="A striking metaphor using ritual objects - consider what it means to be 'useful' by being 'disposable'.">
-    <word original="以" calque="by-means-of"/>
-    <word original="萬物" calque="ten-thousand-things"/>
-    <word original="為" calque="make"/>
-    <word original="芻狗" calque="straw-dogs" commentary="Ritual objects made of straw, used and then discarded - what does this tell us about attachment?"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Straw dogs: ceremonial objects treated as precious during rituals, discarded after. What does this reveal about attachment?">
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="萬" pinyin="wàn" calque="ten-thousand"/>
+    <word original="物" pinyin="wù" calque="things"/>
+    <word original="為" pinyin="wéi" calque="make"/>
+    <word original="芻" pinyin="chú" calque="straw"/>
+    <word original="狗" pinyin="gǒu" calque="dog"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="The parallel construction with the first line suggests a profound insight about leadership.">
-    <word original="聖人" calque="sage-person"/>
-    <word original="不" calque="not"/>
-    <word original="仁" calque="benevolent"/>
+<line commentary="The sage mirrors heaven and earth—what might this impartiality look like in human action?">
+    <word original="聖" pinyin="shèng" calque="sage"/>
+    <word original="人" pinyin="rén" calque="person"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="仁" pinyin="rén" calque="benevolent"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="以" calque="by-means-of"/>
-    <word original="百姓" calque="hundred-surnames"/>
-    <word original="為" calque="make"/>
-    <word original="芻狗" calque="straw-dogs"/>
+<line commentary="A parallel to the first treatment—how might viewing people as straw dogs be the highest form of respect?">
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="百" pinyin="bǎi" calque="hundred"/>
+    <word original="姓" pinyin="xìng" calque="surnames"/>
+    <word original="為" pinyin="wéi" calque="make"/>
+    <word original="芻" pinyin="chú" calque="straw"/>
+    <word original="狗" pinyin="gǒu" calque="dog"/>
 </line>
 
-<line>
-    <word original="天地" calque="heaven-earth"/>
-    <word original="之" calque="'s"/>
-    <word original="間" calque="between"/>
+<line commentary="The space between heaven and earth—what dwells in this interval?">
+    <word original="天" pinyin="tiān" calque="heaven"/>
+    <word original="地" pinyin="dì" calque="earth"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="間" pinyin="jiān" calque="between"/>
 </line>
 
-<line commentary="A powerful metaphor begins - what qualities of a bellows might represent cosmic functioning?">
-    <word original="其" calque="it"/>
-    <word original="猶" calque="like"/>
-    <word original="橐籥" calque="bellows"/>
-    <word original="乎" calque="question"/>
-    <word original="(.)" calque="(.)" punctuation="true"/>
+<line commentary="Bellows: empty yet inexhaustible. What power lies in emptiness?">
+    <word original="其" pinyin="qí" calque="it"/>
+    <word original="猶" pinyin="yóu" calque="like"/>
+    <word original="橐" pinyin="tuó" calque="bellows"/>
+    <word original="籥" pinyin="yuè" calque="pipe"/>
+    <word original="乎" pinyin="hū" calque="indeed"/>
+    <word original="(.)" pinyin="" calque="(.)" punctuation="true"/>
 </line>
 
-<line commentary="Notice how emptiness becomes a source of strength.">
-    <word original="虛" calque="empty"/>
-    <word original="而" calque="and"/>
-    <word original="不" calque="not"/>
-    <word original="屈" calque="yield"/>
+<line commentary="Empty yet unyielding—a paradox of strength through emptiness?">
+    <word original="虛" pinyin="xū" calque="empty"/>
+    <word original="而" pinyin="ér" calque="yet"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="屈" pinyin="qū" calque="bend"/>
 </line>
 
-<line>
-    <word original="動" calque="move"/>
-    <word original="而" calque="and"/>
-    <word original="愈" calque="more"/>
-    <word original="出" calque="produce"/>
+<line commentary="Movement generates more—how does emptiness enable endless creation?">
+    <word original="動" pinyin="dòng" calque="move"/>
+    <word original="而" pinyin="ér" calque="yet"/>
+    <word original="愈" pinyin="yù" calque="more"/>
+    <word original="出" pinyin="chū" calque="come-forth"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="A warning against excessive speech - why might this follow the bellows metaphor?">
-    <word original="多" calque="much"/>
-    <word original="言" calque="speech"/>
-    <word original="數" calque="often"/>
-    <word original="窮" calque="exhaust"/>
+<line commentary="Many words exhaust their limit—when does speech become empty?">
+    <word original="多" pinyin="duō" calque="many"/>
+    <word original="言" pinyin="yán" calque="words"/>
+    <word original="數" pinyin="shù" calque="count"/>
+    <word original="窮" pinyin="qióng" calque="exhaust"/>
 </line>
 
-<line commentary="The chapter closes with a return to centeredness - how does this relate to the emptiness of the bellows?">
-    <word original="不" calque="not"/>
-    <word original="如" calque="like"/>
-    <word original="守" calque="keep"/>
-    <word original="中" calque="center"/>
+<line commentary="The center holds what the periphery cannot contain—what wisdom lies in stillness?">
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="如" pinyin="rú" calque="like"/>
+    <word original="守" pinyin="shǒu" calque="keep"/>
+    <word original="中" pinyin="zhōng" calque="center"/>
 </line>
 </chapter>

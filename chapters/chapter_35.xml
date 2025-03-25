@@ -1,75 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="35">
-<line commentary="Consider: What makes something so vast it cannot be fully grasped?">
-    <word original="執" calque="grasp"/>
-    <word original="大" calque="great"/>
-    <word original="象" calque="image/elephant"/>
+<line commentary="What might it mean to 'grasp' that which represents the ultimate? Consider the paradox.">
+    <word original="執" pinyin="zhí" calque="grasp"/>
+    <word original="大" pinyin="dà" calque="great"/>
+    <word original="象" pinyin="xiàng" calque="image"/>
 </line>
 
-<line commentary="A powerful metaphor for universal attraction - what draws all things?">
-    <word original="天下" calque="heaven-below"/>
-    <word original="往" calque="go-toward"/>
+<line commentary="A subtle movement pattern emerges - what flows naturally toward greatness?">
+    <word original="天" pinyin="tiān" calque="heaven"/>
+    <word original="下" pinyin="xià" calque="below"/>
+    <word original="往" pinyin="wǎng" calque="go"/>
 </line>
 
-<line>
-    <word original="往" calque="go"/>
-    <word original="而" calque="and"/>
-    <word original="不" calque="not"/>
-    <word original="害" calque="harm"/>
+<line commentary="Notice how 'going' transforms when paired with 'harmless' - movement without destruction.">
+    <word original="往" pinyin="wǎng" calque="go"/>
+    <word original="而" pinyin="ér" calque="yet"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="害" pinyin="hài" calque="harm"/>
 </line>
 
-<line>
-    <word original="安" calque="peaceful"/>
-    <word original="平" calque="level"/>
-    <word original="太" calque="great"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Three characters painting perfect tranquility - how do they flow together?">
+    <word original="安" pinyin="ān" calque="peaceful"/>
+    <word original="平" pinyin="píng" calque="level"/>
+    <word original="太" pinyin="tài" calque="great"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Like a gracious host, the Dao welcomes all without demanding attention">
-    <word original="樂" calque="music"/>
-    <word original="與" calque="and"/>
-    <word original="餌" calque="food"/>
-    <word original="過客" calque="passing-guest"/>
-    <word original="止" calque="stop"/>
+<line commentary="Consider how music and food might pause a traveler's journey - what attracts yet doesn't trap?">
+    <word original="樂" pinyin="yuè" calque="music"/>
+    <word original="與" pinyin="yǔ" calque="and"/>
+    <word original="餌" pinyin="ěr" calque="food"/>
+    <word original="過" pinyin="guò" calque="passing"/>
+    <word original="客" pinyin="kè" calque="guest"/>
+    <word original="止" pinyin="zhǐ" calque="stop"/>
 </line>
 
-<line>
-    <word original="道" calque="the Dao"/>
-    <word original="之" calque="'s"/>
-    <word original="出" calque="emerge"/>
-    <word original="(言)" calque="(speak)"/>
-    <word original="淡" calque="bland"/>
-    <word original="(呵)" calque="(ah)"/>
+<line commentary="The way speaks - but what is the nature of its voice?">
+    <word original="道" pinyin="dào" calque="way"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="出" pinyin="chū" calque="emerge"/>
+    <word original="(言)" pinyin="yán" calque="(speak)"/>
+    <word original="淡" pinyin="dàn" calque="bland"/>
+    <word original="(呵)" pinyin="hē" calque="(ah)"/>
 </line>
 
-<line commentary="How can nothingness be so full of potential?">
-    <word original="其" calque="its"/>
-    <word original="無" calque="without"/>
-    <word original="味" calque="flavor"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Taste that transcends taste - a paradox to contemplate.">
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="無" pinyin="wú" calque="without"/>
+    <word original="味" pinyin="wèi" calque="flavor"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Can you see what cannot be seen?">
-    <word original="視" calque="look"/>
-    <word original="之" calque="it"/>
-    <word original="不" calque="not"/>
-    <word original="足" calque="enough"/>
-    <word original="見" calque="see"/>
+<line commentary="When is seeing not enough to see? What lies beyond visual perception?">
+    <word original="視" pinyin="shì" calque="look"/>
+    <word original="之" pinyin="zhī" calque="it"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="足" pinyin="zú" calque="enough"/>
+    <word original="見" pinyin="jiàn" calque="see"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="聽" calque="listen"/>
-    <word original="之" calque="it"/>
-    <word original="不" calque="not"/>
-    <word original="足" calque="enough"/>
-    <word original="聞" calque="hear"/>
+<line commentary="The ear's limitations mirror the eye's - what sounds exist beyond hearing?">
+    <word original="聽" pinyin="tīng" calque="listen"/>
+    <word original="之" pinyin="zhī" calque="it"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="足" pinyin="zú" calque="enough"/>
+    <word original="聞" pinyin="wén" calque="hear"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="A paradox: how can something be used without being depleted?">
-    <word original="用" calque="use"/>
-    <word original="之" calque="it"/>
-    <word original="不" calque="not"/>
-    <word original="足" calque="enough"/>
-    <word original="既" calque="exhaust"/>
+<line commentary="Using without exhausting - ponder the inexhaustible nature of emptiness.">
+    <word original="用" pinyin="yòng" calque="use"/>
+    <word original="之" pinyin="zhī" calque="it"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="足" pinyin="zú" calque="enough"/>
+    <word original="既" pinyin="jì" calque="exhaust"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 </chapter>

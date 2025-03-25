@@ -1,128 +1,131 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="10">
-<line commentary="The opening line speaks of unifying body and spirit - a fundamental Daoist practice.">
-    <word original="載" calque="carry"/>
-    <word original="營魄" calque="vital-spirits"/>
-    <word original="抱" calque="embrace"/>
-    <word original="一" calque="one"/>
+
+<line commentary="Consider: what does it mean to 'carry' something as intangible as spirit? How might 'one-ness' be embraced?">
+    <word original="載" pinyin="zài" calque="carry"/>
+    <word original="營" pinyin="yíng" calque="manage"/>
+    <word original="魄" pinyin="pò" calque="spirit"/>
+    <word original="抱" pinyin="bào" calque="embrace"/>
+    <word original="一" pinyin="yī" calque="one"/>
 </line>
 
-<line commentary="Can one maintain this unity without separation? Consider: what separates us from our essential nature?">
-    <word original="能" calque="can"/>
-    <word original="無" calque="without"/>
-    <word original="離" calque="separate"/>
-    <word original="乎" calque="?"/>
-    <word original="(.)" calque="." punctuation="true"/>
+<line commentary="A question of maintaining unity - what might cause separation?">
+    <word original="能" pinyin="néng" calque="can"/>
+    <word original="無" pinyin="wú" calque="without"/>
+    <word original="離" pinyin="lí" calque="separate"/>
+    <word original="乎" pinyin="hū" calque="question"/>
+    <word original="(.)" pinyin="" calque="(.)" punctuation="true"/>
 </line>
 
-<line commentary="Breath and softness - key elements of meditation practice. What happens when we focus our breath?">
-    <word original="專" calque="focus"/>
-    <word original="氣" calque="breath"/>
-    <word original="致" calque="achieve"/>
-    <word original="柔" calque="soft"/>
+<line commentary="Breath and softness intertwined - what happens when we direct our vital energy toward yielding?">
+    <word original="專" pinyin="zhuān" calque="focus"/>
+    <word original="氣" pinyin="qì" calque="breath"/>
+    <word original="致" pinyin="zhì" calque="direct-toward"/>
+    <word original="柔" pinyin="róu" calque="soft"/>
 </line>
 
-<line commentary="The infant represents the ideal state of natural spontaneity. Why this metaphor?">
-    <word original="能" calque="can"/>
-    <word original="嬰" calque="infant"/>
-    <word original="兒" calque="child"/>
-    <word original="乎" calque="?"/>
-    <word original="(.)" calque="." punctuation="true"/>
+<line commentary="The infant state - untaught, natural, responsive. What might it mean to return to this?">
+    <word original="能" pinyin="néng" calque="can"/>
+    <word original="嬰" pinyin="yīng" calque="infant"/>
+    <word original="兒" pinyin="ér" calque="child"/>
+    <word original="乎" pinyin="hū" calque="question"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="'Mysterious viewing' suggests deep meditation. How does cleaning a mirror relate to clarity of mind?">
-    <word original="滌" calque="cleanse"/>
-    <word original="除" calque="remove"/>
-    <word original="玄" calque="mysterious"/>
-    <word original="覽" calque="view"/>
+<line commentary="Cleansing the gates of perception - what might we see when the dust is wiped away?">
+    <word original="滌" pinyin="dí" calque="cleanse"/>
+    <word original="除" pinyin="chú" calque="remove"/>
+    <word original="玄" pinyin="xuán" calque="dark"/>
+    <word original="覽" pinyin="lǎn" calque="view"/>
 </line>
 
-<line commentary="What flaws emerge when we look deeply within?">
-    <word original="能" calque="can"/>
-    <word original="無" calque="without"/>
-    <word original="疵" calque="flaw"/>
-    <word original="乎" calque="?"/>
-    <word original="(.)" calque="." punctuation="true"/>
+<line commentary="What flaws emerge from seeing, and what flaws from not seeing?">
+    <word original="能" pinyin="néng" calque="can"/>
+    <word original="無" pinyin="wú" calque="without"/>
+    <word original="疵" pinyin="cī" calque="flaw"/>
+    <word original="乎" pinyin="hū" calque="question"/>
+    <word original="(.)" pinyin="" calque="(.)" punctuation="true"/>
 </line>
 
-<line commentary="From personal cultivation to governance - how are they connected?">
-    <word original="愛" calque="love"/>
-    <word original="民" calque="people"/>
-    <word original="治" calque="govern"/>
-    <word original="國" calque="country"/>
+<line commentary="Love and governance - how might these flow together without force?">
+    <word original="愛" pinyin="ài" calque="love"/>
+    <word original="民" pinyin="mín" calque="people"/>
+    <word original="治" pinyin="zhì" calque="govern"/>
+    <word original="國" pinyin="guó" calque="country"/>
 </line>
 
-<line commentary="The paradox of effective leadership through non-interference">
-    <word original="能" calque="can"/>
-    <word original="無" calque="without"/>
-    <word original="為" calque="action"/>
-    <word original="乎" calque="?"/>
-    <word original="(.)" calque="." punctuation="true"/>
+<line commentary="The paradox of governing through non-action - what action remains when action ceases?">
+    <word original="能" pinyin="néng" calque="can"/>
+    <word original="無" pinyin="wú" calque="without"/>
+    <word original="為" pinyin="wéi" calque="do"/>
+    <word original="乎" pinyin="hū" calque="question"/>
+    <word original="(.)" pinyin="" calque="(.)" punctuation="true"/>
 </line>
 
-<line commentary="'Heaven's gate' - a metaphor for natural cycles. What opens and closes in our own nature?">
-    <word original="天" calque="heaven"/>
-    <word original="門" calque="gate"/>
-    <word original="開" calque="open"/>
-    <word original="闔" calque="close"/>
+<line commentary="Heaven's gate - opening and closing in eternal rhythm. What passes through?">
+    <word original="天" pinyin="tiān" calque="heaven"/>
+    <word original="門" pinyin="mén" calque="gate"/>
+    <word original="開" pinyin="kāi" calque="open"/>
+    <word original="闔" pinyin="hé" calque="close"/>
 </line>
 
-<line commentary="The feminine principle represents receptivity and flexibility">
-    <word original="能" calque="can"/>
-    <word original="為" calque="be"/>
-    <word original="雌" calque="feminine"/>
-    <word original="乎" calque="?"/>
-    <word original="(.)" calque="." punctuation="true"/>
+<line commentary="The feminine principle - receptive, yielding, yet all-encompassing. What power lies in such softness?">
+    <word original="能" pinyin="néng" calque="can"/>
+    <word original="為" pinyin="wéi" calque="be"/>
+    <word original="雌" pinyin="cí" calque="feminine"/>
+    <word original="乎" pinyin="hū" calque="question"/>
+    <word original="(.)" pinyin="" calque="(.)" punctuation="true"/>
 </line>
 
-<line commentary="'Four directions' suggests complete understanding. But what kind of understanding?">
-    <word original="明" calque="bright"/>
-    <word original="白" calque="clear"/>
-    <word original="四" calque="four"/>
-    <word original="達" calque="reach"/>
+<line commentary="Clarity spreading in all directions - what remains unknown when all is known?">
+    <word original="明" pinyin="míng" calque="bright"/>
+    <word original="白" pinyin="bái" calque="clear"/>
+    <word original="四" pinyin="sì" calque="four"/>
+    <word original="達" pinyin="dá" calque="reach"/>
 </line>
 
-<line commentary="Knowledge without analytical thinking - can we know without dissecting?">
-    <word original="能" calque="can"/>
-    <word original="無" calque="without"/>
-    <word original="[以]" calque="by-means-of"/>
-    <word original="知" calque="know"/>
-    <word original="乎" calque="?"/>
-    <word original="(.)" calque="." punctuation="true"/>
+<line commentary="Knowledge without the means of knowing - can understanding transcend method?">
+    <word original="能" pinyin="néng" calque="can"/>
+    <word original="無" pinyin="wú" calque="without"/>
+    <word original="[以]" pinyin="yǐ" calque="[by-means-of]"/>
+    <word original="知" pinyin="zhī" calque="know"/>
+    <word original="乎" pinyin="hū" calque="question"/>
+    <word original="(.)" pinyin="" calque="(.)" punctuation="true"/>
 </line>
 
-<line commentary="The paradox of nurturing without possession begins here">
-    <word original="生" calque="give-birth"/>
-    <word original="之" calque="it"/>
-    <word original="畜" calque="nurture"/>
-    <word original="之" calque="it"/>
+<line commentary="The rhythm of nurturing begins - what grows when we let go of control?">
+    <word original="生" pinyin="shēng" calque="give-birth"/>
+    <word original="之" pinyin="zhī" calque="it"/>
+    <word original="畜" pinyin="xù" calque="nurture"/>
+    <word original="之" pinyin="zhī" calque="it"/>
 </line>
 
-<line commentary="A profound statement about non-attachment">
-    <word original="生" calque="give-birth"/>
-    <word original="而" calque="yet"/>
-    <word original="不" calque="not"/>
-    <word original="有" calque="possess"/>
+<line commentary="Having without possessing - can we hold without grasping?">
+    <word original="生" pinyin="shēng" calque="give-birth"/>
+    <word original="而" pinyin="ér" calque="yet"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="有" pinyin="yǒu" calque="possess"/>
 </line>
 
-<line commentary="Action without dependency - how does this relate to true power?">
-    <word original="為" calque="act"/>
-    <word original="而" calque="yet"/>
-    <word original="不" calque="not"/>
-    <word original="恃" calque="rely-on"/>
+<line commentary="Acting without depending - what security exists in letting go?">
+    <word original="為" pinyin="wéi" calque="do"/>
+    <word original="而" pinyin="ér" calque="yet"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="恃" pinyin="shì" calque="rely-on"/>
 </line>
 
-<line commentary="Leadership without control - a paradox of wise governance">
-    <word original="長" calque="grow"/>
-    <word original="而" calque="yet"/>
-    <word original="不" calque="not"/>
-    <word original="宰" calque="rule"/>
+<line commentary="Leading without controlling - how might authority exist without power?">
+    <word original="長" pinyin="zhǎng" calque="grow"/>
+    <word original="而" pinyin="ér" calque="yet"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="宰" pinyin="zǎi" calque="rule"/>
 </line>
 
-<line commentary="'Mysterious virtue' - the ultimate achievement of following the natural way">
-    <word original="是" calque="this"/>
-    <word original="謂" calque="called"/>
-    <word original="玄" calque="mysterious"/>
-    <word original="德" calque="virtue"/>
+<line commentary="The mystery of virtue - how can action be perfect when it leaves no trace?">
+    <word original="是" pinyin="shì" calque="this"/>
+    <word original="謂" pinyin="wèi" calque="called"/>
+    <word original="玄" pinyin="xuán" calque="dark"/>
+    <word original="德" pinyin="dé" calque="virtue"/>
 </line>
+
 </chapter>

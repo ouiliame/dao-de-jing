@@ -1,146 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="2">
-<line commentary="Consider: How does knowing beauty create its opposite?">
-    <word original="天下" calque="under-heaven"/>
-    <word original="皆" calque="all"/>
-    <word original="知" calque="know"/>
-    <word original="美" calque="beautiful"/>
-    <word original="之" calque="'s"/>
-    <word original="為" calque="become"/>
-    <word original="美" calque="beautiful"/>
-    <word original="斯" calque="then"/>
-    <word original="惡" calque="ugly"/>
-    <word original="已" calque="already"/>
-    <word original="." calque="." punctuation="true"/>
+
+<line commentary="Consider: how does naming beauty create its opposite? What happens when we label things?">
+    <word original="天下" pinyin="tiānxià" calque="under-heaven"/>
+    <word original="皆" pinyin="jiē" calque="all"/>
+    <word original="知" pinyin="zhī" calque="know"/>
+    <word original="美" pinyin="měi" calque="beauty"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="為" pinyin="wéi" calque="become"/>
+    <word original="美" pinyin="měi" calque="beauty"/>
+    <word original="斯" pinyin="sī" calque="then"/>
+    <word original="惡" pinyin="è" calque="ugliness"/>
+    <word original="已" pinyin="yǐ" calque="already"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="What happens when we label things as 'good'?">
-    <word original="皆" calque="all"/>
-    <word original="知" calque="know"/>
-    <word original="善" calque="good"/>
-    <word original="之" calque="'s"/>
-    <word original="為" calque="become"/>
-    <word original="善" calque="good"/>
-    <word original="斯" calque="then"/>
-    <word original="不善" calque="not-good"/>
-    <word original="已" calque="already"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="A parallel pattern emerges. What happens to 'goodness' when we try to define it?">
+    <word original="皆" pinyin="jiē" calque="all"/>
+    <word original="知" pinyin="zhī" calque="know"/>
+    <word original="善" pinyin="shàn" calque="good"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="為" pinyin="wéi" calque="become"/>
+    <word original="善" pinyin="shàn" calque="good"/>
+    <word original="斯" pinyin="sī" calque="then"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="善" pinyin="shàn" calque="good"/>
+    <word original="已" pinyin="yǐ" calque="already"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="The character 相 (mutual) appears throughout - watch how it dances between opposites.">
-    <word original="故" calque="therefore"/>
-    <word original="有" calque="having"/>
-    <word original="無" calque="nothing"/>
-    <word original="相" calque="mutually"/>
-    <word original="生" calque="generate"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="How might existence and non-existence give birth to each other?">
+    <word original="(.)故" pinyin="gù" calque="therefore"/>
+    <word original="有" pinyin="yǒu" calque="have"/>
+    <word original="無" pinyin="wú" calque="nothing"/>
+    <word original="相" pinyin="xiāng" calque="mutual"/>
+    <word original="生" pinyin="shēng" calque="give-birth"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="難" calque="difficult"/>
-    <word original="易" calque="easy"/>
-    <word original="相" calque="mutually"/>
-    <word original="成" calque="complete"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Watch how opposites define and complete each other through these verses.">
+    <word original="難" pinyin="nán" calque="difficult"/>
+    <word original="易" pinyin="yì" calque="easy"/>
+    <word original="相" pinyin="xiāng" calque="mutual"/>
+    <word original="成" pinyin="chéng" calque="complete"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="長" calque="long"/>
-    <word original="短" calque="short"/>
-    <word original="相" calque="mutually"/>
-    <word original="較" calque="compare"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Each pair dances with its opposite - how do they measure each other?">
+    <word original="長" pinyin="cháng" calque="long"/>
+    <word original="短" pinyin="duǎn" calque="short"/>
+    <word original="相" pinyin="xiāng" calque="mutual"/>
+    <word original="較" pinyin="jiào" calque="compare"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="高" calque="high"/>
-    <word original="下" calque="low"/>
-    <word original="相" calque="mutually"/>
-    <word original="傾" calque="lean"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Like water finding its level - what natural balancing occurs here?">
+    <word original="高" pinyin="gāo" calque="high"/>
+    <word original="下" pinyin="xià" calque="low"/>
+    <word original="相" pinyin="xiāng" calque="mutual"/>
+    <word original="傾" pinyin="qīng" calque="incline"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="音" calque="tone"/>
-    <word original="聲" calque="sound"/>
-    <word original="相" calque="mutually"/>
-    <word original="和" calque="harmonize"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Think of musical notes finding harmony - how do differences create beauty?">
+    <word original="音" pinyin="yīn" calque="tone"/>
+    <word original="聲" pinyin="shēng" calque="sound"/>
+    <word original="相" pinyin="xiāng" calque="mutual"/>
+    <word original="和" pinyin="hé" calque="harmonize"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="前" calque="before"/>
-    <word original="後" calque="after"/>
-    <word original="相" calque="mutually"/>
-    <word original="隨" calque="follow"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Like footprints in the sand - what follows must have something preceding it.">
+    <word original="前" pinyin="qián" calque="before"/>
+    <word original="後" pinyin="hòu" calque="after"/>
+    <word original="相" pinyin="xiāng" calque="mutual"/>
+    <word original="隨" pinyin="suí" calque="follow"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Now watch how the sage responds to this understanding of opposites:">
-    <word original="是以" calque="therefore"/>
-    <word original="聖人" calque="sage"/>
+<line commentary="Now watch how the sage responds to these natural patterns.">
+    <word original="是" pinyin="shì" calque="this"/>
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="聖" pinyin="shèng" calque="sacred"/>
+    <word original="人" pinyin="rén" calque="person"/>
 </line>
 
-<line commentary="無為 - perhaps the most famous concept in Daoism. What does it mean to act without acting?">
-    <word original="處" calque="dwell-in"/>
-    <word original="無為" calque="non-action"/>
-    <word original="之" calque="'s"/>
-    <word original="事" calque="affairs"/>
+<line commentary="What kind of action emerges from non-action?">
+    <word original="處" pinyin="chǔ" calque="dwell-in"/>
+    <word original="無" pinyin="wú" calque="non"/>
+    <word original="為" pinyin="wéi" calque="action"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="事" pinyin="shì" calque="affairs"/>
 </line>
 
-<line>
-    <word original="行" calque="practice"/>
-    <word original="不言" calque="no-words"/>
-    <word original="之" calque="'s"/>
-    <word original="教" calque="teaching"/>
+<line commentary="How might teaching occur without words?">
+    <word original="行" pinyin="xíng" calque="practice"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="言" pinyin="yán" calque="speak"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="教" pinyin="jiào" calque="teaching"/>
 </line>
 
-<line commentary="How can things arise without a beginning?">
-    <word original="萬物" calque="ten-thousand-things"/>
-    <word original="作" calque="arise"/>
-    <word original="__" calque="..."/>
-    <word original="而" calque="and"/>
-    <word original="不" calque="not"/>
-    <word original="始" calque="begin"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Watch the natural arising - what begins without beginning?">
+    <word original="萬" pinyin="wàn" calque="ten-thousand"/>
+    <word original="物" pinyin="wù" calque="things"/>
+    <word original="作" pinyin="zuò" calque="arise"/>
+    <word original="__" pinyin="" calque="..."/>
+    <word original="而" pinyin="ér" calque="yet"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="(始)" pinyin="shǐ" calque="(begin)"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="生" calque="give-birth"/>
-    <word original="而" calque="and"/>
-    <word original="不" calque="not"/>
-    <word original="有" calque="possess"/>
+<line commentary="Creation without possession - what freedom might this suggest?">
+    <word original="生" pinyin="shēng" calque="give-birth"/>
+    <word original="而" pinyin="ér" calque="yet"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="有" pinyin="yǒu" calque="have"/>
 </line>
 
-<line>
-    <word original="為" calque="act"/>
-    <word original="而" calque="and"/>
-    <word original="不" calque="not"/>
-    <word original="恃" calque="rely-on"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Action without dependence - where does true power reside?">
+    <word original="為" pinyin="wéi" calque="act"/>
+    <word original="而" pinyin="ér" calque="yet"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="恃" pinyin="shì" calque="rely-on"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="What happens when we let go of our achievements?">
-    <word original="功" calque="achievement"/>
-    <word original="成" calque="complete"/>
-    <word original="而" calque="and"/>
-    <word original="弗" calque="not"/>
-    <word original="居" calque="dwell-in"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Achievement without dwelling - what is let go of here?">
+    <word original="功" pinyin="gōng" calque="merit"/>
+    <word original="成" pinyin="chéng" calque="complete"/>
+    <word original="而" pinyin="ér" calque="yet"/>
+    <word original="弗" pinyin="fú" calque="not"/>
+    <word original="居" pinyin="jū" calque="dwell"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="夫" calque="indeed"/>
-    <word original="唯" calque="only"/>
-    <word original="弗" calque="not"/>
-    <word original="居" calque="dwell-in"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="A profound paradox emerges - what remains when we don't hold on?">
+    <word original="(.)夫" pinyin="fú" calque="indeed"/>
+    <word original="唯" pinyin="wéi" calque="only"/>
+    <word original="弗" pinyin="fú" calque="not"/>
+    <word original="居" pinyin="jū" calque="dwell"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="A beautiful paradox: by not holding on, nothing is lost.">
-    <word original="是以" calque="therefore"/>
-    <word original="不" calque="not"/>
-    <word original="去" calque="depart"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="What cannot be lost when we never try to keep it?">
+    <word original="是" pinyin="shì" calque="this"/>
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="去" pinyin="qù" calque="depart"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
+
 </chapter>

@@ -1,109 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="3">
-<line commentary="Consider: What happens when we constantly rank and compare people?">
-    <word original="不" calque="not"/>
-    <word original="尚" calque="elevate"/>
-    <word original="賢" calque="worthy"/>
+<line commentary="A provocative opening - what happens when we stop elevating the traditionally celebrated?">
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="尚" pinyin="shàng" calque="elevate"/>
+    <word original="賢" pinyin="xián" calque="worthy"/>
 </line>
 
-<line commentary="A leader's actions ripple through society. Notice how 使 introduces each consequence.">
-    <word original="使" calque="cause"/>
-    <word original="民" calque="people"/>
-    <word original="不" calque="not"/>
-    <word original="爭" calque="compete"/>
+<line commentary="Consider: does competition arise naturally, or is it fostered by our systems of recognition?">
+    <word original="使" pinyin="shǐ" calque="cause"/>
+    <word original="民" pinyin="mín" calque="people"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="爭" pinyin="zhēng" calque="compete"/>
 </line>
 
-<line commentary="What makes something valuable? Its rarity or its utility?">
-    <word original="不" calque="not"/>
-    <word original="貴" calque="value"/>
-    <word original="難得" calque="hard-to-obtain"/>
-    <word original="之" calque="'s"/>
-    <word original="貨" calque="goods"/>
+<line commentary="What makes something 'hard to obtain'? Is it intrinsic value, or our valuation?">
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="貴" pinyin="guì" calque="value"/>
+    <word original="難" pinyin="nán" calque="difficult"/>
+    <word original="得" pinyin="dé" calque="obtain"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="貨" pinyin="huò" calque="goods"/>
 </line>
 
-<line>
-    <word original="使" calque="cause"/>
-    <word original="民" calque="people"/>
-    <word original="不" calque="not"/>
-    <word original="為" calque="become"/>
-    <word original="盜" calque="thief"/>
+<line commentary="A subtle link between desire and theft - what transforms people into thieves?">
+    <word original="使" pinyin="shǐ" calque="cause"/>
+    <word original="民" pinyin="mín" calque="people"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="為" pinyin="wéi" calque="become"/>
+    <word original="盜" pinyin="dào" calque="thief"/>
 </line>
 
-<line commentary="The eyes as windows to desire - a recurring theme in Daoist thought.">
-    <word original="不" calque="not"/>
-    <word original="見" calque="see"/>
-    <word original="可" calque="can"/>
-    <word original="欲" calque="desire"/>
+<line commentary="The character 見 suggests both 'seeing' and 'revealing' - what happens when desires remain hidden?">
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="見" pinyin="xiàn" calque="show"/>
+    <word original="可" pinyin="kě" calque="can"/>
+    <word original="欲" pinyin="yù" calque="desire"/>
 </line>
 
-<line>
-    <word original="使" calque="cause"/>
-    <word original="民" calque="people"/>
-    <word original="心" calque="heart"/>
-    <word original="不" calque="not"/>
-    <word original="亂" calque="chaos"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Notice how external order flows from internal calm.">
+    <word original="使" pinyin="shǐ" calque="cause"/>
+    <word original="民" pinyin="mín" calque="people"/>
+    <word original="心" pinyin="xīn" calque="heart"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="亂" pinyin="luàn" calque="chaos"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Notice how 是以 introduces the sage's response to these principles.">
-    <word original="是" calque="this"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="聖" calque="sage"/>
-    <word original="人" calque="person"/>
-    <word original="之" calque="'s"/>
-    <word original="治" calque="govern"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="The sage's method emerges - notice how 治 (govern) shares roots with 理 (pattern, principle).">
+    <word original="是以" pinyin="shìyǐ" calque="therefore"/>
+    <word original="聖" pinyin="shèng" calque="sage"/>
+    <word original="人" pinyin="rén" calque="person"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="治" pinyin="zhì" calque="govern"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Consider the paradox: emptying to fill, weakening to strengthen.">
-    <word original="虛" calque="empty"/>
-    <word original="其" calque="their"/>
-    <word original="心" calque="heart"/>
-    <word original="實" calque="fill"/>
-    <word original="其" calque="their"/>
-    <word original="腹" calque="belly"/>
+<line commentary="A visceral metaphor - what is truly essential for sustenance?">
+    <word original="虛" pinyin="xū" calque="empty"/>
+    <word original="其" pinyin="qí" calque="their"/>
+    <word original="心" pinyin="xīn" calque="heart"/>
+    <word original="實" pinyin="shí" calque="fill"/>
+    <word original="其" pinyin="qí" calque="their"/>
+    <word original="腹" pinyin="fù" calque="belly"/>
 </line>
 
-<line>
-    <word original="弱" calque="weaken"/>
-    <word original="其" calque="their"/>
-    <word original="志" calque="ambition"/>
-    <word original="強" calque="strengthen"/>
-    <word original="其" calque="their"/>
-    <word original="骨" calque="bones"/>
+<line commentary="A paradox of strength through softness - how might weakness become power?">
+    <word original="弱" pinyin="ruò" calque="weaken"/>
+    <word original="其" pinyin="qí" calque="their"/>
+    <word original="志" pinyin="zhì" calque="will"/>
+    <word original="強" pinyin="qiáng" calque="strengthen"/>
+    <word original="其" pinyin="qí" calque="their"/>
+    <word original="骨" pinyin="gǔ" calque="bones"/>
 </line>
 
-<line commentary="What is the relationship between knowledge and desire?">
-    <word original="常" calque="always"/>
-    <word original="使" calque="cause"/>
-    <word original="民" calque="people"/>
-    <word original="無" calque="without"/>
-    <word original="知" calque="knowledge"/>
-    <word original="無" calque="without"/>
-    <word original="欲" calque="desire"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Consider: is this oppression or liberation?">
+    <word original="常" pinyin="cháng" calque="always"/>
+    <word original="使" pinyin="shǐ" calque="cause"/>
+    <word original="民" pinyin="mín" calque="people"/>
+    <word original="無" pinyin="wú" calque="without"/>
+    <word original="知" pinyin="zhī" calque="knowledge"/>
+    <word original="無" pinyin="wú" calque="without"/>
+    <word original="欲" pinyin="yù" calque="desire"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="使" calque="cause"/>
-    <word original="夫" calque="those"/>
-    <word original="智" calque="clever"/>
-    <word original="者" calque="ones"/>
-    <word original="不" calque="not"/>
-    <word original="敢" calque="dare"/>
-    <word original="為" calque="act"/>
-    <word original="__" calque="..."/>
+<line commentary="How might wisdom itself become a barrier?">
+    <word original="使" pinyin="shǐ" calque="cause"/>
+    <word original="夫" pinyin="fū" calque="those"/>
+    <word original="智" pinyin="zhì" calque="wise"/>
+    <word original="者" pinyin="zhě" calque="ones"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="敢" pinyin="gǎn" calque="dare"/>
+    <word original="為" pinyin="wéi" calque="act"/>
+    <word original="__" pinyin="" calque="..." punctuation="true"/>
 </line>
 
-<line commentary="The ultimate paradox of governance: achieving order through non-action.">
-    <word original="為" calque="act"/>
-    <word original="無" calque="non"/>
-    <word original="為" calque="action"/>
-    <word original="則" calque="then"/>
-    <word original="無" calque="nothing"/>
-    <word original="不" calque="not"/>
-    <word original="治" calque="governed"/>
-    <word original="[矣(.)]" calque="[indeed(.)]" punctuation="true"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="The chapter's crescendo - action through non-action. What lies in this space between doing and not-doing?">
+    <word original="為" pinyin="wéi" calque="do"/>
+    <word original="無" pinyin="wú" calque="non"/>
+    <word original="為" pinyin="wéi" calque="doing"/>
+    <word original="則" pinyin="zé" calque="then"/>
+    <word original="無" pinyin="wú" calque="nothing"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="治" pinyin="zhì" calque="governed"/>
+    <word original="[矣(.)]" pinyin="" calque="[indeed(.)]" punctuation="true"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 </chapter>

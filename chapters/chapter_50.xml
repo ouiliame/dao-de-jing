@@ -1,130 +1,130 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="50">
-<line commentary="A powerful opening using opposing forces that frame the entire chapter's discussion.">
-    <word original="出" calque="exit"/>
-    <word original="生" calque="life"/>
-    <word original="入" calque="enter"/>
-    <word original="死" calque="death"/>
+<line commentary="Consider the dance between emergence and return - what cycles do you observe in nature?">
+    <word original="出" calque="exit" pinyin="chū"/>
+    <word original="生" calque="life" pinyin="shēng"/>
+    <word original="入" calque="enter" pinyin="rù"/>
+    <word original="死" calque="death" pinyin="sǐ"/>
 </line>
 
-<line commentary="How many follow the Dao of life? A mathematical observation begins.">
-    <word original="生" calque="life"/>
-    <word original="之" calque="'s"/>
-    <word original="徒" calque="followers"/>
-    <word original="十" calque="ten"/>
-    <word original="有" calque="have"/>
-    <word original="三" calque="three"/>
+<line commentary="What might this ratio suggest about the balance of existence?">
+    <word original="生" calque="life" pinyin="shēng"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="徒" calque="followers" pinyin="tú"/>
+    <word original="十" calque="ten" pinyin="shí"/>
+    <word original="有" calque="have" pinyin="yǒu"/>
+    <word original="三" calque="three" pinyin="sān"/>
 </line>
 
-<line>
-    <word original="死" calque="death"/>
-    <word original="之" calque="'s"/>
-    <word original="徒" calque="followers"/>
-    <word original="十" calque="ten"/>
-    <word original="有" calque="have"/>
-    <word original="三" calque="three"/>
+<line commentary="Mirror numbers - when counting death's companions, do we find life's reflection?">
+    <word original="死" calque="death" pinyin="sǐ"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="徒" calque="followers" pinyin="tú"/>
+    <word original="十" calque="ten" pinyin="shí"/>
+    <word original="有" calque="have" pinyin="yǒu"/>
+    <word original="三" calque="three" pinyin="sān"/>
 </line>
 
-<line commentary="What makes a place of death in life? Consider how our actions might create our vulnerabilities.">
-    <word original="人" calque="person"/>
-    <word original="之" calque="'s"/>
-    <word original="生" calque="life"/>
-    <word original="動" calque="move"/>
-    <word original="之" calque="'s"/>
-    <word original="死" calque="death"/>
-    <word original="地" calque="place"/>
+<line commentary="The movement of life leads to death's domain - what paradox lies here?">
+    <word original="人" calque="person" pinyin="rén"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="生" calque="life" pinyin="shēng"/>
+    <word original="動" calque="move" pinyin="dòng"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="死" calque="death" pinyin="sǐ"/>
+    <word original="地" calque="ground" pinyin="dì"/>
 </line>
 
-<line>
-    <word original="亦" calque="also"/>
-    <word original="十" calque="ten"/>
-    <word original="有" calque="have"/>
-    <word original="三" calque="three"/>
+<line commentary="The same number returns - what might this repetition reveal?">
+    <word original="亦" calque="also" pinyin="yì"/>
+    <word original="十" calque="ten" pinyin="shí"/>
+    <word original="有" calque="have" pinyin="yǒu"/>
+    <word original="三" calque="three" pinyin="sān"/>
 </line>
 
-<line commentary="A rhetorical question that makes us pause and consider why.">
-    <word original="(.)夫" calque="(now)"/>
-    <word original="何" calque="what"/>
-    <word original="故" calque="reason"/>
-    <word original="." calque="."/>
+<line commentary="A philosophical question emerges - what cause lies behind these patterns?">
+    <word original="(.)夫" calque="(indeed)" pinyin="fú"/>
+    <word original="何" calque="what" pinyin="hé"/>
+    <word original="故" calque="reason" pinyin="gù"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line commentary="Consider: does intensely pursuing life actually bring us closer to death?">
-    <word original="以" calque="by-means-of"/>
-    <word original="其" calque="their"/>
-    <word original="生" calque="live"/>
-    <word original="生" calque="life"/>
-    <word original="之" calque="'s"/>
-    <word original="厚" calque="thick"/>
-    <word original="." calque="."/>
+<line commentary="Consider how intensity of living might lead to death - what wisdom lies in moderation?">
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="生" calque="life" pinyin="shēng"/>
+    <word original="生" calque="live" pinyin="shēng"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="厚" calque="thick" pinyin="hòu"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line commentary="What does it mean to truly manage life? Not just survive, but live properly?">
-    <word original="蓋" calque="indeed"/>
-    <word original="聞" calque="hear"/>
-    <word original="善" calque="good"/>
-    <word original="攝" calque="manage"/>
-    <word original="生" calque="life"/>
-    <word original="者" calque="one-who"/>
+<line commentary="What wisdom comes through hearing rather than seeing?">
+    <word original="蓋" calque="indeed" pinyin="gài"/>
+    <word original="聞" calque="hear" pinyin="wén"/>
+    <word original="善" calque="good-at" pinyin="shàn"/>
+    <word original="攝" calque="nurture" pinyin="shè"/>
+    <word original="生" calque="life" pinyin="shēng"/>
+    <word original="者" calque="one-who" pinyin="zhě"/>
 </line>
 
-<line commentary="The rhinoceros and tiger represent dangers we cannot control - yet some pass through unharmed.">
-    <word original="(陵)" calque="(land)"/>
-    <word original="行" calque="travel"/>
-    <word original="不" calque="not"/>
-    <word original="遇" calque="meet"/>
-    <word original="兕" calque="rhinoceros"/>
-    <word original="虎" calque="tiger"/>
+<line commentary="Walking through danger unscathed - what state of being might this suggest?">
+    <word original="(陵)" calque="(hill)" pinyin="líng"/>
+    <word original="行" calque="walk" pinyin="xíng"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="遇" calque="encounter" pinyin="yù"/>
+    <word original="兕" calque="rhinoceros" pinyin="sì"/>
+    <word original="虎" calque="tiger" pinyin="hǔ"/>
 </line>
 
-<line commentary="Even in war, they remain unarmored - what kind of strength is this?">
-    <word original="入" calque="enter"/>
-    <word original="軍" calque="army"/>
-    <word original="不" calque="not"/>
-    <word original="被" calque="wear"/>
-    <word original="甲" calque="armor"/>
-    <word original="兵" calque="weapon"/>
+<line commentary="Entering battle without armor - what protection lies in vulnerability?">
+    <word original="入" calque="enter" pinyin="rù"/>
+    <word original="軍" calque="army" pinyin="jūn"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="被" calque="wear" pinyin="bèi"/>
+    <word original="甲" calque="armor" pinyin="jiǎ"/>
+    <word original="兵" calque="weapon" pinyin="bīng"/>
 </line>
 
-<line>
-    <word original="兕" calque="rhinoceros"/>
-    <word original="無" calque="not-have"/>
-    <word original="所" calque="place"/>
-    <word original="投" calque="throw"/>
-    <word original="其" calque="its"/>
-    <word original="角" calque="horn"/>
+<line commentary="The horn finds no target - how might absence create safety?">
+    <word original="兕" calque="rhinoceros" pinyin="sì"/>
+    <word original="無" calque="without" pinyin="wú"/>
+    <word original="所" calque="place" pinyin="suǒ"/>
+    <word original="投" calque="throw" pinyin="tóu"/>
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="角" calque="horn" pinyin="jiǎo"/>
 </line>
 
-<line>
-    <word original="虎" calque="tiger"/>
-    <word original="無" calque="not-have"/>
-    <word original="所" calque="place"/>
-    <word original="措" calque="place"/>
-    <word original="其" calque="its"/>
-    <word original="爪" calque="claw"/>
+<line commentary="The tiger's claws find no purchase - what power lies in offering no resistance?">
+    <word original="虎" calque="tiger" pinyin="hǔ"/>
+    <word original="無" calque="without" pinyin="wú"/>
+    <word original="所" calque="place" pinyin="suǒ"/>
+    <word original="措" calque="place" pinyin="cuò"/>
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="爪" calque="claw" pinyin="zhǎo"/>
 </line>
 
-<line>
-    <word original="兵" calque="weapon"/>
-    <word original="無" calque="not-have"/>
-    <word original="所" calque="place"/>
-    <word original="容" calque="contain"/>
-    <word original="其" calque="its"/>
-    <word original="刃" calque="blade"/>
+<line commentary="The weapon finds no entry - how might wholeness repel harm?">
+    <word original="兵" calque="weapon" pinyin="bīng"/>
+    <word original="無" calque="without" pinyin="wú"/>
+    <word original="所" calque="place" pinyin="suǒ"/>
+    <word original="容" calque="contain" pinyin="róng"/>
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="刃" calque="blade" pinyin="rèn"/>
 </line>
 
-<line>
-    <word original="(.)夫" calque="(now)"/>
-    <word original="何" calque="what"/>
-    <word original="故" calque="reason"/>
-    <word original="." calque="."/>
+<line commentary="The question repeats - has its meaning transformed through the passage?">
+    <word original="(.)夫" calque="(indeed)" pinyin="fú"/>
+    <word original="何" calque="what" pinyin="hé"/>
+    <word original="故" calque="reason" pinyin="gù"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line commentary="The profound answer - by not creating places for death, one becomes invulnerable. What does it mean to have no death-spots in your life?">
-    <word original="以" calque="by-means-of"/>
-    <word original="其" calque="their"/>
-    <word original="無" calque="not-have"/>
-    <word original="死" calque="death"/>
-    <word original="地" calque="place"/>
+<line commentary="Absence of death's ground - where might true safety reside?">
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="無" calque="without" pinyin="wú"/>
+    <word original="死" calque="death" pinyin="sǐ"/>
+    <word original="地" calque="ground" pinyin="dì"/>
 </line>
 </chapter>

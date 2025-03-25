@@ -1,69 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="48">
-<line commentary="Notice the perfect parallel structure contrasting scholarly pursuit with following the Dao. Which path appeals to you?">
-    <word original="為" calque="practice"/>
-    <word original="學" calque="learning"/>
-    <word original="(者)" calque="(one-who)"/>
-    <word original="日" calque="daily"/>
-    <word original="益" calque="increase"/>
+
+<line commentary="Consider: what accumulates day by day? Knowledge, or perhaps something heavier?">
+    <word original="為" pinyin="wéi" calque="engage-in"/>
+    <word original="學" pinyin="xué" calque="learning"/>
+    <word original="(者)" pinyin="zhě" calque="(one-who)"/>
+    <word original="日" pinyin="rì" calque="day"/>
+    <word original="益" pinyin="yì" calque="increase"/>
 </line>
 
-<line commentary="What happens when we reduce instead of accumulate? Is less truly more?">
-    <word original="為" calque="practice"/>
-    <word original="道" calque="Dao"/>
-    <word original="(者)" calque="(one-who)"/>
-    <word original="日" calque="daily"/>
-    <word original="損" calque="decrease"/>
+<line commentary="A mirror to the first line - but what is being reduced? What falls away?">
+    <word original="為" pinyin="wéi" calque="engage-in"/>
+    <word original="道" pinyin="dào" calque="way"/>
+    <word original="(者)" pinyin="zhě" calque="(one-who)"/>
+    <word original="日" pinyin="rì" calque="day"/>
+    <word original="損" pinyin="sǔn" calque="decrease"/>
 </line>
 
-<line commentary="The repetition of 損 creates a spiral of reduction. Where does this path lead?">
-    <word original="損" calque="decrease"/>
-    <word original="之" calque="it"/>
-    <word original="又" calque="again"/>
-    <word original="損" calque="decrease"/>
+<line commentary="The character 損 appears twice - like footprints leading into silence. What remains after double reduction?">
+    <word original="損" pinyin="sǔn" calque="decrease"/>
+    <word original="之" pinyin="zhī" calque="it"/>
+    <word original="又" pinyin="yòu" calque="again"/>
+    <word original="損" pinyin="sǔn" calque="decrease"/>
 </line>
 
-<line commentary="The ultimate destination of reduction - wu-wei. But what is truly meant by 'non-action'?">
-    <word original="以" calque="until"/>
-    <word original="至" calque="arrive"/>
-    <word original="於" calque="at"/>
-    <word original="無" calque="non"/>
-    <word original="為" calque="action"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Notice how 以至於 creates a natural flow, like water finding its lowest point. Where does this reduction lead?">
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="至" pinyin="zhì" calque="arrive"/>
+    <word original="於" pinyin="yú" calque="at"/>
+    <word original="無" pinyin="wú" calque="without"/>
+    <word original="為" pinyin="wéi" calque="doing"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="A profound paradox: through non-action, everything is accomplished. How can this be?">
-    <word original="無" calque="non"/>
-    <word original="為" calque="action"/>
-    <word original="而" calque="yet"/>
-    <word original="無" calque="nothing"/>
-    <word original="不" calque="not"/>
-    <word original="為" calque="done"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="A seeming paradox emerges - how can non-action lead to complete action?">
+    <word original="無" pinyin="wú" calque="without"/>
+    <word original="為" pinyin="wéi" calque="doing"/>
+    <word original="而" pinyin="ér" calque="yet"/>
+    <word original="無" pinyin="wú" calque="without"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="為" pinyin="wéi" calque="doing"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="取" calque="take"/>
-    <word original="天下" calque="all-under-heaven"/>
-    <word original="常" calque="always"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="無" calque="non"/>
-    <word original="事" calque="affair"/>
+<line commentary="What might it mean to take charge of all-under-heaven through non-engagement?">
+    <word original="取" pinyin="qǔ" calque="take"/>
+    <word original="天" pinyin="tiān" calque="heaven"/>
+    <word original="下" pinyin="xià" calque="below"/>
+    <word original="常" pinyin="cháng" calque="always"/>
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="無" pinyin="wú" calque="without"/>
+    <word original="事" pinyin="shì" calque="affairs"/>
 </line>
 
-<line>
-    <word original="及" calque="when"/>
-    <word original="其" calque="it"/>
-    <word original="有" calque="has"/>
-    <word original="事" calque="affairs"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="When does 'having affairs' begin? At what point does involvement become interference?">
+    <word original="及" pinyin="jí" calque="reach"/>
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="有" pinyin="yǒu" calque="have"/>
+    <word original="事" pinyin="shì" calque="affairs"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Consider: how does forcing action prevent achievement? What's the relationship between effort and success?">
-    <word original="不" calque="not"/>
-    <word original="足" calque="sufficient"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="取" calque="take"/>
-    <word original="天下" calque="all-under-heaven"/>
+<line commentary="A final paradox - can mastery of the world come through withdrawal from it?">
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="足" pinyin="zú" calque="sufficient"/>
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="取" pinyin="qǔ" calque="take"/>
+    <word original="天" pinyin="tiān" calque="heaven"/>
+    <word original="下" pinyin="xià" calque="below"/>
 </line>
+
 </chapter>

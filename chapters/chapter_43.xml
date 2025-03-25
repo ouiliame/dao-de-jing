@@ -1,58 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="43">
-<line commentary="Consider: How can the softest thing in the universe penetrate the hardest?">
-    <word original="天下" calque="under-heaven"/>
-    <word original="之" calque="'s"/>
-    <word original="至" calque="most"/>
-    <word original="柔" calque="soft"/>
+<line commentary="Consider water's ability to penetrate stone—what makes the seemingly weak overcome the apparently strong?">
+    <word original="天" pinyin="tiān" calque="heaven"/>
+    <word original="下" pinyin="xià" calque="below"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="至" pinyin="zhì" calque="most"/>
+    <word original="柔" pinyin="róu" calque="soft"/>
 </line>
 
-<line commentary="Like water flowing through stone - how does the gentle overcome the mighty?">
-    <word original="馳騁" calque="gallop-through"/>
-    <word original="天下" calque="under-heaven"/>
-    <word original="之" calque="'s"/>
-    <word original="至" calque="most"/>
-    <word original="堅" calque="hard"/>
+<line commentary="How does the softest thing ride through/penetrate the hardest? What natural phenomena demonstrate this principle?">
+    <word original="馳" pinyin="chí" calque="gallop"/>
+    <word original="騁" pinyin="chěng" calque="race"/>
+    <word original="天" pinyin="tiān" calque="heaven"/>
+    <word original="下" pinyin="xià" calque="below"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="至" pinyin="zhì" calque="most"/>
+    <word original="堅" pinyin="jiān" calque="hard"/>
 </line>
 
-<line commentary="Think of water seeping into seemingly solid rock. What has no substance can enter where there is no space?">
-    <word original="無" calque="without"/>
-    <word original="有" calque="having"/>
-    <word original="入" calque="enter"/>
-    <word original="無" calque="without"/>
-    <word original="間" calque="space"/>
+<line commentary="A paradox of presence and absence—what enters where there is no space?">
+    <word original="無" pinyin="wú" calque="without"/>
+    <word original="有" pinyin="yǒu" calque="having"/>
+    <word original="入" pinyin="rù" calque="enter"/>
+    <word original="無" pinyin="wú" calque="without"/>
+    <word original="間" pinyin="jiān" calque="space"/>
 </line>
 
-<line commentary="What insight reveals itself when we stop trying to force understanding?">
-    <word original="吾" calque="I"/>
-    <word original="是" calque="this"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="知" calque="know"/>
-    <word original="無為" calque="non-action"/>
-    <word original="之" calque="'s"/>
-    <word original="有" calque="have"/>
-    <word original="益" calque="benefit"/>
-    <word original="." calque="."/>
+<line commentary="What insights emerge when we observe benefit arising from non-action?">
+    <word original="吾" pinyin="wú" calque="I"/>
+    <word original="是" pinyin="shì" calque="this"/>
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="知" pinyin="zhī" calque="know"/>
+    <word original="無" pinyin="wú" calque="non"/>
+    <word original="為" pinyin="wéi" calque="action"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="有" pinyin="yǒu" calque="have"/>
+    <word original="益" pinyin="yì" calque="benefit"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="How can the deepest teachings transcend words?">
-    <word original="不" calque="not"/>
-    <word original="言" calque="speak"/>
-    <word original="之" calque="'s"/>
-    <word original="教" calque="teaching"/>
+<line commentary="How might silence teach more effectively than words?">
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="言" pinyin="yán" calque="speak"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="教" pinyin="jiào" calque="teaching"/>
 </line>
 
-<line commentary="What power lies in doing nothing?">
-    <word original="無為" calque="non-action"/>
-    <word original="之" calque="'s"/>
-    <word original="益" calque="benefit"/>
+<line commentary="When doing nothing creates benefit, what kind of action is really happening?">
+    <word original="無" pinyin="wú" calque="non"/>
+    <word original="為" pinyin="wéi" calque="action"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="益" pinyin="yì" calque="benefit"/>
 </line>
 
-<line commentary="Why do so few grasp these profound paradoxes?">
-    <word original="天下" calque="under-heaven"/>
-    <word original="希" calque="rare"/>
-    <word original="及" calque="reach"/>
-    <word original="之" calque="it"/>
-    <word original="." calque="."/>
+<line commentary="Why might the simplest truths be the hardest to grasp?">
+    <word original="天" pinyin="tiān" calque="heaven"/>
+    <word original="下" pinyin="xià" calque="below"/>
+    <word original="希" pinyin="xī" calque="rare"/>
+    <word original="及" pinyin="jí" calque="reach"/>
+    <word original="之" pinyin="zhī" calque="it"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 </chapter>

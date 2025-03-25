@@ -1,124 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="32">
-<line commentary="The chapter opens with a fundamental paradox - how can we speak of the constant way that has no name?">
-    <word original="道" calque="the Dao"/>
-    <word original="常" calque="constant"/>
-    <word original="無" calque="without"/>
-    <word original="名" calque="name"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Consider: what power might reside in that which has no name? How does naming shape our perception of reality?">
+    <word original="道" calque="way" pinyin="dào"/>
+    <word original="常" calque="constant" pinyin="cháng"/>
+    <word original="無" calque="without" pinyin="wú"/>
+    <word original="名" calque="name" pinyin="míng"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line commentary="Even in its simplest form, it holds profound power">
-    <word original="樸" calque="simple-block"/>
-    <word original="雖" calque="although"/>
-    <word original="小" calque="small"/>
+<line commentary="樸 (uncarved wood) suggests potential in simplicity. What strength lies in remaining unformed?">
+    <word original="樸" calque="simplicity" pinyin="pǔ"/>
+    <word original="雖" calque="although" pinyin="suī"/>
+    <word original="小" calque="small" pinyin="xiǎo"/>
 </line>
 
-<line commentary="What does it mean that nothing can subordinate the Dao? Consider how the smallest seed contains the potential for a mighty tree.">
-    <word original="天" calque="heaven"/>
-    <word original="下" calque="below"/>
-    <word original="莫" calque="none"/>
-    <word original="能" calque="able"/>
-    <word original="臣" calque="minister-to"/>
-    <word original="__" calque="..." punctuation="true"/>
+<line commentary="A paradox of power: what cannot be mastered might be most powerful.">
+    <word original="天" calque="heaven" pinyin="tiān"/>
+    <word original="下" calque="below" pinyin="xià"/>
+    <word original="莫" calque="none" pinyin="mò"/>
+    <word original="能" calque="can" pinyin="néng"/>
+    <word original="臣" calque="serve" pinyin="chén"/>
+    <word original="__" calque="..." pinyin=""/>
 </line>
 
-<line>
-    <word original="侯" calque="marquis"/>
-    <word original="王" calque="king"/>
-    <word original="若" calque="if"/>
-    <word original="能" calque="able"/>
-    <word original="守" calque="guard"/>
-    <word original="之" calque="it"/>
+<line commentary="How might 'guarding' differ from 'controlling'? What happens when rulers align with natural order?">
+    <word original="侯" calque="marquis" pinyin="hóu"/>
+    <word original="王" calque="king" pinyin="wáng"/>
+    <word original="若" calque="if" pinyin="ruò"/>
+    <word original="能" calque="can" pinyin="néng"/>
+    <word original="守" calque="guard" pinyin="shǒu"/>
+    <word original="之" calque="it" pinyin="zhī"/>
 </line>
 
-<line commentary="'Spontaneously submit' - what kind of power attracts without forcing?">
-    <word original="萬" calque="ten-thousand"/>
-    <word original="物" calque="things"/>
-    <word original="將" calque="will"/>
-    <word original="自" calque="self"/>
-    <word original="賓" calque="guest"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Notice how 自 (self-so) suggests natural occurrence rather than forced submission.">
+    <word original="萬" calque="ten-thousand" pinyin="wàn"/>
+    <word original="物" calque="things" pinyin="wù"/>
+    <word original="將" calque="will" pinyin="jiāng"/>
+    <word original="自" calque="self-so" pinyin="zì"/>
+    <word original="賓" calque="guest" pinyin="bīn"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="天" calque="heaven"/>
-    <word original="地" calque="earth"/>
-    <word original="相" calque="mutual"/>
-    <word original="合" calque="join"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="What harmony emerges when opposites meet? Heaven and Earth as cosmic dance partners.">
+    <word original="天" calque="heaven" pinyin="tiān"/>
+    <word original="地" calque="earth" pinyin="dì"/>
+    <word original="相" calque="mutual" pinyin="xiāng"/>
+    <word original="合" calque="join" pinyin="hé"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line commentary="Sweet dew - nature's blessing that falls without command">
-    <word original="以" calque="by-means-of"/>
-    <word original="降" calque="descend"/>
-    <word original="甘露" calque="sweet-dew"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Sweet dew - nature's blessing that falls without command. What gives freely without demand?">
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="降" calque="descend" pinyin="jiàng"/>
+    <word original="甘" calque="sweet" pinyin="gān"/>
+    <word original="露" calque="dew" pinyin="lù"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line commentary="Consider: what makes people follow naturally without being ordered?">
-    <word original="民" calque="people"/>
-    <word original="莫" calque="none"/>
-    <word original="之" calque="it"/>
-    <word original="令" calque="command"/>
+<line commentary="The people find their way without command - what wisdom lies in this natural ordering?">
+    <word original="民" calque="people" pinyin="mín"/>
+    <word original="莫" calque="none" pinyin="mò"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="令" calque="command" pinyin="lìng"/>
 </line>
 
-<line>
-    <word original="而" calque="yet"/>
-    <word original="自" calque="self"/>
-    <word original="均" calque="equal"/>
+<line commentary="自 appears again - how does self-organization differ from imposed order?">
+    <word original="而" calque="yet" pinyin="ér"/>
+    <word original="自" calque="self-so" pinyin="zì"/>
+    <word original="均" calque="equal" pinyin="jūn"/>
 </line>
 
-<line>
-    <word original="[焉]" calque="[herein]"/>
-    <word original="始" calque="begin"/>
-    <word original="制" calque="system"/>
-    <word original="有" calque="have"/>
-    <word original="名" calque="name"/>
+<line commentary="The moment of naming marks a transition - what is gained and lost when we name things?">
+    <word original="[焉]" calque="[thereupon]" pinyin="yān"/>
+    <word original="始" calque="begin" pinyin="shǐ"/>
+    <word original="制" calque="system" pinyin="zhì"/>
+    <word original="有" calque="have" pinyin="yǒu"/>
+    <word original="名" calque="name" pinyin="míng"/>
 </line>
 
-<line>
-    <word original="名" calque="name"/>
-    <word original="亦" calque="also"/>
-    <word original="既" calque="already"/>
-    <word original="有" calque="have"/>
+<line commentary="Once named, what follows? Consider the cascade of consequences from naming.">
+    <word original="名" calque="name" pinyin="míng"/>
+    <word original="亦" calque="also" pinyin="yì"/>
+    <word original="既" calque="already" pinyin="jì"/>
+    <word original="有" calque="have" pinyin="yǒu"/>
 </line>
 
-<line commentary="Knowing when to stop - perhaps the highest wisdom?">
-    <word original="夫" calque="that"/>
-    <word original="亦" calque="also"/>
-    <word original="將" calque="will"/>
-    <word original="知" calque="know"/>
-    <word original="止" calque="stop"/>
+<line commentary="Knowing when to stop - what wisdom lies in recognizing limits?">
+    <word original="夫" calque="that" pinyin="fū"/>
+    <word original="亦" calque="also" pinyin="yì"/>
+    <word original="將" calque="will" pinyin="jiāng"/>
+    <word original="知" calque="know" pinyin="zhī"/>
+    <word original="止" calque="stop" pinyin="zhǐ"/>
 </line>
 
-<line>
-    <word original="知" calque="know"/>
-    <word original="止" calque="stop"/>
-    <word original="(所)" calque="(that-which)"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="不" calque="not"/>
-    <word original="殆" calque="danger"/>
+<line commentary="Safety in knowing boundaries - how does awareness of limits protect us?">
+    <word original="知" calque="know" pinyin="zhī"/>
+    <word original="止" calque="stop" pinyin="zhǐ"/>
+    <word original="(所)" calque="(that-which)" pinyin="suǒ"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="殆" calque="danger" pinyin="dài"/>
 </line>
 
-<line>
-    <word original="譬" calque="compare"/>
-    <word original="道" calque="the Dao"/>
-    <word original="之" calque="'s"/>
-    <word original="在" calque="exist"/>
-    <word original="天" calque="heaven"/>
-    <word original="下" calque="below"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="The Dao flows through all things - how does it manifest in the natural world?">
+    <word original="譬" calque="compare" pinyin="pì"/>
+    <word original="道" calque="way" pinyin="dào"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="在" calque="exist-in" pinyin="zài"/>
+    <word original="天" calque="heaven" pinyin="tiān"/>
+    <word original="下" calque="below" pinyin="xià"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line commentary="A powerful closing metaphor: like water, the Dao flows to the lowest places, yet all streams naturally flow to it">
-    <word original="猶" calque="like"/>
-    <word original="川" calque="river"/>
-    <word original="谷" calque="valley"/>
-    <word original="之" calque="'s"/>
-    <word original="(與)" calque="(and)"/>
-    <word original="江" calque="river"/>
-    <word original="海" calque="sea"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Water flowing to the sea - a metaphor for natural return. What draws all things to their proper place?">
+    <word original="猶" calque="like" pinyin="yóu"/>
+    <word original="川" calque="rivers" pinyin="chuān"/>
+    <word original="谷" calque="valleys" pinyin="gǔ"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="(與)" calque="(with)" pinyin="yǔ"/>
+    <word original="江" calque="rivers" pinyin="jiāng"/>
+    <word original="海" calque="seas" pinyin="hǎi"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 </chapter>

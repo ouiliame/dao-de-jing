@@ -1,75 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="12">
-<line commentary="Notice how this chapter opens with three parallel warnings about sensory excess. What might this tell us about human nature?">
-    <word original="五" calque="five"/>
-    <word original="色" calque="colors"/>
-    <word original="令" calque="cause"/>
-    <word original="人" calque="person"/>
-    <word original="目" calque="eyes"/>
-    <word original="盲" calque="blind"/>
-    <word original="." calque="." punctuation="true"/>
+
+<line commentary="What might excessive visual stimulation blind us to? Consider how modern screens affect our true seeing.">
+    <word original="五" pinyin="wǔ" calque="five"/>
+    <word original="色" pinyin="sè" calque="colors"/>
+    <word original="令" pinyin="lìng" calque="cause"/>
+    <word original="人" pinyin="rén" calque="person"/>
+    <word original="目" pinyin="mù" calque="eyes"/>
+    <word original="盲" pinyin="máng" calque="blind"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="五" calque="five"/>
-    <word original="音" calque="sounds"/>
-    <word original="令" calque="cause"/>
-    <word original="人" calque="person"/>
-    <word original="耳" calque="ears"/>
-    <word original="聾" calque="deaf"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="In a world of constant noise, what subtle harmonies might we be missing?">
+    <word original="五" pinyin="wǔ" calque="five"/>
+    <word original="音" pinyin="yīn" calque="sounds"/>
+    <word original="令" pinyin="lìng" calque="cause"/>
+    <word original="人" pinyin="rén" calque="person"/>
+    <word original="耳" pinyin="ěr" calque="ears"/>
+    <word original="聾" pinyin="lóng" calque="deaf"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="五" calque="five"/>
-    <word original="味" calque="flavors"/>
-    <word original="令" calque="cause"/>
-    <word original="人" calque="person"/>
-    <word original="口" calque="mouth"/>
-    <word original="爽" calque="numb"/>
+<line commentary="爽 carries both 'refreshing' and 'numbing' meanings - what happens when taste becomes insensitive?">
+    <word original="五" pinyin="wǔ" calque="five"/>
+    <word original="味" pinyin="wèi" calque="flavors"/>
+    <word original="令" pinyin="lìng" calque="cause"/>
+    <word original="人" pinyin="rén" calque="person"/>
+    <word original="口" pinyin="kǒu" calque="mouth"/>
+    <word original="爽" pinyin="shuǎng" calque="numb"/>
 </line>
 
-<line commentary="Consider how this line shifts from physical senses to mental state. Why might hunting represent more than just hunting?">
-    <word original="馳騁" calque="gallop-rapidly"/>
-    <word original="畋獵" calque="hunt-chase"/>
-    <word original="令" calque="cause"/>
-    <word original="人" calque="person"/>
-    <word original="心" calque="heart-mind"/>
-    <word original="發狂" calque="go-mad"/>
+<line commentary="Racing and hunting - pursuits of excess. How do modern 'hunts' disturb our hearts?">
+    <word original="馳騁" pinyin="chí-chěng" calque="galloping"/>
+    <word original="畋獵" pinyin="tián-liè" calque="hunting"/>
+    <word original="令" pinyin="lìng" calque="cause"/>
+    <word original="人" pinyin="rén" calque="person"/>
+    <word original="心" pinyin="xīn" calque="heart"/>
+    <word original="發" pinyin="fā" calque="send-forth"/>
+    <word original="狂" pinyin="kuáng" calque="wild"/>
 </line>
 
-<line>
-    <word original="難" calque="difficult"/>
-    <word original="得" calque="obtain"/>
-    <word original="之" calque="'s"/>
-    <word original="貨" calque="goods"/>
-    <word original="令" calque="cause"/>
-    <word original="人" calque="person"/>
-    <word original="行" calque="conduct"/>
-    <word original="妨" calque="obstruct"/>
+<line commentary="What obstacles do our desires create? Consider how pursuit of rarities might impede our path.">
+    <word original="難得" pinyin="nán-dé" calque="hard-to-obtain"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="貨" pinyin="huò" calque="goods"/>
+    <word original="令" pinyin="lìng" calque="cause"/>
+    <word original="人" pinyin="rén" calque="person"/>
+    <word original="行" pinyin="xíng" calque="conduct"/>
+    <word original="妨" pinyin="fáng" calque="hinder"/>
 </line>
 
-<line commentary="是以 signals a solution to the problems listed above. What makes this solution wise?">
-    <word original="是" calque="this"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="聖" calque="sage"/>
-    <word original="人" calque="person"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="The sage emerges as counterpoint to excess - watch how the pattern shifts.">
+    <word original="是" pinyin="shì" calque="this"/>
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="聖" pinyin="shèng" calque="sage"/>
+    <word original="人" pinyin="rén" calque="person"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="What deeper meaning might lie in the contrast between belly and eyes?">
-    <word original="為" calque="act-for"/>
-    <word original="腹" calque="belly"/>
-    <word original="不" calque="not"/>
-    <word original="為" calque="act-for"/>
-    <word original="目" calque="eyes"/>
+<line commentary="Belly versus eyes - essential versus superficial. What nourishes your true nature?">
+    <word original="為" pinyin="wèi" calque="act-for"/>
+    <word original="腹" pinyin="fù" calque="belly"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="為" pinyin="wèi" calque="act-for"/>
+    <word original="目" pinyin="mù" calque="eyes"/>
 </line>
 
-<line>
-    <word original="(.)故" calque="therefore"/>
-    <word original="去" calque="remove"/>
-    <word original="彼" calque="that"/>
-    <word original="取" calque="take"/>
-    <word original="此" calque="this"/>
+<line commentary="A choice between 'this' and 'that' - what represents true sustenance versus empty attraction in your life?">
+    <word original="故" pinyin="gù" calque="therefore"/>
+    <word original="去" pinyin="qù" calque="reject"/>
+    <word original="彼" pinyin="bǐ" calque="that"/>
+    <word original="取" pinyin="qǔ" calque="choose"/>
+    <word original="此" pinyin="cǐ" calque="this"/>
 </line>
+
 </chapter>

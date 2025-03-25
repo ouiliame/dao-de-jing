@@ -1,96 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="49">
-<line commentary="Consider: How can having 'no constant heart' be a virtue?">
-    <word original="聖人" calque="sage-person"/>
-    <word original="無" calque="without"/>
-    <word original="常" calque="constant"/>
-    <word original="心" calque="heart"/>
+<line commentary="A profound paradox emerges: how might having no fixed mind actually represent the highest consistency?">
+    <word original="聖" pinyin="shèng" calque="sacred"/>
+    <word original="人" pinyin="rén" calque="person"/>
+    <word original="無" pinyin="wú" calque="without"/>
+    <word original="常" pinyin="cháng" calque="constant"/>
+    <word original="心" pinyin="xīn" calque="heart-mind"/>
 </line>
 
-<line commentary="The sage adapts to match the hearts of others - but who is really following whom?">
-    <word original="以" calque="by-means-of"/>
-    <word original="百姓" calque="hundred-names"/>
-    <word original="心" calque="heart"/>
-    <word original="為" calque="become"/>
-    <word original="心" calque="heart"/>
+<line commentary="What happens when we adopt others' perspectives as our own? Consider the boundary between self and other.">
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="百" pinyin="bǎi" calque="hundred"/>
+    <word original="姓" pinyin="xìng" calque="surnames"/>
+    <word original="心" pinyin="xīn" calque="heart-mind"/>
+    <word original="為" pinyin="wéi" calque="become"/>
+    <word original="心" pinyin="xīn" calque="heart-mind"/>
 </line>
 
-<line commentary="A statement of radical acceptance - but what does it mean to be 'good' to the good?">
-    <word original="善" calque="good"/>
-    <word original="者" calque="one-who"/>
-    <word original="吾" calque="I"/>
-    <word original="善" calque="good"/>
-    <word original="之" calque="them"/>
+<line commentary="Notice how 善 appears twice - how does this repetition reflect the sage's response to goodness?">
+    <word original="善" pinyin="shàn" calque="good"/>
+    <word original="者" pinyin="zhě" calque="one-who"/>
+    <word original="吾" pinyin="wú" calque="I"/>
+    <word original="善" pinyin="shàn" calque="good-to"/>
+    <word original="之" pinyin="zhī" calque="them"/>
 </line>
 
-<line commentary="The challenge: Can you truly be equally good to those who aren't good?">
-    <word original="不" calque="not"/>
-    <word original="善" calque="good"/>
-    <word original="者" calque="one-who"/>
-    <word original="吾" calque="I"/>
-    <word original="亦" calque="also"/>
-    <word original="善" calque="good"/>
-    <word original="之" calque="them"/>
+<line commentary="A challenging idea: treating the not-good with goodness. What might this reveal about true virtue?">
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="善" pinyin="shàn" calque="good"/>
+    <word original="者" pinyin="zhě" calque="one-who"/>
+    <word original="吾" pinyin="wú" calque="I"/>
+    <word original="亦" pinyin="yì" calque="also"/>
+    <word original="善" pinyin="shàn" calque="good-to"/>
+    <word original="之" pinyin="zhī" calque="them"/>
 </line>
 
-<line commentary="Virtue manifests as goodness">
-    <word original="德" calque="virtue"/>
-    <word original="善" calque="good"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="How might this condensed phrase capture the essence of virtue's relationship with goodness?">
+    <word original="德" pinyin="dé" calque="virtue"/>
+    <word original="善" pinyin="shàn" calque="good"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="信" calque="trust"/>
-    <word original="者" calque="one-who"/>
-    <word original="吾" calque="I"/>
-    <word original="信" calque="trust"/>
-    <word original="之" calque="them"/>
+<line commentary="The pattern repeats with trust - consider how this parallelism emphasizes the sage's consistent approach.">
+    <word original="信" pinyin="xìn" calque="trust"/>
+    <word original="者" pinyin="zhě" calque="one-who"/>
+    <word original="吾" pinyin="wú" calque="I"/>
+    <word original="信" pinyin="xìn" calque="trust"/>
+    <word original="之" pinyin="zhī" calque="them"/>
 </line>
 
-<line>
-    <word original="不" calque="not"/>
-    <word original="信" calque="trust"/>
-    <word original="者" calque="one-who"/>
-    <word original="吾" calque="I"/>
-    <word original="亦" calque="also"/>
-    <word original="信" calque="trust"/>
-    <word original="之" calque="them"/>
+<line commentary="When we trust the untrustworthy, what transformations become possible?">
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="信" pinyin="xìn" calque="trust"/>
+    <word original="者" pinyin="zhě" calque="one-who"/>
+    <word original="吾" pinyin="wú" calque="I"/>
+    <word original="亦" pinyin="yì" calque="also"/>
+    <word original="信" pinyin="xìn" calque="trust"/>
+    <word original="之" pinyin="zhī" calque="them"/>
 </line>
 
-<line commentary="Trust begets virtue - or is it the other way around?">
-    <word original="德" calque="virtue"/>
-    <word original="信" calque="trust"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Like the previous statement on goodness, this terse phrase invites deep contemplation on virtue's nature.">
+    <word original="德" pinyin="dé" calque="virtue"/>
+    <word original="信" pinyin="xìn" calque="trust"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="歙歙 paints a picture of careful, attentive movement - like breathing">
-    <word original="聖人" calque="sage-person"/>
-    <word original="在" calque="at"/>
-    <word original="天下" calque="under-heaven"/>
-    <word original="歙歙" calque="carefully"/>
+<line commentary="歙歙 suggests careful, attentive movement - how might this relate to the sage's universal acceptance?">
+    <word original="聖" pinyin="shèng" calque="sacred"/>
+    <word original="人" pinyin="rén" calque="person"/>
+    <word original="在" pinyin="zài" calque="within"/>
+    <word original="天" pinyin="tiān" calque="heaven"/>
+    <word original="下" pinyin="xià" calque="below"/>
+    <word original="歙" pinyin="xī" calque="careful"/>
+    <word original="歙" pinyin="xī" calque="attentive"/>
 </line>
 
-<line commentary="To 'muddy' hearts - why would confusion be beneficial?">
-    <word original="[焉]" calque="[thereby]"/>
-    <word original="為" calque="for"/>
-    <word original="天下" calque="under-heaven"/>
-    <word original="渾" calque="muddy"/>
-    <word original="其" calque="their"/>
-    <word original="心" calque="heart"/>
+<line commentary="渾 suggests both confusion and unity - what might it mean to 'muddle' hearts together?">
+    <word original="[焉]" pinyin="yān" calque="[therein]"/>
+    <word original="為" pinyin="wéi" calque="make"/>
+    <word original="天" pinyin="tiān" calque="heaven"/>
+    <word original="下" pinyin="xià" calque="below"/>
+    <word original="渾" pinyin="hún" calque="muddle"/>
+    <word original="其" pinyin="qí" calque="their"/>
+    <word original="心" pinyin="xīn" calque="heart-mind"/>
 </line>
 
-<line commentary="The people focus their senses - but on what?">
-    <word original="百姓" calque="hundred-names"/>
-    <word original="皆" calque="all"/>
-    <word original="注" calque="pour"/>
-    <word original="其" calque="their"/>
-    <word original="耳目" calque="ears-eyes"/>
+<line commentary="What happens when all attention focuses on a single point? Consider the power of collective awareness.">
+    <word original="百" pinyin="bǎi" calque="hundred"/>
+    <word original="姓" pinyin="xìng" calque="surnames"/>
+    <word original="皆" pinyin="jiē" calque="all"/>
+    <word original="注" pinyin="zhù" calque="pour"/>
+    <word original="其" pinyin="qí" calque="their"/>
+    <word original="耳" pinyin="ěr" calque="ears"/>
+    <word original="目" pinyin="mù" calque="eyes"/>
 </line>
 
-<line commentary="What does it mean to treat everyone as children? Is this patronizing or enlightened?">
-    <word original="聖人" calque="sage-person"/>
-    <word original="皆" calque="all"/>
-    <word original="孩" calque="child"/>
-    <word original="之" calque="them"/>
+<line commentary="To treat all as children suggests both care and equality - how might this transform relationships?">
+    <word original="聖" pinyin="shèng" calque="sacred"/>
+    <word original="人" pinyin="rén" calque="person"/>
+    <word original="皆" pinyin="jiē" calque="all"/>
+    <word original="孩" pinyin="hái" calque="child"/>
+    <word original="之" pinyin="zhī" calque="them"/>
 </line>
 </chapter>

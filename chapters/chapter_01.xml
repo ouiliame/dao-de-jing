@@ -1,97 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="1">
-<line commentary="Notice how the first line creates a paradox: the Dao that can be spoken of is not the eternal way. How can we talk about something that cannot be talked about?">
-    <word original="." calque="." punctuation="true"/>
-    <word original="道" calque="the Dao"/>
-    <word original="可" calque="can"/>
-    <word original="道" calque="speak"/>
-    <word original="非" calque="not"/>
-    <word original="常" calque="constant"/>
-    <word original="道" calque="the Dao"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="A profound paradox opens the text - can the eternal way be captured in words?">
+    <word original="." calque="." pinyin="." punctuation="true"/>
+    <word original="道" calque="way" pinyin="dào"/>
+    <word original="可" calque="can" pinyin="kě"/>
+    <word original="道" calque="speak" pinyin="dào"/>
+    <word original="非" calque="not" pinyin="fēi"/>
+    <word original="常" calque="constant" pinyin="cháng"/>
+    <word original="道" calque="way" pinyin="dào"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line commentary="Consider: What happens when we name something? Does giving something a name limit what it can be?">
-    <word original="名" calque="name"/>
-    <word original="可" calque="can"/>
-    <word original="名" calque="name"/>
-    <word original="非" calque="not"/>
-    <word original="常" calque="constant"/>
-    <word original="名" calque="name"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="The parallel structure mirrors the first line - what happens when we try to fix eternal principles in language?">
+    <word original="名" calque="name" pinyin="míng"/>
+    <word original="可" calque="can" pinyin="kě"/>
+    <word original="名" calque="name" pinyin="míng"/>
+    <word original="非" calque="not" pinyin="fēi"/>
+    <word original="常" calque="constant" pinyin="cháng"/>
+    <word original="名" calque="name" pinyin="míng"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line commentary="Before names existed, what was there? Imagine a world before language.">
-    <word original="無" calque="without"/>
-    <word original="名" calque="name"/>
-    <word original="天" calque="heaven"/>
-    <word original="地" calque="earth"/>
-    <word original="之" calque="'s"/>
-    <word original="始" calque="beginning"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Before names, before distinctions - what exists in that primordial space?">
+    <word original="無" calque="without" pinyin="wú"/>
+    <word original="名" calque="name" pinyin="míng"/>
+    <word original="天地" calque="heaven-earth" pinyin="tiān-dì"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="始" calque="beginning" pinyin="shǐ"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line commentary="How does naming things create our world? What is the relationship between names and reality?">
-    <word original="有" calque="having"/>
-    <word original="名" calque="name"/>
-    <word original="萬" calque="ten-thousand"/>
-    <word original="物" calque="things"/>
-    <word original="之" calque="'s"/>
-    <word original="母" calque="mother"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="From unnamed simplicity emerges the named multiplicity - what is this mysterious mother?">
+    <word original="有" calque="having" pinyin="yǒu"/>
+    <word original="名" calque="name" pinyin="míng"/>
+    <word original="萬" calque="ten-thousand" pinyin="wàn"/>
+    <word original="物" calque="things" pinyin="wù"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="母" calque="mother" pinyin="mǔ"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line commentary="What do we see when we let go of desire? What are the 'mysteries' that become visible?">
-    <word original="故" calque="therefore"/>
-    <word original="常" calque="constantly"/>
-    <word original="無" calque="without"/>
-    <word original="欲" calque="desire"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="觀" calque="observe"/>
-    <word original="其" calque="its"/>
-    <word original="妙" calque="subtleties"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="How might emptying desire change what we perceive?">
+    <word original="故" calque="therefore" pinyin="gù"/>
+    <word original="常" calque="constant" pinyin="cháng"/>
+    <word original="無" calque="without" pinyin="wú"/>
+    <word original="欲" calque="desire" pinyin="yù"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="觀" calque="observe" pinyin="guān"/>
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="妙" calque="subtlety" pinyin="miào"/>
 </line>
 
-<line commentary="How does desire shape what we see in the world?">
-    <word original="常" calque="constantly"/>
-    <word original="有" calque="having"/>
-    <word original="欲" calque="desire"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="觀" calque="observe"/>
-    <word original="其" calque="its"/>
-    <word original="徼" calque="boundaries"/>
+<line commentary="Two ways of seeing - through desire and desirelessness. Which reveals more?">
+    <word original="常" calque="constant" pinyin="cháng"/>
+    <word original="有" calque="having" pinyin="yǒu"/>
+    <word original="欲" calque="desire" pinyin="yù"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="觀" calque="observe" pinyin="guān"/>
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="徼" calque="boundaries" pinyin="jiào"/>
 </line>
 
-<line commentary="How can two opposites emerge from the same source?">
-    <word original="此" calque="these"/>
-    <word original="兩" calque="two"/>
-    <word original="者" calque="ones"/>
-    <word original="同" calque="same"/>
-    <word original="出" calque="emerge"/>
-    <word original="而" calque="yet"/>
-    <word original="異" calque="different"/>
-    <word original="名" calque="names"/>
+<line commentary="Same source, different names - how can opposites emerge from unity?">
+    <word original="此" calque="these" pinyin="cǐ"/>
+    <word original="兩" calque="two" pinyin="liǎng"/>
+    <word original="者" calque="ones" pinyin="zhě"/>
+    <word original="同" calque="same" pinyin="tóng"/>
+    <word original="出" calque="emerge" pinyin="chū"/>
+    <word original="而" calque="yet" pinyin="ér"/>
+    <word original="異" calque="different" pinyin="yì"/>
+    <word original="名" calque="names" pinyin="míng"/>
 </line>
 
-<line>
-    <word original="同" calque="together"/>
-    <word original="謂" calque="call"/>
-    <word original="之" calque="it"/>
-    <word original="玄" calque="mysterious"/>
+<line commentary="What depth of mystery might this darkness contain?">
+    <word original="同" calque="together" pinyin="tóng"/>
+    <word original="謂" calque="called" pinyin="wèi"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="玄" calque="dark-mysterious" pinyin="xuán"/>
 </line>
 
-<line commentary="What lies beyond the mysterious? Can you feel the spiral of deepening mystery?">
-    <word original="玄" calque="mysterious"/>
-    <word original="之" calque="'s"/>
-    <word original="又" calque="further"/>
-    <word original="玄" calque="mysterious"/>
+<line commentary="Beyond the first mystery lies another - what lies in these endless depths?">
+    <word original="玄" calque="dark-mysterious" pinyin="xuán"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="又" calque="again" pinyin="yòu"/>
+    <word original="玄" calque="dark-mysterious" pinyin="xuán"/>
 </line>
 
-<line commentary="How does mystery give birth to understanding?">
-    <word original="眾" calque="many"/>
-    <word original="妙" calque="wonders"/>
-    <word original="之" calque="'s"/>
-    <word original="門" calque="gateway"/>
+<line commentary="A gateway to all mysteries - where might this door lead?">
+    <word original="眾" calque="many" pinyin="zhòng"/>
+    <word original="妙" calque="mysteries" pinyin="miào"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="門" calque="gate" pinyin="mén"/>
 </line>
 </chapter>

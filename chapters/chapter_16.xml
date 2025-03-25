@@ -1,126 +1,130 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="16">
-<line commentary="Consider: What does it mean to reach the ultimate void? Is emptiness a destination or a practice?">
-    <word original="致" calque="reach"/>
-    <word original="虛" calque="void"/>
-    <word original="極" calque="ultimate"/>
-    <word original="." calque="." punctuation="true"/>
+
+<line commentary="Consider emptiness not as void, but as potential. How might reaching for emptiness lead to fullness?">
+    <word original="致" pinyin="zhì" calque="reach"/>
+    <word original="虛" pinyin="xū" calque="empty"/>
+    <word original="極" pinyin="jí" calque="utmost"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Notice how 'maintain stillness' pairs with the previous line's 'reach void' - what's the relationship between emptiness and stillness?">
-    <word original="守" calque="maintain"/>
-    <word original="靜" calque="still"/>
-    <word original="篤" calque="sincere"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="What happens when we guard stillness as preciously as we might guard treasure?">
+    <word original="守" pinyin="shǒu" calque="maintain"/>
+    <word original="靜" pinyin="jìng" calque="stillness"/>
+    <word original="篤" pinyin="dǔ" calque="sincere"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="萬物" calque="ten-thousand-things"/>
-    <word original="並" calque="together"/>
-    <word original="作" calque="arise"/>
+<line commentary="The character 並 suggests simultaneous arising - imagine countless beings emerging at once, like spring flowers.">
+    <word original="萬" pinyin="wàn" calque="ten-thousand"/>
+    <word original="物" pinyin="wù" calque="things"/>
+    <word original="並" pinyin="bìng" calque="together"/>
+    <word original="作" pinyin="zuò" calque="arise"/>
 </line>
 
-<line commentary="What insight comes from watching things return to their source?">
-    <word original="吾" calque="I"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="觀" calque="observe"/>
-    <word original="[其]" calque="[their]"/>
-    <word original="復" calque="return"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="From stillness, one can witness the eternal return. What might we see in this watching?">
+    <word original="吾" pinyin="wú" calque="I"/>
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="觀" pinyin="guān" calque="observe"/>
+    <word original="[其]" pinyin="qí" calque="[their]"/>
+    <word original="復" pinyin="fù" calque="return"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="(.)夫" calque="(indeed)"/>
-    <word original="物" calque="things"/>
-    <word original="芸芸" calque="numerous"/>
-    <word original="各" calque="each"/>
-    <word original="復" calque="return"/>
-    <word original="歸" calque="go-back"/>
-    <word original="其" calque="their"/>
-    <word original="根" calque="root"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="The reduplication in 芸芸 paints a picture of endless abundance - like watching leaves dance in wind.">
+    <word original="(.)夫" pinyin="fú" calque="(.)indeed"/>
+    <word original="物" pinyin="wù" calque="things"/>
+    <word original="芸" pinyin="yún" calque="abundant"/>
+    <word original="芸" pinyin="yún" calque="abundant"/>
+    <word original="各" pinyin="gè" calque="each"/>
+    <word original="復" pinyin="fù" calque="return"/>
+    <word original="歸" pinyin="guī" calque="go-back"/>
+    <word original="其" pinyin="qí" calque="their"/>
+    <word original="根" pinyin="gēn" calque="root"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Why might returning to one's root be associated with stillness?">
-    <word original="歸" calque="return"/>
-    <word original="根" calque="root"/>
-    <word original="曰" calque="called"/>
-    <word original="靜" calque="stillness"/>
+<line commentary="When does return become stillness? When does stillness become return?">
+    <word original="歸" pinyin="guī" calque="return"/>
+    <word original="根" pinyin="gēn" calque="root"/>
+    <word original="曰" pinyin="yuē" calque="called"/>
+    <word original="靜" pinyin="jìng" calque="stillness"/>
 </line>
 
-<line>
-    <word original="[靜]" calque="[stillness]"/>
-    <word original="是" calque="this"/>
-    <word original="謂" calque="called"/>
-    <word original="復" calque="return"/>
-    <word original="命" calque="life-force"/>
+<line commentary="A profound equation: stillness equals destiny's return. What destiny awaits in stillness?">
+    <word original="[靜]" pinyin="jìng" calque="[stillness]"/>
+    <word original="是" pinyin="shì" calque="is"/>
+    <word original="謂" pinyin="wèi" calque="called"/>
+    <word original="復" pinyin="fù" calque="return"/>
+    <word original="命" pinyin="mìng" calque="destiny"/>
 </line>
 
-<line commentary="常 is a key concept throughout Daoist thought - what makes something 'constant'?">
-    <word original="復" calque="return"/>
-    <word original="命" calque="life-force"/>
-    <word original="曰" calque="called"/>
-    <word original="常" calque="constant"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="What makes something constant? Is it unchanging, or reliably changing?">
+    <word original="復" pinyin="fù" calque="return"/>
+    <word original="命" pinyin="mìng" calque="destiny"/>
+    <word original="曰" pinyin="yuē" calque="called"/>
+    <word original="常" pinyin="cháng" calque="constant"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="知" calque="know"/>
-    <word original="常" calque="constant"/>
-    <word original="曰" calque="called"/>
-    <word original="明" calque="bright"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Knowing constancy brings clarity - but what kind of knowing is this?">
+    <word original="知" pinyin="zhī" calque="know"/>
+    <word original="常" pinyin="cháng" calque="constant"/>
+    <word original="曰" pinyin="yuē" calque="called"/>
+    <word original="明" pinyin="míng" calque="bright"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Notice the contrast between knowing and not knowing constancy - what are the consequences?">
-    <word original="不" calque="not"/>
-    <word original="知" calque="know"/>
-    <word original="常" calque="constant"/>
-    <word original="妄" calque="reckless"/>
-    <word original="作" calque="act"/>
-    <word original="凶" calque="misfortune"/>
+<line commentary="Consider how ignorance of patterns might lead to disorder, like a musician ignorant of rhythm.">
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="知" pinyin="zhī" calque="know"/>
+    <word original="常" pinyin="cháng" calque="constant"/>
+    <word original="妄" pinyin="wàng" calque="reckless"/>
+    <word original="作" pinyin="zuò" calque="act"/>
+    <word original="凶" pinyin="xiōng" calque="misfortune"/>
 </line>
 
-<line>
-    <word original="知" calque="know"/>
-    <word original="常" calque="constant"/>
-    <word original="容" calque="contain"/>
+<line commentary="From constancy flows capacity - like a vessel that can hold anything because it knows its nature.">
+    <word original="知" pinyin="zhī" calque="know"/>
+    <word original="常" pinyin="cháng" calque="constant"/>
+    <word original="容" pinyin="róng" calque="contain"/>
 </line>
 
-<line commentary="Watch how the text builds from personal capacity (容) to cosmic principle (道) through a series of transformations">
-    <word original="容" calque="contain"/>
-    <word original="乃" calque="thus"/>
-    <word original="公" calque="impartial"/>
+<line commentary="Watch as personal capacity expands into universal embrace.">
+    <word original="容" pinyin="róng" calque="contain"/>
+    <word original="乃" pinyin="nǎi" calque="then"/>
+    <word original="公" pinyin="gōng" calque="impartial"/>
 </line>
 
-<line>
-    <word original="公" calque="impartial"/>
-    <word original="乃" calque="thus"/>
-    <word original="王" calque="king"/>
+<line commentary="Each step widens the circle of awareness. Where might your circle lead?">
+    <word original="公" pinyin="gōng" calque="impartial"/>
+    <word original="乃" pinyin="nǎi" calque="then"/>
+    <word original="王" pinyin="wáng" calque="sovereign"/>
 </line>
 
-<line>
-    <word original="王" calque="king"/>
-    <word original="乃" calque="thus"/>
-    <word original="天" calque="heaven"/>
+<line commentary="The sovereign aligns with heaven - not through force, but through natural accordance.">
+    <word original="王" pinyin="wáng" calque="sovereign"/>
+    <word original="乃" pinyin="nǎi" calque="then"/>
+    <word original="天" pinyin="tiān" calque="heaven"/>
 </line>
 
-<line>
-    <word original="天" calque="heaven"/>
-    <word original="乃" calque="thus"/>
-    <word original="道" calque="the Dao"/>
+<line commentary="Heaven flows into Way - what separates them? What joins them?">
+    <word original="天" pinyin="tiān" calque="heaven"/>
+    <word original="乃" pinyin="nǎi" calque="then"/>
+    <word original="道" pinyin="dào" calque="way"/>
 </line>
 
-<line>
-    <word original="道" calque="the Dao"/>
-    <word original="乃" calque="thus"/>
-    <word original="久" calque="enduring"/>
+<line commentary="The Way extends beyond time - yet manifests in each moment.">
+    <word original="道" pinyin="dào" calque="way"/>
+    <word original="乃" pinyin="nǎi" calque="then"/>
+    <word original="久" pinyin="jiǔ" calque="enduring"/>
 </line>
 
-<line commentary="A powerful conclusion - how does understanding the constant patterns of nature lead to living without danger?">
-    <word original="沒" calque="end"/>
-    <word original="身" calque="body"/>
-    <word original="不" calque="not"/>
-    <word original="殆" calque="danger"/>
+<line commentary="A paradox of preservation: losing self-preservation preserves safety. How might this be?">
+    <word original="沒" pinyin="mò" calque="vanish"/>
+    <word original="身" pinyin="shēn" calque="body"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="殆" pinyin="dài" calque="danger"/>
 </line>
+
 </chapter>

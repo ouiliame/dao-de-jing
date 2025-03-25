@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="33">
-<line commentary="Notice how knowing others vs. knowing self produces different results - which is superior?">
-    <word original="知" calque="know"/>
-    <word original="人" calque="others"/>
-    <word original="者" calque="one-who"/>
-    <word original="智" calque="wise"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Consider: Is knowing others truly wisdom, or merely knowledge? What's the distinction?">
+    <word original="知" pinyin="zhī" calque="know"/>
+    <word original="人" pinyin="rén" calque="others"/>
+    <word original="者" pinyin="zhě" calque="one-who"/>
+    <word original="智" pinyin="zhì" calque="wise"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="明 suggests a deeper, clearer insight than 智 - what might this tell us about self-knowledge?">
-    <word original="自" calque="self"/>
-    <word original="知" calque="know"/>
-    <word original="者" calque="one-who"/>
-    <word original="明" calque="bright"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Notice how 明 (bright/clear) differs from 智 (wise) - what insight might this illuminate about self-knowledge?">
+    <word original="自" pinyin="zì" calque="self"/>
+    <word original="知" pinyin="zhī" calque="know"/>
+    <word original="者" pinyin="zhě" calque="one-who"/>
+    <word original="明" pinyin="míng" calque="bright"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Consider: is having power over others true strength?">
-    <word original="勝" calque="overcome"/>
-    <word original="人" calque="others"/>
-    <word original="者" calque="one-who"/>
-    <word original="有" calque="have"/>
-    <word original="力" calque="force"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Physical power over others - but at what cost?">
+    <word original="勝" pinyin="shèng" calque="overcome"/>
+    <word original="人" pinyin="rén" calque="others"/>
+    <word original="者" pinyin="zhě" calque="one-who"/>
+    <word original="有" pinyin="yǒu" calque="have"/>
+    <word original="力" pinyin="lì" calque="strength"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="The character 強 suggests a more fundamental strength than mere force (力)">
-    <word original="自" calque="self"/>
-    <word original="勝" calque="overcome"/>
-    <word original="者" calque="one-who"/>
-    <word original="強" calque="strong"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Self-mastery yields a different kind of strength - how might this 強 differ from 力?">
+    <word original="自" pinyin="zì" calque="self"/>
+    <word original="勝" pinyin="shèng" calque="overcome"/>
+    <word original="者" pinyin="zhě" calque="one-who"/>
+    <word original="強" pinyin="qiáng" calque="powerful"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Wealth here is defined by contentment, not possession - how does this change our view of richness?">
-    <word original="知" calque="know"/>
-    <word original="足" calque="enough"/>
-    <word original="者" calque="one-who"/>
-    <word original="富" calque="wealthy"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="What kind of wealth comes from knowing contentment?">
+    <word original="知" pinyin="zhī" calque="know"/>
+    <word original="足" pinyin="zú" calque="enough"/>
+    <word original="者" pinyin="zhě" calque="one-who"/>
+    <word original="富" pinyin="fù" calque="wealthy"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="志 implies both will and purpose - what makes action truly powerful?">
-    <word original="強" calque="strong"/>
-    <word original="行" calque="act"/>
-    <word original="者" calque="one-who"/>
-    <word original="有" calque="have"/>
-    <word original="志" calque="will"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Strong action paired with will - but is this the same strength as self-mastery?">
+    <word original="強" pinyin="qiáng" calque="strong"/>
+    <word original="行" pinyin="xíng" calque="act"/>
+    <word original="者" pinyin="zhě" calque="one-who"/>
+    <word original="有" pinyin="yǒu" calque="have"/>
+    <word original="志" pinyin="zhì" calque="will"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="'Not losing one's place' - what does it mean to truly endure?">
-    <word original="不" calque="not"/>
-    <word original="失" calque="lose"/>
-    <word original="其" calque="one's"/>
-    <word original="所" calque="place"/>
-    <word original="者" calque="one-who"/>
-    <word original="久" calque="endure"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="How does not losing one's place lead to endurance?">
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="失" pinyin="shī" calque="lose"/>
+    <word original="其" pinyin="qí" calque="one's"/>
+    <word original="所" pinyin="suǒ" calque="place"/>
+    <word original="者" pinyin="zhě" calque="one-who"/>
+    <word original="久" pinyin="jiǔ" calque="enduring"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="How can one 'die yet not perish'? Consider both literal and metaphorical meanings">
-    <word original="死" calque="die"/>
-    <word original="而" calque="yet"/>
-    <word original="不" calque="not"/>
-    <word original="亡" calque="perish"/>
-    <word original="者" calque="one-who"/>
-    <word original="壽" calque="long-lived"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="A paradox of immortality - dying without perishing. What kind of death transcends death?">
+    <word original="死" pinyin="sǐ" calque="die"/>
+    <word original="而" pinyin="ér" calque="yet"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="亡" pinyin="wáng" calque="perish"/>
+    <word original="者" pinyin="zhě" calque="one-who"/>
+    <word original="壽" pinyin="shòu" calque="long-lived"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 </chapter>

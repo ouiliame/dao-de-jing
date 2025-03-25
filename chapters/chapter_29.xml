@@ -1,104 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="29">
-<line commentary="Notice how this opening line sets up a hypothetical scenario about attempting to control the world">
-    <word original="將" calque="about-to"/>
-    <word original="欲" calque="desire"/>
-    <word original="取" calque="seize"/>
-    <word original="天下" calque="under-heaven"/>
-    <word original="而" calque="and"/>
-    <word original="為" calque="do"/>
-    <word original="之" calque="it"/>
+
+<line commentary="What happens when desire meets the vastness of heaven? Consider the space between intention and outcome.">
+    <word original="將" pinyin="jiāng" calque="about-to"/>
+    <word original="欲" pinyin="yù" calque="desire"/>
+    <word original="取" pinyin="qǔ" calque="grasp"/>
+    <word original="天下" pinyin="tiān-xià" calque="under-heaven"/>
+    <word original="而" pinyin="ér" calque="and"/>
+    <word original="為" pinyin="wéi" calque="do"/>
+    <word original="之" pinyin="zhī" calque="it"/>
 </line>
 
-<line commentary="A profound observation of futility - what do you think the speaker has 'seen'?">
-    <word original="吾" calque="I"/>
-    <word original="見" calque="see"/>
-    <word original="其" calque="its"/>
-    <word original="不" calque="not"/>
-    <word original="得" calque="obtain"/>
-    <word original="已" calque="already"/>
+<line commentary="What insights emerge when we observe without attachment? Notice how 'already' (已) shifts the temporal perspective.">
+    <word original="吾" pinyin="wú" calque="I"/>
+    <word original="見" pinyin="jiàn" calque="see"/>
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="得" pinyin="dé" calque="obtain"/>
+    <word original="已" pinyin="yǐ" calque="already"/>
 </line>
 
-<line commentary="'Sacred vessel' - what makes something too sacred to manipulate?">
-    <word original="[(.)夫]" calque="(indeed)"/>
-    <word original="天下" calque="under-heaven"/>
-    <word original="神器" calque="sacred-vessel"/>
-    <word original="." calque="."/>
+<line commentary="'Sacred vessel' - what does this metaphor suggest about the nature of governing? Can a vessel be controlled without breaking it?">
+    <word original="[(.)夫]" pinyin="fú" calque="(indeed)"/>
+    <word original="天下" pinyin="tiān-xià" calque="under-heaven"/>
+    <word original="神器" pinyin="shén-qì" calque="sacred-vessel"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="不" calque="not"/>
-    <word original="可" calque="can"/>
-    <word original="為" calque="do"/>
-    <word original="也" calque="indeed"/>
-    <word original="(.)" calque="(.)"/>
+<line commentary="A simple negation that carries profound implications about the nature of action and control.">
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="可" pinyin="kě" calque="can"/>
+    <word original="為" pinyin="wéi" calque="do"/>
+    <word original="也" pinyin="yě" calque="indeed"/>
+    <word original="(.)" pinyin="" calque="(.)" punctuation="true"/>
 </line>
 
-<line commentary="Consider: what happens when we try too hard to control things?">
-    <word original="為" calque="do"/>
-    <word original="者" calque="one-who"/>
-    <word original="敗" calque="ruin"/>
-    <word original="之" calque="it"/>
+<line commentary="Notice how 'defeat' emerges from 'doing' - what natural law might this reveal?">
+    <word original="為" pinyin="wéi" calque="do"/>
+    <word original="者" pinyin="zhě" calque="one-who"/>
+    <word original="敗" pinyin="bài" calque="defeat"/>
+    <word original="之" pinyin="zhī" calque="it"/>
 </line>
 
-<line>
-    <word original="執" calque="grasp"/>
-    <word original="者" calque="one-who"/>
-    <word original="失" calque="lose"/>
-    <word original="之" calque="it"/>
+<line commentary="The parallel with the previous line deepens the paradox - what connects 'grasping' and 'losing'?">
+    <word original="執" pinyin="zhí" calque="grasp"/>
+    <word original="者" pinyin="zhě" calque="one-who"/>
+    <word original="失" pinyin="shī" calque="lose"/>
+    <word original="之" pinyin="zhī" calque="it"/>
 </line>
 
-<line>
-    <word original="(.)" calque="(.)"/>
-    <word original="故" calque="therefore"/>
-    <word original="物" calque="things"/>
+<line commentary="'Therefore' introduces natural observations - watch how the text shifts from human action to natural patterns.">
+    <word original="(.)故" pinyin="gù" calque="(therefore)"/>
+    <word original="物" pinyin="wù" calque="things"/>
 </line>
 
-<line commentary="Notice how the text begins to describe natural cycles - can you feel the rhythm?">
-    <word original="或" calque="some"/>
-    <word original="行" calque="go"/>
-    <word original="或" calque="some"/>
-    <word original="隨" calque="follow"/>
+<line commentary="A dance of opposites begins - what wisdom lies in these natural alternations?">
+    <word original="或" pinyin="huò" calque="some"/>
+    <word original="行" pinyin="xíng" calque="lead"/>
+    <word original="或" pinyin="huò" calque="some"/>
+    <word original="隨" pinyin="suí" calque="follow"/>
 </line>
 
-<line>
-    <word original="或" calque="some"/>
-    <word original="歔" calque="inhale"/>
-    <word original="或" calque="some"/>
-    <word original="吹" calque="exhale"/>
+<line commentary="The breath of nature itself - warm and cool winds alternating without force.">
+    <word original="或" pinyin="huò" calque="some"/>
+    <word original="(歔)" pinyin="xū" calque="(warm-breath)"/>
+    <word original="或" pinyin="huò" calque="some"/>
+    <word original="吹" pinyin="chuī" calque="blow"/>
 </line>
 
-<line>
-    <word original="或" calque="some"/>
-    <word original="強" calque="strong"/>
-    <word original="或" calque="some"/>
-    <word original="羸" calque="weak"/>
+<line commentary="Strength and weakness interplay - where does true power reside?">
+    <word original="或" pinyin="huò" calque="some"/>
+    <word original="強" pinyin="qiáng" calque="strong"/>
+    <word original="或" pinyin="huò" calque="some"/>
+    <word original="羸" pinyin="léi" calque="weak"/>
 </line>
 
-<line>
-    <word original="或" calque="some"/>
-    <word original="挫" calque="defeat"/>
-    <word original="或" calque="some"/>
-    <word original="隳" calque="destroy"/>
+<line commentary="The cycle completes with breaking down - is this destruction or transformation?">
+    <word original="或" pinyin="huò" calque="some"/>
+    <word original="挫" pinyin="cuò" calque="break"/>
+    <word original="或" pinyin="huò" calque="some"/>
+    <word original="隳" pinyin="huī" calque="destroy"/>
 </line>
 
-<line commentary="How does the sage's approach differ from the opening lines?">
-    <word original="是以" calque="therefore"/>
-    <word original="聖人" calque="sage"/>
+<line commentary="How does the wise one respond to these natural patterns?">
+    <word original="是" pinyin="shì" calque="this"/>
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="聖" pinyin="shèng" calque="sage"/>
+    <word original="人" pinyin="rén" calque="person"/>
 </line>
 
-<line commentary="The final three lines offer a solution through elimination - what remains when we remove these extremes?">
-    <word original="去" calque="remove"/>
-    <word original="甚" calque="excessive"/>
+<line commentary="Three parallel removals - what remains when excess is gone?">
+    <word original="去" pinyin="qù" calque="remove"/>
+    <word original="甚" pinyin="shèn" calque="excessive"/>
 </line>
 
-<line>
-    <word original="去" calque="remove"/>
-    <word original="奢" calque="luxurious"/>
+<line commentary="Each 'removal' brings us closer to natural simplicity.">
+    <word original="去" pinyin="qù" calque="remove"/>
+    <word original="奢" pinyin="shē" calque="extravagant"/>
 </line>
 
-<line>
-    <word original="去" calque="remove"/>
-    <word original="泰" calque="extreme"/>
+<line commentary="The final removal - consider how these three aspects might relate to the chapter's opening about grasping the world.">
+    <word original="去" pinyin="qù" calque="remove"/>
+    <word original="泰" pinyin="tài" calque="extreme"/>
 </line>
+
 </chapter>

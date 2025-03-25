@@ -1,128 +1,128 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="13">
-<line commentary="Consider: What happens when we receive praise? Do we grip it anxiously, afraid to lose it?">
-    <word original="寵" calque="favor"/>
-    <word original="辱" calque="shame"/>
-    <word original="若" calque="like"/>
-    <word original="驚" calque="startle"/>
+<line commentary="Consider: Why might receiving favor be as startling as receiving disgrace? What does this suggest about attachments?">
+    <word original="寵" calque="favor" pinyin="chǒng"/>
+    <word original="辱" calque="disgrace" pinyin="rǔ"/>
+    <word original="若" calque="like" pinyin="ruò"/>
+    <word original="驚" calque="startle" pinyin="jīng"/>
 </line>
 
-<line commentary="A profound equation: valuing the great trouble as much as the self">
-    <word original="貴" calque="value"/>
-    <word original="大" calque="great"/>
-    <word original="患" calque="trouble"/>
-    <word original="若" calque="like"/>
-    <word original="身" calque="self"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="The body as great trouble—perhaps our greatest attachment is to our physical existence?">
+    <word original="貴" calque="value" pinyin="guì"/>
+    <word original="大" calque="great" pinyin="dà"/>
+    <word original="患" calque="trouble" pinyin="huàn"/>
+    <word original="若" calque="like" pinyin="ruò"/>
+    <word original="身" calque="body" pinyin="shēn"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="何" calque="what"/>
-    <word original="謂" calque="mean"/>
-    <word original="寵" calque="favor"/>
-    <word original="辱" calque="shame"/>
-    <word original="若" calque="like"/>
-    <word original="驚" calque="startle"/>
+<line commentary="A rhetorical question that invites deep contemplation of our emotional reactions to status.">
+    <word original="何" calque="what" pinyin="hé"/>
+    <word original="謂" calque="called" pinyin="wèi"/>
+    <word original="寵" calque="favor" pinyin="chǒng"/>
+    <word original="辱" calque="disgrace" pinyin="rǔ"/>
+    <word original="若" calque="like" pinyin="ruò"/>
+    <word original="驚" calque="startle" pinyin="jīng"/>
 </line>
 
-<line commentary="Notice how 之 refers to the favor - a common Classical Chinese pronoun usage">
-    <word original="寵" calque="favor"/>
-    <word original="為" calque="be"/>
-    <word original="下" calque="below"/>
-    <word original="得" calque="obtain"/>
-    <word original="之" calque="it"/>
-    <word original="若" calque="like"/>
-    <word original="驚" calque="startle"/>
+<line commentary="Does the lower position actually receive favor, or merely the illusion of it?">
+    <word original="寵" calque="favor" pinyin="chǒng"/>
+    <word original="為" calque="is" pinyin="wéi"/>
+    <word original="下" calque="below" pinyin="xià"/>
+    <word original="得" calque="obtain" pinyin="dé"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="若" calque="like" pinyin="ruò"/>
+    <word original="驚" calque="startle" pinyin="jīng"/>
 </line>
 
-<line>
-    <word original="失" calque="lose"/>
-    <word original="之" calque="it"/>
-    <word original="若" calque="like"/>
-    <word original="驚" calque="startle"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="The symmetry of gaining and losing—both equally disturbing to our peace.">
+    <word original="失" calque="lose" pinyin="shī"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="若" calque="like" pinyin="ruò"/>
+    <word original="驚" calque="startle" pinyin="jīng"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="是" calque="this"/>
-    <word original="謂" calque="call"/>
-    <word original="寵" calque="favor"/>
-    <word original="辱" calque="shame"/>
-    <word original="若" calque="like"/>
-    <word original="驚" calque="startle"/>
+<line commentary="A closing statement that echoes the opening—but what new understanding have we gained?">
+    <word original="是" calque="this" pinyin="shì"/>
+    <word original="謂" calque="called" pinyin="wèi"/>
+    <word original="寵" calque="favor" pinyin="chǒng"/>
+    <word original="辱" calque="disgrace" pinyin="rǔ"/>
+    <word original="若" calque="like" pinyin="ruò"/>
+    <word original="驚" calque="startle" pinyin="jīng"/>
 </line>
 
-<line>
-    <word original="何" calque="what"/>
-    <word original="謂" calque="mean"/>
-    <word original="貴" calque="value"/>
-    <word original="大" calque="great"/>
-    <word original="患" calque="trouble"/>
-    <word original="若" calque="like"/>
-    <word original="身" calque="self"/>
+<line commentary="The question shifts from external status to our relationship with our own existence.">
+    <word original="何" calque="what" pinyin="hé"/>
+    <word original="謂" calque="called" pinyin="wèi"/>
+    <word original="貴" calque="value" pinyin="guì"/>
+    <word original="大" calque="great" pinyin="dà"/>
+    <word original="患" calque="trouble" pinyin="huàn"/>
+    <word original="若" calque="like" pinyin="ruò"/>
+    <word original="身" calque="body" pinyin="shēn"/>
 </line>
 
-<line commentary="Ponder: How does having a self lead to having troubles?">
-    <word original="吾" calque="I"/>
-    <word original="所以" calque="reason-why"/>
-    <word original="有" calque="have"/>
-    <word original="大" calque="great"/>
-    <word original="患" calque="trouble"/>
-    <word original="者" calque="that-which"/>
-    <word original="為" calque="be"/>
-    <word original="吾" calque="I"/>
-    <word original="有" calque="have"/>
-    <word original="身" calque="self"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="A profound paradox: our existence itself as the source of our troubles.">
+    <word original="吾" calque="I" pinyin="wú"/>
+    <word original="所以" calque="reason-why" pinyin="suǒyǐ"/>
+    <word original="有" calque="have" pinyin="yǒu"/>
+    <word original="大" calque="great" pinyin="dà"/>
+    <word original="患" calque="trouble" pinyin="huàn"/>
+    <word original="者" calque="that-which" pinyin="zhě"/>
+    <word original="為" calque="is" pinyin="wéi"/>
+    <word original="吾" calque="I" pinyin="wú"/>
+    <word original="有" calque="have" pinyin="yǒu"/>
+    <word original="身" calque="body" pinyin="shēn"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line commentary="A fascinating hypothetical: what if I had no self?">
-    <word original="及" calque="if"/>
-    <word original="吾" calque="I"/>
-    <word original="無" calque="not-have"/>
-    <word original="身" calque="self"/>
-    <word original="吾" calque="I"/>
-    <word original="有" calque="have"/>
-    <word original="何" calque="what"/>
-    <word original="患" calque="trouble"/>
-    <word original="(.)" calque="(.)" punctuation="true"/>
+<line commentary="A thought experiment: what remains when we release attachment to self?">
+    <word original="及" calque="if" pinyin="jí"/>
+    <word original="吾" calque="I" pinyin="wú"/>
+    <word original="無" calque="without" pinyin="wú"/>
+    <word original="身" calque="body" pinyin="shēn"/>
+    <word original="吾" calque="I" pinyin="wú"/>
+    <word original="有" calque="have" pinyin="yǒu"/>
+    <word original="何" calque="what" pinyin="hé"/>
+    <word original="患" calque="trouble" pinyin="huàn"/>
+    <word original="(.)" calque="(.)" pinyin="(.)" punctuation="true"/>
 </line>
 
-<line commentary="故 signals a conclusion - what insight follows?">
-    <word original="(.)故" calque="therefore"/>
-    <word original="貴" calque="value"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="身" calque="self"/>
-    <word original="為" calque="for"/>
-    <word original="天下" calque="all-under-heaven"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="How might valuing the self relate to caring for the world?">
+    <word original="(.)故" calque="therefore" pinyin="gù"/>
+    <word original="貴" calque="value" pinyin="guì"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="身" calque="body" pinyin="shēn"/>
+    <word original="為" calque="for" pinyin="wéi"/>
+    <word original="天下" calque="all-under-heaven" pinyin="tiānxià"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="若" calque="if"/>
-    <word original="可" calque="can"/>
-    <word original="[以]" calque="[by-means-of]"/>
-    <word original="寄" calque="entrust"/>
-    <word original="天下" calque="all-under-heaven"/>
-    <word original="[矣(.)]" calque="[indeed(.)]"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="What does it mean to be worthy of the world's trust?">
+    <word original="若" calque="if" pinyin="ruò"/>
+    <word original="可" calque="can" pinyin="kě"/>
+    <word original="[以]" calque="[thereby]" pinyin="yǐ"/>
+    <word original="寄" calque="entrust" pinyin="jì"/>
+    <word original="天下" calque="all-under-heaven" pinyin="tiānxià"/>
+    <word original="[矣(.)]" calque="[indeed(.)]" pinyin="yǐ"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line commentary="Compare 寄 (temporary lodging) with 託 (entrusting) - what's the difference?">
-    <word original="愛" calque="love"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="身" calque="self"/>
-    <word original="為" calque="for"/>
-    <word original="天下" calque="all-under-heaven"/>
+<line commentary="Love for self expanding to love for all—what transformation occurs in this expansion?">
+    <word original="愛" calque="love" pinyin="ài"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="身" calque="body" pinyin="shēn"/>
+    <word original="為" calque="for" pinyin="wéi"/>
+    <word original="天下" calque="all-under-heaven" pinyin="tiānxià"/>
 </line>
 
-<line>
-    <word original="若" calque="if"/>
-    <word original="可" calque="can"/>
-    <word original="[以]" calque="[by-means-of]"/>
-    <word original="託" calque="rely-on"/>
-    <word original="天下" calque="all-under-heaven"/>
-    <word original="[矣(.)]" calque="[indeed(.)]"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="The final parallel asks us to consider: what makes one worthy of the world's confidence?">
+    <word original="若" calque="if" pinyin="ruò"/>
+    <word original="可" calque="can" pinyin="kě"/>
+    <word original="[以]" calque="[thereby]" pinyin="yǐ"/>
+    <word original="託" calque="confide" pinyin="tuō"/>
+    <word original="天下" calque="all-under-heaven" pinyin="tiānxià"/>
+    <word original="[矣(.)]" calque="[indeed(.)]" pinyin="yǐ"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 </chapter>

@@ -1,78 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="4">
-<line commentary="The opening line presents the paradox of the Dao - empty yet inexhaustible. How can emptiness be useful?">
-    <word original="道" calque="the Dao"/>
-    <word original="(盅)" calque="(empty)"/>
-    <word original="而" calque="yet"/>
-    <word original="用" calque="use"/>
-    <word original="之" calque="it"/>
-    <word original="(有)" calque="(have)"/>
-    <word original="不" calque="not"/>
-    <word original="盈" calque="fill"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Consider the paradox - emptiness that can never be filled, yet constantly in use. What does this suggest about true abundance?">
+    <word original="道" pinyin="dào" calque="way"/>
+    <word original="(盅)" pinyin="zhōng" calque="(empty)"/>
+    <word original="而" pinyin="ér" calque="yet"/>
+    <word original="用" pinyin="yòng" calque="use"/>
+    <word original="之" pinyin="zhī" calque="it"/>
+    <word original="(有)" pinyin="yǒu" calque="(exist)"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="盈" pinyin="yíng" calque="fill"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Notice how 兮 creates a pause for contemplation. What makes something ancestral to 'ten thousand things'?">
-    <word original="淵" calque="deep"/>
-    <word original="兮" calque="ah"/>
-    <word original="似" calque="like"/>
-    <word original="萬" calque="ten-thousand"/>
-    <word original="物" calque="things"/>
-    <word original="之" calque="'s"/>
-    <word original="宗" calque="ancestor"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="The character 淵 suggests both depth and darkness - what lies beneath the surface of all things?">
+    <word original="淵" pinyin="yuān" calque="deep"/>
+    <word original="兮" pinyin="xī" calque="ah"/>
+    <word original="似" pinyin="sì" calque="like"/>
+    <word original="萬" pinyin="wàn" calque="ten-thousand"/>
+    <word original="物" pinyin="wù" calque="things"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="宗" pinyin="zōng" calque="ancestor"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="What happens when we dull our sharpness? Is this about weapons, or something more?">
-    <word original="挫" calque="blunt"/>
-    <word original="其" calque="its"/>
-    <word original="銳" calque="sharpness"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="What wisdom might lie in dulling that which seems most precious?">
+    <word original="挫" pinyin="cuò" calque="blunt"/>
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="銳" pinyin="ruì" calque="sharpness"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="'Untangle the knots' - both literal and metaphorical. What tangled knots do you carry?">
-    <word original="解" calque="unravel"/>
-    <word original="其" calque="its"/>
-    <word original="紛" calque="tangles"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="To untangle is to simplify - but what remains when complexity dissolves?">
+    <word original="解" pinyin="jiě" calque="unravel"/>
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="紛" pinyin="fēn" calque="tangles"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Consider: does dimming your light make you less bright, or more preserved?">
-    <word original="和" calque="soften"/>
-    <word original="其" calque="its"/>
-    <word original="光" calque="light"/>
+<line commentary="Notice how 'harmony' and 'light' interplay - what happens when brilliance softens?">
+    <word original="和" pinyin="hé" calque="harmonize"/>
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="光" pinyin="guāng" calque="light"/>
 </line>
 
-<line commentary="To be 'one with the dust' - is this about humility, or about finding unity with all things?">
-    <word original="同" calque="same-as"/>
-    <word original="其" calque="its"/>
-    <word original="塵" calque="dust"/>
+<line commentary="To merge with dust - the ultimate humility or the deepest wisdom?">
+    <word original="同" pinyin="tóng" calque="merge"/>
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="塵" pinyin="chén" calque="dust"/>
 </line>
 
-<line commentary="湛 suggests both clarity and depth - like still water. What exists in such stillness?">
-    <word original="湛" calque="clear-deep"/>
-    <word original="兮" calque="ah"/>
-    <word original="似" calque="like"/>
-    <word original="或" calque="perhaps"/>
-    <word original="存" calque="exist"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="湛 suggests both clarity and depths - how can something be both clear and mysterious?">
+    <word original="湛" pinyin="zhàn" calque="clear-deep"/>
+    <word original="兮" pinyin="xī" calque="ah"/>
+    <word original="似" pinyin="sì" calque="like"/>
+    <word original="或" pinyin="huò" calque="perhaps"/>
+    <word original="存" pinyin="cún" calque="exist"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="A profound admission of unknowing. Why is uncertainty about origins so important to Daoist thought?">
-    <word original="吾" calque="I"/>
-    <word original="不" calque="not"/>
-    <word original="知" calque="know"/>
-    <word original="誰" calque="who"/>
-    <word original="之" calque="'s"/>
-    <word original="子" calque="child"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="A profound admission of ignorance - might this be the beginning of true wisdom?">
+    <word original="吾" pinyin="wú" calque="I"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="知" pinyin="zhī" calque="know"/>
+    <word original="誰" pinyin="shuí" calque="who"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="子" pinyin="zǐ" calque="child"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="The Dao predates even divine authority. What does this tell us about its nature?">
-    <word original="象" calque="appear"/>
-    <word original="帝" calque="divine-ruler"/>
-    <word original="之" calque="'s"/>
-    <word original="先" calque="before"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="What exists before the highest authority? A glimpse beyond the known universe.">
+    <word original="象" pinyin="xiàng" calque="image"/>
+    <word original="帝" pinyin="dì" calque="divine-ruler"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="先" pinyin="xiān" calque="before"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 </chapter>

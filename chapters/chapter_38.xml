@@ -1,41 +1,182 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <chapter number="38">
-<line commentary="A paradoxical opening: How can the highest virtue not be virtuous? Consider: Does true virtue need to announce itself?">
-    <word original="上德" calque="highest-virtue"/>
-    <word original="不" calque="not"/>
-    <word original="德" calque="virtuous"/>
-    <word original="是以" calque="therefore"/>
-    <word original="有" calque="have"/>
-    <word original="德" calque="virtue"/>
-</line>
-
-<line commentary="Is virtue that must consciously maintain itself really virtue?">
-    <word original="下德" calque="lower-virtue"/>
-    <word original="不" calque="not"/>
-    <word original="失" calque="lose"/>
-    <word original="德" calque="virtue"/>
-    <word original="是以" calque="therefore"/>
-    <word original="無" calque="lack"/>
-    <word original="德" calque="virtue"/>
-</line>
-
-<line commentary="Wu-wei (non-action) appears - what kind of action requires no effort?">
-    <word original="上德" calque="highest-virtue"/>
-    <word original="無為" calque="without-action"/>
-    <word original="而" calque="and"/>
-    <word original="無以" calque="nothing-by-which"/>
-    <word original="為" calque="act"/>
-    <word original="." calque="." punctuation="true"/>
-</line>
-
-[Additional lines formatted similarly...]
-
-<line commentary="A powerful conclusion: what is the 'this' we should choose, and what should we discard?">
-    <word original="故" calque="therefore"/>
-    <word original="去" calque="discard"/>
-    <word original="彼" calque="that"/>
-    <word original="取" calque="take"/>
-    <word original="此" calque="this"/>
-    <word original="." calque="." punctuation="true"/>
-</line>
+  <line commentary="A profound paradox opens the chapter - highest virtue exists precisely by not identifying itself as virtue.">
+    <word original="上" calque="highest" pinyin="shàng"/>
+    <word original="德" calque="virtue" pinyin="dé"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="德" calque="virtue" pinyin="dé"/>
+    <word original="是" calque="this" pinyin="shì"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="有" calque="have" pinyin="yǒu"/>
+    <word original="德" calque="virtue" pinyin="dé"/>
+  </line>
+  <line commentary="The pattern inverts - lower virtue clings to its identity and thereby loses its essence.">
+    <word original="下" calque="lower" pinyin="xià"/>
+    <word original="德" calque="virtue" pinyin="dé"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="失" calque="lose" pinyin="shī"/>
+    <word original="德" calque="virtue" pinyin="dé"/>
+    <word original="是" calque="this" pinyin="shì"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="無" calque="without" pinyin="wú"/>
+    <word original="德" calque="virtue" pinyin="dé"/>
+  </line>
+  <line commentary="The essential quality of highest virtue emerges - non-action without deliberate purpose.">
+    <word original="上" calque="highest" pinyin="shàng"/>
+    <word original="德" calque="virtue" pinyin="dé"/>
+    <word original="無" calque="without" pinyin="wú"/>
+    <word original="為" calque="doing" pinyin="wéi"/>
+    <word original="而" calque="and" pinyin="ér"/>
+    <word original="無" calque="without" pinyin="wú"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="為" calque="doing" pinyin="wéi"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+  </line>
+  <line commentary="Lower virtue operates through intention and purpose - notice how 'having' introduces attachment.">
+    <word original="下" calque="lower" pinyin="xià"/>
+    <word original="德" calque="virtue" pinyin="dé"/>
+    <word original="為" calque="does" pinyin="wéi"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="而" calque="and" pinyin="ér"/>
+    <word original="有" calque="have" pinyin="yǒu"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="為" calque="doing" pinyin="wéi"/>
+  </line>
+  <line commentary="A subtle shift in the pattern - highest benevolence acts but without conscious purpose.">
+    <word original="上" calque="highest" pinyin="shàng"/>
+    <word original="仁" calque="benevolence" pinyin="rén"/>
+    <word original="為" calque="does" pinyin="wéi"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="而" calque="and" pinyin="ér"/>
+    <word original="無" calque="without" pinyin="wú"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="為" calque="doing" pinyin="wéi"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+  </line>
+  <line commentary="Highest righteousness retains purpose in its action - the hierarchy continues its descent.">
+    <word original="上" calque="highest" pinyin="shàng"/>
+    <word original="義" calque="righteousness" pinyin="yì"/>
+    <word original="為" calque="does" pinyin="wéi"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="而" calque="and" pinyin="ér"/>
+    <word original="有" calque="have" pinyin="yǒu"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="為" calque="doing" pinyin="wéi"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+  </line>
+  <line commentary="The descent reaches ritual - actions performed without genuine response from others.">
+    <word original="上" calque="highest" pinyin="shàng"/>
+    <word original="禮" calque="ritual" pinyin="lǐ"/>
+    <word original="為" calque="does" pinyin="wéi"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="而" calque="and" pinyin="ér"/>
+    <word original="莫" calque="none" pinyin="mò"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="應" calque="respond" pinyin="yìng"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+  </line>
+  <line commentary="A vivid image of forcing response to empty ritual - what does this physical gesture suggest?">
+    <word original="則" calque="then" pinyin="zé"/>
+    <word original="攘" calque="roll-up" pinyin="rǎng"/>
+    <word original="臂" calque="sleeve" pinyin="bì"/>
+    <word original="而" calque="and" pinyin="ér"/>
+    <word original="(仍)" calque="(still)" pinyin="(réng)"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+  </line>
+  <line commentary="The descent of virtue begins - a historical process or a psychological pattern?">
+    <word original="(.)故" calque="(.)therefore" pinyin="gù"/>
+    <word original="失" calque="lose" pinyin="shī"/>
+    <word original="道" calque="way" pinyin="dào"/>
+    <word original="而" calque="and" pinyin="ér"/>
+    <word original="後" calque="after" pinyin="hòu"/>
+    <word original="德" calque="virtue" pinyin="dé"/>
+  </line>
+  <line commentary="The cascade continues - each loss giving birth to a more limited substitute.">
+    <word original="失" calque="lose" pinyin="shī"/>
+    <word original="德" calque="virtue" pinyin="dé"/>
+    <word original="而" calque="and" pinyin="ér"/>
+    <word original="後" calque="after" pinyin="hòu"/>
+    <word original="仁" calque="benevolence" pinyin="rén"/>
+  </line>
+  <line commentary="From spontaneous virtue to calculated kindness - the pattern echoes cultural evolution.">
+    <word original="失" calque="lose" pinyin="shī"/>
+    <word original="仁" calque="benevolence" pinyin="rén"/>
+    <word original="而" calque="and" pinyin="ér"/>
+    <word original="後" calque="after" pinyin="hòu"/>
+    <word original="義" calque="righteousness" pinyin="yì"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+  </line>
+  <line commentary="The final descent reaches ritual - the thinnest substitute for authentic virtue.">
+    <word original="失" calque="lose" pinyin="shī"/>
+    <word original="義" calque="righteousness" pinyin="yì"/>
+    <word original="而" calque="and" pinyin="ér"/>
+    <word original="後" calque="after" pinyin="hòu"/>
+    <word original="禮" calque="ritual" pinyin="lǐ"/>
+  </line>
+  <line commentary="A striking critique of ritual - what does it mean when observances become a 'thinning' of deeper virtues?">
+    <word original="(.)夫" calque="(.)indeed" pinyin="fú"/>
+    <word original="禮" calque="ritual" pinyin="lǐ"/>
+    <word original="者" calque="one-who" pinyin="zhě"/>
+    <word original="忠" calque="loyalty" pinyin="zhōng"/>
+    <word original="信" calque="trust" pinyin="xìn"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="薄" calque="thin" pinyin="báo"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+  </line>
+  <line commentary="The danger revealed - empty formality as the beginning of disorder rather than its cure.">
+    <word original="而" calque="and" pinyin="ér"/>
+    <word original="亂" calque="chaos" pinyin="luàn"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="首" calque="head" pinyin="shǒu"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+  </line>
+  <line commentary="Foreknowledge contrasted with wisdom - what might seem advanced is merely superficial.">
+    <word original="前" calque="fore" pinyin="qián"/>
+    <word original="識" calque="knowledge" pinyin="shí"/>
+    <word original="者" calque="one-who" pinyin="zhě"/>
+    <word original="道" calque="way" pinyin="dào"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="華" calque="flower" pinyin="huá"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+  </line>
+  <line commentary="Prediction and calculation become the beginning of folly rather than true understanding.">
+    <word original="而" calque="and" pinyin="ér"/>
+    <word original="愚" calque="foolishness" pinyin="yú"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="始" calque="beginning" pinyin="shǐ"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+  </line>
+  <line commentary="The true person of character emerges - how does this figure contrast with conventional values?">
+    <word original="是" calque="this" pinyin="shì"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="大" calque="great" pinyin="dà"/>
+    <word original="丈" calque="measure" pinyin="zhàng"/>
+    <word original="夫" calque="man" pinyin="fū"/>
+  </line>
+  <line commentary="The choice of substance over form - thickness representing depth and authenticity.">
+    <word original="處" calque="dwells" pinyin="chǔ"/>
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="厚" calque="thick" pinyin="hòu"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="居" calque="reside" pinyin="jū"/>
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="薄" calque="thin" pinyin="báo"/>
+  </line>
+  <line commentary="The fruit preferred over the flower - substance over appearance, essence over display.">
+    <word original="處" calque="dwells" pinyin="chǔ"/>
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="實" calque="fruit" pinyin="shí"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="居" calque="reside" pinyin="jū"/>
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="華" calque="flower" pinyin="huá"/>
+  </line>
+  <line commentary="The chapter concludes with a choice - rejecting the superficial for the essential.">
+    <word original="(.)故" calque="(.)therefore" pinyin="gù"/>
+    <word original="去" calque="depart" pinyin="qù"/>
+    <word original="彼" calque="that" pinyin="bǐ"/>
+    <word original="取" calque="take" pinyin="qǔ"/>
+    <word original="此" calque="this" pinyin="cǐ"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+  </line>
 </chapter>

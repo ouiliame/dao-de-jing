@@ -1,115 +1,134 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="51">
-<line commentary="Notice how Dao initiates and De nurtures - what's the relationship between these two forces?">
-    <word original="道" calque="the Dao"/>
-    <word original="生" calque="give-birth"/>
-    <word original="之" calque="them"/>
+<line commentary="Consider: What gives birth to things? Is it an action or a process?">
+    <word original="道" calque="way" pinyin="dào"/>
+    <word original="生" calque="birth" pinyin="shēng"/>
+    <word original="之" calque="them" pinyin="zhī"/>
 </line>
-<line>
-    <word original="德" calque="virtue"/>
-    <word original="畜" calque="nurture"/>
-    <word original="之" calque="them"/>
+
+<line commentary="Does nurturing differ from creating? What quality allows something to grow naturally?">
+    <word original="德" calque="virtue" pinyin="dé"/>
+    <word original="畜" calque="nurture" pinyin="xù"/>
+    <word original="之" calque="them" pinyin="zhī"/>
 </line>
-<line commentary="How does form emerge from formlessness?">
-    <word original="物" calque="things"/>
-    <word original="形" calque="shape"/>
-    <word original="之" calque="them"/>
+
+<line commentary="How does formless Dao give rise to formed things?">
+    <word original="物" calque="things" pinyin="wù"/>
+    <word original="形" calque="shape" pinyin="xíng"/>
+    <word original="之" calque="them" pinyin="zhī"/>
 </line>
-<line>
-    <word original="勢" calque="circumstances"/>
-    <word original="成" calque="complete"/>
-    <word original="之" calque="them"/>
+
+<line commentary="What force brings completion without forcing?">
+    <word original="勢" calque="circumstances" pinyin="shì"/>
+    <word original="成" calque="complete" pinyin="chéng"/>
+    <word original="之" calque="them" pinyin="zhī"/>
 </line>
-<line>
-    <word original="是" calque="this"/>
-    <word original="以" calque="therefore"/>
-    <word original="萬物" calque="ten-thousand-things"/>
+
+<line commentary="Notice how 'ten thousand things' embraces all existence - what falls outside this scope?">
+    <word original="是" calque="this" pinyin="shì"/>
+    <word original="以" calque="therefore" pinyin="yǐ"/>
+    <word original="萬" calque="ten-thousand" pinyin="wàn"/>
+    <word original="物" calque="things" pinyin="wù"/>
 </line>
-<line commentary="What makes something worthy of respect?">
-    <word original="莫" calque="none"/>
-    <word original="不" calque="not"/>
-    <word original="尊" calque="honor"/>
-    <word original="道" calque="the Dao"/>
-    <word original="而" calque="and"/>
-    <word original="貴" calque="value"/>
-    <word original="德" calque="virtue"/>
+
+<line commentary="A double negative creates universal affirmation - what's the effect versus a simple positive statement?">
+    <word original="莫" calque="none" pinyin="mò"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="尊" calque="honor" pinyin="zūn"/>
+    <word original="道" calque="way" pinyin="dào"/>
+    <word original="而" calque="and" pinyin="ér"/>
+    <word original="貴" calque="value" pinyin="guì"/>
+    <word original="德" calque="virtue" pinyin="dé"/>
 </line>
-<line>
-    <word original="道" calque="the Dao"/>
-    <word original="之" calque="'s"/>
-    <word original="尊" calque="honor"/>
-    <word original="." calque="."/>
+
+<line commentary="What makes something worthy of honor? Is it the commanding or the nurturing?">
+    <word original="道" calque="way" pinyin="dào"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="尊" calque="honor" pinyin="zūn"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
-<line>
-    <word original="德" calque="virtue"/>
-    <word original="之" calque="'s"/>
-    <word original="貴" calque="value"/>
-    <word original="." calque="."/>
+
+<line commentary="Can value exist without comparison?">
+    <word original="德" calque="virtue" pinyin="dé"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="貴" calque="value" pinyin="guì"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
-<line commentary="Can we command respect, or must it arise naturally?">
-    <word original="(.)夫" calque="(indeed)"/>
-    <word original="莫" calque="none"/>
-    <word original="之" calque="it"/>
-    <word original="命" calque="command"/>
-    <word original="." calque="."/>
+
+<line commentary="What happens when we cease commanding and allow natural unfolding?">
+    <word original="(.)夫" calque="(indeed)" pinyin="fú"/>
+    <word original="莫" calque="none" pinyin="mò"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="命" calque="command" pinyin="mìng"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
-<line>
-    <word original="而" calque="yet"/>
-    <word original="常" calque="always"/>
-    <word original="自然" calque="self-so"/>
-    <word original="." calque="."/>
+
+<line commentary="自然 'self-so' - how might this natural spontaneity differ from randomness?">
+    <word original="而" calque="yet" pinyin="ér"/>
+    <word original="常" calque="constant" pinyin="cháng"/>
+    <word original="自" calque="self" pinyin="zì"/>
+    <word original="然" calque="so" pinyin="rán"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
-<line>
-    <word original="(.)故" calque="(therefore)"/>
-    <word original="道" calque="the Dao"/>
-    <word original="生" calque="give-birth"/>
-    <word original="之" calque="them"/>
-    <word original="德" calque="virtue"/>
-    <word original="畜" calque="nurture"/>
-    <word original="之" calque="them"/>
+
+<line commentary="The cycle returns to its beginning - what does this circular structure suggest?">
+    <word original="(.)故" calque="(therefore)" pinyin="gù"/>
+    <word original="道" calque="way" pinyin="dào"/>
+    <word original="生" calque="birth" pinyin="shēng"/>
+    <word original="之" calque="them" pinyin="zhī"/>
+    <word original="德" calque="virtue" pinyin="dé"/>
+    <word original="畜" calque="nurture" pinyin="xù"/>
+    <word original="之" calque="them" pinyin="zhī"/>
 </line>
-<line commentary="Consider the gentle progression of these nurturing actions">
-    <word original="長" calque="grow"/>
-    <word original="之" calque="them"/>
-    <word original="育" calque="raise"/>
-    <word original="之" calque="them"/>
+
+<line commentary="A cascade of nurturing actions - each verb adding a new dimension of care without control">
+    <word original="長" calque="grow" pinyin="zhǎng"/>
+    <word original="之" calque="them" pinyin="zhī"/>
+    <word original="育" calque="rear" pinyin="yù"/>
+    <word original="之" calque="them" pinyin="zhī"/>
 </line>
-<line>
-    <word original="亭" calque="stabilize"/>
-    <word original="之" calque="them"/>
-    <word original="毒" calque="nourish"/>
-    <word original="之" calque="them"/>
+
+<line commentary="How might 'poisoning' be part of nurturing? What paradox lives here?">
+    <word original="亭" calque="mature" pinyin="tíng"/>
+    <word original="之" calque="them" pinyin="zhī"/>
+    <word original="毒" calque="poison" pinyin="dú"/>
+    <word original="之" calque="them" pinyin="zhī"/>
 </line>
-<line>
-    <word original="養" calque="sustain"/>
-    <word original="之" calque="them"/>
-    <word original="覆" calque="protect"/>
-    <word original="之" calque="them"/>
+
+<line commentary="Protection without smothering - how is this balance achieved?">
+    <word original="養" calque="nourish" pinyin="yǎng"/>
+    <word original="之" calque="them" pinyin="zhī"/>
+    <word original="覆" calque="shelter" pinyin="fù"/>
+    <word original="之" calque="them" pinyin="zhī"/>
 </line>
-<line commentary="What does it mean to create without possessing?">
-    <word original="生" calque="give-birth"/>
-    <word original="而" calque="yet"/>
-    <word original="不" calque="not"/>
-    <word original="有" calque="possess"/>
-    <word original="." calque="."/>
+
+<line commentary="A paradox of creation without possession - what kind of relationship does this suggest?">
+    <word original="生" calque="birth" pinyin="shēng"/>
+    <word original="而" calque="yet" pinyin="ér"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="有" calque="possess" pinyin="yǒu"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
-<line>
-    <word original="為" calque="act"/>
-    <word original="而" calque="yet"/>
-    <word original="不" calque="not"/>
-    <word original="恃" calque="rely-on"/>
-    <word original="." calque="."/>
+
+<line commentary="Action without dependency - how might this inform leadership?">
+    <word original="為" calque="act" pinyin="wéi"/>
+    <word original="而" calque="yet" pinyin="ér"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="恃" calque="rely-on" pinyin="shì"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
-<line>
-    <word original="長" calque="grow"/>
-    <word original="而" calque="yet"/>
-    <word original="不" calque="not"/>
-    <word original="宰" calque="control"/>
+
+<line commentary="Growth without control - what kind of power is this?">
+    <word original="長" calque="grow" pinyin="zhǎng"/>
+    <word original="而" calque="yet" pinyin="ér"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="宰" calque="rule" pinyin="zǎi"/>
 </line>
-<line commentary="How is this kind of virtue 'dark' or mysterious?">
-    <word original="是" calque="this"/>
-    <word original="謂" calque="called"/>
-    <word original="玄" calque="dark"/>
-    <word original="德" calque="virtue"/>
+
+<line commentary="玄德 'dark virtue' - what makes this virtue mysterious? How does its hiddenness relate to its power?">
+    <word original="是" calque="this" pinyin="shì"/>
+    <word original="謂" calque="called" pinyin="wèi"/>
+    <word original="玄" calque="dark" pinyin="xuán"/>
+    <word original="德" calque="virtue" pinyin="dé"/>
 </line>
 </chapter>

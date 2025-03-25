@@ -1,80 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="37">
-<line commentary="Consider: How can doing nothing accomplish everything?">
-    <word original="道" calque="the Dao"/>
-    <word original="常" calque="always"/>
-    <word original="無" calque="not-have"/>
-    <word original="為" calque="act"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Consider the inherent paradox: how can the Way be both 'constant' and 'without action'? What kind of constancy requires no effort?">
+    <word original="道" pinyin="dào" calque="way"/>
+    <word original="常" pinyin="cháng" calque="constant"/>
+    <word original="無" pinyin="wú" calque="without"/>
+    <word original="為" pinyin="wéi" calque="action"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="A beautiful paradox that invites deep contemplation">
-    <word original="而" calque="yet"/>
-    <word original="無" calque="not-have"/>
-    <word original="不" calque="not"/>
-    <word original="為" calque="act"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="A profound paradox emerges: through non-action, nothing remains undone. How might this apparent contradiction illuminate truth?">
+    <word original="而" pinyin="ér" calque="yet"/>
+    <word original="無" pinyin="wú" calque="nothing"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="為" pinyin="wéi" calque="done"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="What does it mean to 'guard' something that isn't there?">
-    <word original="侯王" calque="lords-and-kings"/>
-    <word original="若" calque="if"/>
-    <word original="能" calque="can"/>
-    <word original="守" calque="guard"/>
-    <word original="之" calque="it"/>
+<line commentary="What might it mean to 'guard' something as intangible as wu-wei? Consider the challenge faced by leaders.">
+    <word original="侯" pinyin="hóu" calque="marquis"/>
+    <word original="王" pinyin="wáng" calque="king"/>
+    <word original="若" pinyin="ruò" calque="if"/>
+    <word original="能" pinyin="néng" calque="able"/>
+    <word original="守" pinyin="shǒu" calque="maintain"/>
+    <word original="之" pinyin="zhī" calque="it"/>
 </line>
 
-<line commentary="Like water flowing downhill - what is the nature of effortless transformation?">
-    <word original="萬物" calque="ten-thousand-things"/>
-    <word original="將" calque="will"/>
-    <word original="自" calque="self"/>
-    <word original="化" calque="transform"/>
+<line commentary="'Self-transform' suggests a natural process - how different from imposed change?">
+    <word original="萬" pinyin="wàn" calque="ten-thousand"/>
+    <word original="物" pinyin="wù" calque="things"/>
+    <word original="將" pinyin="jiāng" calque="will"/>
+    <word original="自" pinyin="zì" calque="self"/>
+    <word original="化" pinyin="huà" calque="transform"/>
 </line>
 
-<line commentary="When does desire arise in transformation?">
-    <word original="化" calque="transform"/>
-    <word original="而" calque="and"/>
-    <word original="欲" calque="desire"/>
-    <word original="作" calque="arise"/>
+<line commentary="Notice the shift from natural transformation to desire's emergence. What happens when desire enters?">
+    <word original="化" pinyin="huà" calque="transform"/>
+    <word original="而" pinyin="ér" calque="yet"/>
+    <word original="欲" pinyin="yù" calque="desire"/>
+    <word original="作" pinyin="zuò" calque="arise"/>
 </line>
 
-<line commentary="The uncarved block (樸) represents pure potential - what does it mean to be nameless?">
-    <word original="吾" calque="I"/>
-    <word original="將" calque="will"/>
-    <word original="鎮" calque="stabilize"/>
-    <word original="之" calque="it"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="無名" calque="nameless"/>
-    <word original="之" calque="'s"/>
-    <word original="樸" calque="simplicity"/>
+<line commentary="'Nameless simplicity' - like uncarved wood, what potential lies in the unnamed?">
+    <word original="吾" pinyin="wú" calque="I"/>
+    <word original="將" pinyin="jiāng" calque="will"/>
+    <word original="鎮" pinyin="zhèn" calque="steady"/>
+    <word original="之" pinyin="zhī" calque="it"/>
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="無" pinyin="wú" calque="without"/>
+    <word original="名" pinyin="míng" calque="name"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="樸" pinyin="pú" calque="simplicity"/>
 </line>
 
-<line>
-    <word original="無名" calque="nameless"/>
-    <word original="之" calque="'s"/>
-    <word original="樸" calque="simplicity"/>
+<line commentary="The repetition deepens the meditation - what power resides in the unnamed?">
+    <word original="無" pinyin="wú" calque="without"/>
+    <word original="名" pinyin="míng" calque="name"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="樸" pinyin="pú" calque="simplicity"/>
 </line>
 
-<line commentary="How does namelessness lead to desirelessness?">
-    <word original="夫" calque="indeed"/>
-    <word original="亦" calque="also"/>
-    <word original="將" calque="will"/>
-    <word original="無" calque="not-have"/>
-    <word original="欲" calque="desire"/>
+<line commentary="A subtle shift: from namelessness to desirelessness. What connects these states?">
+    <word original="夫" pinyin="fú" calque="indeed"/>
+    <word original="亦" pinyin="yì" calque="also"/>
+    <word original="將" pinyin="jiāng" calque="will"/>
+    <word original="無" pinyin="wú" calque="without"/>
+    <word original="欲" pinyin="yù" calque="desire"/>
 </line>
 
-<line commentary="Stillness emerges from absence - can you feel it?">
-    <word original="不" calque="not"/>
-    <word original="欲" calque="desire"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="靜" calque="still"/>
+<line commentary="How might stillness arise from the absence of desire?">
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="欲" pinyin="yù" calque="desire"/>
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="靜" pinyin="jìng" calque="stillness"/>
 </line>
 
-<line commentary="Natural order arises from letting go - what must we unlearn?">
-    <word original="天下" calque="under-heaven"/>
-    <word original="將" calque="will"/>
-    <word original="自" calque="self"/>
-    <word original="定" calque="settle"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="The chapter closes with natural order emerging from stillness - what cycle has been revealed?">
+    <word original="天" pinyin="tiān" calque="heaven"/>
+    <word original="下" pinyin="xià" calque="below"/>
+    <word original="將" pinyin="jiāng" calque="will"/>
+    <word original="自" pinyin="zì" calque="self"/>
+    <word original="定" pinyin="dìng" calque="settle"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 </chapter>

@@ -1,121 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="52">
-<line commentary="Consider: What is the relationship between beginning and motherhood?">
-    <word original="天下" calque="under-heaven"/>
-    <word original="有" calque="have"/>
-    <word original="始" calque="beginning"/>
+<line commentary="A profound opening that hints at origins beyond human perception. What preceded the 'beginning' that exists?">
+    <word original="天" pinyin="tiān" calque="heaven"/>
+    <word original="下" pinyin="xià" calque="below"/>
+    <word original="有" pinyin="yǒu" calque="have"/>
+    <word original="始" pinyin="shǐ" calque="beginning"/>
 </line>
 
-<line commentary="'To regard as' (以為) shows how we conceptualize the fundamental source">
-    <word original="以" calque="by-means-of"/>
-    <word original="為" calque="make"/>
-    <word original="天下" calque="under-heaven"/>
-    <word original="母" calque="mother"/>
+<line commentary="What makes something a 'mother' to all things? Consider how origins continue to nourish their derivatives.">
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="為" pinyin="wéi" calque="become"/>
+    <word original="天" pinyin="tiān" calque="heaven"/>
+    <word original="下" pinyin="xià" calque="below"/>
+    <word original="母" pinyin="mǔ" calque="mother"/>
 </line>
 
-<line commentary="'Already' (既) suggests a progression of understanding">
-    <word original="既" calque="already"/>
-    <word original="得" calque="obtain"/>
-    <word original="其" calque="its"/>
-    <word original="母" calque="mother"/>
+<line commentary="'Already' suggests a moment of realization. What changes when we recognize our source?">
+    <word original="既" pinyin="jì" calque="already"/>
+    <word original="得" pinyin="dé" calque="obtain"/>
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="母" pinyin="mǔ" calque="mother"/>
 </line>
 
-<line commentary="How does knowing the mother lead to knowing the child?">
-    <word original="以" calque="by-means-of"/>
-    <word original="知" calque="know"/>
-    <word original="其" calque="its"/>
-    <word original="子" calque="child"/>
+<line commentary="Knowledge flows from source to manifestation. How does understanding origins illuminate what emerges?">
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="知" pinyin="zhī" calque="know"/>
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="子" pinyin="zǐ" calque="child"/>
 </line>
 
-<line>
-    <word original="既" calque="already"/>
-    <word original="知" calque="know"/>
-    <word original="其" calque="its"/>
-    <word original="子" calque="child"/>
+<line commentary="A moment of recognition - but what comes next?">
+    <word original="既" pinyin="jì" calque="already"/>
+    <word original="知" pinyin="zhī" calque="know"/>
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="子" pinyin="zǐ" calque="child"/>
 </line>
 
-<line commentary="'Return' (復) suggests a circular path of wisdom">
-    <word original="復" calque="return"/>
-    <word original="守" calque="guard"/>
-    <word original="其" calque="its"/>
-    <word original="母" calque="mother"/>
+<line commentary="The circle completes - return to source. Why return after understanding?">
+    <word original="復" pinyin="fù" calque="return"/>
+    <word original="守" pinyin="shǒu" calque="guard"/>
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="母" pinyin="mǔ" calque="mother"/>
 </line>
 
-<line commentary="What does it mean to be without danger until the end of life?">
-    <word original="沒" calque="end"/>
-    <word original="身" calque="body"/>
-    <word original="不" calque="not"/>
-    <word original="殆" calque="dangerous"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="What kind of safety emerges from this circular journey?">
+    <word original="沒" pinyin="mò" calque="end"/>
+    <word original="身" pinyin="shēn" calque="body"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="殆" pinyin="dài" calque="dangerous"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Physical metaphors for spiritual practices">
-    <word original="塞" calque="block"/>
-    <word original="其" calque="its"/>
-    <word original="兌" calque="opening"/>
-    <word original="閉" calque="close"/>
-    <word original="其" calque="its"/>
-    <word original="門" calque="door"/>
+<line commentary="Consider these openings and closings as both literal and metaphorical gates. What flows through these passages?">
+    <word original="塞" pinyin="sāi" calque="block"/>
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="兌" pinyin="duì" calque="opening"/>
+    <word original="閉" pinyin="bì" calque="close"/>
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="門" pinyin="mén" calque="door"/>
 </line>
 
-<line>
-    <word original="終" calque="end"/>
-    <word original="身" calque="body"/>
-    <word original="不" calque="not"/>
-    <word original="勤" calque="toil"/>
+<line commentary="Freedom from toil - but what kind of effort ceases?">
+    <word original="終" pinyin="zhōng" calque="end"/>
+    <word original="身" pinyin="shēn" calque="body"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="勤" pinyin="qín" calque="toil"/>
 </line>
 
-<line>
-    <word original="開" calque="open"/>
-    <word original="其" calque="its"/>
-    <word original="兌" calque="opening"/>
-    <word original="濟" calque="aid"/>
-    <word original="其" calque="its"/>
-    <word original="事" calque="affairs"/>
+<line commentary="The contrast begins - what happens when we engage rather than withdraw?">
+    <word original="開" pinyin="kāi" calque="open"/>
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="兌" pinyin="duì" calque="opening"/>
+    <word original="濟" pinyin="jì" calque="aid"/>
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="事" pinyin="shì" calque="affairs"/>
 </line>
 
-<line>
-    <word original="終" calque="end"/>
-    <word original="身" calque="body"/>
-    <word original="不" calque="not"/>
-    <word original="救" calque="save"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="A life without salvation - or beyond the need for it?">
+    <word original="終" pinyin="zhōng" calque="end"/>
+    <word original="身" pinyin="shēn" calque="body"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="救" pinyin="jiù" calque="save"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="How can seeing the small lead to clarity?">
-    <word original="見" calque="see"/>
-    <word original="小" calque="small"/>
-    <word original="曰" calque="call"/>
-    <word original="明" calque="bright"/>
+<line commentary="Small insights leading to clarity - how does attending to the minute illuminate the vast?">
+    <word original="見" pinyin="jiàn" calque="see"/>
+    <word original="小" pinyin="xiǎo" calque="small"/>
+    <word original="曰" pinyin="yuē" calque="say"/>
+    <word original="明" pinyin="míng" calque="bright"/>
 </line>
 
-<line commentary="Paradox: How can maintaining softness create strength?">
-    <word original="守" calque="guard"/>
-    <word original="柔" calque="soft"/>
-    <word original="曰" calque="call"/>
-    <word original="強" calque="strong"/>
+<line commentary="The paradox of strength through softness - what power lies in yielding?">
+    <word original="守" pinyin="shǒu" calque="guard"/>
+    <word original="柔" pinyin="róu" calque="soft"/>
+    <word original="曰" pinyin="yuē" calque="say"/>
+    <word original="強" pinyin="qiáng" calque="strong"/>
 </line>
 
-<line>
-    <word original="用" calque="use"/>
-    <word original="其" calque="its"/>
-    <word original="光" calque="light"/>
-    <word original="復" calque="return"/>
-    <word original="歸" calque="return"/>
-    <word original="其" calque="its"/>
-    <word original="明" calque="brightness"/>
+<line commentary="Light returning to its source - a journey of illumination coming full circle.">
+    <word original="用" pinyin="yòng" calque="use"/>
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="光" pinyin="guāng" calque="light"/>
+    <word original="復" pinyin="fù" calque="return"/>
+    <word original="歸" pinyin="guī" calque="return"/>
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="明" pinyin="míng" calque="brightness"/>
 </line>
 
-<line>
-    <word original="無" calque="without"/>
-    <word original="遺" calque="leave"/>
-    <word original="身" calque="body"/>
-    <word original="殃" calque="calamity"/>
+<line commentary="Freedom from calamity - but through what kind of presence or absence?">
+    <word original="無" pinyin="wú" calque="without"/>
+    <word original="遺" pinyin="yí" calque="leave"/>
+    <word original="身" pinyin="shēn" calque="body"/>
+    <word original="殃" pinyin="yāng" calque="calamity"/>
 </line>
 
-<line commentary="What is the significance of 'practiced constancy'?">
-    <word original="是" calque="this"/>
-    <word original="謂" calque="called"/>
-    <word original="習常" calque="practiced-constancy"/>
+<line commentary="'Constant practice' - but of what? Notice how the chapter ends where natural law begins.">
+    <word original="是" pinyin="shì" calque="this"/>
+    <word original="謂" pinyin="wèi" calque="called"/>
+    <word original="習" pinyin="xí" calque="practice"/>
+    <word original="常" pinyin="cháng" calque="constant"/>
 </line>
 </chapter>

@@ -1,37 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="40">
-<line commentary="Notice how 'return' and 'contrary' are considered movements of the Dao. What might this tell us about nature's cycles?">
-    <word original="反" calque="return"/>
-    <word original="者" calque="that-which"/>
-    <word original="道" calque="the Dao"/>
-    <word original="之" calque="'s"/>
-    <word original="動" calque="movement"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Consider: How might reversal be the very essence of the Dao's movement? What natural cycles exemplify this principle?">
+    <word original="反" pinyin="fǎn" calque="reverse"/>
+    <word original="者" pinyin="zhě" calque="that-which"/>
+    <word original="道" pinyin="dào" calque="way"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="動" pinyin="dòng" calque="movement"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Consider: Why might weakness be considered a function rather than a flaw?">
-    <word original="弱" calque="weak"/>
-    <word original="者" calque="that-which"/>
-    <word original="道" calque="the Dao"/>
-    <word original="之" calque="'s"/>
-    <word original="用" calque="use"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Observe how 'weakness' here isn't presented as a flaw, but as the Dao's very method. What power might lie in yielding?">
+    <word original="弱" pinyin="ruò" calque="weak"/>
+    <word original="者" pinyin="zhě" calque="that-which"/>
+    <word original="道" pinyin="dào" calque="way"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="用" pinyin="yòng" calque="function"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="萬物 literally means 'ten-thousand things' - an elegant way to express the totality of existence. How does this compare to modern ways of expressing 'everything'?">
-    <word original="天下" calque="under-heaven"/>
-    <word original="萬物" calque="ten-thousand-things"/>
-    <word original="生" calque="born"/>
-    <word original="於" calque="from"/>
-    <word original="有" calque="being"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="The character 生 'birth/life' bridges heaven-and-earth with existence. What emerges from this connection?">
+    <word original="天下" pinyin="tiān-xià" calque="under-heaven"/>
+    <word original="萬物" pinyin="wàn-wù" calque="ten-thousand-things"/>
+    <word original="生" pinyin="shēng" calque="arise"/>
+    <word original="於" pinyin="yú" calque="from"/>
+    <word original="有" pinyin="yǒu" calque="being"/>
 </line>
 
-<line commentary="A profound paradox: existence emerging from non-existence. What parallels might you find in modern physics?">
-    <word original="有" calque="being"/>
-    <word original="生" calque="born"/>
-    <word original="於" calque="from"/>
-    <word original="無" calque="non-being"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="A profound paradox: existence itself emerges from non-existence. What spaces of emptiness in your life give birth to fullness?">
+    <word original="有" pinyin="yǒu" calque="being"/>
+    <word original="生" pinyin="shēng" calque="arise"/>
+    <word original="於" pinyin="yú" calque="from"/>
+    <word original="無" pinyin="wú" calque="non-being"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 </chapter>

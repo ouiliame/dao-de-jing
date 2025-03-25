@@ -1,61 +1,198 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <chapter number="20">
-<line commentary="A provocative opening: what wisdom comes from abandoning learning?">
-    <word original="絕" calque="cut-off"/>
-    <word original="學" calque="learning"/>
-    <word original="無" calque="without"/>
-    <word original="憂" calque="worry"/>
-</line>
-
-<line commentary="These words sound similar - is this coincidence or wordplay?">
-    <word original="唯" calque="yes"/>
-    <word original="之" calque="this"/>
-    <word original="與" calque="and"/>
-    <word original="阿" calque="ah"/>
-</line>
-
-<line commentary="A philosophical question that makes us pause and think">
-    <word original="相" calque="mutual"/>
-    <word original="去" calque="separate"/>
-    <word original="幾" calque="how-much"/>
-    <word original="何" calque="what"/>
-</line>
-
-<line>
-    <word original="(美)" calque="(beauty)"/>
-    <word original="之" calque="this"/>
-    <word original="與" calque="and"/>
-    <word original="惡" calque="ugly"/>
-</line>
-
-<line>
-    <word original="相" calque="mutual"/>
-    <word original="去" calque="separate"/>
-    <word original="若" calque="like"/>
-    <word original="何" calque="what"/>
-</line>
-
-<line commentary="A subtle warning about fear itself">
-    <word original="人" calque="people"/>
-    <word original="之" calque="'s"/>
-    <word original="所" calque="that-which"/>
-    <word original="畏" calque="fear"/>
-    <word original="不" calque="not"/>
-    <word original="可" calque="can"/>
-    <word original="不" calque="not"/>
-    <word original="畏" calque="fear"/>
-    <word original="." calque="." punctuation="true"/>
-</line>
-
-<line commentary="荒 typically means wasteland - but here it carries a sense of vastness">
-    <word original="荒" calque="vast"/>
-    <word original="兮" calque="!"/>
-    <word original="其" calque="it"/>
-    <word original="未" calque="not-yet"/>
-    <word original="央" calque="end"/>
-    <word original="哉" calque="indeed"/>
-    <word original="(.)" calque="(.)" punctuation="true"/>
-</line>
-
-[... continuing with similar detailed markup for remaining lines ...]
+  <line commentary="A provocative inversion - could there be freedom in not-knowing?">
+    <word original="絕" calque="cut-off" pinyin="jué"/>
+    <word original="學" calque="learning" pinyin="xué"/>
+    <word original="無" calque="without" pinyin="wú"/>
+    <word original="憂" calque="worry" pinyin="yōu"/>
+  </line>
+  <line commentary="Two responses with subtle differences - one sincere, one accommodating.">
+    <word original="唯" calque="only" pinyin="wéi"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="與" calque="and" pinyin="yǔ"/>
+    <word original="阿" calque="slant" pinyin="ē"/>
+  </line>
+  <line commentary="A question that opens rather than closes - distances between opposites become the meditation.">
+    <word original="相" calque="mutual" pinyin="xiāng"/>
+    <word original="去" calque="apart" pinyin="qù"/>
+    <word original="幾" calque="how-many" pinyin="jǐ"/>
+    <word original="何" calque="what" pinyin="hé"/>
+  </line>
+  <line commentary="Notice how the pattern echoes - classical Chinese builds meaning through parallel structures.">
+    <word original="(美)" calque="(beautiful)" pinyin="(měi)"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="與" calque="and" pinyin="yǔ"/>
+    <word original="惡" calque="ugly" pinyin="è"/>
+  </line>
+  <line commentary="The rhythm continues - what happens when dualities are questioned rather than accepted?">
+    <word original="相" calque="mutual" pinyin="xiāng"/>
+    <word original="去" calque="apart" pinyin="qù"/>
+    <word original="若" calque="like" pinyin="ruò"/>
+    <word original="何" calque="what" pinyin="hé"/>
+  </line>
+  <line commentary="A double negation creates a powerful emphasis - collective wisdom holds certain truths.">
+    <word original="人" calque="person" pinyin="rén"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="所" calque="place" pinyin="suǒ"/>
+    <word original="畏" calque="fear" pinyin="wèi"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="可" calque="can" pinyin="kě"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="畏" calque="fear" pinyin="wèi"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+  </line>
+  <line commentary="The poetic particle '兮' signals emotional intensity - vastness stretches before us without limit.">
+    <word original="荒" calque="desolate" pinyin="huāng"/>
+    <word original="兮" calque="ah" pinyin="xī"/>
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="未" calque="not-yet" pinyin="wèi"/>
+    <word original="央" calque="end" pinyin="yāng"/>
+    <word original="哉" calque="indeed" pinyin="zāi"/>
+    <word original="(.)" calque="(.)" pinyin="(.)" punctuation="true"/>
+  </line>
+  <line commentary="Now begins the contrast between the collective 'many people' and the solitary 'I' - society versus the individual.">
+    <word original="眾" calque="many" pinyin="zhòng"/>
+    <word original="人" calque="person" pinyin="rén"/>
+    <word original="熙" calque="joyous" pinyin="xī"/>
+    <word original="熙" calque="joyous" pinyin="xī"/>
+  </line>
+  <line commentary="This festive image - what celebration captures society's bustling energy?">
+    <word original="如" calque="like" pinyin="rú"/>
+    <word original="享" calque="enjoy" pinyin="xiǎng"/>
+    <word original="太" calque="great" pinyin="tài"/>
+    <word original="牢" calque="pen" pinyin="láo"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+  </line>
+  <line commentary="Spring ascension - a second image of collective celebration and engagement.">
+    <word original="如" calque="like" pinyin="rú"/>
+    <word original="春" calque="spring" pinyin="chūn"/>
+    <word original="登" calque="climb" pinyin="dēng"/>
+    <word original="臺" calque="platform" pinyin="tái"/>
+  </line>
+  <line commentary="The solitary voice emerges - 'I alone' signals the counterpoint beginning.">
+    <word original="我" calque="I" pinyin="wǒ"/>
+    <word original="獨" calque="alone" pinyin="dú"/>
+    <word original="泊" calque="moor" pinyin="bó"/>
+    <word original="兮" calque="ah" pinyin="xī"/>
+    <word original="(.)" calque="(.)" pinyin="(.)" punctuation="true"/>
+  </line>
+  <line commentary="Not yet showing signs - presence without manifestation, potential without expression.">
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="未" calque="not-yet" pinyin="wèi"/>
+    <word original="兆" calque="omen" pinyin="zhào"/>
+  </line>
+  <line commentary="The infant metaphor appears - what wisdom might lie in returning to pre-verbal consciousness?">
+    <word original="如" calque="like" pinyin="rú"/>
+    <word original="嬰" calque="infant" pinyin="yīng"/>
+    <word original="兒" calque="child" pinyin="ér"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="未" calque="not-yet" pinyin="wèi"/>
+    <word original="孩" calque="baby" pinyin="hái"/>
+  </line>
+  <line commentary="A sigh of displacement - the repeated character intensifies the feeling of homelessness.">
+    <word original="儽" calque="dejected" pinyin="lěi"/>
+    <word original="儽" calque="dejected" pinyin="lěi"/>
+    <word original="兮" calque="ah" pinyin="xī"/>
+    <word original="若" calque="like" pinyin="ruò"/>
+    <word original="無" calque="without" pinyin="wú"/>
+    <word original="所" calque="place" pinyin="suǒ"/>
+    <word original="歸" calque="return" pinyin="guī"/>
+  </line>
+  <line commentary="The pattern of contrast continues - abundance versus lack, having versus being.">
+    <word original="眾" calque="many" pinyin="zhòng"/>
+    <word original="人" calque="person" pinyin="rén"/>
+    <word original="皆" calque="all" pinyin="jiē"/>
+    <word original="有" calque="have" pinyin="yǒu"/>
+    <word original="餘" calque="excess" pinyin="yú"/>
+  </line>
+  <line commentary="The blank space creates emphasis - what might be missing from this comparison?">
+    <word original="__" calque="__" pinyin="__"/>
+    <word original="我" calque="I" pinyin="wǒ"/>
+    <word original="獨" calque="alone" pinyin="dú"/>
+    <word original="若" calque="like" pinyin="ruò"/>
+    <word original="遺" calque="lost" pinyin="yí"/>
+  </line>
+  <line commentary="A self-critique that may actually be pride - folly as wisdom in disguise?">
+    <word original="我" calque="I" pinyin="wǒ"/>
+    <word original="愚" calque="foolish" pinyin="yú"/>
+    <word original="人" calque="person" pinyin="rén"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="心" calque="heart" pinyin="xīn"/>
+    <word original="也" calque="also" pinyin="yě"/>
+    <word original="哉" calque="indeed" pinyin="zāi"/>
+    <word original="(.)" calque="(.)" pinyin="(.)" punctuation="true"/>
+  </line>
+  <line commentary="Repetition creates rhythm - primitive wholeness has its own integrity.">
+    <word original="沌" calque="confused" pinyin="dùn"/>
+    <word original="沌" calque="confused" pinyin="dùn"/>
+    <word original="兮" calque="ah" pinyin="xī"/>
+  </line>
+  <line commentary="The contrast sharpens - conventional clarity stands opposed to the sage's chosen obscurity.">
+    <word original="俗" calque="common" pinyin="sú"/>
+    <word original="人" calque="person" pinyin="rén"/>
+    <word original="昭" calque="clear" pinyin="zhāo"/>
+    <word original="昭" calque="clear" pinyin="zhāo"/>
+  </line>
+  <line commentary="The solitary voice embraces dimness - can light sometimes obscure deeper vision?">
+    <word original="我" calque="I" pinyin="wǒ"/>
+    <word original="獨" calque="alone" pinyin="dú"/>
+    <word original="(若)" calque="(like)" pinyin="(ruò)"/>
+    <word original="昏" calque="dim" pinyin="hūn"/>
+    <word original="(.)" calque="(.)" pinyin="(.)" punctuation="true"/>
+  </line>
+  <line commentary="Another pair of opposites - acute perception contrasted with the narrator's chosen state.">
+    <word original="俗" calque="common" pinyin="sú"/>
+    <word original="人" calque="person" pinyin="rén"/>
+    <word original="察" calque="examine" pinyin="chá"/>
+    <word original="察" calque="examine" pinyin="chá"/>
+  </line>
+  <line commentary="The repeated character creates a feeling of heaviness - a chosen density against mainstream sharpness.">
+    <word original="我" calque="I" pinyin="wǒ"/>
+    <word original="獨" calque="alone" pinyin="dú"/>
+    <word original="悶" calque="depressed" pinyin="mèn"/>
+    <word original="悶" calque="depressed" pinyin="mèn"/>
+    <word original="(.)" calque="(.)" pinyin="(.)" punctuation="true"/>
+  </line>
+  <line commentary="Ocean imagery evokes boundless depth - what vastness might stillness contain?">
+    <word original="澹" calque="calm" pinyin="dàn"/>
+    <word original="兮" calque="ah" pinyin="xī"/>
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="若" calque="like" pinyin="ruò"/>
+    <word original="海" calque="sea" pinyin="hǎi"/>
+  </line>
+  <line commentary="Drifting without anchor - freedom or lostness? The brackets suggest textual uncertainty.">
+    <word original="(漂)" calque="(float)" pinyin="(piāo)"/>
+    <word original="兮" calque="ah" pinyin="xī"/>
+    <word original="若" calque="like" pinyin="ruò"/>
+    <word original="無" calque="without" pinyin="wú"/>
+    <word original="[所]" calque="[place]" pinyin="[suǒ]"/>
+    <word original="止" calque="stop" pinyin="zhǐ"/>
+  </line>
+  <line commentary="Everyone has their means and methods - conventional society values practicality and purpose.">
+    <word original="眾" calque="many" pinyin="zhòng"/>
+    <word original="人" calque="person" pinyin="rén"/>
+    <word original="皆" calque="all" pinyin="jiē"/>
+    <word original="有" calque="have" pinyin="yǒu"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+  </line>
+  <line commentary="Another blank space creates emphasis - absence becomes presence in this structure.">
+    <word original="__" calque="__" pinyin="__"/>
+    <word original="我" calque="I" pinyin="wǒ"/>
+    <word original="獨" calque="alone" pinyin="dú"/>
+    <word original="頑" calque="stubborn" pinyin="wán"/>
+    <word original="似" calque="resembling" pinyin="sì"/>
+    <word original="鄙" calque="rustic" pinyin="bǐ"/>
+  </line>
+  <line commentary="The ultimate affirmation of difference - standing apart becomes the distinguishing virtue.">
+    <word original="我" calque="I" pinyin="wǒ"/>
+    <word original="獨" calque="alone" pinyin="dú"/>
+    <word original="異" calque="different" pinyin="yì"/>
+    <word original="於" calque="from" pinyin="yú"/>
+    <word original="人" calque="person" pinyin="rén"/>
+  </line>
+  <line commentary="The mysterious conclusion - valuing the source might be the ultimate differentiation from mainstream values.">
+    <word original="而" calque="and" pinyin="ér"/>
+    <word original="貴" calque="value" pinyin="guì"/>
+    <word original="食" calque="eat" pinyin="shí"/>
+    <word original="母" calque="mother" pinyin="mǔ"/>
+  </line>
 </chapter>

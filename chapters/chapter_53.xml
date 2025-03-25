@@ -1,94 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="53">
-<line commentary="A humble admission of understanding - but notice the hesitation in 介然">
-    <word original="." calque="." punctuation="true"/>
-    <word original="使我" calque="make-me"/>
-    <word original="介然" calque="cautiously"/>
-    <word original="有知" calque="have-knowledge"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Knowledge itself appears as a burden - what might it mean to 'have knowledge' while remaining uncertain?">
+    <word original="." calque="." pinyin="." punctuation="true"/>
+    <word original="使" calque="cause" pinyin="shǐ"/>
+    <word original="我" calque="I" pinyin="wǒ"/>
+    <word original="介" calque="hesitant" pinyin="jiè"/>
+    <word original="然" calque="thus" pinyin="rán"/>
+    <word original="有" calque="have" pinyin="yǒu"/>
+    <word original="知" calque="knowledge" pinyin="zhī"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line commentary="What does it mean to walk the great way? Consider the vastness implied by 大.">
-    <word original="行" calque="walk"/>
-    <word original="於" calque="upon"/>
-    <word original="大道" calque="great-way"/>
+<line commentary="The great way lies before us - but what does it mean to 'walk upon' it?">
+    <word original="行" calque="walk" pinyin="xíng"/>
+    <word original="於" calque="upon" pinyin="yú"/>
+    <word original="大道" calque="great-way" pinyin="dà-dào"/>
 </line>
 
-<line commentary="Why fear straying? Is this about reverence or anxiety?">
-    <word original="唯" calque="only"/>
-    <word original="迤" calque="stray"/>
-    <word original="是" calque="this"/>
-    <word original="畏" calque="fear"/>
+<line commentary="Fear arises not from the path itself, but from straying - what generates this apprehension?">
+    <word original="唯" calque="only" pinyin="wéi"/>
+    <word original="迤" calque="deviate" pinyin="yǐ"/>
+    <word original="是" calque="this" pinyin="shì"/>
+    <word original="畏" calque="fear" pinyin="wèi"/>
 </line>
 
-<line commentary="the Dao is level - yet we choose otherwise. Why?">
-    <word original="大道" calque="great-way"/>
-    <word original="甚" calque="very"/>
-    <word original="夷" calque="level"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="The character 夷 suggests both 'level' and 'peaceful' - how might these meanings interweave?">
+    <word original="大道" calque="great-way" pinyin="dà-dào"/>
+    <word original="甚" calque="very" pinyin="shèn"/>
+    <word original="夷" calque="level" pinyin="yí"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line commentary="徑 (small path) vs 道 (way) - what's the deeper contrast here?">
-    <word original="而" calque="yet"/>
-    <word original="民" calque="people"/>
-    <word original="好" calque="prefer"/>
-    <word original="徑" calque="shortcut"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Why might people prefer narrow paths to the great way? What allure might shortcuts hold?">
+    <word original="而" calque="yet" pinyin="ér"/>
+    <word original="民" calque="people" pinyin="mín"/>
+    <word original="好" calque="prefer" pinyin="hào"/>
+    <word original="徑" calque="shortcut" pinyin="jìng"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line commentary="What's being swept clean? The natural or the artificial?">
-    <word original="朝" calque="court"/>
-    <word original="甚" calque="very"/>
-    <word original="除" calque="cleared"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="The courts shine with excessive cleanliness - what might this superficial order conceal?">
+    <word original="朝" calque="court" pinyin="cháo"/>
+    <word original="甚" calque="very" pinyin="shèn"/>
+    <word original="除" calque="clean" pinyin="chú"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line commentary="Neglected fields - what priorities does this reveal?">
-    <word original="田" calque="field"/>
-    <word original="甚" calque="very"/>
-    <word original="蕪" calque="overgrown"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="An untended field speaks volumes - what harvest comes from neglect?">
+    <word original="田" calque="field" pinyin="tián"/>
+    <word original="甚" calque="very" pinyin="shèn"/>
+    <word original="蕪" calque="overgrown" pinyin="wú"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="倉" calque="granary"/>
-    <word original="甚" calque="very"/>
-    <word original="虛" calque="empty"/>
+<line commentary="Empty granaries amid excess - can you feel the tension building in these parallels?">
+    <word original="倉" calque="granary" pinyin="cāng"/>
+    <word original="甚" calque="very" pinyin="shèn"/>
+    <word original="虛" calque="empty" pinyin="xū"/>
 </line>
 
-<line commentary="Notice how these lines build tension through contrast">
-    <word original="服" calque="wear"/>
-    <word original="文綵" calque="fine-clothes"/>
+<line commentary="Fine clothes mask what reality beneath?">
+    <word original="服" calque="wear" pinyin="fú"/>
+    <word original="文綵" calque="ornate-clothes" pinyin="wén-cǎi"/>
 </line>
 
-<line>
-    <word original="帶" calque="wear"/>
-    <word original="利" calque="sharp"/>
-    <word original="劍" calque="sword"/>
+<line commentary="Sharp swords at the waist - what kind of power do they truly represent?">
+    <word original="帶" calque="wear-at-waist" pinyin="dài"/>
+    <word original="利" calque="sharp" pinyin="lì"/>
+    <word original="劍" calque="sword" pinyin="jiàn"/>
 </line>
 
-<line>
-    <word original="厭" calque="gorge"/>
-    <word original="飲食" calque="food-drink"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Satiation becomes weariness - when does abundance become excess?">
+    <word original="厭" calque="satiated" pinyin="yàn"/>
+    <word original="飲" calque="drink" pinyin="yǐn"/>
+    <word original="食" calque="food" pinyin="shí"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="財貨" calque="wealth"/>
-    <word original="有餘" calque="have-excess"/>
+<line commentary="Surplus wealth appears - but at what cost?">
+    <word original="財" calque="wealth" pinyin="cái"/>
+    <word original="貨" calque="goods" pinyin="huò"/>
+    <word original="有" calque="have" pinyin="yǒu"/>
+    <word original="餘" calque="excess" pinyin="yú"/>
 </line>
 
-<line commentary="盜夸 - 'stolen splendor' - what makes excess theft?">
-    <word original="是" calque="this"/>
-    <word original="謂" calque="called"/>
-    <word original="盜夸" calque="stolen-splendor"/>
+<line commentary="When does pride become robbery? When does possession become theft?">
+    <word original="是" calque="this" pinyin="shì"/>
+    <word original="謂" calque="called" pinyin="wèi"/>
+    <word original="盜" calque="robbery" pinyin="dào"/>
+    <word original="夸" calque="boast" pinyin="kuā"/>
 </line>
 
-<line commentary="The final judgment - why end with 哉?">
-    <word original="非" calque="not"/>
-    <word original="道" calque="the Dao"/>
-    <word original="也" calque="indeed"/>
-    <word original="哉" calque="!"/>
-    <word original="(.)" calque="(.)" punctuation="true"/>
+<line commentary="The final sigh echoes through time - what truth rings in this closing lament?">
+    <word original="非" calque="not" pinyin="fēi"/>
+    <word original="道" calque="way" pinyin="dào"/>
+    <word original="也" calque="indeed" pinyin="yě"/>
+    <word original="哉" calque="ah" pinyin="zāi"/>
+    <word original="(.)" calque="(.)" pinyin="(.)" punctuation="true"/>
 </line>
 </chapter>

@@ -1,76 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="11">
-<line commentary="The chapter opens with a concrete image of a wheel - notice how it starts with the many (spokes) and moves to the one (hub).">
-    <word original="三十" calque="thirty"/>
-    <word original="輻" calque="spoke"/>
-    <word original="共" calque="share"/>
-    <word original="一" calque="one"/>
-    <word original="轂" calque="hub"/>
+<line commentary="Consider: thirty individual spokes converge at a single point. What makes the wheel useful - the spokes, or the space between them?">
+    <word original="三" pinyin="sān" calque="three"/>
+    <word original="十" pinyin="shí" calque="ten"/>
+    <word original="輻" pinyin="fú" calque="spokes"/>
+    <word original="共" pinyin="gòng" calque="share"/>
+    <word original="一" pinyin="yī" calque="one"/>
+    <word original="轂" pinyin="gǔ" calque="hub"/>
 </line>
 
-<line commentary="Consider: what makes a wheel useful? Is it the physical spokes, or the empty space they create?">
-    <word original="當" calque="where"/>
-    <word original="其" calque="its"/>
-    <word original="無" calque="nothing"/>
-    <word original="有" calque="has"/>
-    <word original="車" calque="chariot"/>
-    <word original="之" calque="'s"/>
-    <word original="用" calque="use"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="The character 當 suggests both 'facing toward' and 'when' - how might this double meaning enrich our understanding of emptiness?">
+    <word original="當" pinyin="dāng" calque="facing"/>
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="無" pinyin="wú" calque="nothing"/>
+    <word original="有" pinyin="yǒu" calque="exists"/>
+    <word original="車" pinyin="chē" calque="cart"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="用" pinyin="yòng" calque="use"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="The text shifts to pottery - another everyday craft that depends on emptiness.">
-    <word original="埏埴" calque="knead-clay"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="為" calque="make"/>
-    <word original="器" calque="vessel"/>
+<line commentary="Clay shaped by hands becomes a vessel, but what role does the unshaped space play?">
+    <word original="埏" pinyin="shān" calque="knead"/>
+    <word original="埴" pinyin="zhí" calque="clay"/>
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="為" pinyin="wéi" calque="become"/>
+    <word original="器" pinyin="qì" calque="vessel"/>
 </line>
 
-<line>
-    <word original="當" calque="where"/>
-    <word original="其" calque="its"/>
-    <word original="無" calque="nothing"/>
-    <word original="有" calque="has"/>
-    <word original="器" calque="vessel"/>
-    <word original="之" calque="'s"/>
-    <word original="用" calque="use"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="A parallel emerges - each form created serves through its emptiness. What patterns do you notice?">
+    <word original="當" pinyin="dāng" calque="facing"/>
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="無" pinyin="wú" calque="nothing"/>
+    <word original="有" pinyin="yǒu" calque="exists"/>
+    <word original="器" pinyin="qì" calque="vessel"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="用" pinyin="yòng" calque="use"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="The final practical example: architecture. What makes a room useful?">
-    <word original="鑿" calque="cut"/>
-    <word original="戶牖" calque="doors-windows"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="為" calque="make"/>
-    <word original="室" calque="room"/>
+<line commentary="Windows and doors - boundaries between presence and absence. What creates a room - the walls or the space they define?">
+    <word original="鑿" pinyin="záo" calque="cut"/>
+    <word original="戶" pinyin="hù" calque="doors"/>
+    <word original="牖" pinyin="yǒu" calque="windows"/>
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="為" pinyin="wéi" calque="become"/>
+    <word original="室" pinyin="shì" calque="room"/>
 </line>
 
-<line>
-    <word original="當" calque="where"/>
-    <word original="其" calque="its"/>
-    <word original="無" calque="nothing"/>
-    <word original="有" calque="has"/>
-    <word original="室" calque="room"/>
-    <word original="之" calque="'s"/>
-    <word original="用" calque="use"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="The third iteration completes the pattern. How does this repetition reinforce the chapter's insight?">
+    <word original="當" pinyin="dāng" calque="facing"/>
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="無" pinyin="wú" calque="nothing"/>
+    <word original="有" pinyin="yǒu" calque="exists"/>
+    <word original="室" pinyin="shì" calque="room"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="用" pinyin="yòng" calque="use"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="A philosophical pivot: how can something that isn't there be useful?">
-    <word original="(.)故" calque="therefore"/>
-    <word original="有" calque="existence"/>
-    <word original="之" calque="it"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="為" calque="make"/>
-    <word original="利" calque="benefit"/>
+<line commentary="'故' signals a conclusion drawn from the previous examples. What universal principle is being revealed?">
+    <word original="(.)故" pinyin="gù" calque="therefore"/>
+    <word original="有" pinyin="yǒu" calque="existence"/>
+    <word original="之" pinyin="zhī" calque="it"/>
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="為" pinyin="wéi" calque="become"/>
+    <word original="利" pinyin="lì" calque="benefit"/>
 </line>
 
-<line commentary="What is more valuable - what is there, or what isn't there?">
-    <word original="無" calque="nothing"/>
-    <word original="之" calque="it"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="為" calque="make"/>
-    <word original="用" calque="use"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="A final paradox: emptiness creates utility. How might this wisdom apply beyond physical objects?">
+    <word original="無" pinyin="wú" calque="nothing"/>
+    <word original="之" pinyin="zhī" calque="it"/>
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="為" pinyin="wéi" calque="become"/>
+    <word original="用" pinyin="yòng" calque="use"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 </chapter>

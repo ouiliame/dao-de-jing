@@ -1,134 +1,146 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="28">
-<line commentary="Notice how the chapter opens with parallel structures of knowing and preserving opposites. What might this tell us about the nature of wisdom?">
-    <word original="知" calque="know"/>
-    <word original="其" calque="its"/>
-    <word original="雄" calque="masculine"/>
-    <word original="守" calque="preserve"/>
-    <word original="其" calque="its"/>
-    <word original="雌" calque="feminine"/>
+
+<line commentary="Consider how knowing the masculine but preserving the feminine creates wholeness. What balance might this suggest?">
+    <word original="知" calque="know" pinyin="zhī"/>
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="雄" calque="masculine" pinyin="xióng"/>
+    <word original="守" calque="guard" pinyin="shǒu"/>
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="雌" calque="feminine" pinyin="cí"/>
 </line>
 
-<line commentary="Valley streams flow downward - a metaphor for humility. Why repeat this line?">
-    <word original="為" calque="become"/>
-    <word original="天下" calque="under-heaven"/>
-    <word original="谿" calque="valley-stream"/>
+<line commentary="The valley stream receives all waters. What virtue lies in being low?">
+    <word original="為" calque="become" pinyin="wéi"/>
+    <word original="天" calque="heaven" pinyin="tiān"/>
+    <word original="下" calque="below" pinyin="xià"/>
+    <word original="谿" calque="stream" pinyin="xī"/>
 </line>
 
-<line>
-    <word original="為" calque="become"/>
-    <word original="天下" calque="under-heaven"/>
-    <word original="谿" calque="valley-stream"/>
+<line commentary="A deliberate echo - what meaning emerges in repetition?">
+    <word original="為" calque="become" pinyin="wéi"/>
+    <word original="天" calque="heaven" pinyin="tiān"/>
+    <word original="下" calque="below" pinyin="xià"/>
+    <word original="谿" calque="stream" pinyin="xī"/>
 </line>
 
-<line commentary="What never departs? Consider how this relates to the natural way.">
-    <word original="常" calque="constant"/>
-    <word original="德" calque="virtue"/>
-    <word original="不" calque="not"/>
-    <word original="離" calque="depart"/>
+<line commentary="What never leaves remains eternal. How might constancy and virtue intertwine?">
+    <word original="常" calque="constant" pinyin="cháng"/>
+    <word original="德" calque="virtue" pinyin="dé"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="離" calque="depart" pinyin="lí"/>
 </line>
 
-<line commentary="Why return to an infant state? What qualities might an infant possess?">
-    <word original="復" calque="return"/>
-    <word original="歸" calque="return-to"/>
-    <word original="於" calque="to"/>
-    <word original="嬰兒" calque="infant"/>
+<line commentary="The infant knows no divisions. What wisdom lies in returning to this state?">
+    <word original="復" calque="return" pinyin="fù"/>
+    <word original="歸" calque="go-back" pinyin="guī"/>
+    <word original="於" calque="to" pinyin="yú"/>
+    <word original="嬰" calque="infant" pinyin="yīng"/>
+    <word original="兒" calque="child" pinyin="ér"/>
 </line>
 
-<line>
-    <word original="知" calque="know"/>
-    <word original="其" calque="its"/>
-    <word original="白" calque="white"/>
-    <word original="守" calque="preserve"/>
-    <word original="其" calque="its"/>
-    <word original="黑" calque="black"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Light and shadow dance together - must we choose between them?">
+    <word original="知" calque="know" pinyin="zhī"/>
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="白" calque="white" pinyin="bái"/>
+    <word original="守" calque="guard" pinyin="shǒu"/>
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="黑" calque="black" pinyin="hēi"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line commentary="'Pattern' or 'model' - what does it mean to become a pattern for all under heaven?">
-    <word original="為" calque="become"/>
-    <word original="天下" calque="under-heaven"/>
-    <word original="式" calque="pattern"/>
+<line commentary="What model emerges when we embrace both light and shadow?">
+    <word original="為" calque="become" pinyin="wéi"/>
+    <word original="天" calque="heaven" pinyin="tiān"/>
+    <word original="下" calque="below" pinyin="xià"/>
+    <word original="式" calque="model" pinyin="shì"/>
 </line>
 
-<line>
-    <word original="為" calque="become"/>
-    <word original="天下" calque="under-heaven"/>
-    <word original="式" calque="pattern"/>
+<line commentary="Again the echo - does repetition strengthen or transform?">
+    <word original="為" calque="become" pinyin="wéi"/>
+    <word original="天" calque="heaven" pinyin="tiān"/>
+    <word original="下" calque="below" pinyin="xià"/>
+    <word original="式" calque="model" pinyin="shì"/>
 </line>
 
-<line>
-    <word original="常" calque="constant"/>
-    <word original="德" calque="virtue"/>
-    <word original="不" calque="not"/>
-    <word original="忒" calque="deviate"/>
+<line commentary="Unwavering virtue - how does constancy manifest in change?">
+    <word original="常" calque="constant" pinyin="cháng"/>
+    <word original="德" calque="virtue" pinyin="dé"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="忒" calque="err" pinyin="tè"/>
 </line>
 
-<line commentary="The infinite (無極) represents the boundless source. How does this relate to returning to simplicity?">
-    <word original="復" calque="return"/>
-    <word original="歸" calque="return-to"/>
-    <word original="於" calque="to"/>
-    <word original="無極" calque="infinite"/>
+<line commentary="The limitless embraces all limits - what paradox lives here?">
+    <word original="復" calque="return" pinyin="fù"/>
+    <word original="歸" calque="go-back" pinyin="guī"/>
+    <word original="於" calque="to" pinyin="yú"/>
+    <word original="無" calque="without" pinyin="wú"/>
+    <word original="極" calque="limit" pinyin="jí"/>
 </line>
 
-<line>
-    <word original="知" calque="know"/>
-    <word original="其" calque="its"/>
-    <word original="榮" calque="glory"/>
-    <word original="守" calque="preserve"/>
-    <word original="其" calque="its"/>
-    <word original="辱" calque="shame"/>
+<line commentary="Honor and shame intertwine - which would you guard?">
+    <word original="知" calque="know" pinyin="zhī"/>
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="榮" calque="glory" pinyin="róng"/>
+    <word original="守" calque="guard" pinyin="shǒu"/>
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="辱" calque="shame" pinyin="rǔ"/>
 </line>
 
-<line commentary="The valley metaphor appears again, but differently. What qualities does a valley possess?">
-    <word original="為" calque="become"/>
-    <word original="天下" calque="under-heaven"/>
-    <word original="谷" calque="valley"/>
+<line commentary="The valley receives all waters - what power lies in emptiness?">
+    <word original="為" calque="become" pinyin="wéi"/>
+    <word original="天" calque="heaven" pinyin="tiān"/>
+    <word original="下" calque="below" pinyin="xià"/>
+    <word original="谷" calque="valley" pinyin="gǔ"/>
 </line>
 
-<line>
-    <word original="為" calque="become"/>
-    <word original="天下" calque="under-heaven"/>
-    <word original="谷" calque="valley"/>
+<line commentary="The echo deepens - what accumulates in the valley's depth?">
+    <word original="為" calque="become" pinyin="wéi"/>
+    <word original="天" calque="heaven" pinyin="tiān"/>
+    <word original="下" calque="below" pinyin="xià"/>
+    <word original="谷" calque="valley" pinyin="gǔ"/>
 </line>
 
-<line>
-    <word original="常" calque="constant"/>
-    <word original="德" calque="virtue"/>
-    <word original="乃" calque="then"/>
-    <word original="足" calque="sufficient"/>
+<line commentary="Sufficiency emerges from constant virtue - but what makes it sufficient?">
+    <word original="常" calque="constant" pinyin="cháng"/>
+    <word original="德" calque="virtue" pinyin="dé"/>
+    <word original="乃" calque="then" pinyin="nǎi"/>
+    <word original="足" calque="sufficient" pinyin="zú"/>
 </line>
 
-<line>
-    <word original="復" calque="return"/>
-    <word original="歸" calque="return-to"/>
-    <word original="於" calque="to"/>
-    <word original="樸" calque="simplicity"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="The uncarved block holds all possibilities - what wisdom in returning here?">
+    <word original="復" calque="return" pinyin="fù"/>
+    <word original="歸" calque="go-back" pinyin="guī"/>
+    <word original="於" calque="to" pinyin="yú"/>
+    <word original="樸" calque="uncarved-wood" pinyin="pǔ"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line commentary="Consider: What happens when simplicity is divided? What is lost, what is gained?">
-    <word original="樸" calque="simplicity"/>
-    <word original="散" calque="scatter"/>
-    <word original="則" calque="then"/>
-    <word original="為" calque="become"/>
-    <word original="器" calque="vessel"/>
+<line commentary="When simplicity scatters, forms emerge - but what is lost in this transformation?">
+    <word original="樸" calque="uncarved-wood" pinyin="pǔ"/>
+    <word original="散" calque="scatter" pinyin="sàn"/>
+    <word original="則" calque="then" pinyin="zé"/>
+    <word original="為" calque="become" pinyin="wéi"/>
+    <word original="器" calque="vessel" pinyin="qì"/>
 </line>
 
-<line commentary="How might the sage's use of vessels differ from ordinary use?">
-    <word original="聖人" calque="sage"/>
-    <word original="用" calque="use"/>
-    <word original="之" calque="it"/>
-    <word original="則" calque="then"/>
-    <word original="為" calque="become"/>
-    <word original="官長" calque="official"/>
+<line commentary="The sage's use transforms - but does utility enhance or diminish?">
+    <word original="聖" calque="sage" pinyin="shèng"/>
+    <word original="人" calque="person" pinyin="rén"/>
+    <word original="用" calque="use" pinyin="yòng"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="則" calque="then" pinyin="zé"/>
+    <word original="為" calque="become" pinyin="wéi"/>
+    <word original="官" calque="official" pinyin="guān"/>
+    <word original="長" calque="chief" pinyin="zhǎng"/>
 </line>
 
-<line commentary="The chapter closes with a profound paradox about wholeness. What does it mean to 'govern greatly' without cutting?">
-    <word original="(.)故" calque="therefore"/>
-    <word original="大" calque="great"/>
-    <word original="制" calque="govern"/>
-    <word original="不" calque="not"/>
-    <word original="割" calque="cut"/>
+<line commentary="The greatest system needs no divisions - what wholeness might this suggest?">
+    <word original="(故)" calque="(therefore)" pinyin="gù"/>
+    <word original="大" calque="great" pinyin="dà"/>
+    <word original="制" calque="system" pinyin="zhì"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="割" calque="cut" pinyin="gē"/>
 </line>
+
 </chapter>

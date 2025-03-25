@@ -1,115 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="21">
-<line commentary="Opening with vastness - how does one contain the uncontainable?">
-    <word original="孔" calque="vast"/>
-    <word original="德" calque="virtue"/>
-    <word original="之" calque="'s"/>
-    <word original="容" calque="appearance"/>
-    <word original="(唯)" calque="(only)"/>
-    <word original="道" calque="the Dao"/>
-    <word original="是" calque="this"/>
-    <word original="從" calque="follow"/>
+<line commentary="Consider how the highest virtue might manifest - not as solid form, but as a vessel that follows the way. What does it mean to 'follow' the formless?">
+    <word original="孔" pinyin="kǒng" calque="great"/>
+    <word original="德" pinyin="dé" calque="virtue"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="容" pinyin="róng" calque="appearance"/>
+    <word original="(唯)" pinyin="wéi" calque="(only)"/>
+    <word original="道" pinyin="dào" calque="way"/>
+    <word original="是" pinyin="shì" calque="this"/>
+    <word original="從" pinyin="cóng" calque="follow"/>
 </line>
 
-<line commentary="Notice how 'thing' is described - what does this tell us about the nature of Dao?">
-    <word original="道" calque="the Dao"/>
-    <word original="之" calque="'s"/>
-    <word original="為" calque="being"/>
-    <word original="物" calque="thing"/>
-    <word original="(唯)" calque="(only)"/>
-    <word original="恍" calque="dim"/>
-    <word original="(唯)" calque="(only)"/>
-    <word original="惚" calque="vague"/>
+<line commentary="A profound paradox emerges - how can the way be both a 'thing' yet simultaneously vague and indistinct?">
+    <word original="道" pinyin="dào" calque="way"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="為" pinyin="wéi" calque="being"/>
+    <word original="物" pinyin="wù" calque="thing"/>
+    <word original="(唯)" pinyin="wéi" calque="(only)"/>
+    <word original="恍" pinyin="huǎng" calque="dim"/>
+    <word original="(唯)" pinyin="wéi" calque="(only)"/>
+    <word original="惚" pinyin="hū" calque="obscure"/>
 </line>
 
-<line commentary="Within vagueness, forms emerge. How does this mirror human perception?">
-    <word original="惚" calque="vague"/>
-    <word original="兮" calque="!"/>
-    <word original="恍" calque="dim"/>
-    <word original="兮" calque="!"/>
-    <word original="其" calque="its"/>
-    <word original="中" calque="within"/>
-    <word original="有" calque="exist"/>
-    <word original="象" calque="image"/>
-    <word original="." calque="."/>
+<line commentary="Within the hazy void, forms emerge. What relationship exists between emptiness and manifestation?">
+    <word original="惚" pinyin="hū" calque="obscure"/>
+    <word original="兮" pinyin="xī" calque="ah"/>
+    <word original="恍" pinyin="huǎng" calque="dim"/>
+    <word original="兮" pinyin="xī" calque="ah"/>
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="中" pinyin="zhōng" calque="within"/>
+    <word original="有" pinyin="yǒu" calque="exist"/>
+    <word original="象" pinyin="xiàng" calque="image"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="恍" calque="dim"/>
-    <word original="兮" calque="!"/>
-    <word original="惚" calque="vague"/>
-    <word original="兮" calque="!"/>
-    <word original="其" calque="its"/>
-    <word original="中" calque="within"/>
-    <word original="有" calque="exist"/>
-    <word original="物" calque="thing"/>
-    <word original="." calque="."/>
+<line commentary="The pattern reverses, yet remains the same - now substance emerges from the shadowy depths. What distinguishes image from thing?">
+    <word original="恍" pinyin="huǎng" calque="dim"/>
+    <word original="兮" pinyin="xī" calque="ah"/>
+    <word original="惚" pinyin="hū" calque="obscure"/>
+    <word original="兮" pinyin="xī" calque="ah"/>
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="中" pinyin="zhōng" calque="within"/>
+    <word original="有" pinyin="yǒu" calque="exist"/>
+    <word original="物" pinyin="wù" calque="thing"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="What lies in the deepest darkness? Why do we find essence in depths?">
-    <word original="窈" calque="deep"/>
-    <word original="兮" calque="!"/>
-    <word original="冥" calque="dark"/>
-    <word original="兮" calque="!"/>
-    <word original="其" calque="its"/>
-    <word original="中" calque="within"/>
-    <word original="有" calque="exist"/>
-    <word original="精" calque="essence"/>
-    <word original="." calque="."/>
+<line commentary="Deep within darkness lies the seed of light - how does essence arise from void?">
+    <word original="窈" pinyin="yǎo" calque="deep"/>
+    <word original="兮" pinyin="xī" calque="ah"/>
+    <word original="冥" pinyin="míng" calque="dark"/>
+    <word original="兮" pinyin="xī" calque="ah"/>
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="中" pinyin="zhōng" calque="within"/>
+    <word original="有" pinyin="yǒu" calque="exist"/>
+    <word original="精" pinyin="jīng" calque="essence"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Truth emerges from darkness - consider how certainty arises from uncertainty">
-    <word original="其" calque="its"/>
-    <word original="精" calque="essence"/>
-    <word original="甚" calque="very"/>
-    <word original="真" calque="real"/>
+<line commentary="What makes essence 'true'? Consider the relationship between authenticity and intangibility.">
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="精" pinyin="jīng" calque="essence"/>
+    <word original="甚" pinyin="shèn" calque="very"/>
+    <word original="真" pinyin="zhēn" calque="real"/>
 </line>
 
-<line>
-    <word original="其" calque="its"/>
-    <word original="中" calque="within"/>
-    <word original="有" calque="exist"/>
-    <word original="信" calque="truth"/>
+<line commentary="From formlessness emerges reliability - how does trust arise from the seemingly ungraspable?">
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="中" pinyin="zhōng" calque="within"/>
+    <word original="有" pinyin="yǒu" calque="exist"/>
+    <word original="信" pinyin="xìn" calque="trust"/>
 </line>
 
-<line>
-    <word original="自" calque="from"/>
-    <word original="(今)" calque="(now)"/>
-    <word original="及" calque="reach"/>
-    <word original="(古)" calque="(ancient)"/>
+<line commentary="Time stretches both ways - what remains constant through endless change?">
+    <word original="自" pinyin="zì" calque="from"/>
+    <word original="(今)" pinyin="jīn" calque="(present)"/>
+    <word original="及" pinyin="jí" calque="reach"/>
+    <word original="(古)" pinyin="gǔ" calque="(ancient)"/>
 </line>
 
-<line commentary="What never leaves? What persists through time?">
-    <word original="其" calque="its"/>
-    <word original="名" calque="name"/>
-    <word original="不" calque="not"/>
-    <word original="去" calque="depart"/>
+<line commentary="That which cannot be named yet never departs - what persists beyond words?">
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="名" pinyin="míng" calque="name"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="去" pinyin="qù" calque="leave"/>
 </line>
 
-<line>
-    <word original="以" calque="by-means-of"/>
-    <word original="閱" calque="examine"/>
-    <word original="眾" calque="many"/>
-    <word original="甫" calque="beginnings"/>
-    <word original="." calque="."/>
+<line commentary="To witness beginnings requires a special kind of seeing - what lies beneath surface examination?">
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="閱" pinyin="yuè" calque="examine"/>
+    <word original="眾" pinyin="zhòng" calque="many"/>
+    <word original="甫" pinyin="fǔ" calque="beginning"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="A profound question - how do we know the origins of things?">
-    <word original="吾" calque="I"/>
-    <word original="何" calque="how"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="知" calque="know"/>
-    <word original="眾" calque="many"/>
-    <word original="甫" calque="beginnings"/>
-    <word original="之" calque="'s"/>
-    <word original="(然)" calque="(so)"/>
-    <word original="哉" calque="indeed"/>
-    <word original="(.)" calque="(.)"/>
+<line commentary="The questioner becomes the question - how do we verify the unverifiable?">
+    <word original="吾" pinyin="wú" calque="I"/>
+    <word original="何" pinyin="hé" calque="what"/>
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="知" pinyin="zhī" calque="know"/>
+    <word original="眾" pinyin="zhòng" calque="many"/>
+    <word original="甫" pinyin="fǔ" calque="beginning"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="(然)" pinyin="rán" calque="(thus)"/>
+    <word original="哉" pinyin="zāi" calque="indeed"/>
+    <word original="(.)" pinyin="" calque="(.)" punctuation="true"/>
 </line>
 
-<line commentary="The answer points back to the process just described - through observing the manifestation of Dao">
-    <word original="以" calque="by-means-of"/>
-    <word original="此" calque="this"/>
-    <word original="." calque="."/>
+<line commentary="The answer points back to the mystery itself - what does this circular logic reveal?">
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="此" pinyin="cǐ" calque="this"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 </chapter>

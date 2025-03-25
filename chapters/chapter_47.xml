@@ -1,69 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="47">
-<line commentary="Consider: How can one know the world without leaving home? What kind of knowing transcends physical experience?">
-    <word original="不" calque="not"/>
-    <word original="出" calque="exit"/>
-    <word original="戶" calque="door"/>
+<line commentary="A profound statement about boundaries - what lies within our immediate sphere that we fail to perceive?">
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="出" pinyin="chū" calque="exit"/>
+    <word original="戶" pinyin="hù" calque="door"/>
 </line>
 
-<line commentary="The brackets suggest an understood 'by means of' - what power lies in this omission?">
-    <word original="[以]" calque="[by-means-of]"/>
-    <word original="知" calque="know"/>
-    <word original="天下" calque="under-heaven"/>
+<line commentary="The character 天下 literally means 'under heaven' - but what defines the boundaries of our world?">
+    <word original="[以]" pinyin="yǐ" calque="[by-means-of]"/>
+    <word original="知" pinyin="zhī" calque="know"/>
+    <word original="天下" pinyin="tiān-xià" calque="all-under-heaven"/>
 </line>
 
-<line commentary="'Peek' implies furtive observation - why might the text choose this specific word?">
-    <word original="不" calque="not"/>
-    <word original="闚" calque="peek"/>
-    <word original="牖" calque="window"/>
+<line commentary="Windows frame our view - how might limited perspective enhance understanding?">
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="闚" pinyin="kuī" calque="peek"/>
+    <word original="牖" pinyin="yǒu" calque="window"/>
 </line>
 
-<line>
-    <word original="[以]" calque="[by-means-of]"/>
-    <word original="(知)" calque="(know)"/>
-    <word original="天" calque="heaven"/>
-    <word original="道" calque="the Dao"/>
+<line commentary="The Way of Heaven - does distance from observation bring us closer to truth?">
+    <word original="[以]" pinyin="yǐ" calque="[by-means-of]"/>
+    <word original="(知)" pinyin="zhī" calque="(know)"/>
+    <word original="天" pinyin="tiān" calque="heaven"/>
+    <word original="道" pinyin="dào" calque="way"/>
 </line>
 
-<line commentary="彌 creates a sense of endless expansion - notice how this plays against the theme of staying still">
-    <word original="其" calque="its"/>
-    <word original="出" calque="exit"/>
-    <word original="彌" calque="increasingly"/>
-    <word original="遠" calque="far"/>
+<line commentary="A paradox emerges - how does physical distance relate to understanding?">
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="出" pinyin="chū" calque="going-out"/>
+    <word original="彌" pinyin="mí" calque="increasingly"/>
+    <word original="遠" pinyin="yuǎn" calque="far"/>
 </line>
 
-<line>
-    <word original="其" calque="its"/>
-    <word original="知" calque="knowledge"/>
-    <word original="彌" calque="increasingly"/>
-    <word original="少" calque="less"/>
+<line commentary="Notice how 彌 'increasingly' connects these parallel lines - what accumulates as we venture outward?">
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="知" pinyin="zhī" calque="knowing"/>
+    <word original="彌" pinyin="mí" calque="increasingly"/>
+    <word original="少" pinyin="shǎo" calque="less"/>
 </line>
 
-<line commentary="The sage appears as the embodiment of this paradox">
-    <word original="是" calque="this"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="聖" calque="sage"/>
-    <word original="人" calque="person"/>
+<line commentary="The sage emerges - but what makes one wise?">
+    <word original="是" pinyin="shì" calque="this"/>
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="聖人" pinyin="shèng-rén" calque="sage-person"/>
 </line>
 
-<line>
-    <word original="不" calque="not"/>
-    <word original="行" calque="travel"/>
-    <word original="而" calque="yet"/>
-    <word original="知" calque="know"/>
+<line commentary="Consider the power of stillness - how might non-action lead to understanding?">
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="行" pinyin="xíng" calque="walk"/>
+    <word original="而" pinyin="ér" calque="yet"/>
+    <word original="知" pinyin="zhī" calque="know"/>
 </line>
 
-<line>
-    <word original="不" calque="not"/>
-    <word original="見" calque="see"/>
-    <word original="而" calque="yet"/>
-    <word original="名" calque="name"/>
+<line commentary="Without seeing comes naming - what kind of vision transcends the eyes?">
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="見" pinyin="jiàn" calque="see"/>
+    <word original="而" pinyin="ér" calque="yet"/>
+    <word original="名" pinyin="míng" calque="name"/>
 </line>
 
-<line commentary="The final line crystallizes the paradox: achievement through non-action">
-    <word original="不" calque="not"/>
-    <word original="為" calque="act"/>
-    <word original="而" calque="yet"/>
-    <word original="成" calque="complete"/>
+<line commentary="The final paradox completes - how does non-action lead to completion?">
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="為" pinyin="wéi" calque="do"/>
+    <word original="而" pinyin="ér" calque="yet"/>
+    <word original="成" pinyin="chéng" calque="complete"/>
 </line>
 </chapter>

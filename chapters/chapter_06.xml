@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="6">
-<line commentary="The valley spirit never dies - but what is a valley? Consider what makes a valley useful: its emptiness.">
-    <word original="谷" calque="valley"/>
-    <word original="神" calque="spirit"/>
-    <word original="不" calque="not"/>
-    <word original="死" calque="die"/>
+<line commentary="A valley holds space within - might emptiness itself be immortal? Consider how the absence of something can be more powerful than its presence.">
+    <word original="谷" pinyin="gǔ" calque="valley"/>
+    <word original="神" pinyin="shén" calque="spirit"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="死" pinyin="sǐ" calque="die"/>
 </line>
 
-<line commentary="'Dark feminine' - a profound mystery of creation. Why feminine? What creates and nurtures life?">
-    <word original="是" calque="this"/>
-    <word original="謂" calque="called"/>
-    <word original="玄" calque="dark"/>
-    <word original="牝" calque="feminine"/>
+<line commentary="'Dark feminine' - what mysteries lie in naming the unnameable? How might darkness illuminate?">
+    <word original="是" pinyin="shì" calque="this"/>
+    <word original="謂" pinyin="wèi" calque="called"/>
+    <word original="玄" pinyin="xuán" calque="dark"/>
+    <word original="牝" pinyin="pìn" calque="female"/>
 </line>
 
-<line commentary="The gateway of the mysterious feminine - imagine a doorway to creation itself.">
-    <word original="玄" calque="dark"/>
-    <word original="牝" calque="feminine"/>
-    <word original="之" calque="'s"/>
-    <word original="門" calque="gateway"/>
+<line commentary="A gateway between being and non-being - what passes through this threshold?">
+    <word original="玄" pinyin="xuán" calque="dark"/>
+    <word original="牝" pinyin="pìn" calque="female"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="門" pinyin="mén" calque="gate"/>
 </line>
 
-<line commentary="What connects heaven and earth? What is their common source?">
-    <word original="是" calque="this"/>
-    <word original="謂" calque="called"/>
-    <word original="天" calque="heaven"/>
-    <word original="地" calque="earth"/>
-    <word original="(之)" calque="'s"/>
-    <word original="根" calque="root"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Roots hidden in darkness nurture what grows in light - where does creation truly begin?">
+    <word original="是" pinyin="shì" calque="this"/>
+    <word original="謂" pinyin="wèi" calque="called"/>
+    <word original="天" pinyin="tiān" calque="heaven"/>
+    <word original="地" pinyin="dì" calque="earth"/>
+    <word original="(之)" pinyin="zhī" calque="(of)"/>
+    <word original="根" pinyin="gēn" calque="root"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="'Seeming to exist' - like a thread that never breaks, yet can you grasp it?">
-    <word original="绵" calque="continuous"/>
-    <word original="绵" calque="continuous"/>
-    <word original="若" calque="as-if"/>
-    <word original="存" calque="exist"/>
+<line commentary="'Like existing' - perception hovers between presence and absence. What endures in seeming impermanence?">
+    <word original="绵" pinyin="mián" calque="continuous"/>
+    <word original="绵" pinyin="mián" calque="continuous"/>
+    <word original="若" pinyin="ruò" calque="as-if"/>
+    <word original="存" pinyin="cún" calque="exist"/>
 </line>
 
-<line commentary="Use it without exhausting it - how can something be used forever without being depleted?">
-    <word original="用" calque="use"/>
-    <word original="之" calque="it"/>
-    <word original="不" calque="not"/>
-    <word original="勤" calque="exhaust"/>
+<line commentary="Using without exhausting - might true power lie in what cannot be depleted?">
+    <word original="用" pinyin="yòng" calque="use"/>
+    <word original="之" pinyin="zhī" calque="it"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="勤" pinyin="qín" calque="exhaust"/>
 </line>
 </chapter>

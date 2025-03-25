@@ -1,156 +1,162 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="14">
-<line commentary="A masterful opening using parallel structure to describe what cannot be described through normal sensation.">
-    <word original="視" calque="look-at"/>
-    <word original="之" calque="it"/>
-    <word original="不" calque="not"/>
-    <word original="見" calque="see"/>
-    <word original="名" calque="name"/>
-    <word original="曰" calque="call"/>
-    <word original="夷" calque="subtle" commentary="The first level of imperceptibility - what exists but cannot be seen"/>
+<line commentary="A meditation on sight without seeing - what lies beyond visual perception?">
+    <word original="視" calque="look-at" pinyin="shì"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="見" calque="see" pinyin="jiàn"/>
+    <word original="名" calque="name" pinyin="míng"/>
+    <word original="曰" calque="call" pinyin="yuē"/>
+    <word original="夷" calque="subtle" pinyin="yí"/>
+</line>
+
+<line commentary="Sound beyond hearing - when does silence become presence?">
+    <word original="聽" calque="listen-to" pinyin="tīng"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="聞" calque="hear" pinyin="wén"/>
+    <word original="名" calque="name" pinyin="míng"/>
+    <word original="曰" calque="call" pinyin="yuē"/>
+    <word original="希" calque="rare" pinyin="xī"/>
+</line>
+
+<line commentary="Touch reaching for the untouchable - where does form end and formlessness begin?">
+    <word original="搏" calque="grasp" pinyin="bó"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="得" calque="obtain" pinyin="dé"/>
+    <word original="名" calque="name" pinyin="míng"/>
+    <word original="曰" calque="call" pinyin="yuē"/>
+    <word original="微" calque="minute" pinyin="wēi"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+</line>
+
+<line commentary="What happens when questioning reaches its limit?">
+    <word original="此" calque="these" pinyin="cǐ"/>
+    <word original="三" calque="three" pinyin="sān"/>
+    <word original="者" calque="ones" pinyin="zhě"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="可" calque="can" pinyin="kě"/>
+    <word original="致" calque="thoroughly" pinyin="zhì"/>
+    <word original="詰" calque="investigate" pinyin="jié"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
+</line>
+
+<line commentary="From many to one - but what kind of unity emerges from confusion?">
+    <word original="(.)故" calque="(therefore)" pinyin="gù"/>
+    <word original="混" calque="merge" pinyin="hùn"/>
+    <word original="而" calque="and" pinyin="ér"/>
+    <word original="為" calque="become" pinyin="wéi"/>
+    <word original="一" calque="one" pinyin="yī"/>
 </line>
 
 <line>
-    <word original="聽" calque="listen-to"/>
-    <word original="之" calque="it"/>
-    <word original="不" calque="not"/>
-    <word original="聞" calque="hear"/>
-    <word original="名" calque="name"/>
-    <word original="曰" calque="call"/>
-    <word original="希" calque="rare" commentary="The second level - even more elusive than the first"/>
+    <word original="[一" calque="[one" pinyin="yī"/>
+    <word original="者]" calque="one]" pinyin="zhě"/>
 </line>
 
-<line>
-    <word original="搏" calque="grasp"/>
-    <word original="之" calque="it"/>
-    <word original="不" calque="not"/>
-    <word original="得" calque="obtain"/>
-    <word original="名" calque="name"/>
-    <word original="曰" calque="call"/>
-    <word original="微" calque="minute" commentary="The third level - the most subtle of all"/>
+<line commentary="Between brightness and darkness - where does clarity reside?">
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="上" calque="above" pinyin="shàng"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="皦" calque="bright" pinyin="jiǎo"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line commentary="What happens when human inquiry reaches its limits?">
-    <word original="此" calque="these"/>
-    <word original="三" calque="three"/>
-    <word original="者" calque="ones"/>
-    <word original="不" calque="not"/>
-    <word original="可" calque="can"/>
-    <word original="致" calque="thoroughly"/>
-    <word original="詰" calque="investigate"/>
+<line commentary="A dance between light and shadow - what emerges in this interplay?">
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="下" calque="below" pinyin="xià"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="昧" calque="dark" pinyin="mèi"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="(.)故" calque="therefore"/>
-    <word original="混" calque="blend"/>
-    <word original="而" calque="and"/>
-    <word original="為" calque="become"/>
-    <word original="一" calque="one"/>
+<line commentary="Continuous yet unnamed - how does persistence exist without definition?">
+    <word original="繩繩" calque="continuous" pinyin="shéngshéng"/>
+    <word original="[兮]" calque="[ah]" pinyin="xī"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="可" calque="can" pinyin="kě"/>
+    <word original="名" calque="name" pinyin="míng"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="[一" calque="one"/>
-    <word original="者]" calque="that-which"/>
+<line commentary="Return to nothingness - but what kind of nothingness contains all things?">
+    <word original="復" calque="return" pinyin="fù"/>
+    <word original="歸" calque="return" pinyin="guī"/>
+    <word original="於" calque="to" pinyin="yú"/>
+    <word original="無" calque="nothing" pinyin="wú"/>
+    <word original="物" calque="thing" pinyin="wù"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line commentary="Consider: How can something be neither bright nor dark?">
-    <word original="其" calque="its"/>
-    <word original="上" calque="above"/>
-    <word original="不" calque="not"/>
-    <word original="皦" calque="bright"/>
+<line commentary="The form of formlessness - can you grasp this paradox?">
+    <word original="是" calque="this" pinyin="shì"/>
+    <word original="謂" calque="called" pinyin="wèi"/>
+    <word original="無" calque="without" pinyin="wú"/>
+    <word original="狀" calque="form" pinyin="zhuàng"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="狀" calque="form" pinyin="zhuàng"/>
 </line>
 
-<line>
-    <word original="其" calque="its"/>
-    <word original="下" calque="below"/>
-    <word original="不" calque="not"/>
-    <word original="昧" calque="dim"/>
+<line commentary="The image of imagelessness - what pictures nothing?">
+    <word original="無" calque="without" pinyin="wú"/>
+    <word original="物" calque="thing" pinyin="wù"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="象" calque="image" pinyin="xiàng"/>
 </line>
 
-<line>
-    <word original="繩" calque="continuous"/>
-    <word original="繩" calque="continuous"/>
-    <word original="[兮]" calque="!"/>
-    <word original="不" calque="not"/>
-    <word original="可" calque="can"/>
-    <word original="名" calque="name"/>
+<line commentary="Dimness and clarity intertwined - where does one perception end and another begin?">
+    <word original="是" calque="this" pinyin="shì"/>
+    <word original="謂" calque="called" pinyin="wèi"/>
+    <word original="惚" calque="dim" pinyin="hū"/>
+    <word original="恍" calque="indistinct" pinyin="huǎng"/>
 </line>
 
-<line commentary="What does it mean to return to nothingness?">
-    <word original="復" calque="return"/>
-    <word original="歸" calque="go-back"/>
-    <word original="於" calque="to"/>
-    <word original="無" calque="nothing"/>
-    <word original="物" calque="thing"/>
+<line commentary="Seeking its beginning - what eludes the seeker?">
+    <word original="迎" calque="meet" pinyin="yíng"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="見" calque="see" pinyin="jiàn"/>
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="首" calque="head" pinyin="shǒu"/>
 </line>
 
-<line>
-    <word original="是" calque="this"/>
-    <word original="謂" calque="called"/>
-    <word original="無" calque="no"/>
-    <word original="狀" calque="form"/>
-    <word original="之" calque="'s"/>
-    <word original="狀" calque="form"/>
+<line commentary="Following its end - where does pursuit lead when the goal cannot be seen?">
+    <word original="隨" calque="follow" pinyin="suí"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="見" calque="see" pinyin="jiàn"/>
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="後" calque="after" pinyin="hòu"/>
 </line>
 
-<line>
-    <word original="無" calque="no"/>
-    <word original="物" calque="thing"/>
-    <word original="之" calque="'s"/>
-    <word original="象" calque="image"/>
+<line commentary="Ancient wisdom in present hands - how does the past guide the future?">
+    <word original="執" calque="hold" pinyin="zhí"/>
+    <word original="古" calque="ancient" pinyin="gǔ"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="道" calque="way" pinyin="dào"/>
 </line>
 
-<line commentary="惚恍 captures the dreamlike quality of trying to perceive the Dao">
-    <word original="是" calque="this"/>
-    <word original="謂" calque="called"/>
-    <word original="惚" calque="dim"/>
-    <word original="恍" calque="vague"/>
+<line commentary="Mastering present existence through ancient ways - what bridges time?">
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="御" calque="manage" pinyin="yù"/>
+    <word original="今" calque="present" pinyin="jīn"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="有" calque="existence" pinyin="yǒu"/>
+    <word original="." calque="." pinyin="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="迎" calque="meet"/>
-    <word original="之" calque="it"/>
-    <word original="不" calque="not"/>
-    <word original="見" calque="see"/>
-    <word original="其" calque="its"/>
-    <word original="首" calque="head"/>
+<line commentary="Understanding beginnings - what wisdom lies in origins?">
+    <word original="能" calque="able" pinyin="néng"/>
+    <word original="知" calque="know" pinyin="zhī"/>
+    <word original="古" calque="ancient" pinyin="gǔ"/>
+    <word original="始" calque="beginning" pinyin="shǐ"/>
 </line>
 
-<line>
-    <word original="隨" calque="follow"/>
-    <word original="之" calque="it"/>
-    <word original="不" calque="not"/>
-    <word original="見" calque="see"/>
-    <word original="其" calque="its"/>
-    <word original="後" calque="behind"/>
-</line>
-
-<line commentary="How might ancient wisdom guide present action?">
-    <word original="執" calque="hold"/>
-    <word original="古" calque="ancient"/>
-    <word original="之" calque="'s"/>
-    <word original="道" calque="the Dao"/>
-</line>
-
-<line>
-    <word original="以" calque="by-means-of"/>
-    <word original="御" calque="guide"/>
-    <word original="今" calque="present"/>
-    <word original="之" calque="'s"/>
-    <word original="有" calque="existence"/>
-</line>
-
-<line>
-    <word original="能" calque="able"/>
-    <word original="知" calque="know"/>
-    <word original="古" calque="ancient"/>
-    <word original="始" calque="beginning"/>
-</line>
-
-<line>
-    <word original="是" calque="this"/>
-    <word original="謂" calque="called"/>
-    <word original="道" calque="the Dao"/>
-    <word original="紀" calque="principle"/>
+<line commentary="The thread that weaves through time - what principles remain constant?">
+    <word original="是" calque="this" pinyin="shì"/>
+    <word original="謂" calque="called" pinyin="wèi"/>
+    <word original="道" calque="way" pinyin="dào"/>
+    <word original="紀" calque="principle" pinyin="jì"/>
 </line>
 </chapter>

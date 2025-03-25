@@ -1,98 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="36">
-<line commentary="Notice how the chapter opens with a series of parallel constructions showing the cyclical nature of opposition">
-    <word original="將" calque="will"/>
-    <word original="欲" calque="wish"/>
-    <word original="歙" calque="contract"/>
-    <word original="之" calque="it"/>
+
+<line commentary="Notice how desire (欲) precedes action - what happens in the space between wanting and doing?">
+    <word original="將" pinyin="jiāng" calque="about-to"/>
+    <word original="欲" pinyin="yù" calque="desire"/>
+    <word original="歙" pinyin="shě" calque="contract"/>
+    <word original="之" pinyin="zhī" calque="it"/>
 </line>
 
-<line>
-    <word original="必" calque="must"/>
-    <word original="固" calque="certainly"/>
-    <word original="張" calque="expand"/>
-    <word original="之" calque="it"/>
+<line commentary="The character 固 suggests both 'surely' and 'solidify' - how might certainty become its own obstacle?">
+    <word original="必" pinyin="bì" calque="must"/>
+    <word original="固" pinyin="gù" calque="certainly"/>
+    <word original="張" pinyin="zhāng" calque="expand"/>
+    <word original="之" pinyin="zhī" calque="it"/>
 </line>
 
-<line>
-    <word original="將" calque="will"/>
-    <word original="欲" calque="wish"/>
-    <word original="弱" calque="weaken"/>
-    <word original="之" calque="it"/>
+<line commentary="Each parallel construction reveals a dance of opposites - what patterns emerge in this rhythm?">
+    <word original="將" pinyin="jiāng" calque="about-to"/>
+    <word original="欲" pinyin="yù" calque="desire"/>
+    <word original="弱" pinyin="ruò" calque="weaken"/>
+    <word original="之" pinyin="zhī" calque="it"/>
 </line>
 
-<line>
-    <word original="必" calque="must"/>
-    <word original="固" calque="certainly"/>
-    <word original="強" calque="strengthen"/>
-    <word original="之" calque="it"/>
+<line commentary="Consider how strengthening might contain the seeds of its own undoing.">
+    <word original="必" pinyin="bì" calque="must"/>
+    <word original="固" pinyin="gù" calque="certainly"/>
+    <word original="強" pinyin="qiáng" calque="strengthen"/>
+    <word original="之" pinyin="zhī" calque="it"/>
 </line>
 
-<line>
-    <word original="將" calque="will"/>
-    <word original="欲" calque="wish"/>
-    <word original="廢" calque="abolish"/>
-    <word original="之" calque="it"/>
+<line commentary="廢 suggests both ending and beginning - what cycles of transformation might this reveal?">
+    <word original="將" pinyin="jiāng" calque="about-to"/>
+    <word original="欲" pinyin="yù" calque="desire"/>
+    <word original="廢" pinyin="fèi" calque="abolish"/>
+    <word original="之" pinyin="zhī" calque="it"/>
 </line>
 
-<line>
-    <word original="必" calque="must"/>
-    <word original="固" calque="certainly"/>
-    <word original="興" calque="raise"/>
-    <word original="之" calque="it"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="興 carries both 'rise' and 'flourish' - how might apparent endings contain new beginnings?">
+    <word original="必" pinyin="bì" calque="must"/>
+    <word original="固" pinyin="gù" calque="certainly"/>
+    <word original="興" pinyin="xīng" calque="rise"/>
+    <word original="之" pinyin="zhī" calque="it"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="將" calque="will"/>
-    <word original="欲" calque="wish"/>
-    <word original="奪" calque="take"/>
-    <word original="之" calque="it"/>
+<line commentary="奪 suggests both 'seize' and 'deprive' - what paradox lies in the act of taking?">
+    <word original="將" pinyin="jiāng" calque="about-to"/>
+    <word original="欲" pinyin="yù" calque="desire"/>
+    <word original="奪" pinyin="duó" calque="seize"/>
+    <word original="之" pinyin="zhī" calque="it"/>
 </line>
 
-<line>
-    <word original="必" calque="must"/>
-    <word original="固" calque="certainly"/>
-    <word original="與" calque="give"/>
-    <word original="之" calque="it"/>
+<line commentary="與 can mean both 'give' and 'participate' - how might giving become a form of power?">
+    <word original="必" pinyin="bì" calque="must"/>
+    <word original="固" pinyin="gù" calque="certainly"/>
+    <word original="與" pinyin="yǔ" calque="give"/>
+    <word original="之" pinyin="zhī" calque="it"/>
 </line>
 
-<line commentary="微明 captures the essence of subtle wisdom - how might this relate to the previous pairs of opposites?">
-    <word original="是" calque="this"/>
-    <word original="謂" calque="called"/>
-    <word original="微明" calque="subtle-illumination"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="微明 suggests illumination through subtlety - what wisdom might be found in partial light?">
+    <word original="是" pinyin="shì" calque="this"/>
+    <word original="謂" pinyin="wèi" calque="called"/>
+    <word original="微" pinyin="wēi" calque="subtle"/>
+    <word original="明" pinyin="míng" calque="bright"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Consider: How can softness overcome hardness? Think of water wearing away stone...">
-    <word original="柔" calque="soft"/>
-    <word original="弱" calque="weak"/>
-    <word original="勝" calque="overcome"/>
-    <word original="剛" calque="rigid"/>
-    <word original="強" calque="strong"/>
+<line commentary="A declaration that inverts conventional wisdom - how might softness contain its own kind of strength?">
+    <word original="柔" pinyin="róu" calque="soft"/>
+    <word original="弱" pinyin="ruò" calque="weak"/>
+    <word original="勝" pinyin="shèng" calque="overcome"/>
+    <word original="剛" pinyin="gāng" calque="hard"/>
+    <word original="強" pinyin="qiáng" calque="strong"/>
 </line>
 
-<line commentary="What makes a fish safest in deep waters?">
-    <word original="魚" calque="fish"/>
-    <word original="不" calque="not"/>
-    <word original="可" calque="can"/>
-    <word original="脫" calque="escape"/>
-    <word original="於" calque="from"/>
-    <word original="淵" calque="depths"/>
+<line commentary="What wisdom might fish possess about the relationship between freedom and constraint?">
+    <word original="魚" pinyin="yú" calque="fish"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="可" pinyin="kě" calque="can"/>
+    <word original="脫" pinyin="tuō" calque="escape"/>
+    <word original="於" pinyin="yú" calque="from"/>
+    <word original="淵" pinyin="yuān" calque="depths"/>
 </line>
 
-<line>
-    <word original="國" calque="state"/>
-    <word original="之" calque="'s"/>
-    <word original="利器" calque="sharp-tools"/>
+<line commentary="利器 - 'sharp tools' both literal and metaphorical - what powers must remain hidden to remain effective?">
+    <word original="國" pinyin="guó" calque="state"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="利" pinyin="lì" calque="sharp"/>
+    <word original="器" pinyin="qì" calque="tool"/>
 </line>
 
-<line commentary="What kinds of power are best kept hidden?">
-    <word original="不" calque="not"/>
-    <word original="可" calque="can"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="示" calque="show"/>
-    <word original="人" calque="people"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="A warning about display of power - how might concealment preserve potency?">
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="可" pinyin="kě" calque="can"/>
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="示" pinyin="shì" calque="show"/>
+    <word original="人" pinyin="rén" calque="person"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
+
 </chapter>

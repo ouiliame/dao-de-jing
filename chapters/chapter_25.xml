@@ -1,133 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="25">
-<line commentary="Notice how the opening describes something that existed before form itself">
-    <word original="有" calque="exists"/>
-    <word original="物" calque="thing"/>
-    <word original="混" calque="chaos"/>
-    <word original="成" calque="complete"/>
+<line commentary="A primordial substance, neither formed nor separate - what existed before distinction?">
+    <word original="有" calque="exists" pinyin="yǒu"/>
+    <word original="物" calque="thing" pinyin="wù"/>
+    <word original="混成" calque="chaos-complete" pinyin="hùn-chéng"/>
 </line>
-<line commentary="Before heaven and earth - before time itself">
-    <word original="先" calque="before"/>
-    <word original="天地" calque="heaven-earth"/>
-    <word original="生" calque="born"/>
+
+<line commentary="Before the division of heaven and earth - imagine this moment of pure potential.">
+    <word original="先" calque="before" pinyin="xiān"/>
+    <word original="天地" calque="heaven-earth" pinyin="tiān-dì"/>
+    <word original="生" calque="born" pinyin="shēng"/>
 </line>
-<line commentary="The repetitive 兮 creates a dreamy, mystical quality - how would you describe this soundless, formless state?">
-    <word original="寂" calque="silent"/>
-    <word original="兮" calque="!"/>
-    <word original="寥" calque="vast-empty"/>
-    <word original="兮" calque="!"/>
+
+<line commentary="Two words for silence - each expressing a different quality of emptiness. What sounds do you hear in absolute quiet?">
+    <word original="寂" calque="still" pinyin="jì"/>
+    <word original="兮" calque="ah" pinyin="xī"/>
+    <word original="寥" calque="vast-empty" pinyin="liáo"/>
+    <word original="兮" calque="ah" pinyin="xī"/>
 </line>
-<line>
-    <word original="獨" calque="alone"/>
-    <word original="立" calque="stand"/>
-    <word original="不" calque="not"/>
-    <word original="改" calque="change"/>
+
+<line commentary="Standing alone suggests both independence and solitude - what remains unchanged amid constant change?">
+    <word original="獨" calque="alone" pinyin="dú"/>
+    <word original="立" calque="stand" pinyin="lì"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="改" calque="change" pinyin="gǎi"/>
 </line>
-<line commentary="Consider how 周行 (circular-movement) connects to 不殆 (no-danger) - what does this tell us about natural cycles?">
-    <word original="周" calque="circular"/>
-    <word original="行" calque="move"/>
-    <word original="而" calque="and"/>
-    <word original="不" calque="not"/>
-    <word original="殆" calque="danger"/>
+
+<line commentary="Circular movement without peril - how does endless motion achieve perfect safety?">
+    <word original="周" calque="circular" pinyin="zhōu"/>
+    <word original="行" calque="move" pinyin="xíng"/>
+    <word original="而" calque="and" pinyin="ér"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="殆" calque="danger" pinyin="dài"/>
 </line>
-<line>
-    <word original="可" calque="can"/>
-    <word original="以" calque="by-means-of"/>
-    <word original="為" calque="become"/>
-    <word original="天下" calque="under-heaven"/>
-    <word original="母" calque="mother"/>
+
+<line commentary="What kind of mother gives birth to everything yet remains forever?">
+    <word original="可" calque="can" pinyin="kě"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="為" calque="become" pinyin="wéi"/>
+    <word original="天下" calque="under-heaven" pinyin="tiān-xià"/>
+    <word original="母" calque="mother" pinyin="mǔ"/>
 </line>
-<line commentary="What does it mean when something is beyond naming?">
-    <word original="吾" calque="I"/>
-    <word original="不" calque="not"/>
-    <word original="知" calque="know"/>
-    <word original="其" calque="its"/>
-    <word original="名" calque="name"/>
-    <word original="." calque="." punctuation="true"/>
+
+<line commentary="The unknowable name - how do we speak of what cannot be named?">
+    <word original="吾" calque="I" pinyin="wú"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="知" calque="know" pinyin="zhī"/>
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="名" calque="name" pinyin="míng"/>
+    <word original="." calque="." pinyin=""/>
 </line>
-<line>
-    <word original="字" calque="character"/>
-    <word original="之" calque="it"/>
-    <word original="曰" calque="say"/>
-    <word original="道" calque="the Dao"/>
+
+<line commentary="Giving it a designation - not a name, but a way to speak of it.">
+    <word original="字" calque="character" pinyin="zì"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="曰" calque="call" pinyin="yuē"/>
+    <word original="道" calque="way" pinyin="dào"/>
 </line>
-<line commentary="強 suggests reluctance - why might naming something limit it?">
-    <word original="強" calque="force"/>
-    <word original="為" calque="make"/>
-    <word original="之" calque="it"/>
-    <word original="名" calque="name"/>
-    <word original="曰" calque="say"/>
-    <word original="大" calque="great"/>
+
+<line commentary="Forced to name it - what violence does naming do to the nameless?">
+    <word original="強" calque="force" pinyin="qiáng"/>
+    <word original="為" calque="make" pinyin="wéi"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="名" calque="name" pinyin="míng"/>
+    <word original="曰" calque="call" pinyin="yuē"/>
+    <word original="大" calque="great" pinyin="dà"/>
 </line>
-<line>
-    <word original="大" calque="great"/>
-    <word original="曰" calque="say"/>
-    <word original="逝" calque="depart"/>
+
+<line commentary="The great passes away - movement begins.">
+    <word original="大" calque="great" pinyin="dà"/>
+    <word original="曰" calque="call" pinyin="yuē"/>
+    <word original="逝" calque="depart" pinyin="shǐ"/>
 </line>
-<line>
-    <word original="逝" calque="depart"/>
-    <word original="曰" calque="say"/>
-    <word original="遠" calque="far"/>
+
+<line commentary="The departed becomes distant - movement continues.">
+    <word original="逝" calque="depart" pinyin="shǐ"/>
+    <word original="曰" calque="call" pinyin="yuē"/>
+    <word original="遠" calque="far" pinyin="yuǎn"/>
 </line>
-<line commentary="How does the cycle complete itself through return?">
-    <word original="遠" calque="far"/>
-    <word original="曰" calque="say"/>
-    <word original="反" calque="return"/>
+
+<line commentary="The distant returns - the circle completes itself.">
+    <word original="遠" calque="far" pinyin="yuǎn"/>
+    <word original="曰" calque="call" pinyin="yuē"/>
+    <word original="反" calque="return" pinyin="fǎn"/>
 </line>
-<line>
-    <word original="(.)" calque="(.)" punctuation="true"/>
-    <word original="__" calque="..." punctuation="true"/>
-    <word original="道" calque="the Dao"/>
-    <word original="大" calque="great"/>
+
+<line commentary="A pause before the enumeration of greatness begins.">
+    <word original="(.)" calque="(.)" pinyin=""/>
+    <word original="__" calque="..." pinyin=""/>
+    <word original="道" calque="way" pinyin="dào"/>
+    <word original="大" calque="great" pinyin="dà"/>
 </line>
-<line>
-    <word original="天" calque="heaven"/>
-    <word original="大" calque="great"/>
+
+<line commentary="Heaven's greatness - what measures the measureless?">
+    <word original="天" calque="heaven" pinyin="tiān"/>
+    <word original="大" calque="great" pinyin="dà"/>
 </line>
-<line>
-    <word original="地" calque="earth"/>
-    <word original="大" calque="great"/>
+
+<line commentary="Earth's greatness - what contains the container?">
+    <word original="地" calque="earth" pinyin="dì"/>
+    <word original="大" calque="great" pinyin="dà"/>
 </line>
-<line>
-    <word original="王" calque="king"/>
-    <word original="亦" calque="also"/>
-    <word original="大" calque="great"/>
+
+<line commentary="The ruler's greatness - human authority among natural powers.">
+    <word original="王" calque="king" pinyin="wáng"/>
+    <word original="亦" calque="also" pinyin="yì"/>
+    <word original="大" calque="great" pinyin="dà"/>
 </line>
-<line commentary="四大 (four greats) - notice how humanity is part of this cosmic pattern">
-    <word original="域" calque="realm"/>
-    <word original="中" calque="within"/>
-    <word original="有" calque="exist"/>
-    <word original="四" calque="four"/>
-    <word original="大" calque="great"/>
+
+<line commentary="Four greatnesses in the realm - notice how human authority takes its place among natural forces.">
+    <word original="域" calque="realm" pinyin="yù"/>
+    <word original="中" calque="within" pinyin="zhōng"/>
+    <word original="有" calque="exist" pinyin="yǒu"/>
+    <word original="四" calque="four" pinyin="sì"/>
+    <word original="大" calque="great" pinyin="dà"/>
 </line>
-<line>
-    <word original="而" calque="and"/>
-    <word original="王" calque="king"/>
-    <word original="居" calque="dwell"/>
-    <word original="其" calque="its"/>
-    <word original="一" calque="one"/>
-    <word original="焉" calque="therein"/>
-    <word original="." calque="." punctuation="true"/>
+
+<line commentary="The king occupies one position - how does human greatness relate to natural greatness?">
+    <word original="而" calque="and" pinyin="ér"/>
+    <word original="王" calque="king" pinyin="wáng"/>
+    <word original="居" calque="dwells" pinyin="jū"/>
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="一" calque="one" pinyin="yī"/>
+    <word original="焉" calque="therein" pinyin="yān"/>
+    <word original="." calque="." pinyin=""/>
 </line>
-<line>
-    <word original="人" calque="human"/>
-    <word original="法" calque="model"/>
-    <word original="地" calque="earth"/>
+
+<line commentary="Humans model earth - what wisdom lies in this sequence?">
+    <word original="人" calque="human" pinyin="rén"/>
+    <word original="法" calque="model" pinyin="fǎ"/>
+    <word original="地" calque="earth" pinyin="dì"/>
 </line>
-<line>
-    <word original="地" calque="earth"/>
-    <word original="法" calque="model"/>
-    <word original="天" calque="heaven"/>
+
+<line commentary="Earth models heaven - each level following its source.">
+    <word original="地" calque="earth" pinyin="dì"/>
+    <word original="法" calque="model" pinyin="fǎ"/>
+    <word original="天" calque="heaven" pinyin="tiān"/>
 </line>
-<line>
-    <word original="天" calque="heaven"/>
-    <word original="法" calque="model"/>
-    <word original="道" calque="the Dao"/>
+
+<line commentary="Heaven models the way - the chain of influence continues upward.">
+    <word original="天" calque="heaven" pinyin="tiān"/>
+    <word original="法" calque="model" pinyin="fǎ"/>
+    <word original="道" calque="way" pinyin="dào"/>
 </line>
-<line commentary="自然 - perhaps the most profound concept in Daoism. What does it mean for something to be 'self-so'?">
-    <word original="道" calque="the Dao"/>
-    <word original="法" calque="model"/>
-    <word original="自然" calque="self-so"/>
-    <word original="." calque="." punctuation="true"/>
+
+<line commentary="The way models what is naturally so - what does it mean for the ultimate to model spontaneity?">
+    <word original="道" calque="way" pinyin="dào"/>
+    <word original="法" calque="model" pinyin="fǎ"/>
+    <word original="自然" calque="self-so" pinyin="zì-rán"/>
+    <word original="." calque="." pinyin=""/>
 </line>
 </chapter>

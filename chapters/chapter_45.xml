@@ -1,74 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="45">
-<line commentary="Consider: How can something be most complete when it appears incomplete?">
-    <word original="大" calque="great"/>
-    <word original="成" calque="complete"/>
-    <word original="若" calque="seem-like"/>
-    <word original="缺" calque="lacking"/>
+<line commentary="Consider: might completeness that appears complete be somehow less complete than that which appears incomplete?">
+    <word original="大" pinyin="dà" calque="great"/>
+    <word original="成" pinyin="chéng" calque="complete"/>
+    <word original="若" pinyin="ruò" calque="like"/>
+    <word original="缺" pinyin="quē" calque="lacking"/>
 </line>
 
-<line commentary="Reflect on how true utility never becomes depleted">
-    <word original="其" calque="its"/>
-    <word original="用" calque="use"/>
-    <word original="不" calque="not"/>
-    <word original="弊" calque="exhausted"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="What never wears out? Perhaps that which doesn't insist on its own perfection.">
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="用" pinyin="yòng" calque="use"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="弊" pinyin="bì" calque="worn-out"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="What is truly full might appear empty - like a vessel ready to receive">
-    <word original="大" calque="great"/>
-    <word original="盈" calque="fullness"/>
-    <word original="若" calque="seem-like"/>
-    <word original="(盅)" calque="(empty)" commentary="A vessel that appears empty"/>
+<line commentary="The vessel most full appears empty—might this suggest something about how we carry our knowledge?">
+    <word original="大" pinyin="dà" calque="great"/>
+    <word original="盈" pinyin="yíng" calque="full"/>
+    <word original="若" pinyin="ruò" calque="like"/>
+    <word original="(盅)" pinyin="zhōng" calque="(empty)"/>
 </line>
 
-<line>
-    <word original="其" calque="its"/>
-    <word original="用" calque="use"/>
-    <word original="不" calque="not"/>
-    <word original="窮" calque="depleted"/>
-    <word original="." calque="." punctuation="true"/>
+<line commentary="Inexhaustible use—how might appearing empty create endless possibility?">
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="用" pinyin="yòng" calque="use"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="窮" pinyin="qióng" calque="exhausted"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Think of a bamboo - strongest when it bends">
-    <word original="大" calque="great"/>
-    <word original="直" calque="straight"/>
-    <word original="若" calque="seem-like"/>
-    <word original="屈" calque="bent"/>
+<line commentary="The straightest path sometimes bends—what might this reveal about progress?">
+    <word original="大" pinyin="dà" calque="great"/>
+    <word original="直" pinyin="zhí" calque="straight"/>
+    <word original="若" pinyin="ruò" calque="like"/>
+    <word original="屈" pinyin="qū" calque="bent"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Is true skill sometimes found in appearing unskilled?">
-    <word original="大" calque="great"/>
-    <word original="巧" calque="skilled"/>
-    <word original="若" calque="seem-like"/>
-    <word original="拙" calque="clumsy"/>
+<line commentary="When does skill become so refined it appears artless?">
+    <word original="大" pinyin="dà" calque="great"/>
+    <word original="巧" pinyin="qiǎo" calque="skillful"/>
+    <word original="若" pinyin="ruò" calque="like"/>
+    <word original="拙" pinyin="zhuō" calque="clumsy"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="大" calque="great"/>
-    <word original="辯" calque="eloquence"/>
-    <word original="若" calque="seem-like"/>
-    <word original="訥" calque="stuttering"/>
+<line commentary="The highest eloquence may appear hesitant—what wisdom lies in measured speech?">
+    <word original="大" pinyin="dà" calque="great"/>
+    <word original="辯" pinyin="biàn" calque="eloquent"/>
+    <word original="若" pinyin="ruò" calque="like"/>
+    <word original="訥" pinyin="nè" calque="stuttering"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Notice how natural phenomena teach us about balance">
-    <word original="躁" calque="movement"/>
-    <word original="勝" calque="overcomes"/>
-    <word original="寒" calque="cold"/>
+<line commentary="Movement and stillness begin their dance—observe how they complement each other.">
+    <word original="躁" pinyin="zào" calque="restless"/>
+    <word original="勝" pinyin="shèng" calque="overcomes"/>
+    <word original="寒" pinyin="hán" calque="cold"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line>
-    <word original="靜" calque="stillness"/>
-    <word original="勝" calque="overcomes"/>
-    <word original="熱" calque="heat"/>
+<line commentary="In the interplay of opposites, what balance emerges?">
+    <word original="靜" pinyin="jìng" calque="still"/>
+    <word original="勝" pinyin="shèng" calque="overcomes"/>
+    <word original="熱" pinyin="rè" calque="heat"/>
 </line>
 
-<line commentary="How might clarity and stillness bring order to the world?">
-    <word original="清" calque="clear"/>
-    <word original="靜" calque="still"/>
-    <word original="為" calque="becomes"/>
-    <word original="天" calque="heaven"/>
-    <word original="下" calque="below"/>
-    <word original="正" calque="proper"/>
+<line commentary="Pure stillness as the world's center—what happens when we cease trying to correct everything?">
+    <word original="清靜" pinyin="qīng jìng" calque="pure-still"/>
+    <word original="為" pinyin="wéi" calque="becomes"/>
+    <word original="天下" pinyin="tiān xià" calque="under-heaven"/>
+    <word original="正" pinyin="zhèng" calque="proper"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 </chapter>
