@@ -18,7 +18,7 @@ A modern digital typesetting system for the Daodejing (道德經), featuring par
    - Python 3.6+
    - Required fonts:
      - Songti SC (Chinese)
-     - Your preferred English font (default: Proxima Nova)
+     - Your preferred English font (default: Baskerville)
 
 2. Generate chapter files:
 
