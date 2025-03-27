@@ -40,7 +40,7 @@ Unlike English, where words typically function as specific parts of speech, clas
 
 === 3. Implied Subjects and Objects
 
-Classical Chinese frequently omits subjects and objects when they can be inferred from context. Modern readers often find themselves asking "who?" or "what?" when translating these passages. The answer typically lies in the broader context of the discussion.
+Classical Chinese frequently omits subjects and objects when they can be inferred from context. Modern readers often find themselves asking _who_ or _what_ when translating these passages. The answer typically lies in the broader context of the discussion.
 
 == Essential Grammatical Words
 
@@ -319,7 +319,7 @@ This preposition indicates
     ("於", "at", "yú"),
     ("上", "high", "shàng")
   )),
-  text(size: 10pt, weight: "light")[Location ("at," "in"):
+  text(size: 10pt, weight: "light")[Location (_at_, _in_):
   
   #quoted("dwells in the high place")
   ]
@@ -332,7 +332,7 @@ This preposition indicates
     ("其", "its", "qí"),
     ("細", "small parts", "xì")
   )),
-  text(size: 10pt, weight: "light")[Comparison ("than"):
+  text(size: 10pt, weight: "light")[Comparison (_than_):
   
   #quoted("greater than its small parts")
   ]
@@ -345,7 +345,7 @@ This preposition indicates
     ("無", "no", "wú"),
     ("物", "thing", "wù")
   )),
-  text(size: 10pt, weight: "light")[Direction ("to," "toward"):
+  text(size: 10pt, weight: "light")[Direction (_to_, _toward_):
   #quoted("returns to nothingness")
   ]
 )
@@ -363,7 +363,7 @@ This logical connector:
     ("長", "long", "cháng"),
     ("生", "live", "shēng")
   )),
-  text(size: 10pt, weight: "light")[Shows causation ("therefore," "thus"):
+  text(size: 10pt, weight: "light")[Shows causation (_therefore_, _thus_):
   
   #quoted("therefore can live long")
   ]
@@ -377,7 +377,7 @@ This logical connector:
     ("取", "take", "qǔ"),
     ("此", "this", "cǐ")
   )),
-  text(size: 10pt, weight: "light")[Introduces explanation ("because," "for"):
+  text(size: 10pt, weight: "light")[Introduces explanation (_because_, _for_):
   
   #quoted("therefore reject that and take this")
   ]
@@ -394,7 +394,7 @@ This particle:
     ("湛", "profound", "zhàn"),
     ("兮", "(exclamation)", "xī")
   )),
-  text(size: 10pt, weight: "light")[Marks rhythmic pause in poetic texts, like "ah!"
+  text(size: 10pt, weight: "light")[Marks rhythmic pause in poetic texts, like _ah_!
 
   #quoted("profound, ah!")
   ]
@@ -449,11 +449,11 @@ Here, the parallelism reveals the philosophical point through structural repetit
 
 Certain grammatical patterns appear frequently:
 
-- X 之 Y: Typically "Y of X" or "X's Y"
-- X 者 Y 也: "X is Y" or "As for X, it is Y"
-- 非 X 也: "It is not X"
-- X 而 Y: "X and Y" or "X but Y"
-- 以 X 為 Y: "Take X as Y" or "Use X for Y"
+- X 之 Y: Typically _Y of X_ or _X's Y_
+- X 者 Y 也: _X is Y_ or _As for X, it is Y_
+- 非 X 也: _It is not X_
+- X 而 Y: _X and Y_ or _X but Y_
+- 以 X 為 Y: _Take X as Y_ or _Use X for Y_
 
 === 3. Pay Attention to Pronouns
 
@@ -465,7 +465,9 @@ Classical Chinese often omits logical connectors that would be required in Engli
 
 === 5. Embrace Ambiguity
 
-Many classical texts, particularly Daoist works like the one you're about to read, intentionally employ ambiguity as a philosophical tool. Multiple valid interpretations may exist simultaneously—this isn't a failure of the text but often its intended effect.
+Many classical texts, particularly Daoist works like the one you're about to read, intentionally employ ambiguity as a philosophical tool. 
+
+Multiple valid interpretations may exist simultaneously—this isn't a failure of the text but often its intended effect.
 
 == About This Edition's Calques
 
