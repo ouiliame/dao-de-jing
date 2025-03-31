@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="75">
-<line commentary="A simple statement that opens to profound depths - what makes people hungry?">
-    <word original="." calque="." pinyin="." punctuation="true"/>
+<line commentary="When the people are hungry...">
+    <word original="." calque="." punctuation="true"/>
     <word original="民" calque="people" pinyin="mín"/>
     <word original="之" calque="of" pinyin="zhī"/>
-    <word original="饑" calque="hunger" pinyin="jī"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+    <word original="饑" calque="hungry" pinyin="jī"/>
+    <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Consider how 'above' and 'eat' interact here - who consumes what belongs to whom?">
+<line commentary="It is because their rulers consume too much in taxes.">
     <word original="以" calque="by-means-of" pinyin="yǐ"/>
     <word original="其" calque="their" pinyin="qí"/>
     <word original="上" calque="above" pinyin="shàng"/>
@@ -16,83 +16,82 @@
     <word original="稅" calque="tax" pinyin="shuì"/>
     <word original="之" calque="of" pinyin="zhī"/>
     <word original="多" calque="much" pinyin="duō"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+    <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Notice how 'therefore' bridges cause and effect - what inevitability is suggested?">
+<line commentary="Thus they are hungry.">
     <word original="是" calque="this" pinyin="shì"/>
-    <word original="以" calque="by-means-of" pinyin="yǐ"/>
-    <word original="饑" calque="hunger" pinyin="jī"/>
+    <word original="以" calque="therefore" pinyin="yǐ"/>
+    <word original="饑" calque="hungry" pinyin="jī"/>
 </line>
 
-<line commentary="What makes a people 'difficult to govern'? The character 難 suggests both 'difficult' and 'suffering'.">
+<line commentary="When the people are difficult to govern...">
     <word original="民" calque="people" pinyin="mín"/>
     <word original="之" calque="of" pinyin="zhī"/>
     <word original="難" calque="difficult" pinyin="nán"/>
     <word original="治" calque="govern" pinyin="zhì"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+    <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="How might 'having action' above relate to difficulty below?">
+<line commentary="It is because their rulers interfere too much.">
     <word original="以" calque="by-means-of" pinyin="yǐ"/>
     <word original="其" calque="their" pinyin="qí"/>
     <word original="上" calque="above" pinyin="shàng"/>
     <word original="之" calque="of" pinyin="zhī"/>
     <word original="有" calque="have" pinyin="yǒu"/>
-    <word original="為" calque="action" pinyin="wéi"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+    <word original="為" calque="do" pinyin="wéi"/>
+    <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="The echo of the previous 'therefore' - what pattern emerges?">
+<line commentary="Thus they are difficult to govern.">
     <word original="是" calque="this" pinyin="shì"/>
-    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="以" calque="therefore" pinyin="yǐ"/>
     <word original="難" calque="difficult" pinyin="nán"/>
     <word original="治" calque="govern" pinyin="zhì"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+    <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="What might make people hold their lives lightly?">
+<line commentary="When the people take death lightly...">
     <word original="民" calque="people" pinyin="mín"/>
     <word original="之" calque="of" pinyin="zhī"/>
     <word original="輕" calque="light" pinyin="qīng"/>
     <word original="死" calque="death" pinyin="sǐ"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+    <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="The character 厚 suggests both 'thickness' and 'favor' - what happens when the pursuit of life becomes too heavy?">
+<line commentary="It is because they seek too much life.">
     <word original="以" calque="by-means-of" pinyin="yǐ"/>
     <word original="其" calque="their" pinyin="qí"/>
     <word original="求" calque="seek" pinyin="qiú"/>
     <word original="生" calque="life" pinyin="shēng"/>
     <word original="之" calque="of" pinyin="zhī"/>
-    <word original="厚" calque="thick" pinyin="hòu"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+    <word original="厚" calque="excessive" pinyin="hòu"/>
+    <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="The third reflection completes the cycle - what wisdom lies in this repetition?">
+<line commentary="Thus they take death lightly.">
     <word original="是" calque="this" pinyin="shì"/>
-    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="以" calque="therefore" pinyin="yǐ"/>
     <word original="輕" calque="light" pinyin="qīng"/>
     <word original="死" calque="death" pinyin="sǐ"/>
 </line>
 
-<line commentary="A pivot point marked by 夫唯 - how does 'no action' relate to living?">
-    <word original="(." calque="(." pinyin="." punctuation="true"/>
-    <word original="夫" calque="indeed" pinyin="fú"/>
+<line commentary="Only the one who does not strive after life...">
+    <word original="(.)夫" calque="(indeed)" pinyin="fú"/>
     <word original="唯" calque="only" pinyin="wéi"/>
     <word original="無" calque="without" pinyin="wú"/>
     <word original="以" calque="by-means-of" pinyin="yǐ"/>
     <word original="生" calque="life" pinyin="shēng"/>
-    <word original="為" calque="action" pinyin="wéi"/>
+    <word original="為" calque="do" pinyin="wéi"/>
     <word original="者" calque="one-who" pinyin="zhě"/>
 </line>
 
-<line commentary="A final paradox: how might caring less about life lead to truly valuing it?">
+<line commentary="Is wiser than those who value life too dearly.">
     <word original="是" calque="this" pinyin="shì"/>
     <word original="賢" calque="worthy" pinyin="xián"/>
     <word original="於" calque="than" pinyin="yú"/>
     <word original="貴" calque="value" pinyin="guì"/>
     <word original="生" calque="life" pinyin="shēng"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+    <word original="." calque="." punctuation="true"/>
 </line>
 </chapter>

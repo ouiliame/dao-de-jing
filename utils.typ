@@ -10,7 +10,7 @@
 #let is-annotation(text) = text.contains("(") or text.contains(")") or text.contains("•") or text.contains("[") or text.contains("]") or text.contains("__") or text.contains("...")
 
 // Define a consistent fill color for annotations
-#let fill = rgb("999")
+#let fill = rgb("000")
 
 // Format Chinese text with appropriate styling
 #let format-chinese(original, is-annotation) = {

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="41">
-
-<line commentary="Consider how understanding manifests differently at various levels. What makes the highest practitioner 'highest'?">
+<line commentary="When a superior scholar hears of the Dao, they diligently practice it.">
     <word original="上" calque="upper" pinyin="shàng"/>
     <word original="士" calque="scholar" pinyin="shì"/>
     <word original="聞" calque="hear" pinyin="wén"/>
@@ -12,7 +11,7 @@
     <word original="之" calque="it" pinyin="zhī"/>
 </line>
 
-<line commentary="A delicate balance between presence and absence - what state of mind might this describe?">
+<line commentary="When a middling scholar hears of the Dao, it seems sometimes present, sometimes absent.">
     <word original="中" calque="middle" pinyin="zhōng"/>
     <word original="士" calque="scholar" pinyin="shì"/>
     <word original="聞" calque="hear" pinyin="wén"/>
@@ -23,7 +22,7 @@
     <word original="亡" calque="gone" pinyin="wáng"/>
 </line>
 
-<line commentary="What might laughter reveal about understanding? About resistance?">
+<line commentary="When a lesser scholar hears of the Dao, they laugh greatly at it.">
     <word original="下" calque="lower" pinyin="xià"/>
     <word original="士" calque="scholar" pinyin="shì"/>
     <word original="聞" calque="hear" pinyin="wén"/>
@@ -33,49 +32,49 @@
     <word original="之" calque="it" pinyin="zhī"/>
 </line>
 
-<line commentary="A paradox of legitimacy - how might laughter authenticate truth?">
+<line commentary="If it were not laughed at, it would not be sufficient to be the Dao.">
     <word original="不" calque="not" pinyin="bù"/>
     <word original="笑" calque="laugh" pinyin="xiào"/>
     <word original="不" calque="not" pinyin="bù"/>
-    <word original="足" calque="enough" pinyin="zú"/>
+    <word original="足" calque="sufficient" pinyin="zú"/>
     <word original="以" calque="by-means-of" pinyin="yǐ"/>
-    <word original="為" calque="make" pinyin="wéi"/>
+    <word original="為" calque="become" pinyin="wéi"/>
     <word original="道" calque="way" pinyin="dào"/>
     <word original="." calque="." pinyin=""/>
 </line>
 
-<line>
+<line commentary="Therefore the established sayings declare:">
     <word original="(.)故" calque="therefore" pinyin="gù"/>
     <word original="建" calque="establish" pinyin="jiàn"/>
     <word original="言" calque="words" pinyin="yán"/>
     <word original="有" calque="have" pinyin="yǒu"/>
     <word original="之" calque="it" pinyin="zhī"/>
-    <word original="(曰)" calque="(say)" pinyin="yuē"/>
+    <word original="(曰)" calque="say" pinyin="yuē"/>
     <word original="." calque="." pinyin=""/>
 </line>
 
-<line commentary="How might clarity manifest through obscurity?">
+<line commentary="The bright way seems dim.">
     <word original="明" calque="bright" pinyin="míng"/>
     <word original="道" calque="way" pinyin="dào"/>
     <word original="若" calque="as-if" pinyin="ruò"/>
     <word original="昧" calque="dim" pinyin="mèi"/>
 </line>
 
-<line commentary="Movement and stillness intertwine - what wisdom lies in apparent retreat?">
+<line commentary="The advancing way seems retreating.">
     <word original="進" calque="advance" pinyin="jìn"/>
     <word original="道" calque="way" pinyin="dào"/>
     <word original="若" calque="as-if" pinyin="ruò"/>
     <word original="退" calque="retreat" pinyin="tuì"/>
 </line>
 
-<line>
+<line commentary="The smooth way seems rough.">
     <word original="夷" calque="smooth" pinyin="yí"/>
     <word original="道" calque="way" pinyin="dào"/>
     <word original="若" calque="as-if" pinyin="ruò"/>
     <word original="纇" calque="rough" pinyin="lèi"/>
 </line>
 
-<line commentary="What might emptiness teach about fullness?">
+<line commentary="The highest virtue is like a valley.">
     <word original="上" calque="highest" pinyin="shàng"/>
     <word original="德" calque="virtue" pinyin="dé"/>
     <word original="若" calque="as-if" pinyin="ruò"/>
@@ -83,64 +82,64 @@
     <word original="." calque="." pinyin=""/>
 </line>
 
-<line commentary="How might apparent disgrace contain hidden honor?">
+<line commentary="Great whiteness seems soiled.">
     <word original="大" calque="great" pinyin="dà"/>
     <word original="白" calque="white" pinyin="bái"/>
     <word original="若" calque="as-if" pinyin="ruò"/>
     <word original="辱" calque="shame" pinyin="rǔ"/>
 </line>
 
-<line>
+<line commentary="Broad virtue seems insufficient.">
     <word original="廣" calque="broad" pinyin="guǎng"/>
     <word original="德" calque="virtue" pinyin="dé"/>
     <word original="若" calque="as-if" pinyin="ruò"/>
     <word original="不" calque="not" pinyin="bù"/>
-    <word original="足" calque="enough" pinyin="zú"/>
+    <word original="足" calque="sufficient" pinyin="zú"/>
 </line>
 
-<line>
+<line commentary="Established virtue seems stolen.">
     <word original="建" calque="establish" pinyin="jiàn"/>
     <word original="德" calque="virtue" pinyin="dé"/>
     <word original="若" calque="as-if" pinyin="ruò"/>
     <word original="偷" calque="steal" pinyin="tōu"/>
 </line>
 
-<line>
+<line commentary="True substance seems to change.">
     <word original="質" calque="substance" pinyin="zhì"/>
     <word original="真" calque="true" pinyin="zhēn"/>
     <word original="若" calque="as-if" pinyin="ruò"/>
     <word original="渝" calque="change" pinyin="yú"/>
 </line>
 
-<line commentary="Consider: can the truly boundless have boundaries?">
+<line commentary="The great square has no corners.">
     <word original="大" calque="great" pinyin="dà"/>
     <word original="方" calque="square" pinyin="fāng"/>
     <word original="無" calque="without" pinyin="wú"/>
     <word original="隅" calque="corner" pinyin="yú"/>
 </line>
 
-<line commentary="What patience might the greatest vessels require?">
+<line commentary="The great vessel is late in completion.">
     <word original="大" calque="great" pinyin="dà"/>
     <word original="器" calque="vessel" pinyin="qì"/>
     <word original="晚" calque="late" pinyin="wǎn"/>
     <word original="成" calque="complete" pinyin="chéng"/>
 </line>
 
-<line>
+<line commentary="The great sound is rarified in voice.">
     <word original="大" calque="great" pinyin="dà"/>
     <word original="音" calque="sound" pinyin="yīn"/>
     <word original="希" calque="rare" pinyin="xī"/>
     <word original="聲" calque="voice" pinyin="shēng"/>
 </line>
 
-<line commentary="How might formlessness give birth to form?">
+<line commentary="The great image has no form.">
     <word original="大" calque="great" pinyin="dà"/>
     <word original="象" calque="image" pinyin="xiàng"/>
     <word original="無" calque="without" pinyin="wú"/>
-    <word original="形" calque="shape" pinyin="xíng"/>
+    <word original="形" calque="form" pinyin="xíng"/>
 </line>
 
-<line>
+<line commentary="The Dao is hidden and nameless.">
     <word original="道" calque="way" pinyin="dào"/>
     <word original="隱" calque="hidden" pinyin="yǐn"/>
     <word original="無" calque="without" pinyin="wú"/>
@@ -148,15 +147,14 @@
     <word original="." calque="." pinyin=""/>
 </line>
 
-<line commentary="Beginning and completion intertwined - what cycle completes itself?">
+<line commentary="Yet it is the Dao alone that excels in giving and in completion.">
     <word original="(.)夫" calque="indeed" pinyin="fú"/>
     <word original="唯" calque="only" pinyin="wéi"/>
     <word original="道" calque="way" pinyin="dào"/>
     <word original="善" calque="good-at" pinyin="shàn"/>
-    <word original="(始)" calque="(begin)" pinyin="shǐ"/>
+    <word original="(始)" calque="beginning" pinyin="shǐ"/>
     <word original="且" calque="and" pinyin="qiě"/>
-    <word original="(善)" calque="(good-at)" pinyin="shàn"/>
+    <word original="(善)" calque="good-at" pinyin="shàn"/>
     <word original="成" calque="complete" pinyin="chéng"/>
 </line>
-
 </chapter>

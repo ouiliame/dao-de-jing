@@ -1,142 +1,150 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="57">
-<line commentary="A stark opening that sets up three approaches to power - what makes something 'regular' vs 'irregular'?">
-    <word original="." calque="." pinyin="." punctuation="true"/>
-    <word original="以" calque="by-means-of" pinyin="yǐ"/>
-    <word original="正" calque="regular" pinyin="zhèng"/>
-    <word original="治" calque="govern" pinyin="zhì"/>
-    <word original="國" calque="state" pinyin="guó"/>
+<line commentary="By means of the correct/orthodox way to govern the country">
+    <word original="." calque="." punctuation="true"/>
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="正" pinyin="zhèng" calque="correct"/>
+    <word original="治" pinyin="zhì" calque="govern"/>
+    <word original="國" pinyin="guó" calque="country"/>
 </line>
 
-<line commentary="Consider how 'irregular' methods might paradoxically achieve military goals.">
-    <word original="以" calque="by-means-of" pinyin="yǐ"/>
-    <word original="奇" calque="irregular" pinyin="qí"/>
-    <word original="用" calque="use" pinyin="yòng"/>
-    <word original="兵" calque="troops" pinyin="bīng"/>
+<line commentary="By means of the unorthodox to deploy troops">
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="奇" pinyin="qí" calque="unusual"/>
+    <word original="用" pinyin="yòng" calque="use"/>
+    <word original="兵" pinyin="bīng" calque="troops"/>
 </line>
 
-<line commentary="What might it mean to 'gain all under heaven' through non-action?">
-    <word original="以" calque="by-means-of" pinyin="yǐ"/>
-    <word original="無" calque="without" pinyin="wú"/>
-    <word original="事" calque="affairs" pinyin="shì"/>
-    <word original="取" calque="take" pinyin="qǔ"/>
-    <word original="天下" calque="all-under-heaven" pinyin="tiānxià"/>
+<line commentary="By means of non-action to gain the world">
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="無" pinyin="wú" calque="without"/>
+    <word original="事" pinyin="shì" calque="affairs"/>
+    <word original="取" pinyin="qǔ" calque="take"/>
+    <word original="天" pinyin="tiān" calque="heaven"/>
+    <word original="下" pinyin="xià" calque="below"/>
 </line>
 
-<line commentary="A moment of self-reflection - how does one come to understand such paradoxical truths?">
-    <word original="吾" calque="I" pinyin="wú"/>
-    <word original="何" calque="how" pinyin="hé"/>
-    <word original="以" calque="by-means-of" pinyin="yǐ"/>
-    <word original="知" calque="know" pinyin="zhī"/>
-    <word original="其" calque="its" pinyin="qí"/>
-    <word original="然" calque="so" pinyin="rán"/>
-    <word original="哉" calque="indeed" pinyin="zāi"/>
-    <word original="(.)" calque="(.)" pinyin="(.)" punctuation="true"/>
+<line commentary="How do I know it is so?">
+    <word original="吾" pinyin="wú" calque="I"/>
+    <word original="何" pinyin="hé" calque="how"/>
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="知" pinyin="zhī" calque="know"/>
+    <word original="其" pinyin="qí" calque="its"/>
+    <word original="然" pinyin="rán" calque="so"/>
+    <word original="哉" pinyin="zāi" calque="indeed"/>
+    <word original="(.)" calque="(.)" punctuation="true"/>
 </line>
 
-<line commentary="'By this' - what follows reveals the evidence for the opening claims.">
-    <word original="以" calque="by-means-of" pinyin="yǐ"/>
-    <word original="此" calque="this" pinyin="cǐ"/>
+<line commentary="Through this:">
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="此" pinyin="cǐ" calque="this"/>
 </line>
 
-<line commentary="When prohibitions multiply, what happens to the human spirit?">
-    <word original="天下" calque="all-under-heaven" pinyin="tiānxià"/>
-    <word original="多" calque="many" pinyin="duō"/>
-    <word original="忌諱" calque="taboos" pinyin="jìhuì"/>
+<line commentary="When the world has many prohibitions">
+    <word original="天" pinyin="tiān" calque="heaven"/>
+    <word original="下" pinyin="xià" calque="below"/>
+    <word original="多" pinyin="duō" calque="many"/>
+    <word original="忌" pinyin="jì" calque="taboo"/>
+    <word original="諱" pinyin="huì" calque="avoid"/>
 </line>
 
-<line commentary="A profound observation about the relationship between restrictions and poverty.">
-    <word original="而" calque="yet" pinyin="ér"/>
-    <word original="民" calque="people" pinyin="mín"/>
-    <word original="彌" calque="increasingly" pinyin="mí"/>
-    <word original="貧" calque="poor" pinyin="pín"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+<line commentary="The people become increasingly poor">
+    <word original="而" pinyin="ér" calque="yet"/>
+    <word original="民" pinyin="mín" calque="people"/>
+    <word original="彌" pinyin="mí" calque="increasingly"/>
+    <word original="貧" pinyin="pín" calque="poor"/>
+    <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="What happens when tools of advantage become too readily available?">
-    <word original="民" calque="people" pinyin="mín"/>
-    <word original="多" calque="many" pinyin="duō"/>
-    <word original="利器" calque="sharp-tools" pinyin="lìqì"/>
+<line commentary="When people have many sharp weapons">
+    <word original="民" pinyin="mín" calque="people"/>
+    <word original="多" pinyin="duō" calque="many"/>
+    <word original="利" pinyin="lì" calque="sharp"/>
+    <word original="器" pinyin="qì" calque="tools"/>
 </line>
 
-<line commentary="Notice how advancement in tools correlates with decline in clarity.">
-    <word original="[而]" calque="[yet]" pinyin="ér"/>
-    <word original="國家" calque="nation" pinyin="guójiā"/>
-    <word original="滋" calque="increasingly" pinyin="zī"/>
-    <word original="昏" calque="confused" pinyin="hūn"/>
+<line commentary="The state grows increasingly confused">
+    <word original="[而]" calque="[yet]" punctuation="true"/>
+    <word original="國" pinyin="guó" calque="country"/>
+    <word original="家" pinyin="jiā" calque="family"/>
+    <word original="滋" pinyin="zī" calque="grow"/>
+    <word original="昏" pinyin="hūn" calque="confused"/>
 </line>
 
-<line commentary="Does cleverness lead to wisdom or away from it?">
-    <word original="人" calque="people" pinyin="rén"/>
-    <word original="多" calque="many" pinyin="duō"/>
-    <word original="(知)" calque="(knowledge)" pinyin="zhī"/>
-    <word original="巧" calque="clever" pinyin="qiǎo"/>
+<line commentary="When people have much knowledge and skill">
+    <word original="人" pinyin="rén" calque="people"/>
+    <word original="多" pinyin="duō" calque="many"/>
+    <word original="(知)" calque="(knowledge)" punctuation="true"/>
+    <word original="巧" pinyin="qiǎo" calque="skill"/>
 </line>
 
-<line commentary="As ingenuity rises, what 'strange things' emerge?">
-    <word original="[而]" calque="[yet]" pinyin="ér"/>
-    <word original="奇" calque="strange" pinyin="qí"/>
-    <word original="物" calque="things" pinyin="wù"/>
-    <word original="滋" calque="increasingly" pinyin="zī"/>
-    <word original="起" calque="arise" pinyin="qǐ"/>
+<line commentary="Strange things increasingly arise">
+    <word original="[而]" calque="[yet]" punctuation="true"/>
+    <word original="奇" pinyin="qí" calque="strange"/>
+    <word original="物" pinyin="wù" calque="things"/>
+    <word original="滋" pinyin="zī" calque="grow"/>
+    <word original="起" pinyin="qǐ" calque="arise"/>
 </line>
 
-<line commentary="When laws proliferate, do they clarify or obscure?">
-    <word original="法" calque="laws" pinyin="fǎ"/>
-    <word original="(物)" calque="(things)" pinyin="wù"/>
-    <word original="滋" calque="increasingly" pinyin="zī"/>
-    <word original="(章)" calque="(manifest)" pinyin="zhāng"/>
+<line commentary="As laws and regulations multiply">
+    <word original="法" pinyin="fǎ" calque="law"/>
+    <word original="(物)" calque="(things)" punctuation="true"/>
+    <word original="滋" pinyin="zī" calque="grow"/>
+    <word original="(章)" calque="(manifest)" punctuation="true"/>
 </line>
 
-<line commentary="The ultimate consequence of excessive regulation and clever devices.">
-    <word original="盜賊" calque="thieves" pinyin="dàozéi"/>
-    <word original="多" calque="many" pinyin="duō"/>
-    <word original="有" calque="exist" pinyin="yǒu"/>
+<line commentary="Thieves and robbers become more numerous">
+    <word original="盜" pinyin="dào" calque="thief"/>
+    <word original="賊" pinyin="zéi" calque="robber"/>
+    <word original="多" pinyin="duō" calque="many"/>
+    <word original="有" pinyin="yǒu" calque="exist"/>
 </line>
 
-<line commentary="The sage's response begins - notice the shift in tone.">
-    <word original="(.)故" calque="therefore" pinyin="gù"/>
-    <word original="聖人" calque="sage" pinyin="shèngrén"/>
-    <word original="云" calque="says" pinyin="yún"/>
+<line commentary="Therefore the sage says">
+    <word original="(.)故" calque="(.)therefore" punctuation="true"/>
+    <word original="聖" pinyin="shèng" calque="sage"/>
+    <word original="人" pinyin="rén" calque="person"/>
+    <word original="云" pinyin="yún" calque="say"/>
 </line>
 
-<line commentary="Each of the following lines presents a profound paradox of leadership through non-action.">
-    <word original="我" calque="I" pinyin="wǒ"/>
-    <word original="無為" calque="non-action" pinyin="wúwéi"/>
-    <word original="而" calque="and" pinyin="ér"/>
-    <word original="民" calque="people" pinyin="mín"/>
-    <word original="自" calque="self" pinyin="zì"/>
-    <word original="化" calque="transform" pinyin="huà"/>
+<line commentary="I practice non-action and the people transform themselves">
+    <word original="我" pinyin="wǒ" calque="I"/>
+    <word original="無" pinyin="wú" calque="without"/>
+    <word original="為" pinyin="wéi" calque="action"/>
+    <word original="而" pinyin="ér" calque="yet"/>
+    <word original="民" pinyin="mín" calque="people"/>
+    <word original="自" pinyin="zì" calque="self"/>
+    <word original="化" pinyin="huà" calque="transform"/>
 </line>
 
-<line commentary="How does stillness lead to rectitude?">
-    <word original="我" calque="I" pinyin="wǒ"/>
-    <word original="好" calque="love" pinyin="hào"/>
-    <word original="靜" calque="stillness" pinyin="jìng"/>
-    <word original="而" calque="and" pinyin="ér"/>
-    <word original="民" calque="people" pinyin="mín"/>
-    <word original="自" calque="self" pinyin="zì"/>
-    <word original="正" calque="upright" pinyin="zhèng"/>
+<line commentary="I love quietude and the people rectify themselves">
+    <word original="我" pinyin="wǒ" calque="I"/>
+    <word original="好" pinyin="hào" calque="love"/>
+    <word original="靜" pinyin="jìng" calque="quiet"/>
+    <word original="而" pinyin="ér" calque="yet"/>
+    <word original="民" pinyin="mín" calque="people"/>
+    <word original="自" pinyin="zì" calque="self"/>
+    <word original="正" pinyin="zhèng" calque="correct"/>
 </line>
 
-<line commentary="The paradox of abundance through non-interference.">
-    <word original="我" calque="I" pinyin="wǒ"/>
-    <word original="無" calque="without" pinyin="wú"/>
-    <word original="事" calque="affairs" pinyin="shì"/>
-    <word original="而" calque="and" pinyin="ér"/>
-    <word original="民" calque="people" pinyin="mín"/>
-    <word original="自" calque="self" pinyin="zì"/>
-    <word original="富" calque="wealthy" pinyin="fù"/>
+<line commentary="I take no action and the people prosper by themselves">
+    <word original="我" pinyin="wǒ" calque="I"/>
+    <word original="無" pinyin="wú" calque="without"/>
+    <word original="事" pinyin="shì" calque="affairs"/>
+    <word original="而" pinyin="ér" calque="yet"/>
+    <word original="民" pinyin="mín" calque="people"/>
+    <word original="自" pinyin="zì" calque="self"/>
+    <word original="富" pinyin="fù" calque="wealthy"/>
 </line>
 
-<line commentary="The final paradox - how does the absence of desire lead to natural simplicity?">
-    <word original="我" calque="I" pinyin="wǒ"/>
-    <word original="無" calque="without" pinyin="wú"/>
-    <word original="欲" calque="desire" pinyin="yù"/>
-    <word original="而" calque="and" pinyin="ér"/>
-    <word original="民" calque="people" pinyin="mín"/>
-    <word original="自" calque="self" pinyin="zì"/>
-    <word original="樸" calque="simple" pinyin="pǔ"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+<line commentary="I have no desires and the people become simple by themselves">
+    <word original="我" pinyin="wǒ" calque="I"/>
+    <word original="無" pinyin="wú" calque="without"/>
+    <word original="欲" pinyin="yù" calque="desire"/>
+    <word original="而" pinyin="ér" calque="yet"/>
+    <word original="民" pinyin="mín" calque="people"/>
+    <word original="自" pinyin="zì" calque="self"/>
+    <word original="樸" pinyin="pǔ" calque="simple"/>
+    <word original="." calque="." punctuation="true"/>
 </line>
 </chapter>

@@ -1,176 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <chapter number="31">
-  <line commentary="An unexpected pairing - what might it mean when excellence and ill-fortune are joined?">
-    <word original="(.)夫" calque="(.)indeed" pinyin="fú"/>
+<line commentary="Now, fine weapons are instruments of ill omen.">
+    <word original="夫" calque="now" pinyin="fū"/>
     <word original="佳" calque="fine" pinyin="jiā"/>
     <word original="兵" calque="weapon" pinyin="bīng"/>
     <word original="者" calque="one-who" pinyin="zhě"/>
-    <word original="不" calque="not" pinyin="bù"/>
-    <word original="祥" calque="auspicious" pinyin="xiáng"/>
+    <word original="不祥" calque="ill-omen" pinyin="bùxiáng"/>
     <word original="之" calque="of" pinyin="zhī"/>
-    <word original="器" calque="tool" pinyin="qì"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
-  </line>
-  <line commentary="Natural aversion might contain wisdom - what instincts arise before rationalization?">
-    <word original="物" calque="thing" pinyin="wù"/>
-    <word original="或" calque="some" pinyin="huò"/>
-    <word original="惡" calque="hate" pinyin="wù"/>
-    <word original="之" calque="them" pinyin="zhī"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
-  </line>
-  <line commentary="A deliberate distance - the sage's relationship to force reveals a fundamental value.">
-    <word original="(.)故" calque="(.)therefore" pinyin="gù"/>
+    <word original="器" calque="instrument" pinyin="qì"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+
+<line commentary="Some things are detested by all.">
+    <word original="物" calque="things" pinyin="wù"/>
+    <word original="或" calque="perhaps" pinyin="huò"/>
+    <word original="惡" calque="detest" pinyin="wù"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+
+<line commentary="Therefore, those who possess the Way do not dwell with them.">
+    <word original="故" calque="therefore" pinyin="gù"/>
     <word original="有" calque="have" pinyin="yǒu"/>
     <word original="道" calque="way" pinyin="dào"/>
     <word original="者" calque="one-who" pinyin="zhě"/>
     <word original="不" calque="not" pinyin="bù"/>
-    <word original="處" calque="dwell-with" pinyin="chǔ"/>
-  </line>
-  <line commentary="Ancient direction symbolism - the heartside position holds significance beyond mere location.">
-    <word original="君" calque="noble" pinyin="jūn"/>
-    <word original="子" calque="person" pinyin="zǐ"/>
-    <word original="居" calque="residing" pinyin="jū"/>
+    <word original="處" calque="dwell" pinyin="chǔ"/>
+</line>
+
+<line commentary="The noble one values the left when at home.">
+    <word original="君子" calque="noble-one" pinyin="jūnzǐ"/>
+    <word original="居" calque="dwell" pinyin="jū"/>
     <word original="則" calque="then" pinyin="zé"/>
     <word original="貴" calque="value" pinyin="guì"/>
     <word original="左" calque="left" pinyin="zuǒ"/>
-  </line>
-  <line commentary="The pattern inverts - what does this ceremonial reversal suggest about war's relationship to natural order?">
+</line>
+
+<line commentary="In war, one values the right.">
     <word original="用" calque="use" pinyin="yòng"/>
     <word original="兵" calque="weapon" pinyin="bīng"/>
     <word original="則" calque="then" pinyin="zé"/>
     <word original="貴" calque="value" pinyin="guì"/>
     <word original="右" calque="right" pinyin="yòu"/>
-  </line>
-  <line commentary="The opening statement returns - repetition underscores its importance as a foundational truth.">
+    <word original="." calque="." punctuation="true"/>
+</line>
+
+<line commentary="Weapons are instruments of ill omen.">
     <word original="兵" calque="weapon" pinyin="bīng"/>
     <word original="者" calque="one-who" pinyin="zhě"/>
-    <word original="不" calque="not" pinyin="bù"/>
-    <word original="祥" calque="auspicious" pinyin="xiáng"/>
+    <word original="不祥" calque="ill-omen" pinyin="bùxiáng"/>
     <word original="之" calque="of" pinyin="zhī"/>
-    <word original="器" calque="tool" pinyin="qì"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
-  </line>
-  <line commentary="A direct ethical statement - what hierarchy of values does this imply?">
+    <word original="器" calque="instrument" pinyin="qì"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+
+<line commentary="They are not the tools of a noble one.">
     <word original="非" calque="not" pinyin="fēi"/>
-    <word original="君" calque="noble" pinyin="jūn"/>
-    <word original="子" calque="person" pinyin="zǐ"/>
+    <word original="君子" calque="noble-one" pinyin="jūnzǐ"/>
     <word original="之" calque="of" pinyin="zhī"/>
-    <word original="器" calque="tool" pinyin="qì"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
-  </line>
-  <line commentary="A key phrase: 'having no alternative' - necessity as the only justification for force.">
-    <word original="不" calque="not" pinyin="bù"/>
-    <word original="得" calque="get" pinyin="dé"/>
-    <word original="已" calque="stop" pinyin="yǐ"/>
+    <word original="器" calque="instrument" pinyin="qì"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+
+<line commentary="Only when forced will one use them.">
+    <word original="不得已" calque="no-alternative" pinyin="bùdéyǐ"/>
     <word original="而" calque="and" pinyin="ér"/>
     <word original="用" calque="use" pinyin="yòng"/>
-    <word original="之" calque="it" pinyin="zhī"/>
-  </line>
-  <line commentary="Calm detachment as ideal - even in conflict, tranquility remains the highest virtue.">
-    <word original="恬" calque="calm" pinyin="tián"/>
-    <word original="淡" calque="bland" pinyin="dàn"/>
-    <word original="為" calque="be" pinyin="wéi"/>
-    <word original="上" calque="highest" pinyin="shàng"/>
-  </line>
-  <line commentary="The blank spaces create emphasis - absence speaks as loudly as presence in this warning.">
-    <word original="__" calque="__" pinyin="__"/>
-    <word original="__" calque="__" pinyin="__"/>
-    <word original="(勿)" calque="(do-not)" pinyin="(wù)"/>
+    <word original="之" calque="them" pinyin="zhī"/>
+</line>
+
+<line commentary="Calmness and tranquility are considered best.">
+    <word original="恬淡" calque="calm-peaceful" pinyin="tiándàn"/>
+    <word original="為" calque="make" pinyin="wéi"/>
+    <word original="上" calque="supreme" pinyin="shàng"/>
+</line>
+
+<line commentary="Do not glorify them.">
+    <word original="__" calque="..." pinyin=""/>
+    <word original="__" calque="..." pinyin=""/>
+    <word original="勿" calque="do-not" pinyin="wù"/>
     <word original="美" calque="beautify" pinyin="měi"/>
-    <word original="[也(.)]" calque="[indeed(.)]" pinyin="[yě(.)]"/>
-  </line>
-  <line commentary="A profound psychological insight - aesthetic appreciation of weapons reveals a darker impulse.">
-    <word original="而" calque="and" pinyin="ér"/>
+    <word original="[也(.)]" calque="[indeed(.)]" pinyin=""/>
+</line>
+
+<line commentary="Those who glorify them delight in killing people.">
+    <word original="而" calque="yet" pinyin="ér"/>
     <word original="美" calque="beautify" pinyin="měi"/>
-    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="之" calque="them" pinyin="zhī"/>
     <word original="者" calque="one-who" pinyin="zhě"/>
-    <word original="是" calque="this" pinyin="shì"/>
-    <word original="樂" calque="delight-in" pinyin="lè"/>
+    <word original="是" calque="is" pinyin="shì"/>
+    <word original="樂" calque="delight" pinyin="lè"/>
     <word original="殺" calque="kill" pinyin="shā"/>
     <word original="人" calque="person" pinyin="rén"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
-  </line>
-  <line commentary="The pattern continues - those who delight in certain means reveal their character through that delight.">
-    <word original="(.)夫" calque="(.)indeed" pinyin="fú"/>
-    <word original="樂" calque="delight-in" pinyin="lè"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+
+<line commentary="Now, one who delights in killing people">
+    <word original="夫" calque="now" pinyin="fū"/>
+    <word original="樂" calque="delight" pinyin="lè"/>
     <word original="殺" calque="kill" pinyin="shā"/>
     <word original="人" calque="person" pinyin="rén"/>
     <word original="者" calque="one-who" pinyin="zhě"/>
-  </line>
-  <line commentary="A cosmic consequence - certain attitudes create spiritual limitations regardless of worldly success.">
-    <word original="__" calque="__" pinyin="__"/>
+</line>
+
+<line commentary="Cannot achieve their will in the world.">
+    <word original="__" calque="..." pinyin=""/>
     <word original="不" calque="not" pinyin="bù"/>
-    <word original="可" calque="can" pinyin="kě"/>
-    <word original="以" calque="by-means-of" pinyin="yǐ"/>
-    <word original="得" calque="achieve" pinyin="dé"/>
-    <word original="志" calque="aim" pinyin="zhì"/>
+    <word original="可以" calque="can" pinyin="kěyǐ"/>
+    <word original="得志" calque="achieve-will" pinyin="dézhì"/>
     <word original="於" calque="in" pinyin="yú"/>
-    <word original="天" calque="heaven" pinyin="tiān"/>
-    <word original="下" calque="under" pinyin="xià"/>
+    <word original="天下" calque="under-heaven" pinyin="tiānxià"/>
     <word original="矣" calque="indeed" pinyin="yǐ"/>
-    <word original="(.)" calque="(.)" pinyin="(.)" punctuation="true"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
-  </line>
-  <line commentary="Ritual directions emerge - the patterning of space reveals deeper cosmic ordering.">
-    <word original="[(.)故]" calque="[(.)therefore]" pinyin="[(.)gù]"/>
+    <word original="(.)" calque="(.)" punctuation="true"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+
+<line commentary="Therefore in auspicious matters, favor the left.">
+    <word original="[(.)故]" calque="[therefore]" pinyin="gù"/>
     <word original="吉" calque="auspicious" pinyin="jí"/>
-    <word original="事" calque="affair" pinyin="shì"/>
-    <word original="尚" calque="honor" pinyin="shàng"/>
+    <word original="事" calque="matter" pinyin="shì"/>
+    <word original="尚" calque="favor" pinyin="shàng"/>
     <word original="左" calque="left" pinyin="zuǒ"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
-  </line>
-  <line commentary="The balance continues - what understanding of warfare does this ceremonial inversion suggest?">
+    <word original="." calque="." punctuation="true"/>
+</line>
+
+<line commentary="In inauspicious matters, favor the right.">
     <word original="凶" calque="inauspicious" pinyin="xiōng"/>
-    <word original="事" calque="affair" pinyin="shì"/>
-    <word original="尚" calque="honor" pinyin="shàng"/>
+    <word original="事" calque="matter" pinyin="shì"/>
+    <word original="尚" calque="favor" pinyin="shàng"/>
     <word original="右" calque="right" pinyin="yòu"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
-  </line>
-  <line commentary="Military formations mirror cosmic principles - hierarchy embedded in physical arrangement.">
-    <word original="[是" calque="[this" pinyin="[shì"/>
-    <word original="以]" calque="by-means-of]" pinyin="yǐ]"/>
-    <word original="偏" calque="subordinate" pinyin="piān"/>
-    <word original="將" calque="general" pinyin="jiāng"/>
-    <word original="軍" calque="army" pinyin="jūn"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+
+<line commentary="Thus the lieutenant general stands on the left.">
+    <word original="[是以]" calque="[thus]" pinyin="shìyǐ"/>
+    <word original="偏" calque="lieutenant" pinyin="piān"/>
+    <word original="將軍" calque="general" pinyin="jiāngjūn"/>
     <word original="居" calque="stands" pinyin="jū"/>
     <word original="左" calque="left" pinyin="zuǒ"/>
-  </line>
-  <line commentary="Positions reveal values - what does this placement suggest about leadership in conflict?">
-    <word original="上" calque="superior" pinyin="shàng"/>
-    <word original="將" calque="general" pinyin="jiāng"/>
-    <word original="軍" calque="army" pinyin="jūn"/>
+</line>
+
+<line commentary="The supreme general stands on the right.">
+    <word original="上" calque="supreme" pinyin="shàng"/>
+    <word original="將軍" calque="general" pinyin="jiāngjūn"/>
     <word original="居" calque="stands" pinyin="jū"/>
     <word original="右" calque="right" pinyin="yòu"/>
-  </line>
-  <line commentary="A profound reframing - military victory likened to death ritual rather than celebration.">
+</line>
+
+<line commentary="This means they are placed according to funeral rites.">
     <word original="言" calque="speak" pinyin="yán"/>
     <word original="以" calque="by-means-of" pinyin="yǐ"/>
-    <word original="喪" calque="funeral" pinyin="sāng"/>
-    <word original="禮" calque="ritual" pinyin="lǐ"/>
-    <word original="處" calque="treat" pinyin="chǔ"/>
-    <word original="之" calque="it" pinyin="zhī"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
-  </line>
-  <line commentary="The blank space carries weight - what absence sits between death and multitude?">
+    <word original="喪禮" calque="funeral-rites" pinyin="sānglǐ"/>
+    <word original="處" calque="place" pinyin="chǔ"/>
+    <word original="之" calque="them" pinyin="zhī"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+
+<line commentary="When many people are killed">
     <word original="殺" calque="kill" pinyin="shā"/>
     <word original="人" calque="person" pinyin="rén"/>
-    <word original="__" calque="__" pinyin="__"/>
+    <word original="__" calque="..." pinyin=""/>
     <word original="眾" calque="many" pinyin="zhòng"/>
-  </line>
-  <line commentary="A ritual response to necessity - grief rather than glory becomes the proper reaction.">
-    <word original="以" calque="with" pinyin="yǐ"/>
+</line>
+
+<line commentary="One should weep for them with sorrow.">
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
     <word original="哀" calque="sorrow" pinyin="āi"/>
     <word original="悲" calque="grief" pinyin="bēi"/>
     <word original="泣" calque="weep" pinyin="qì"/>
-    <word original="之" calque="for-them" pinyin="zhī"/>
-  </line>
-  <line commentary="The chapter closes where it truly began - victory as occasion for mourning rather than triumph.">
+    <word original="之" calque="them" pinyin="zhī"/>
+</line>
+
+<line commentary="Victory in battle should be treated as a funeral.">
     <word original="戰" calque="battle" pinyin="zhàn"/>
     <word original="勝" calque="victory" pinyin="shèng"/>
-    <word original="以" calque="with" pinyin="yǐ"/>
-    <word original="喪" calque="funeral" pinyin="sāng"/>
-    <word original="禮" calque="ritual" pinyin="lǐ"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="喪禮" calque="funeral-rites" pinyin="sānglǐ"/>
     <word original="處" calque="treat" pinyin="chǔ"/>
     <word original="之" calque="it" pinyin="zhī"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
-  </line>
+    <word original="." calque="." punctuation="true"/>
+</line>
 </chapter>

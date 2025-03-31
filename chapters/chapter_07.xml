@@ -1,82 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="7">
-<line commentary="Heaven and Earth serve as cosmic models - what might their endurance teach us about permanence?">
-    <word original="天" calque="heaven" pinyin="tiān"/>
-    <word original="長" calque="lasting" pinyin="cháng"/>
-    <word original="地" calque="earth" pinyin="dì"/>
-    <word original="久" calque="enduring" pinyin="jiǔ"/>
+<line commentary="Heaven is lasting and Earth enduring.">
+    <word original="天" pinyin="tiān" calque="heaven"/>
+    <word original="長" pinyin="cháng" calque="lasting"/>
+    <word original="地" pinyin="dì" calque="earth"/>
+    <word original="久" pinyin="jiǔ" calque="enduring"/>
 </line>
 
-<line commentary="What makes something truly sustainable? Consider the subtle distinction between 'able' and 'lasting'">
-    <word original="天" calque="heaven" pinyin="tiān"/>
-    <word original="地" calque="earth" pinyin="dì"/>
-    <word original="所以" calque="reason-why" pinyin="suǒyǐ"/>
-    <word original="能" calque="able" pinyin="néng"/>
-    <word original="長" calque="lasting" pinyin="cháng"/>
-    <word original="且" calque="and" pinyin="qiě"/>
-    <word original="久" calque="enduring" pinyin="jiǔ"/>
-    <word original="者" calque="one-who" pinyin="zhě"/>
+<line commentary="The reason Heaven and Earth can be lasting and enduring is">
+    <word original="天" pinyin="tiān" calque="heaven"/>
+    <word original="地" pinyin="dì" calque="earth"/>
+    <word original="所以" pinyin="suǒyǐ" calque="reason-why"/>
+    <word original="能" pinyin="néng" calque="can"/>
+    <word original="長" pinyin="cháng" calque="lasting"/>
+    <word original="且" pinyin="qiě" calque="and"/>
+    <word original="久" pinyin="jiǔ" calque="enduring"/>
+    <word original="者" pinyin="zhě" calque="one-who"/>
 </line>
 
-<line commentary="A profound paradox emerges - how does not living for oneself lead to lasting existence?">
-    <word original="以" calque="by-means-of" pinyin="yǐ"/>
-    <word original="其" calque="its" pinyin="qí"/>
-    <word original="不" calque="not" pinyin="bù"/>
-    <word original="自" calque="self" pinyin="zì"/>
-    <word original="生" calque="live" pinyin="shēng"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+<line commentary="Because they do not live for themselves.">
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="其" pinyin="qí" calque="their"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="自" pinyin="zì" calque="self"/>
+    <word original="生" pinyin="shēng" calque="live"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Notice how 'therefore' links cause and effect - what natural law is being revealed?">
-    <word original="(.)故" calque="(therefore)" pinyin="gù"/>
-    <word original="能" calque="able" pinyin="néng"/>
-    <word original="長" calque="long" pinyin="cháng"/>
-    <word original="生" calque="live" pinyin="shēng"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+<line commentary="Thus they can live long.">
+    <word original="(.)故" pinyin="gù" calque="therefore"/>
+    <word original="能" pinyin="néng" calque="can"/>
+    <word original="長" pinyin="cháng" calque="long"/>
+    <word original="生" pinyin="shēng" calque="live"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="How might the sage embody these cosmic principles in human form?">
-    <word original="是" calque="this" pinyin="shì"/>
-    <word original="以" calque="by-means-of" pinyin="yǐ"/>
-    <word original="聖" calque="sage" pinyin="shèng"/>
-    <word original="人" calque="person" pinyin="rén"/>
+<line commentary="Therefore the sage:">
+    <word original="是" pinyin="shì" calque="this"/>
+    <word original="以" pinyin="yǐ" calque="thus"/>
+    <word original="聖" pinyin="shèng" calque="sage"/>
+    <word original="人" pinyin="rén" calque="person"/>
 </line>
 
-<line commentary="A beautiful paradox unfolds - how does placing oneself behind lead to being ahead?">
-    <word original="後" calque="behind" pinyin="hòu"/>
-    <word original="其" calque="their" pinyin="qí"/>
-    <word original="身" calque="body" pinyin="shēn"/>
-    <word original="而" calque="yet" pinyin="ér"/>
-    <word original="身" calque="body" pinyin="shēn"/>
-    <word original="先" calque="ahead" pinyin="xiān"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+<line commentary="Puts self last but ends up in front.">
+    <word original="後" pinyin="hòu" calque="behind"/>
+    <word original="其" pinyin="qí" calque="their"/>
+    <word original="身" pinyin="shēn" calque="body"/>
+    <word original="而" pinyin="ér" calque="yet"/>
+    <word original="身" pinyin="shēn" calque="body"/>
+    <word original="先" pinyin="xiān" calque="ahead"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="The paradox deepens - how does transcending the self preserve it?">
-    <word original="外" calque="outside" pinyin="wài"/>
-    <word original="其" calque="their" pinyin="qí"/>
-    <word original="身" calque="body" pinyin="shēn"/>
-    <word original="而" calque="yet" pinyin="ér"/>
-    <word original="身" calque="body" pinyin="shēn"/>
-    <word original="存" calque="exists" pinyin="cún"/>
+<line commentary="Puts self outside but self remains.">
+    <word original="外" pinyin="wài" calque="outside"/>
+    <word original="其" pinyin="qí" calque="their"/>
+    <word original="身" pinyin="shēn" calque="body"/>
+    <word original="而" pinyin="ér" calque="yet"/>
+    <word original="身" pinyin="shēn" calque="body"/>
+    <word original="存" pinyin="cún" calque="exists"/>
 </line>
 
-<line commentary="A rhetorical question invites us to ponder - is selflessness truly selfless?">
-    <word original="非" calque="is-not" pinyin="fēi"/>
-    <word original="以" calque="by-means-of" pinyin="yǐ"/>
-    <word original="其" calque="their" pinyin="qí"/>
-    <word original="無" calque="without" pinyin="wú"/>
-    <word original="私" calque="selfish" pinyin="sī"/>
-    <word original="邪" calque="question" pinyin="yé"/>
-    <word original="(." calque="(.)" pinyin="." punctuation="true"/>
+<line commentary="Is it not because they have no self-interest?">
+    <word original="非" pinyin="fēi" calque="is-not"/>
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="其" pinyin="qí" calque="their"/>
+    <word original="無" pinyin="wú" calque="without"/>
+    <word original="私" pinyin="sī" calque="private"/>
+    <word original="邪" pinyin="xié" calque="question"/>
+    <word original="(." pinyin="" calque=")" punctuation="true"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="The final paradox resolves - how does abandoning self-interest fulfill it?">
-    <word original="(.)故" calque="(therefore)" pinyin="gù"/>
-    <word original="能" calque="able" pinyin="néng"/>
-    <word original="成" calque="complete" pinyin="chéng"/>
-    <word original="其" calque="their" pinyin="qí"/>
-    <word original="私" calque="private" pinyin="sī"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+<line commentary="Therefore they can fulfill their own interests.">
+    <word original="(.)故" pinyin="gù" calque="therefore"/>
+    <word original="能" pinyin="néng" calque="can"/>
+    <word original="成" pinyin="chéng" calque="accomplish"/>
+    <word original="其" pinyin="qí" calque="their"/>
+    <word original="私" pinyin="sī" calque="private"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 </chapter>

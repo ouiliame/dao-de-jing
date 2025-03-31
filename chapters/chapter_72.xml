@@ -1,83 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="72">
-
-<line commentary="Consider: what happens when fear becomes the foundation of power?">
-    <word original="民" calque="people" pinyin="mín"/>
-    <word original="不" calque="not" pinyin="bù"/>
-    <word original="畏" calque="fear" pinyin="wèi"/>
-    <word original="威" calque="might" pinyin="wēi"/>
+<line commentary="When people do not fear authority,">
+    <word original="民" pinyin="mín" calque="people"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="畏" pinyin="wèi" calque="fear"/>
+    <word original="威" pinyin="wēi" calque="authority"/>
 </line>
 
-<line commentary="A warning wrapped in observation - when does power invite its own undoing?">
-    <word original="則" calque="then" pinyin="zé"/>
-    <word original="大" calque="great" pinyin="dà"/>
-    <word original="威" calque="might" pinyin="wēi"/>
-    <word original="至" calque="arrive" pinyin="zhì"/>
-    <word original="[矣(.)]" calque="[indeed(.)]" pinyin="[yǐ(.)]"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+<line commentary="Then great authority will arrive indeed.">
+    <word original="則" pinyin="zé" calque="then"/>
+    <word original="大" pinyin="dà" calque="great"/>
+    <word original="威" pinyin="wēi" calque="authority"/>
+    <word original="至" pinyin="zhì" calque="arrive"/>
+    <word original="[矣(.)]" pinyin="yǐ" calque="[indeed(.)]"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="What happens when we lose reverence for our dwelling place?">
-    <word original="無" calque="do-not" pinyin="wú"/>
-    <word original="狎" calque="familiar" pinyin="xiá"/>
-    <word original="其" calque="their" pinyin="qí"/>
-    <word original="所" calque="place" pinyin="suǒ"/>
-    <word original="居" calque="dwell" pinyin="jū"/>
+<line commentary="Do not restrict where they dwell,">
+    <word original="無" pinyin="wú" calque="do-not"/>
+    <word original="狎" pinyin="xiá" calque="restrict"/>
+    <word original="其" pinyin="qí" calque="their"/>
+    <word original="所" pinyin="suǒ" calque="place"/>
+    <word original="居" pinyin="jū" calque="dwell"/>
 </line>
 
-<line commentary="Between contentment and weariness - where lies the balance?">
-    <word original="無" calque="do-not" pinyin="wú"/>
-    <word original="厭" calque="weary-of" pinyin="yàn"/>
-    <word original="其" calque="their" pinyin="qí"/>
-    <word original="所" calque="place" pinyin="suǒ"/>
-    <word original="生" calque="live" pinyin="shēng"/>
+<line commentary="Do not weary them in their livelihood.">
+    <word original="無" pinyin="wú" calque="do-not"/>
+    <word original="厭" pinyin="yàn" calque="weary"/>
+    <word original="其" pinyin="qí" calque="their"/>
+    <word original="所" pinyin="suǒ" calque="that-which"/>
+    <word original="生" pinyin="shēng" calque="live"/>
 </line>
 
-<line commentary="A subtle pivot: how does non-weariness lead to non-weariness?">
-    <word original="(.)夫" calque="(.)indeed" pinyin="fú"/>
-    <word original="唯" calque="only" pinyin="wéi"/>
-    <word original="不" calque="not" pinyin="bù"/>
-    <word original="厭" calque="weary" pinyin="yàn"/>
+<line commentary="It is because you do not oppress them,">
+    <word original="(.)夫" pinyin="fú" calque="(.)indeed"/>
+    <word original="唯" pinyin="wéi" calque="only"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="厭" pinyin="yàn" calque="oppress"/>
 </line>
 
-<line commentary="The echo deepens - what transforms absence into presence?">
-    <word original="是" calque="this" pinyin="shì"/>
-    <word original="以" calque="by-means-of" pinyin="yǐ"/>
-    <word original="不" calque="not" pinyin="bù"/>
-    <word original="厭" calque="weary" pinyin="yàn"/>
+<line commentary="Therefore they will not be wearied.">
+    <word original="是" pinyin="shì" calque="this"/>
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="厭" pinyin="yàn" calque="weary"/>
 </line>
 
-<line commentary="Enter the sage - watch how wisdom manifests through paradox...">
-    <word original="是" calque="this" pinyin="shì"/>
-    <word original="以" calque="by-means-of" pinyin="yǐ"/>
-    <word original="聖" calque="sage" pinyin="shèng"/>
-    <word original="人" calque="person" pinyin="rén"/>
+<line commentary="Therefore the sage">
+    <word original="是" pinyin="shì" calque="this"/>
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="聖" pinyin="shèng" calque="sage"/>
+    <word original="人" pinyin="rén" calque="person"/>
 </line>
 
-<line commentary="Can one truly know oneself without display? What is the relationship between knowing and showing?">
-    <word original="自" calque="self" pinyin="zì"/>
-    <word original="知" calque="know" pinyin="zhī"/>
-    <word original="不" calque="not" pinyin="bù"/>
-    <word original="自" calque="self" pinyin="zì"/>
-    <word original="見" calque="show" pinyin="xiàn"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+<line commentary="Knows himself but does not display himself.">
+    <word original="自" pinyin="zì" calque="self"/>
+    <word original="知" pinyin="zhī" calque="know"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="自" pinyin="zì" calque="self"/>
+    <word original="見" pinyin="xiàn" calque="display"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Love without pride - is this the heart of true self-worth?">
-    <word original="自" calque="self" pinyin="zì"/>
-    <word original="愛" calque="love" pinyin="ài"/>
-    <word original="不" calque="not" pinyin="bù"/>
-    <word original="自" calque="self" pinyin="zì"/>
-    <word original="貴" calque="value" pinyin="guì"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+<line commentary="Loves himself but does not exalt himself.">
+    <word original="自" pinyin="zì" calque="self"/>
+    <word original="愛" pinyin="ài" calque="love"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="自" pinyin="zì" calque="self"/>
+    <word original="貴" pinyin="guì" calque="value"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="The final choice - what do we leave behind to grasp what matters?">
-    <word original="(.)故" calque="(.)therefore" pinyin="gù"/>
-    <word original="去" calque="remove" pinyin="qù"/>
-    <word original="彼" calque="that" pinyin="bǐ"/>
-    <word original="取" calque="take" pinyin="qǔ"/>
-    <word original="此" calque="this" pinyin="cǐ"/>
+<line commentary="Therefore he rejects that and chooses this.">
+    <word original="(.)故" pinyin="gù" calque="(.)therefore"/>
+    <word original="去" pinyin="qù" calque="reject"/>
+    <word original="彼" pinyin="bǐ" calque="that"/>
+    <word original="取" pinyin="qǔ" calque="choose"/>
+    <word original="此" pinyin="cǐ" calque="this"/>
 </line>
-
 </chapter>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="65">
-<line commentary="Consider the ancient ones - what made their way of following the Way 'good'? Notice the space between characters suggesting contemplative pauses.">
+<line commentary="The ancient masters who were skilled in the Way">
     <word original="古" pinyin="gǔ" calque="ancient"/>
     <word original="之" pinyin="zhī" calque="of"/>
     <word original="善" pinyin="shàn" calque="good-at"/>
-    <word original="為" pinyin="wéi" calque="doing"/>
+    <word original="為" pinyin="wéi" calque="practice"/>
     <word original="道" pinyin="dào" calque="way"/>
     <word original="者" pinyin="zhě" calque="one-who"/>
 </line>
 
-<line commentary="A startling negation - what expectations does it overturn?">
+<line commentary="Did not use it to enlighten the people">
     <word original="非" pinyin="fēi" calque="not"/>
     <word original="以" pinyin="yǐ" calque="by-means-of"/>
     <word original="明" pinyin="míng" calque="enlighten"/>
@@ -17,7 +17,7 @@
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="將 suggests intention - what kind of 'simplification' might bring harmony rather than ignorance?">
+<line commentary="But rather to keep them simple">
     <word original="將" pinyin="jiāng" calque="will"/>
     <word original="以" pinyin="yǐ" calque="by-means-of"/>
     <word original="愚" pinyin="yú" calque="simple"/>
@@ -25,7 +25,7 @@
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="難 carries both 'difficult' and 'suffering' - which resonates more deeply here?">
+<line commentary="People are difficult to govern">
     <word original="民" pinyin="mín" calque="people"/>
     <word original="之" pinyin="zhī" calque="of"/>
     <word original="難" pinyin="nán" calque="difficult"/>
@@ -33,92 +33,92 @@
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="知 can mean both 'knowledge' and 'awareness' - which form might burden governance?">
+<line commentary="Because they have too much knowledge">
     <word original="以" pinyin="yǐ" calque="by-means-of"/>
     <word original="其" pinyin="qí" calque="their"/>
-    <word original="(知)" pinyin="zhī" calque="(knowing)"/>
+    <word original="(知)" pinyin="zhī" calque="knowledge"/>
     <word original="多" pinyin="duō" calque="much"/>
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="A stark equation: knowledge-based governance leads to harm. What modern parallels might we find?">
+<line commentary="Therefore using knowledge to rule the country">
     <word original="故" pinyin="gù" calque="therefore"/>
     <word original="以" pinyin="yǐ" calque="by-means-of"/>
-    <word original="(知)" pinyin="zhī" calque="(knowing)"/>
+    <word original="知" pinyin="zhī" calque="knowledge"/>
     <word original="治" pinyin="zhì" calque="govern"/>
     <word original="國" pinyin="guó" calque="country"/>
 </line>
 
-<line commentary="賊 literally means 'thief' - what might be stolen when governance relies on cleverness?">
+<line commentary="Is to rob the country">
     <word original="國" pinyin="guó" calque="country"/>
     <word original="之" pinyin="zhī" calque="of"/>
-    <word original="賊" pinyin="zéi" calque="harm"/>
+    <word original="賊" pinyin="zéi" calque="thief"/>
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Notice the parallel structure - how does the meaning transform with a simple negation?">
+<line commentary="Not using knowledge to rule the country">
     <word original="不" pinyin="bù" calque="not"/>
     <word original="以" pinyin="yǐ" calque="by-means-of"/>
-    <word original="(知)" pinyin="zhī" calque="(knowing)"/>
+    <word original="知" pinyin="zhī" calque="knowledge"/>
     <word original="治" pinyin="zhì" calque="govern"/>
     <word original="國" pinyin="guó" calque="country"/>
 </line>
 
-<line commentary="福 suggests both 'blessing' and 'good fortune' - what makes simplicity fortunate?">
+<line commentary="Is the country's good fortune">
     <word original="國" pinyin="guó" calque="country"/>
     <word original="之" pinyin="zhī" calque="of"/>
     <word original="福" pinyin="fú" calque="fortune"/>
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="稽式 suggests a pattern or model - what might be revealed in knowing both approaches?">
+<line commentary="Knowing these two principles serves as a model">
     <word original="知" pinyin="zhī" calque="know"/>
     <word original="此" pinyin="cǐ" calque="these"/>
     <word original="兩" pinyin="liǎng" calque="two"/>
     <word original="者" pinyin="zhě" calque="ones"/>
     <word original="亦" pinyin="yì" calque="also"/>
-    <word original="稽" pinyin="jī" calque="pattern"/>
-    <word original="式" pinyin="shì" calque="model"/>
+    <word original="稽" pinyin="jī" calque="examine"/>
+    <word original="式" pinyin="shì" calque="pattern"/>
 </line>
 
-<line commentary="常 suggests permanence - what endures in understanding these patterns?">
-    <word original="常" pinyin="cháng" calque="constant"/>
+<line commentary="Always knowing this pattern">
+    <word original="常" pinyin="cháng" calque="always"/>
     <word original="知" pinyin="zhī" calque="know"/>
-    <word original="稽" pinyin="jī" calque="pattern"/>
-    <word original="式" pinyin="shì" calque="model"/>
+    <word original="稽" pinyin="jī" calque="examine"/>
+    <word original="式" pinyin="shì" calque="pattern"/>
 </line>
 
-<line commentary="玄 hints at mystery and profundity - how might virtue be both dark and illuminating?">
+<line commentary="This is called mysterious virtue">
     <word original="是" pinyin="shì" calque="this"/>
     <word original="謂" pinyin="wèi" calque="called"/>
-    <word original="玄" pinyin="xuán" calque="dark"/>
+    <word original="玄" pinyin="xuán" calque="mysterious"/>
     <word original="德" pinyin="dé" calque="virtue"/>
 </line>
 
-<line commentary="Deep and far - spatial metaphors for understanding. What lies beyond our immediate grasp?">
-    <word original="玄" pinyin="xuán" calque="dark"/>
+<line commentary="Mysterious virtue is deep and far-reaching">
+    <word original="玄" pinyin="xuán" calque="mysterious"/>
     <word original="德" pinyin="dé" calque="virtue"/>
     <word original="深" pinyin="shēn" calque="deep"/>
-    <word original="矣" pinyin="yǐ" calque="indeed"/>
+    <word original="矣" pinyin="yī" calque="indeed"/>
     <word original="遠" pinyin="yuǎn" calque="far"/>
-    <word original="矣" pinyin="yǐ" calque="indeed"/>
-    <word original="(.)" pinyin="" calque="(.)" punctuation="true"/>
+    <word original="矣" pinyin="yī" calque="indeed"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="反 suggests both return and opposition - which reading creates more meaning here?">
+<line commentary="It returns with things to the great harmony">
     <word original="與" pinyin="yǔ" calque="with"/>
     <word original="物" pinyin="wù" calque="things"/>
     <word original="反" pinyin="fǎn" calque="return"/>
-    <word original="矣" pinyin="yǐ" calque="indeed"/>
-    <word original="(.)" pinyin="" calque="(.)" punctuation="true"/>
+    <word original="矣" pinyin="yī" calque="indeed"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="大順 suggests supreme harmony - what path leads from mystery to accordance?">
+<line commentary="Only then is great harmony achieved">
     <word original="__" pinyin="" calque="..."/>
     <word original="__" pinyin="" calque="..."/>
     <word original="乃" pinyin="nǎi" calque="then"/>
-    <word original="至" pinyin="zhì" calque="arrive"/>
+    <word original="至" pinyin="zhì" calque="reach"/>
     <word original="大" pinyin="dà" calque="great"/>
-    <word original="順" pinyin="shùn" calque="accordance"/>
+    <word original="順" pinyin="shùn" calque="harmony"/>
 </line>
 </chapter>

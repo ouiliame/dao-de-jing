@@ -1,59 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="80">
-<line commentary="A single dot opens the chapter - perhaps suggesting a point of focus, a beginning, or a seed of an idea.">
-    <word original="." calque="." pinyin="." punctuation="true"/>
+<line commentary="A small state with few people:">
+    <word original="." calque="." punctuation="true"/>
     <word original="小" calque="small" pinyin="xiǎo"/>
-    <word original="國" calque="country" pinyin="guó"/>
+    <word original="國" calque="state" pinyin="guó"/>
     <word original="寡" calque="few" pinyin="guǎ"/>
     <word original="民" calque="people" pinyin="mín"/>
 </line>
 
-<line commentary="What might it mean to possess tools but not use them? Consider the space between capability and necessity.">
-    <word original="使" calque="cause" pinyin="shǐ"/>
+<line commentary="Though they have tools for tens and hundreds, they do not use them.">
+    <word original="使" calque="let" pinyin="shǐ"/>
     <word original="有" calque="have" pinyin="yǒu"/>
-    <word original="什伯" calque="implements" pinyin="shí-bǎi"/>
+    <word original="什伯" calque="tens-and-hundreds" pinyin="shí-bǎi"/>
     <word original="之" calque="of" pinyin="zhī"/>
-    <word original="器" calque="vessels" pinyin="qì"/>
+    <word original="器" calque="tools" pinyin="qì"/>
     <word original="而" calque="yet" pinyin="ér"/>
     <word original="不" calque="not" pinyin="bù"/>
     <word original="用" calque="use" pinyin="yòng"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+    <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="A profound paradox: valuing life so much that one stays put. How might 'not traveling far' connect to 'taking death seriously'?">
-    <word original="使" calque="cause" pinyin="shǐ"/>
+<line commentary="Let the people regard death seriously and not migrate far.">
+    <word original="使" calque="let" pinyin="shǐ"/>
     <word original="民" calque="people" pinyin="mín"/>
-    <word original="重" calque="value" pinyin="zhòng"/>
+    <word original="重" calque="heavy" pinyin="zhòng"/>
     <word original="死" calque="death" pinyin="sǐ"/>
     <word original="而" calque="yet" pinyin="ér"/>
     <word original="不" calque="not" pinyin="bù"/>
     <word original="遠" calque="far" pinyin="yuǎn"/>
-    <word original="徙" calque="move" pinyin="xǐ"/>
+    <word original="徙" calque="migrate" pinyin="xǐ"/>
 </line>
 
-<line commentary="Vessels of movement that remain still - what wealth might lie in unused potential?">
+<line commentary="Although they have boats and carriages, they have nowhere to ride them.">
     <word original="雖" calque="although" pinyin="suī"/>
     <word original="有" calque="have" pinyin="yǒu"/>
-    <word original="舟輿" calque="boats-carriages" pinyin="zhōu-yú"/>
+    <word original="舟輿" calque="boats-and-carriages" pinyin="zhōu-yú"/>
     <word original="無" calque="no" pinyin="wú"/>
     <word original="所" calque="place" pinyin="suǒ"/>
     <word original="乘" calque="ride" pinyin="chéng"/>
     <word original="之" calque="them" pinyin="zhī"/>
 </line>
 
-<line commentary="Weapons that remain unused - is this weakness or strength?">
+<line commentary="Although they have armor and weapons, they have nowhere to display them.">
     <word original="雖" calque="although" pinyin="suī"/>
     <word original="有" calque="have" pinyin="yǒu"/>
-    <word original="甲" calque="armor" pinyin="jiǎ"/>
-    <word original="兵" calque="weapons" pinyin="bīng"/>
+    <word original="甲兵" calque="armor-and-weapons" pinyin="jiǎ-bīng"/>
     <word original="無" calque="no" pinyin="wú"/>
     <word original="所" calque="place" pinyin="suǒ"/>
     <word original="陳" calque="display" pinyin="chén"/>
     <word original="之" calque="them" pinyin="zhī"/>
 </line>
 
-<line commentary="The knotted rope suggests ancient simplicity - but what knowledge might such basic tools contain?">
-    <word original="使" calque="cause" pinyin="shǐ"/>
+<line commentary="Let the people return to using knotted ropes.">
+    <word original="使" calque="let" pinyin="shǐ"/>
     <word original="(民)" calque="(people)" pinyin="mín"/>
     <word original="復" calque="return" pinyin="fù"/>
     <word original="結" calque="tie" pinyin="jié"/>
@@ -63,56 +62,56 @@
     <word original="之" calque="it" pinyin="zhī"/>
 </line>
 
-<line commentary="Consider how 'sweetness' might differ from mere taste - what makes food truly satisfying?">
+<line commentary="They find their food sweet.">
     <word original="甘" calque="sweet" pinyin="gān"/>
     <word original="其" calque="their" pinyin="qí"/>
     <word original="食" calque="food" pinyin="shí"/>
 </line>
 
-<line commentary="Beauty in simplicity - how might this differ from ornate decoration?">
+<line commentary="They find their clothes beautiful.">
     <word original="美" calque="beautiful" pinyin="měi"/>
     <word original="其" calque="their" pinyin="qí"/>
     <word original="服" calque="clothes" pinyin="fú"/>
 </line>
 
-<line commentary="Peace in dwelling - what makes a place truly feel like home?">
+<line commentary="They are peaceful in their dwellings.">
     <word original="安" calque="peaceful" pinyin="ān"/>
     <word original="其" calque="their" pinyin="qí"/>
     <word original="居" calque="dwelling" pinyin="jū"/>
 </line>
 
-<line commentary="Finding joy in custom - how might familiar ways bring delight?">
-    <word original="樂" calque="joy" pinyin="lè"/>
+<line commentary="They delight in their customs.">
+    <word original="樂" calque="delight" pinyin="lè"/>
     <word original="其" calque="their" pinyin="qí"/>
     <word original="俗" calque="customs" pinyin="sú"/>
 </line>
 
-<line commentary="A beautiful image of proximity without intrusion - what kind of relationship does this suggest?">
+<line commentary="Neighboring states might be within sight of each other.">
     <word original="鄰" calque="neighboring" pinyin="lín"/>
-    <word original="國" calque="countries" pinyin="guó"/>
-    <word original="相" calque="mutual" pinyin="xiāng"/>
+    <word original="國" calque="states" pinyin="guó"/>
+    <word original="相" calque="mutually" pinyin="xiāng"/>
     <word original="望" calque="gaze" pinyin="wàng"/>
 </line>
 
-<line commentary="The sounds of life carrying across boundaries - what kind of connection transcends separation?">
-    <word original="雞" calque="chickens" pinyin="jī"/>
-    <word original="犬" calque="dogs" pinyin="quǎn"/>
+<line commentary="The sounds of roosters and dogs can be heard from one to another.">
+    <word original="雞" calque="rooster" pinyin="jī"/>
+    <word original="犬" calque="dog" pinyin="quǎn"/>
     <word original="之" calque="of" pinyin="zhī"/>
-    <word original="聲" calque="sounds" pinyin="shēng"/>
-    <word original="相" calque="mutual" pinyin="xiāng"/>
+    <word original="聲" calque="sound" pinyin="shēng"/>
+    <word original="相" calque="mutually" pinyin="xiāng"/>
     <word original="聞" calque="hear" pinyin="wén"/>
 </line>
 
-<line commentary="Age and death as natural completion rather than tragedy - what wisdom lies in accepting this cycle?">
+<line commentary="The people grow old and die.">
     <word original="民" calque="people" pinyin="mín"/>
     <word original="至" calque="until" pinyin="zhì"/>
     <word original="老" calque="old" pinyin="lǎo"/>
-    <word original="死" calque="death" pinyin="sǐ"/>
+    <word original="死" calque="die" pinyin="sǐ"/>
 </line>
 
-<line commentary="The profound sufficiency of staying put - what might we gain by not seeking elsewhere?">
+<line commentary="Yet they do not visit one another.">
     <word original="不" calque="not" pinyin="bù"/>
-    <word original="相" calque="mutual" pinyin="xiāng"/>
+    <word original="相" calque="mutually" pinyin="xiāng"/>
     <word original="往" calque="go" pinyin="wǎng"/>
     <word original="來" calque="come" pinyin="lái"/>
 </line>

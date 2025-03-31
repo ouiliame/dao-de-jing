@@ -1,58 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="71">
-
-<line commentary="A subtle dance between knowing and not-knowing - what happens when we become aware of our ignorance?">
-    <word original="知" calque="know" pinyin="zhī"/>
-    <word original="不" calque="not" pinyin="bù"/>
-    <word original="知" calque="know" pinyin="zhī"/>
-    <word original="(尚)" calque="(superior)" pinyin="shàng"/>
-    <word original="[矣(.)]" calque="[indeed(.)]" pinyin="yǐ"/>
+<line commentary="To know what one does not know is highest.">
+    <word original="知" pinyin="zhī" calque="know"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="知" pinyin="zhī" calque="know"/>
+    <word original="(尚)" pinyin="shàng" calque="(highest)"/>
+    <word original="[矣(.)]" pinyin="yǐ" calque="[indeed(.)]"/>
 </line>
 
-<line commentary="When does confidence in our knowledge become its own form of ignorance?">
-    <word original="不" calque="not" pinyin="bù"/>
-    <word original="知" calque="know" pinyin="zhī"/>
-    <word original="知" calque="know" pinyin="zhī"/>
-    <word original="病" calque="illness" pinyin="bìng"/>
-    <word original="[矣(.)]" calque="[indeed(.)]" pinyin="yǐ"/>
+<line commentary="Not knowing what one knows is affliction.">
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="知" pinyin="zhī" calque="know"/>
+    <word original="知" pinyin="zhī" calque="know"/>
+    <word original="病" pinyin="bìng" calque="illness"/>
+    <word original="[矣(.)]" pinyin="yǐ" calque="[indeed(.)]"/>
 </line>
 
-<line commentary="The character 病 holds both 'illness' and 'fault' - how might recognizing our flaws lead to healing?">
-    <word original="(.)" calque="(.)" pinyin=""/>
-    <word original="夫" calque="indeed" pinyin="fú"/>
-    <word original="唯" calque="only" pinyin="wéi"/>
-    <word original="病" calque="illness" pinyin="bìng"/>
-    <word original="病" calque="illness" pinyin="bìng"/>
+<line commentary="Indeed, it is by recognizing affliction as affliction,">
+    <word original="(.)" pinyin="" calque="(.)"/>
+    <word original="夫" pinyin="fú" calque="indeed"/>
+    <word original="唯" pinyin="wéi" calque="only"/>
+    <word original="病" pinyin="bìng" calque="illness"/>
+    <word original="病" pinyin="bìng" calque="illness"/>
 </line>
 
-<line commentary="A paradox emerges: might awareness of our ailments be the path to wellness?">
-    <word original="是" calque="this" pinyin="shì"/>
-    <word original="以" calque="by-means-of" pinyin="yǐ"/>
-    <word original="不" calque="not" pinyin="bù"/>
-    <word original="病" calque="illness" pinyin="bìng"/>
+<line commentary="That one is free from affliction.">
+    <word original="是" pinyin="shì" calque="this"/>
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="病" pinyin="bìng" calque="illness"/>
 </line>
 
-<line commentary="What makes the sage different? Not immunity to illness, but a different relationship with it.">
-    <word original="聖" calque="sage" pinyin="shèng"/>
-    <word original="人" calque="person" pinyin="rén"/>
-    <word original="不" calque="not" pinyin="bù"/>
-    <word original="病" calque="illness" pinyin="bìng"/>
-    <word original="." calque="." pinyin="" punctuation="true"/>
+<line commentary="The sage is free from affliction.">
+    <word original="聖" pinyin="shèng" calque="sage"/>
+    <word original="人" pinyin="rén" calque="person"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="病" pinyin="bìng" calque="illness"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Consider how 'because' (以) and 'illness' (病) dance together - cause and effect blur.">
-    <word original="以" calque="by-means-of" pinyin="yǐ"/>
-    <word original="其" calque="their" pinyin="qí"/>
-    <word original="病" calque="illness" pinyin="bìng"/>
-    <word original="病" calque="illness" pinyin="bìng"/>
-    <word original="." calque="." pinyin="" punctuation="true"/>
+<line commentary="Because he recognizes affliction as affliction,">
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="其" pinyin="qí" calque="his"/>
+    <word original="病" pinyin="bìng" calque="illness"/>
+    <word original="病" pinyin="bìng" calque="illness"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="The final echo of the pattern - how does this conclusion reshape our understanding of the opening?">
-    <word original="是" calque="this" pinyin="shì"/>
-    <word original="以" calque="by-means-of" pinyin="yǐ"/>
-    <word original="不" calque="not" pinyin="bù"/>
-    <word original="病" calque="illness" pinyin="bìng"/>
+<line commentary="Therefore he is free from affliction.">
+    <word original="是" pinyin="shì" calque="this"/>
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="病" pinyin="bìng" calque="illness"/>
 </line>
-
 </chapter>

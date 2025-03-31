@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="48">
-
-<line commentary="Consider: what accumulates day by day? Knowledge, or perhaps something heavier?">
+<line commentary="Those who pursue learning gain more each day.">
     <word original="為" pinyin="wéi" calque="engage-in"/>
     <word original="學" pinyin="xué" calque="learning"/>
     <word original="(者)" pinyin="zhě" calque="(one-who)"/>
@@ -9,59 +8,59 @@
     <word original="益" pinyin="yì" calque="increase"/>
 </line>
 
-<line commentary="A mirror to the first line - but what is being reduced? What falls away?">
+<line commentary="Those who pursue the Dao reduce more each day.">
     <word original="為" pinyin="wéi" calque="engage-in"/>
-    <word original="道" pinyin="dào" calque="way"/>
+    <word original="道" pinyin="dào" calque="dao"/>
     <word original="(者)" pinyin="zhě" calque="(one-who)"/>
     <word original="日" pinyin="rì" calque="day"/>
     <word original="損" pinyin="sǔn" calque="decrease"/>
 </line>
 
-<line commentary="The character 損 appears twice - like footprints leading into silence. What remains after double reduction?">
+<line commentary="Reduce and reduce again.">
     <word original="損" pinyin="sǔn" calque="decrease"/>
     <word original="之" pinyin="zhī" calque="it"/>
     <word original="又" pinyin="yòu" calque="again"/>
     <word original="損" pinyin="sǔn" calque="decrease"/>
 </line>
 
-<line commentary="Notice how 以至於 creates a natural flow, like water finding its lowest point. Where does this reduction lead?">
+<line commentary="Until one reaches non-action.">
     <word original="以" pinyin="yǐ" calque="by-means-of"/>
     <word original="至" pinyin="zhì" calque="arrive"/>
     <word original="於" pinyin="yú" calque="at"/>
-    <word original="無" pinyin="wú" calque="without"/>
-    <word original="為" pinyin="wéi" calque="doing"/>
+    <word original="無" pinyin="wú" calque="non"/>
+    <word original="為" pinyin="wéi" calque="action"/>
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="A seeming paradox emerges - how can non-action lead to complete action?">
-    <word original="無" pinyin="wú" calque="without"/>
-    <word original="為" pinyin="wéi" calque="doing"/>
+<line commentary="Through non-action, nothing is left undone.">
+    <word original="無" pinyin="wú" calque="non"/>
+    <word original="為" pinyin="wéi" calque="action"/>
     <word original="而" pinyin="ér" calque="yet"/>
-    <word original="無" pinyin="wú" calque="without"/>
+    <word original="無" pinyin="wú" calque="nothing"/>
     <word original="不" pinyin="bù" calque="not"/>
-    <word original="為" pinyin="wéi" calque="doing"/>
+    <word original="為" pinyin="wéi" calque="do"/>
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="What might it mean to take charge of all-under-heaven through non-engagement?">
+<line commentary="The world is gained by constant non-interference.">
     <word original="取" pinyin="qǔ" calque="take"/>
     <word original="天" pinyin="tiān" calque="heaven"/>
     <word original="下" pinyin="xià" calque="below"/>
     <word original="常" pinyin="cháng" calque="always"/>
     <word original="以" pinyin="yǐ" calque="by-means-of"/>
-    <word original="無" pinyin="wú" calque="without"/>
+    <word original="無" pinyin="wú" calque="non"/>
     <word original="事" pinyin="shì" calque="affairs"/>
 </line>
 
-<line commentary="When does 'having affairs' begin? At what point does involvement become interference?">
-    <word original="及" pinyin="jí" calque="reach"/>
-    <word original="其" pinyin="qí" calque="its"/>
+<line commentary="As soon as there is interference,">
+    <word original="及" pinyin="jí" calque="when"/>
+    <word original="其" pinyin="qí" calque="it"/>
     <word original="有" pinyin="yǒu" calque="have"/>
     <word original="事" pinyin="shì" calque="affairs"/>
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="A final paradox - can mastery of the world come through withdrawal from it?">
+<line commentary="One becomes inadequate to gain the world.">
     <word original="不" pinyin="bù" calque="not"/>
     <word original="足" pinyin="zú" calque="sufficient"/>
     <word original="以" pinyin="yǐ" calque="by-means-of"/>
@@ -69,5 +68,4 @@
     <word original="天" pinyin="tiān" calque="heaven"/>
     <word original="下" pinyin="xià" calque="below"/>
 </line>
-
 </chapter>

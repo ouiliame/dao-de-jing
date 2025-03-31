@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="22">
-<line commentary="Consider how a bent bow achieves its power through its curve. What completeness might arise from yielding?">
-    <word original="曲" calque="curved" pinyin="qū"/>
+<line commentary="What is bent becomes whole.">
+    <word original="曲" calque="bent" pinyin="qū"/>
     <word original="則" calque="then" pinyin="zé"/>
     <word original="全" calque="complete" pinyin="quán"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+    <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="When does crookedness lead to straightness? Perhaps in the way a river finds its true path?">
+<line commentary="What is crooked becomes straight.">
     <word original="枉" calque="crooked" pinyin="wǎng"/>
     <word original="則" calque="then" pinyin="zé"/>
     <word original="直" calque="straight" pinyin="zhí"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+    <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Like a valley that fills with water - what wisdom lies in emptiness that attracts fullness?">
+<line commentary="What is empty becomes full.">
     <word original="窪" calque="hollow" pinyin="wā"/>
     <word original="則" calque="then" pinyin="zé"/>
     <word original="盈" calque="full" pinyin="yíng"/>
 </line>
 
-<line commentary="From worn emerges fresh - what cycles of renewal might this suggest?">
+<line commentary="What is worn becomes new.">
     <word original="敝" calque="worn" pinyin="bì"/>
     <word original="則" calque="then" pinyin="zé"/>
     <word original="新" calque="new" pinyin="xīn"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+    <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="When is less more? What might we gain through having less?">
+<line commentary="With little, one gains.">
     <word original="少" calque="little" pinyin="shǎo"/>
     <word original="則" calque="then" pinyin="zé"/>
     <word original="得" calque="gain" pinyin="dé"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+    <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="How might abundance lead to confusion? What clarity comes from simplicity?">
+<line commentary="With much, one becomes confused.">
     <word original="多" calque="much" pinyin="duō"/>
     <word original="則" calque="then" pinyin="zé"/>
     <word original="惑" calque="confused" pinyin="huò"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+    <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="What makes one 'sage-like'? Notice how this line introduces a series of insights.">
+<line commentary="Therefore the sage">
     <word original="是" calque="this" pinyin="shì"/>
     <word original="以" calque="by-means-of" pinyin="yǐ"/>
     <word original="聖" calque="sage" pinyin="shèng"/>
     <word original="人" calque="person" pinyin="rén"/>
 </line>
 
-<line commentary="What might it mean to 'embrace oneness' as a model for all under heaven?">
+<line commentary="Embraces the One as the model for all under heaven">
     <word original="抱" calque="embrace" pinyin="bào"/>
     <word original="一" calque="one" pinyin="yī"/>
     <word original="[以]" calque="[by-means-of]" pinyin="yǐ"/>
@@ -57,85 +57,85 @@
     <word original="式" calque="model" pinyin="shì"/>
 </line>
 
-<line commentary="How does not displaying oneself lead to clarity? What illumination comes from staying hidden?">
+<line commentary="Not displaying self, thus bright">
     <word original="不" calque="not" pinyin="bù"/>
     <word original="自" calque="self" pinyin="zì"/>
-    <word original="見" calque="show" pinyin="xiàn"/>
+    <word original="見" calque="show" pinyin="jiàn"/>
     <word original="故" calque="therefore" pinyin="gù"/>
     <word original="明" calque="bright" pinyin="míng"/>
 </line>
 
-<line commentary="Consider the difference between being right and being evident. What shines through when we stop insisting?">
+<line commentary="Not asserting self, thus distinct">
     <word original="不" calque="not" pinyin="bù"/>
     <word original="自" calque="self" pinyin="zì"/>
     <word original="是" calque="right" pinyin="shì"/>
     <word original="故" calque="therefore" pinyin="gù"/>
-    <word original="彰" calque="evident" pinyin="zhāng"/>
+    <word original="彰" calque="distinct" pinyin="zhāng"/>
 </line>
 
-<line commentary="Achievement through non-assertion - what paradox lies here?">
+<line commentary="Not boasting, thus meritorious">
     <word original="不" calque="not" pinyin="bù"/>
     <word original="自" calque="self" pinyin="zì"/>
     <word original="伐" calque="boast" pinyin="fá"/>
     <word original="故" calque="therefore" pinyin="gù"/>
     <word original="有" calque="have" pinyin="yǒu"/>
     <word original="功" calque="merit" pinyin="gōng"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+    <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="How does humility lead to lasting influence?">
+<line commentary="Not being prideful, thus lasting">
     <word original="不" calque="not" pinyin="bù"/>
     <word original="自" calque="self" pinyin="zì"/>
     <word original="矜" calque="pride" pinyin="jīn"/>
     <word original="故" calque="therefore" pinyin="gù"/>
-    <word original="長" calque="endure" pinyin="cháng"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+    <word original="長" calque="long" pinyin="cháng"/>
+    <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="A profound truth emerges - what power lies in non-contention?">
-    <word original="(.)夫" calque="(.)indeed" pinyin="fú"/>
+<line commentary="It is because one does not contend">
+    <word original="(.)夫" calque="(indeed)" pinyin="fú"/>
     <word original="唯" calque="only" pinyin="wéi"/>
     <word original="不" calque="not" pinyin="bù"/>
-    <word original="爭" calque="compete" pinyin="zhēng"/>
+    <word original="爭" calque="contend" pinyin="zhēng"/>
 </line>
 
-<line commentary="When none can compete, is it victory or transcendence?">
-    <word original="(.)故" calque="(.)therefore" pinyin="gù"/>
+<line commentary="Therefore none under heaven can contend with them">
+    <word original="(.)故" calque="(therefore)" pinyin="gù"/>
     <word original="天下" calque="under-heaven" pinyin="tiān-xià"/>
     <word original="莫" calque="none" pinyin="mò"/>
     <word original="能" calque="can" pinyin="néng"/>
     <word original="與" calque="with" pinyin="yǔ"/>
-    <word original="之" calque="it" pinyin="zhī"/>
-    <word original="爭" calque="compete" pinyin="zhēng"/>
+    <word original="之" calque="them" pinyin="zhī"/>
+    <word original="爭" calque="contend" pinyin="zhēng"/>
 </line>
 
-<line commentary="Ancient wisdom echoes forward - what timeless truth speaks here?">
+<line commentary="The ancient saying">
     <word original="古" calque="ancient" pinyin="gǔ"/>
     <word original="之" calque="of" pinyin="zhī"/>
     <word original="所" calque="that-which" pinyin="suǒ"/>
     <word original="謂" calque="called" pinyin="wèi"/>
 </line>
 
-<line commentary="The opening paradox returns - how has its meaning deepened?">
-    <word original="曲" calque="curved" pinyin="qū"/>
+<line commentary="'The bent becomes whole'">
+    <word original="曲" calque="bent" pinyin="qū"/>
     <word original="則" calque="then" pinyin="zé"/>
     <word original="全" calque="complete" pinyin="quán"/>
     <word original="者" calque="one-who" pinyin="zhě"/>
 </line>
 
-<line commentary="What truth reverberates in this rhetorical question?">
+<line commentary="How could these be empty words?">
     <word original="豈" calque="how" pinyin="qǐ"/>
     <word original="虛" calque="empty" pinyin="xū"/>
     <word original="言" calque="words" pinyin="yán"/>
     <word original="哉" calque="indeed" pinyin="zāi"/>
-    <word original="(.)." calque="(.)." pinyin="." punctuation="true"/>
+    <word original="(.) ." calque="(.)" punctuation="true"/>
 </line>
 
-<line commentary="The final return - what completion awaits in true surrender?">
-    <word original="誠" calque="sincerely" pinyin="chéng"/>
+<line commentary="Truly, become whole and return to it.">
+    <word original="誠" calque="truly" pinyin="chéng"/>
     <word original="全" calque="complete" pinyin="quán"/>
     <word original="而" calque="and" pinyin="ér"/>
     <word original="歸" calque="return" pinyin="guī"/>
-    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="之" calque="to-it" pinyin="zhī"/>
 </line>
 </chapter>

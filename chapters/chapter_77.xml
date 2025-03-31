@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="77">
-<line commentary="The bow metaphor opens profound possibilities - what tension teaches us about natural balance.">
+<line commentary="The way of Heaven is like drawing a bow:">
     <word original="天" calque="heaven" pinyin="tiān"/>
     <word original="之" calque="of" pinyin="zhī"/>
     <word original="道" calque="way" pinyin="dào"/>
@@ -9,50 +9,50 @@
     <word original="張" calque="draw" pinyin="zhāng"/>
     <word original="弓" calque="bow" pinyin="gōng"/>
     <word original="與" calque="indeed" pinyin="yǔ"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+    <word original="." calque="." pinyin=""/>
 </line>
 
-<line commentary="What force gently presses downward that which rises too high?">
+<line commentary="What is high, it brings down.">
     <word original="高" calque="high" pinyin="gāo"/>
     <word original="者" calque="that-which" pinyin="zhě"/>
     <word original="抑" calque="press-down" pinyin="yì"/>
     <word original="之" calque="it" pinyin="zhī"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+    <word original="." calque="." pinyin=""/>
 </line>
 
-<line commentary="The balanced opposite - natural lift meeting natural descent.">
+<line commentary="What is low, it raises up.">
     <word original="下" calque="low" pinyin="xià"/>
     <word original="者" calque="that-which" pinyin="zhě"/>
-    <word original="舉" calque="lift-up" pinyin="jǔ"/>
+    <word original="舉" calque="lift" pinyin="jǔ"/>
     <word original="之" calque="it" pinyin="zhī"/>
 </line>
 
-<line commentary="Consider how nature handles excess - does it waste or redistribute?">
+<line commentary="From those with excess, it takes away.">
     <word original="有" calque="have" pinyin="yǒu"/>
     <word original="餘" calque="excess" pinyin="yú"/>
     <word original="者" calque="that-which" pinyin="zhě"/>
-    <word original="損" calque="decrease" pinyin="sǔn"/>
+    <word original="損" calque="reduce" pinyin="sǔn"/>
     <word original="之" calque="it" pinyin="zhī"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+    <word original="." calque="." pinyin=""/>
 </line>
 
-<line commentary="Where deficiency exists, what force moves to fill the void?">
+<line commentary="To those lacking, it adds.">
     <word original="不" calque="not" pinyin="bù"/>
     <word original="足" calque="sufficient" pinyin="zú"/>
     <word original="者" calque="that-which" pinyin="zhě"/>
     <word original="補" calque="supplement" pinyin="bǔ"/>
     <word original="之" calque="it" pinyin="zhī"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+    <word original="." calque="." pinyin=""/>
 </line>
 
-<line commentary="The way of heaven returns - notice how this phrase echoes through the text.">
+<line commentary="The way of Heaven:">
     <word original="天" calque="heaven" pinyin="tiān"/>
     <word original="之" calque="of" pinyin="zhī"/>
     <word original="道" calque="way" pinyin="dào"/>
 </line>
 
-<line commentary="Natural balance expressed in action - what wisdom lies in this pattern?">
-    <word original="損" calque="decrease" pinyin="sǔn"/>
+<line commentary="Reduces excess and supplements insufficiency.">
+    <word original="損" calque="reduce" pinyin="sǔn"/>
     <word original="有" calque="have" pinyin="yǒu"/>
     <word original="餘" calque="excess" pinyin="yú"/>
     <word original="而" calque="and" pinyin="ér"/>
@@ -61,17 +61,17 @@
     <word original="足" calque="sufficient" pinyin="zú"/>
 </line>
 
-<line commentary="Human ways often reverse nature's pattern - what might this reveal about our institutions?">
+<line commentary="The way of humans is not thus:">
     <word original="人" calque="human" pinyin="rén"/>
     <word original="之" calque="of" pinyin="zhī"/>
     <word original="道" calque="way" pinyin="dào"/>
     <word original="則" calque="then" pinyin="zé"/>
     <word original="不" calque="not" pinyin="bù"/>
-    <word original="然" calque="thus" pinyin="rán"/>
+    <word original="然" calque="so" pinyin="rán"/>
 </line>
 
-<line commentary="A pointed observation of human tendency - do we recognize this pattern in our world?">
-    <word original="損" calque="decrease" pinyin="sǔn"/>
+<line commentary="They take from those who lack to serve those who have excess.">
+    <word original="損" calque="reduce" pinyin="sǔn"/>
     <word original="不" calque="not" pinyin="bù"/>
     <word original="足" calque="sufficient" pinyin="zú"/>
     <word original="以" calque="by-means-of" pinyin="yǐ"/>
@@ -80,7 +80,7 @@
     <word original="餘" calque="excess" pinyin="yú"/>
 </line>
 
-<line commentary="A profound question that turns inward - what capacity must one cultivate to truly serve?">
+<line commentary="Who can take their excess and offer it to the world?">
     <word original="孰" calque="who" pinyin="shú"/>
     <word original="能" calque="can" pinyin="néng"/>
     <word original="有" calque="have" pinyin="yǒu"/>
@@ -92,43 +92,43 @@
     <word original="下" calque="below" pinyin="xià"/>
 </line>
 
-<line commentary="The answer emerges in simplicity - what makes this person different?">
+<line commentary="Only one who possesses the Way.">
     <word original="唯" calque="only" pinyin="wéi"/>
     <word original="有" calque="have" pinyin="yǒu"/>
     <word original="道" calque="way" pinyin="dào"/>
-    <word original="者" calque="one-who" pinyin="zhě"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+    <word original="者" calque="one" pinyin="zhě"/>
+    <word original="." calque="." pinyin=""/>
 </line>
 
-<line commentary="Watch how the sage emerges in the text - not as commander but as exemplar.">
+<line commentary="Therefore the sage:">
     <word original="是" calque="this" pinyin="shì"/>
     <word original="以" calque="therefore" pinyin="yǐ"/>
     <word original="聖" calque="sage" pinyin="shèng"/>
     <word original="人" calque="person" pinyin="rén"/>
 </line>
 
-<line commentary="Action without attachment - can we imagine such pure movement?">
+<line commentary="Acts but does not rely on it.">
     <word original="為" calque="act" pinyin="wéi"/>
     <word original="而" calque="yet" pinyin="ér"/>
     <word original="不" calque="not" pinyin="bù"/>
     <word original="恃" calque="rely-on" pinyin="shì"/>
 </line>
 
-<line commentary="Achievement without dwelling - what freedom might this offer?">
+<line commentary="Achieves merit but does not dwell on it.">
     <word original="功" calque="merit" pinyin="gōng"/>
     <word original="成" calque="complete" pinyin="chéng"/>
     <word original="而" calque="yet" pinyin="ér"/>
     <word original="不" calque="not" pinyin="bù"/>
     <word original="處" calque="dwell" pinyin="chǔ"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+    <word original="." calque="." pinyin=""/>
 </line>
 
-<line commentary="A final twist - what virtue lies in not wanting to appear virtuous?">
-    <word original="其" calque="it" pinyin="qí"/>
+<line commentary="They do not wish to display their wisdom.">
+    <word original="其" calque="their" pinyin="qí"/>
     <word original="不" calque="not" pinyin="bù"/>
     <word original="欲" calque="desire" pinyin="yù"/>
-    <word original="見" calque="appear" pinyin="xiàn"/>
+    <word original="見" calque="show" pinyin="xiàn"/>
     <word original="賢" calque="worthy" pinyin="xián"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+    <word original="." calque="." pinyin=""/>
 </line>
 </chapter>

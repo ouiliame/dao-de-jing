@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="30">
-<line commentary="Consider: what distinguishes one who assists through Dao versus one who assists through force?">
+<line commentary="One who assists a ruler according to the Dao">
     <word original="以" pinyin="yǐ" calque="by-means-of"/>
     <word original="道" pinyin="dào" calque="way"/>
     <word original="佐" pinyin="zuǒ" calque="assist"/>
@@ -9,7 +9,7 @@
     <word original="者" pinyin="zhě" calque="one-who"/>
 </line>
 
-<line commentary="A subtle contrast between 'weapons' and 'heaven-under' - what makes force inappropriate for governing the world?">
+<line commentary="Does not use military force to dominate the world">
     <word original="不" pinyin="bù" calque="not"/>
     <word original="以" pinyin="yǐ" calque="by-means-of"/>
     <word original="兵" pinyin="bīng" calque="weapons"/>
@@ -18,45 +18,44 @@
     <word original="下" pinyin="xià" calque="below"/>
 </line>
 
-<line commentary="The character 還 suggests both 'return' and 'repayment' - what cycles might this imply?">
+<line commentary="Such affairs tend to return upon themselves">
     <word original="其" pinyin="qí" calque="its"/>
     <word original="事" pinyin="shì" calque="affairs"/>
     <word original="好" pinyin="hào" calque="tend-to"/>
     <word original="還" pinyin="huán" calque="return"/>
 </line>
 
-<line commentary="What natural wisdom might lie in thorns growing where armies camp?">
+<line commentary="Where armies camp, thorns and brambles grow">
     <word original="師" pinyin="shī" calque="army"/>
     <word original="之" pinyin="zhī" calque="of"/>
     <word original="所" pinyin="suǒ" calque="place"/>
     <word original="處" pinyin="chǔ" calque="dwell"/>
-    <word original="荊" pinyin="jīng" calque="thorns"/>
-    <word original="棘" pinyin="jí" calque="brambles"/>
+    <word original="荊棘" pinyin="jīngjí" calque="thorns-brambles"/>
     <word original="生" pinyin="shēng" calque="grow"/>
 </line>
 
-<line commentary="How do military campaigns create years of scarcity? Consider both literal and metaphorical meanings.">
+<line commentary="After great armies, years of famine surely follow">
     <word original="焉" pinyin="yān" calque="thereupon"/>
     <word original="大" pinyin="dà" calque="great"/>
     <word original="軍" pinyin="jūn" calque="army"/>
     <word original="之" pinyin="zhī" calque="of"/>
     <word original="後" pinyin="hòu" calque="after"/>
-    <word original="必" pinyin="bì" calque="must"/>
+    <word original="必" pinyin="bì" calque="surely"/>
     <word original="有" pinyin="yǒu" calque="have"/>
-    <word original="凶" pinyin="xiōng" calque="ill-fortune"/>
+    <word original="凶" pinyin="xiōng" calque="disaster"/>
     <word original="年" pinyin="nián" calque="year"/>
 </line>
 
-<line commentary="A moment of completion without excess - what wisdom lies in knowing when to stop?">
+<line commentary="The good achieve their purpose and stop">
     <word original="善" pinyin="shàn" calque="good"/>
     <word original="者" pinyin="zhě" calque="one-who"/>
-    <word original="果" pinyin="guǒ" calque="accomplish"/>
+    <word original="果" pinyin="guǒ" calque="result"/>
     <word original="而" pinyin="ér" calque="and"/>
     <word original="已" pinyin="yǐ" calque="stop"/>
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="How might restraint actually be a source of strength?">
+<line commentary="Not daring to take by force">
     <word original="不" pinyin="bù" calque="not"/>
     <word original="敢" pinyin="gǎn" calque="dare"/>
     <word original="以" pinyin="yǐ" calque="by-means-of"/>
@@ -65,61 +64,61 @@
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="What transforms accomplishment into pride?">
-    <word original="果" pinyin="guǒ" calque="accomplish"/>
+<line commentary="Achieve results but do not boast">
+    <word original="果" pinyin="guǒ" calque="result"/>
     <word original="而" pinyin="ér" calque="and"/>
     <word original="勿" pinyin="wù" calque="do-not"/>
     <word original="矜" pinyin="jīn" calque="boast"/>
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Consider the difference between achievement and conquest.">
-    <word original="果" pinyin="guǒ" calque="accomplish"/>
+<line commentary="Achieve results but do not brag">
+    <word original="果" pinyin="guǒ" calque="result"/>
     <word original="而" pinyin="ér" calque="and"/>
     <word original="勿" pinyin="wù" calque="do-not"/>
     <word original="伐" pinyin="fá" calque="attack"/>
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="How might success breed arrogance? What guards against this?">
-    <word original="果" pinyin="guǒ" calque="accomplish"/>
+<line commentary="Achieve results but do not be arrogant">
+    <word original="果" pinyin="guǒ" calque="result"/>
     <word original="而" pinyin="ér" calque="and"/>
     <word original="勿" pinyin="wù" calque="do-not"/>
     <word original="驕" pinyin="jiāo" calque="arrogant"/>
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="When is action truly unavoidable? What makes it necessary?">
-    <word original="果" pinyin="guǒ" calque="accomplish"/>
+<line commentary="Achieve results because there is no choice">
+    <word original="果" pinyin="guǒ" calque="result"/>
     <word original="而" pinyin="ér" calque="and"/>
     <word original="不" pinyin="bù" calque="not"/>
     <word original="得" pinyin="dé" calque="obtain"/>
     <word original="已" pinyin="yǐ" calque="already"/>
 </line>
 
-<line commentary="The final warning against force - what makes this the culmination of the previous lines?">
-    <word original="果" pinyin="guǒ" calque="accomplish"/>
+<line commentary="Achieve results but do not force">
+    <word original="果" pinyin="guǒ" calque="result"/>
     <word original="而" pinyin="ér" calque="and"/>
     <word original="勿" pinyin="wù" calque="do-not"/>
     <word original="強" pinyin="qiáng" calque="force"/>
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Observe the natural law at work - what cycle is being described?">
+<line commentary="Things at their peak must decline">
     <word original="物" pinyin="wù" calque="things"/>
     <word original="壯" pinyin="zhuàng" calque="strong"/>
     <word original="則" pinyin="zé" calque="then"/>
     <word original="老" pinyin="lǎo" calque="old"/>
 </line>
 
-<line commentary="What makes a path 'not-Dao'? Consider the implications.">
+<line commentary="This is called not following the Dao">
     <word original="是" pinyin="shì" calque="this"/>
     <word original="謂" pinyin="wèi" calque="called"/>
     <word original="不" pinyin="bù" calque="not"/>
     <word original="道" pinyin="dào" calque="way"/>
 </line>
 
-<line commentary="A swift end awaits what opposes Dao - what natural law might this reflect?">
+<line commentary="Not following the Dao ends early">
     <word original="不" pinyin="bù" calque="not"/>
     <word original="道" pinyin="dào" calque="way"/>
     <word original="早" pinyin="zǎo" calque="early"/>

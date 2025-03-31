@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="24">
-<line commentary="Consider: what happens when we stretch beyond our natural reach?">
+<line commentary="One who stands on tiptoe cannot stand firm.">
     <word original="企" pinyin="qǐ" calque="tiptoe"/>
     <word original="者" pinyin="zhě" calque="one-who"/>
     <word original="不" pinyin="bù" calque="not"/>
     <word original="立" pinyin="lì" calque="stand"/>
 </line>
 
-<line commentary="When we try to take too large a step, might we lose our balance?">
+<line commentary="One who strides cannot walk far.">
     <word original="跨" pinyin="kuà" calque="stride"/>
     <word original="者" pinyin="zhě" calque="one-who"/>
     <word original="不" pinyin="bù" calque="not"/>
     <word original="行" pinyin="xíng" calque="walk"/>
 </line>
 
-<line commentary="How might focusing on our own vision blind us to greater truths?">
+<line commentary="One who displays himself does not shine.">
     <word original="自" pinyin="zì" calque="self"/>
     <word original="見" pinyin="jiàn" calque="see"/>
     <word original="者" pinyin="zhě" calque="one-who"/>
@@ -22,62 +22,63 @@
     <word original="明" pinyin="míng" calque="bright"/>
 </line>
 
-<line commentary="What happens to truth when we're too certain we're right?">
+<line commentary="One who asserts himself is not distinguished.">
     <word original="自" pinyin="zì" calque="self"/>
     <word original="是" pinyin="shì" calque="right"/>
     <word original="者" pinyin="zhě" calque="one-who"/>
     <word original="不" pinyin="bù" calque="not"/>
-    <word original="彰" pinyin="zhāng" calque="evident"/>
+    <word original="彰" pinyin="zhāng" calque="manifest"/>
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Can true achievement come from self-proclamation?">
+<line commentary="One who boasts of himself achieves no merit.">
     <word original="自" pinyin="zì" calque="self"/>
-    <word original="伐" pinyin="fá" calque="boast"/>
+    <word original="伐" pinyin="fà" calque="boast"/>
     <word original="者" pinyin="zhě" calque="one-who"/>
     <word original="無" pinyin="wú" calque="without"/>
     <word original="功" pinyin="gōng" calque="merit"/>
 </line>
 
-<line commentary="What limits grow from pride?">
+<line commentary="One who is proud of himself does not endure.">
     <word original="自" pinyin="zì" calque="self"/>
     <word original="矜" pinyin="jīn" calque="pride"/>
     <word original="者" pinyin="zhě" calque="one-who"/>
     <word original="不" pinyin="bù" calque="not"/>
-    <word original="長" pinyin="cháng" calque="grow"/>
+    <word original="長" pinyin="cháng" calque="endure"/>
 </line>
 
-<line commentary="How does excess relate to the natural way?">
-    <word original="其" pinyin="qí" calque="its"/>
+<line commentary="In relation to the Way, these are called:">
+    <word original="其" pinyin="qí" calque="it"/>
     <word original="在" pinyin="zài" calque="in"/>
     <word original="道" pinyin="dào" calque="way"/>
     <word original="也" pinyin="yě" calque="indeed"/>
-    <word original="(。)" pinyin="" calque="(。)" punctuation="true"/>
+    <word original="(." pinyin="" calque="(." punctuation="true"/>
 </line>
 
-<line commentary="Listen to the rhythm of excess in these characters">
-    <word original="曰" pinyin="yuē" calque="say"/>
-    <word original="餘" pinyin="yú" calque="surplus"/>
+<line commentary="Excess food and unnecessary actions.">
+    <word original="曰" pinyin="yuē" calque="called"/>
+    <word original="餘" pinyin="yú" calque="excess"/>
     <word original="食" pinyin="shí" calque="food"/>
-    <word original="贅" pinyin="zhuì" calque="excess"/>
-    <word original="行" pinyin="xíng" calque="conduct"/>
+    <word original="贅" pinyin="zhuì" calque="superfluous"/>
+    <word original="行" pinyin="xíng" calque="action"/>
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="What might nature itself reject?">
+<line commentary="Such things are despised by all creatures.">
     <word original="物" pinyin="wù" calque="things"/>
     <word original="或" pinyin="huò" calque="perhaps"/>
-    <word original="惡" pinyin="wù" calque="detest"/>
-    <word original="之" pinyin="zhī" calque="it"/>
+    <word original="惡" pinyin="wù" calque="despise"/>
+    <word original="之" pinyin="zhī" calque="them"/>
 </line>
 
-<line commentary="A final whisper about the sage's choice - where does true wisdom reside?">
-    <word original="(。)" pinyin="" calque="(。)" punctuation="true"/>
+<line commentary="Therefore, one who follows the Way does not dwell in them.">
+    <word original="(." pinyin="" calque="(." punctuation="true"/>
     <word original="故" pinyin="gù" calque="therefore"/>
     <word original="有" pinyin="yǒu" calque="have"/>
     <word original="道" pinyin="dào" calque="way"/>
     <word original="者" pinyin="zhě" calque="one-who"/>
     <word original="不" pinyin="bù" calque="not"/>
     <word original="處" pinyin="chǔ" calque="dwell"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 </chapter>

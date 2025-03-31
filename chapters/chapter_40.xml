@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="40">
-<line commentary="Consider: How might reversal be the very essence of the Dao's movement? What natural cycles exemplify this principle?">
-    <word original="反" pinyin="fǎn" calque="reverse"/>
+<line commentary="Reversal is the movement of the Way.">
+    <word original="反" pinyin="fǎn" calque="return"/>
     <word original="者" pinyin="zhě" calque="that-which"/>
     <word original="道" pinyin="dào" calque="way"/>
     <word original="之" pinyin="zhī" calque="of"/>
@@ -9,7 +9,7 @@
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Observe how 'weakness' here isn't presented as a flaw, but as the Dao's very method. What power might lie in yielding?">
+<line commentary="Weakness is the function of the Way.">
     <word original="弱" pinyin="ruò" calque="weak"/>
     <word original="者" pinyin="zhě" calque="that-which"/>
     <word original="道" pinyin="dào" calque="way"/>
@@ -18,17 +18,19 @@
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="The character 生 'birth/life' bridges heaven-and-earth with existence. What emerges from this connection?">
-    <word original="天下" pinyin="tiān-xià" calque="under-heaven"/>
-    <word original="萬物" pinyin="wàn-wù" calque="ten-thousand-things"/>
-    <word original="生" pinyin="shēng" calque="arise"/>
+<line commentary="The ten thousand things under heaven are born from being.">
+    <word original="天" pinyin="tiān" calque="heaven"/>
+    <word original="下" pinyin="xià" calque="below"/>
+    <word original="萬" pinyin="wàn" calque="ten-thousand"/>
+    <word original="物" pinyin="wù" calque="things"/>
+    <word original="生" pinyin="shēng" calque="born"/>
     <word original="於" pinyin="yú" calque="from"/>
     <word original="有" pinyin="yǒu" calque="being"/>
 </line>
 
-<line commentary="A profound paradox: existence itself emerges from non-existence. What spaces of emptiness in your life give birth to fullness?">
+<line commentary="Being is born from non-being.">
     <word original="有" pinyin="yǒu" calque="being"/>
-    <word original="生" pinyin="shēng" calque="arise"/>
+    <word original="生" pinyin="shēng" calque="born"/>
     <word original="於" pinyin="yú" calque="from"/>
     <word original="無" pinyin="wú" calque="non-being"/>
     <word original="." pinyin="" calque="." punctuation="true"/>

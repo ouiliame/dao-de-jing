@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="45">
-<line commentary="Consider: might completeness that appears complete be somehow less complete than that which appears incomplete?">
+<line commentary="Great perfection seems incomplete.">
     <word original="大" pinyin="dà" calque="great"/>
-    <word original="成" pinyin="chéng" calque="complete"/>
+    <word original="成" pinyin="chéng" calque="completion"/>
     <word original="若" pinyin="ruò" calque="like"/>
     <word original="缺" pinyin="quē" calque="lacking"/>
 </line>
 
-<line commentary="What never wears out? Perhaps that which doesn't insist on its own perfection.">
+<line commentary="Yet its use is inexhaustible.">
     <word original="其" pinyin="qí" calque="its"/>
     <word original="用" pinyin="yòng" calque="use"/>
     <word original="不" pinyin="bù" calque="not"/>
@@ -15,22 +15,21 @@
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="The vessel most full appears empty—might this suggest something about how we carry our knowledge?">
+<line commentary="Great fullness seems empty.">
     <word original="大" pinyin="dà" calque="great"/>
-    <word original="盈" pinyin="yíng" calque="full"/>
+    <word original="盈" pinyin="yíng" calque="fullness"/>
     <word original="若" pinyin="ruò" calque="like"/>
     <word original="(盅)" pinyin="zhōng" calque="(empty)"/>
 </line>
 
-<line commentary="Inexhaustible use—how might appearing empty create endless possibility?">
+<line commentary="Yet its use is endless.">
     <word original="其" pinyin="qí" calque="its"/>
     <word original="用" pinyin="yòng" calque="use"/>
     <word original="不" pinyin="bù" calque="not"/>
     <word original="窮" pinyin="qióng" calque="exhausted"/>
-    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="The straightest path sometimes bends—what might this reveal about progress?">
+<line commentary="Great straightness seems bent.">
     <word original="大" pinyin="dà" calque="great"/>
     <word original="直" pinyin="zhí" calque="straight"/>
     <word original="若" pinyin="ruò" calque="like"/>
@@ -38,39 +37,41 @@
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="When does skill become so refined it appears artless?">
+<line commentary="Great skill seems awkward.">
     <word original="大" pinyin="dà" calque="great"/>
-    <word original="巧" pinyin="qiǎo" calque="skillful"/>
+    <word original="巧" pinyin="qiǎo" calque="skilled"/>
     <word original="若" pinyin="ruò" calque="like"/>
     <word original="拙" pinyin="zhuō" calque="clumsy"/>
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="The highest eloquence may appear hesitant—what wisdom lies in measured speech?">
+<line commentary="Great eloquence seems stuttering.">
     <word original="大" pinyin="dà" calque="great"/>
-    <word original="辯" pinyin="biàn" calque="eloquent"/>
+    <word original="辯" pinyin="biàn" calque="eloquence"/>
     <word original="若" pinyin="ruò" calque="like"/>
     <word original="訥" pinyin="nè" calque="stuttering"/>
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Movement and stillness begin their dance—observe how they complement each other.">
-    <word original="躁" pinyin="zào" calque="restless"/>
+<line commentary="Movement overcomes cold.">
+    <word original="躁" pinyin="zào" calque="movement"/>
     <word original="勝" pinyin="shèng" calque="overcomes"/>
     <word original="寒" pinyin="hán" calque="cold"/>
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="In the interplay of opposites, what balance emerges?">
-    <word original="靜" pinyin="jìng" calque="still"/>
+<line commentary="Stillness overcomes heat.">
+    <word original="靜" pinyin="jìng" calque="stillness"/>
     <word original="勝" pinyin="shèng" calque="overcomes"/>
     <word original="熱" pinyin="rè" calque="heat"/>
 </line>
 
-<line commentary="Pure stillness as the world's center—what happens when we cease trying to correct everything?">
-    <word original="清靜" pinyin="qīng jìng" calque="pure-still"/>
+<line commentary="Pure tranquility becomes the way of heaven.">
+    <word original="清" pinyin="qīng" calque="pure"/>
+    <word original="靜" pinyin="jìng" calque="still"/>
     <word original="為" pinyin="wéi" calque="becomes"/>
-    <word original="天下" pinyin="tiān xià" calque="under-heaven"/>
+    <word original="天" pinyin="tiān" calque="heaven"/>
+    <word original="下" pinyin="xià" calque="below"/>
     <word original="正" pinyin="zhèng" calque="proper"/>
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>

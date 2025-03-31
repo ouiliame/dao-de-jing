@@ -1,102 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="63">
-
-<line commentary="A profound paradox: how might action arise from non-action? Consider water flowing without effort.">
-    <word original="." calque="." pinyin="." punctuation="true"/>
+<line commentary="Practice non-action.">
+    <word original="." calque="." punctuation="true"/>
     <word original="為" calque="do" pinyin="wéi"/>
     <word original="無" calque="without" pinyin="wú"/>
     <word original="為" calque="doing" pinyin="wéi"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+    <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Affairs and non-affairs—where does one end and the other begin?">
-    <word original="事" calque="manage" pinyin="shì"/>
+<line commentary="Attend to non-affairs.">
+    <word original="事" calque="handle" pinyin="shì"/>
     <word original="無" calque="without" pinyin="wú"/>
-    <word original="事" calque="managing" pinyin="shì"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+    <word original="事" calque="affairs" pinyin="shì"/>
+    <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Can one taste tastelessness? What flavor has no flavor?">
+<line commentary="Taste the tasteless.">
     <word original="味" calque="taste" pinyin="wèi"/>
     <word original="無" calque="without" pinyin="wú"/>
-    <word original="味" calque="tasting" pinyin="wèi"/>
+    <word original="味" calque="flavor" pinyin="wèi"/>
 </line>
 
-<line commentary="Four measures of comparison—how do they dance together?">
+<line commentary="Consider great and small, many and few.">
     <word original="大" calque="great" pinyin="dà"/>
     <word original="小" calque="small" pinyin="xiǎo"/>
     <word original="多" calque="many" pinyin="duō"/>
     <word original="少" calque="few" pinyin="shǎo"/>
 </line>
 
-<line commentary="What transformation occurs when resentment meets virtue?">
+<line commentary="Repay enmity with virtue.">
     <word original="報" calque="repay" pinyin="bào"/>
-    <word original="怨" calque="grievance" pinyin="yuàn"/>
+    <word original="怨" calque="enmity" pinyin="yuàn"/>
     <word original="以" calque="by-means-of" pinyin="yǐ"/>
     <word original="德" calque="virtue" pinyin="dé"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+    <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Where does difficulty reside in what seems easy?">
+<line commentary="Plan for difficulty while it is still easy.">
     <word original="圖" calque="plan" pinyin="tú"/>
     <word original="難" calque="difficult" pinyin="nán"/>
-    <word original="於" calque="in" pinyin="yú"/>
+    <word original="於" calque="at" pinyin="yú"/>
     <word original="其" calque="its" pinyin="qí"/>
     <word original="易" calque="easy" pinyin="yì"/>
 </line>
 
-<line commentary="What greatness hides within the minute?">
-    <word original="為" calque="do" pinyin="wéi"/>
+<line commentary="Act on the great while it is still small.">
+    <word original="為" calque="act" pinyin="wéi"/>
     <word original="大" calque="great" pinyin="dà"/>
-    <word original="於" calque="in" pinyin="yú"/>
+    <word original="於" calque="at" pinyin="yú"/>
     <word original="其" calque="its" pinyin="qí"/>
     <word original="細" calque="small" pinyin="xì"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+    <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="How do mighty oaks grow from tiny seeds?">
-    <word original="天" calque="heaven" pinyin="tiān"/>
-    <word original="下" calque="under" pinyin="xià"/>
+<line commentary="All difficult things in the world must arise from the easy.">
+    <word original="天下" calque="under-heaven" pinyin="tiān-xià"/>
     <word original="難" calque="difficult" pinyin="nán"/>
-    <word original="事" calque="matters" pinyin="shì"/>
+    <word original="事" calque="affairs" pinyin="shì"/>
     <word original="必" calque="must" pinyin="bì"/>
     <word original="作" calque="arise" pinyin="zuò"/>
     <word original="於" calque="from" pinyin="yú"/>
     <word original="易" calque="easy" pinyin="yì"/>
 </line>
 
-<line commentary="What vast accomplishments begin with single steps?">
-    <word original="天" calque="heaven" pinyin="tiān"/>
-    <word original="下" calque="under" pinyin="xià"/>
+<line commentary="All great things in the world must arise from the small.">
+    <word original="天下" calque="under-heaven" pinyin="tiān-xià"/>
     <word original="大" calque="great" pinyin="dà"/>
-    <word original="事" calque="matters" pinyin="shì"/>
+    <word original="事" calque="affairs" pinyin="shì"/>
     <word original="必" calque="must" pinyin="bì"/>
     <word original="作" calque="arise" pinyin="zuò"/>
     <word original="於" calque="from" pinyin="yú"/>
     <word original="細" calque="small" pinyin="xì"/>
+    <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="How does refusing greatness lead to its achievement?">
-    <word original="是" calque="this" pinyin="shì"/>
-    <word original="以" calque="therefore" pinyin="yǐ"/>
-    <word original="聖" calque="sage" pinyin="shèng"/>
-    <word original="人" calque="person" pinyin="rén"/>
+<line commentary="Therefore the sage never attempts the great.">
+    <word original="是以" calque="therefore" pinyin="shì-yǐ"/>
+    <word original="聖人" calque="sage" pinyin="shèng-rén"/>
     <word original="終" calque="end" pinyin="zhōng"/>
     <word original="不" calque="not" pinyin="bù"/>
     <word original="為" calque="do" pinyin="wéi"/>
     <word original="大" calque="great" pinyin="dà"/>
 </line>
 
-<line commentary="What paradox lies in accomplishing through non-accomplishing?">
-    <word original="(.)故" calque="(therefore)" pinyin="gù"/>
+<line commentary="And thus can accomplish the great.">
+    <word original="(.)故" calque="therefore" pinyin="gù"/>
     <word original="能" calque="can" pinyin="néng"/>
-    <word original="成" calque="complete" pinyin="chéng"/>
+    <word original="成" calque="accomplish" pinyin="chéng"/>
     <word original="其" calque="their" pinyin="qí"/>
     <word original="大" calque="greatness" pinyin="dà"/>
 </line>
 
-<line commentary="When does easy agreement breed mistrust?">
-    <word original="夫" calque="indeed" pinyin="fū"/>
+<line commentary="One who makes promises lightly surely lacks trust.">
+    <word original="夫" calque="indeed" pinyin="fú"/>
     <word original="輕" calque="light" pinyin="qīng"/>
     <word original="諾" calque="promise" pinyin="nuò"/>
     <word original="必" calque="must" pinyin="bì"/>
@@ -104,35 +100,31 @@
     <word original="信" calque="trust" pinyin="xìn"/>
 </line>
 
-<line commentary="How do simple beginnings multiply into complexity?">
-    <word original="多" calque="many" pinyin="duō"/>
+<line commentary="Much ease surely brings much difficulty.">
+    <word original="多" calque="much" pinyin="duō"/>
     <word original="易" calque="easy" pinyin="yì"/>
     <word original="必" calque="must" pinyin="bì"/>
-    <word original="多" calque="many" pinyin="duō"/>
+    <word original="多" calque="much" pinyin="duō"/>
     <word original="難" calque="difficult" pinyin="nán"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+    <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="What wisdom lies in treating easy matters as difficult?">
-    <word original="是" calque="this" pinyin="shì"/>
-    <word original="以" calque="therefore" pinyin="yǐ"/>
-    <word original="聖" calque="sage" pinyin="shèng"/>
-    <word original="人" calque="person" pinyin="rén"/>
+<line commentary="Therefore the sage considers things difficult.">
+    <word original="是以" calque="therefore" pinyin="shì-yǐ"/>
+    <word original="聖人" calque="sage" pinyin="shèng-rén"/>
     <word original="猶" calque="still" pinyin="yóu"/>
     <word original="難" calque="difficult" pinyin="nán"/>
     <word original="之" calque="it" pinyin="zhī"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+    <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="How does embracing difficulty lead to its dissolution?">
-    <word original="(.)故" calque="(therefore)" pinyin="gù"/>
+<line commentary="And therefore never encounters difficulty.">
+    <word original="(.)故" calque="therefore" pinyin="gù"/>
     <word original="終" calque="end" pinyin="zhōng"/>
     <word original="無" calque="without" pinyin="wú"/>
     <word original="難" calque="difficulty" pinyin="nán"/>
     <word original="矣" calque="indeed" pinyin="yǐ"/>
-    <word original="(." calque="(.)" pinyin="." punctuation="true"/>
-    <word original=")" calque=")" pinyin=")" punctuation="true"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+    <word original="(.)." calque="." punctuation="true"/>
+    <word original="." calque="." punctuation="true"/>
 </line>
-
 </chapter>

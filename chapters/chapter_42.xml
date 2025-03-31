@@ -1,79 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="42">
-<line commentary="From undifferentiated unity emerges the first distinction - what lies between dao and one?">
+<line commentary="The Dao gives birth to One">
     <word original="道" pinyin="dào" calque="way"/>
-    <word original="生" pinyin="shēng" calque="gives-birth-to"/>
+    <word original="生" pinyin="shēng" calque="generate"/>
     <word original="一" pinyin="yī" calque="one"/>
 </line>
 
-<line commentary="Watch how each line builds upon the previous - a cosmic unfolding in three terse breaths.">
+<line commentary="One gives birth to Two">
     <word original="一" pinyin="yī" calque="one"/>
-    <word original="生" pinyin="shēng" calque="gives-birth-to"/>
+    <word original="生" pinyin="shēng" calque="generate"/>
     <word original="二" pinyin="èr" calque="two"/>
 </line>
 
-<line commentary="The emergence of three from two opens infinite possibilities - what makes three so special?">
+<line commentary="Two gives birth to Three">
     <word original="二" pinyin="èr" calque="two"/>
-    <word original="生" pinyin="shēng" calque="gives-birth-to"/>
+    <word original="生" pinyin="shēng" calque="generate"/>
     <word original="三" pinyin="sān" calque="three"/>
 </line>
 
-<line commentary="From three springs the multiplicity of existence - notice how 萬物 captures both quantity and variety.">
+<line commentary="Three gives birth to the ten thousand things">
     <word original="三" pinyin="sān" calque="three"/>
-    <word original="生" pinyin="shēng" calque="gives-birth-to"/>
+    <word original="生" pinyin="shēng" calque="generate"/>
     <word original="萬" pinyin="wàn" calque="ten-thousand"/>
     <word original="物" pinyin="wù" calque="things"/>
 </line>
 
-<line commentary="A dance of opposites - how does carrying shadow while embracing light create wholeness?">
+<line commentary="The ten thousand things carry yin and embrace yang">
     <word original="萬" pinyin="wàn" calque="ten-thousand"/>
     <word original="物" pinyin="wù" calque="things"/>
     <word original="負" pinyin="fù" calque="carry"/>
-    <word original="陰" pinyin="yīn" calque="shadow"/>
+    <word original="陰" pinyin="yīn" calque="yin"/>
     <word original="而" pinyin="ér" calque="and"/>
     <word original="抱" pinyin="bào" calque="embrace"/>
-    <word original="陽" pinyin="yáng" calque="light"/>
+    <word original="陽" pinyin="yáng" calque="yang"/>
 </line>
 
-<line commentary="Empty space between opposites allows harmony to emerge - consider the role of emptiness in balance.">
-    <word original="沖" pinyin="chōng" calque="empty"/>
+<line commentary="Through vital energy they achieve harmony">
+    <word original="沖" pinyin="chōng" calque="vital"/>
     <word original="氣" pinyin="qì" calque="energy"/>
     <word original="以" pinyin="yǐ" calque="by-means-of"/>
     <word original="為" pinyin="wéi" calque="become"/>
     <word original="和" pinyin="hé" calque="harmony"/>
 </line>
 
-<line commentary="What humans despise may hold hidden wisdom - why do we fear certain states of being?">
+<line commentary="What people detest">
     <word original="人" pinyin="rén" calque="people"/>
     <word original="之" pinyin="zhī" calque="of"/>
     <word original="所" pinyin="suǒ" calque="that-which"/>
-    <word original="惡" pinyin="wù" calque="hate"/>
+    <word original="惡" pinyin="wù" calque="detest"/>
 </line>
 
-<line commentary="These three states - alone, lacking, without grain - what makes them so threatening to human comfort?">
+<line commentary="Is being orphaned, widowed, and resourceless">
     <word original="唯" pinyin="wéi" calque="only"/>
-    <word original="孤" pinyin="gū" calque="alone"/>
-    <word original="寡" pinyin="guǎ" calque="lacking"/>
+    <word original="孤" pinyin="gū" calque="orphaned"/>
+    <word original="寡" pinyin="guǎ" calque="widowed"/>
     <word original="不" pinyin="bù" calque="not"/>
     <word original="穀" pinyin="gǔ" calque="grain"/>
 </line>
 
-<line commentary="Yet rulers claim these very titles - what paradox lies in embracing what others fear?">
+<line commentary="Yet kings and dukes use these as their titles">
     <word original="而" pinyin="ér" calque="yet"/>
     <word original="王" pinyin="wáng" calque="king"/>
     <word original="公" pinyin="gōng" calque="duke"/>
     <word original="以" pinyin="yǐ" calque="by-means-of"/>
-    <word original="(自)" pinyin="zì" calque="(self)"/>
+    <word original="(自)" pinyin="zì" calque="self"/>
     <word original="稱" pinyin="chēng" calque="call"/>
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="The natural way of things reveals itself in cycles of loss and gain.">
-    <word original="(.)故" pinyin="gù" calque="(.)therefore"/>
+<line commentary="Therefore, things">
+    <word original="(.)故" pinyin="gù" calque="therefore"/>
     <word original="物" pinyin="wù" calque="things"/>
 </line>
 
-<line commentary="Consider how loss might lead to gain - what examples exist in nature?">
+<line commentary="Sometimes through loss there is gain">
     <word original="或" pinyin="huò" calque="perhaps"/>
     <word original="損" pinyin="sǔn" calque="decrease"/>
     <word original="之" pinyin="zhī" calque="it"/>
@@ -81,7 +81,7 @@
     <word original="益" pinyin="yì" calque="increase"/>
 </line>
 
-<line commentary="The opposite also holds true - when might abundance lead to poverty?">
+<line commentary="Sometimes through gain there is loss">
     <word original="或" pinyin="huò" calque="perhaps"/>
     <word original="益" pinyin="yì" calque="increase"/>
     <word original="之" pinyin="zhī" calque="it"/>
@@ -89,7 +89,7 @@
     <word original="損" pinyin="sǔn" calque="decrease"/>
 </line>
 
-<line commentary="A humble approach to teaching - what wisdom lies in learning from what others teach?">
+<line commentary="What others teach, I also teach">
     <word original="人" pinyin="rén" calque="people"/>
     <word original="之" pinyin="zhī" calque="of"/>
     <word original="所" pinyin="suǒ" calque="that-which"/>
@@ -100,9 +100,9 @@
     <word original="之" pinyin="zhī" calque="it"/>
 </line>
 
-<line commentary="Those who force their way meet unnatural ends - what fate awaits those who oppose natural flow?">
+<line commentary="The forceful and unyielding do not meet their natural end">
     <word original="強" pinyin="qiáng" calque="strong"/>
-    <word original="梁" pinyin="liáng" calque="beam"/>
+    <word original="梁" pinyin="liáng" calque="unyielding"/>
     <word original="者" pinyin="zhě" calque="one-who"/>
     <word original="不" pinyin="bù" calque="not"/>
     <word original="得" pinyin="dé" calque="obtain"/>
@@ -110,7 +110,7 @@
     <word original="死" pinyin="sǐ" calque="death"/>
 </line>
 
-<line commentary="A profound statement about the source of teaching - what makes this an appropriate conclusion?">
+<line commentary="I will take this as the father of my teaching">
     <word original="吾" pinyin="wú" calque="I"/>
     <word original="將" pinyin="jiāng" calque="will"/>
     <word original="以" pinyin="yǐ" calque="by-means-of"/>

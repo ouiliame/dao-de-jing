@@ -1,13 +1,17 @@
-// Book cover template for a 6" x 9" paperback with 0.645" spine
-// Dimensions in mm: 152.40mm x 228.60mm with 16.38mm spine
-// Overall dimensions: 327.53mm x 234.95mm (12.895" x 9.250")
+// Book cover template for paperback or hardcover
+// Paperback dimensions: 6" x 9" with 0.645" spine (152.40mm x 228.60mm with 16.38mm spine)
+// Hardcover dimensions: 14.345" x 10.417" (364.36mm x 264.59mm)
 // Paper: Cream, 258 pages, Black & White
 
 #import "utils.typ": *
 
+// Cover type selection (change to "hardcover" or "paperback")
+#let cover-type = "hardcover"
+
+// Dimensions based on cover type
 #let spine-width = 16.38mm
-#let book-width = 152.40mm
-#let book-height = 228.60mm
+#let book-width = if cover-type == "hardcover" { 364.36mm / 2 - spine-width / 2 } else { 152.40mm }
+#let book-height = if cover-type == "hardcover" { 264.59mm } else { 228.60mm }
 #let cover-width = book-width * 2 + spine-width
 #let cover-height = book-height
 #let bleed = 3mm
@@ -34,7 +38,7 @@
         width: book-width,
         height: book-height,
         fill: white,
-        stroke: (paint: black, thickness: 0.5pt, dash: "dotted"),
+        stroke: (paint: black, thickness: 0.0pt, dash: "dotted"),
         [
           #pad(x: 1.5cm, y: 2cm)[
             #align(center)[
@@ -76,7 +80,7 @@
         width: spine-width,
         height: book-height,
         fill: white,
-        stroke: (paint: black, thickness: 0.5pt, dash: "dotted"),
+        stroke: (paint: black, thickness: 0.0pt, dash: "dotted"),
         [
           #align(horizon)[
             #rotate(
@@ -99,7 +103,7 @@
         width: book-width,
         height: book-height,
         fill: white,
-        stroke: (paint: black, thickness: 0.5pt, dash: "dotted"),
+        stroke: (paint: black, thickness: 0.0pt, dash: "dotted"),
         [
           #align(center + horizon)[
             #stack(
@@ -115,25 +119,25 @@
     )
     
     // Trim guides at corners (optional)
-    #place(
-      top + left,
-      dx: bleed,
-      dy: bleed,
-      line(
-        start: (0pt, 0pt),
-        end: (5mm, 0pt),
-        stroke: (paint: rgb("#999999"), thickness: 0.25pt)
-      )
-    )
-    #place(
-      top + left,
-      dx: bleed,
-      dy: bleed,
-      line(
-        start: (0pt, 0pt),
-        end: (0pt, 5mm),
-        stroke: (paint: rgb("#999999"), thickness: 0.25pt)
-      )
-    )
+    // #place(
+    //   top + left,
+    //   dx: bleed,
+    //   dy: bleed,
+    //   line(
+    //     start: (0pt, 0pt),
+    //     end: (5mm, 0pt),
+    //     stroke: (paint: rgb("#999999"), thickness: 0.25pt)
+    //   )
+    // )
+    // #place(
+    //   top + left,
+    //   dx: bleed,
+    //   dy: bleed,
+    //   line(
+    //     start: (0pt, 0pt),
+    //     end: (0pt, 5mm),
+    //     stroke: (paint: rgb("#999999"), thickness: 0.25pt)
+    //   )
+    // )
   ]
 )

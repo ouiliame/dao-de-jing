@@ -1,72 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="46">
-<line commentary="Consider how the presence or absence of the Way manifests in how a society uses its resources.">
-    <word original="天下" pinyin="tiān-xià" calque="under-heaven"/>
-    <word original="有" pinyin="yǒu" calque="have"/>
-    <word original="道" pinyin="dào" calque="way"/>
+<line commentary="When the Way prevails in the world,">
+    <word original="天" calque="heaven" pinyin="tiān"/>
+    <word original="下" calque="below" pinyin="xià"/>
+    <word original="有" calque="have" pinyin="yǒu"/>
+    <word original="道" calque="way" pinyin="dào"/>
 </line>
 
-<line commentary="When peace reigns, even war horses return to simple agricultural purposes. What wisdom lies in this transformation?">
-    <word original="卻" pinyin="què" calque="withdraw"/>
-    <word original="走" pinyin="zǒu" calque="running"/>
-    <word original="馬" pinyin="mǎ" calque="horse"/>
-    <word original="以" pinyin="yǐ" calque="by-means-of"/>
-    <word original="糞" pinyin="fèn" calque="manure"/>
+<line commentary="Retiring horses are used for fertilizing fields.">
+    <word original="卻" calque="retire" pinyin="què"/>
+    <word original="走" calque="running" pinyin="zǒu"/>
+    <word original="馬" calque="horse" pinyin="mǎ"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="糞" calque="manure" pinyin="fèn"/>
 </line>
 
-<line commentary="A simple statement that reveals a profound shift in society's foundation.">
-    <word original="天下" pinyin="tiān-xià" calque="under-heaven"/>
-    <word original="無" pinyin="wú" calque="without"/>
-    <word original="道" pinyin="dào" calque="way"/>
+<line commentary="When the Way is absent from the world,">
+    <word original="天" calque="heaven" pinyin="tiān"/>
+    <word original="下" calque="below" pinyin="xià"/>
+    <word original="無" calque="not-have" pinyin="wú"/>
+    <word original="道" calque="way" pinyin="dào"/>
 </line>
 
-<line commentary="Where do we breed our horses? For what purpose? The location speaks volumes about a society's priorities.">
-    <word original="戎" pinyin="róng" calque="military"/>
-    <word original="馬" pinyin="mǎ" calque="horse"/>
-    <word original="生" pinyin="shēng" calque="born"/>
-    <word original="於" pinyin="yú" calque="at"/>
-    <word original="郊" pinyin="jiāo" calque="outskirts"/>
-    <word original="." pinyin="" calque="." punctuation="true"/>
+<line commentary="War horses breed in the suburbs.">
+    <word original="戎" calque="war" pinyin="róng"/>
+    <word original="馬" calque="horse" pinyin="mǎ"/>
+    <word original="生" calque="born" pinyin="shēng"/>
+    <word original="於" calque="at" pinyin="yú"/>
+    <word original="郊" calque="outskirts" pinyin="jiāo"/>
+    <word original="." calque="." pinyin="" punctuation="true"/>
 </line>
 
-<line commentary="What makes desire 'possible'? A subtle warning wrapped in paradox.">
-    <word original="(罪" pinyin="zuì" calque="(crime"/>
-    <word original="莫" pinyin="mò" calque="none"/>
-    <word original="大" pinyin="dà" calque="greater"/>
-    <word original="於" pinyin="yú" calque="than"/>
-    <word original="可" pinyin="kě" calque="possible"/>
-    <word original="欲)" pinyin="yù" calque="desire)"/>
+<line commentary="No crime is greater than yielding to desire.">
+    <word original="(罪" calque="(crime" pinyin="zuì"/>
+    <word original="莫" calque="none" pinyin="mò"/>
+    <word original="大" calque="greater" pinyin="dà"/>
+    <word original="於" calque="than" pinyin="yú"/>
+    <word original="可" calque="permissible" pinyin="kě"/>
+    <word original="欲" calque="desire" pinyin="yù"/>
+    <word original=")" calque=")" pinyin="" punctuation="true"/>
 </line>
 
-<line commentary="Between knowledge and satisfaction lies a vast territory of potential misfortune.">
-    <word original="禍" pinyin="huò" calque="disaster"/>
-    <word original="莫" pinyin="mò" calque="none"/>
-    <word original="大" pinyin="dà" calque="greater"/>
-    <word original="於" pinyin="yú" calque="than"/>
-    <word original="不" pinyin="bù" calque="not"/>
-    <word original="知" pinyin="zhī" calque="know"/>
-    <word original="足" pinyin="zú" calque="enough"/>
+<line commentary="No disaster is greater than not knowing contentment.">
+    <word original="禍" calque="disaster" pinyin="huò"/>
+    <word original="莫" calque="none" pinyin="mò"/>
+    <word original="大" calque="greater" pinyin="dà"/>
+    <word original="於" calque="than" pinyin="yú"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="知" calque="know" pinyin="zhī"/>
+    <word original="足" calque="enough" pinyin="zú"/>
 </line>
 
-<line commentary="The verb 'obtain' transforms desire into action - when does seeking become grasping?">
-    <word original="咎" pinyin="jiù" calque="blame"/>
-    <word original="莫" pinyin="mò" calque="none"/>
-    <word original="大" pinyin="dà" calque="greater"/>
-    <word original="於" pinyin="yú" calque="than"/>
-    <word original="欲" pinyin="yù" calque="desire"/>
-    <word original="得" pinyin="dé" calque="obtain"/>
+<line commentary="No fault is greater than wanting to acquire more.">
+    <word original="咎" calque="fault" pinyin="jiù"/>
+    <word original="莫" calque="none" pinyin="mò"/>
+    <word original="大" calque="greater" pinyin="dà"/>
+    <word original="於" calque="than" pinyin="yú"/>
+    <word original="欲" calque="desire" pinyin="yù"/>
+    <word original="得" calque="obtain" pinyin="dé"/>
 </line>
 
-<line commentary="A play on words with 足 (enough) - how does knowing contentment lead to lasting satisfaction? Notice the cosmic 矣 marking a profound truth.">
-    <word original="(.)故" pinyin="gù" calque="(.)therefore"/>
-    <word original="知" pinyin="zhī" calque="know"/>
-    <word original="足" pinyin="zú" calque="enough"/>
-    <word original="之" pinyin="zhī" calque="of"/>
-    <word original="足" pinyin="zú" calque="enough"/>
-    <word original="常" pinyin="cháng" calque="constant"/>
-    <word original="足" pinyin="zú" calque="enough"/>
-    <word original="矣" pinyin="yǐ" calque="indeed"/>
-    <word original="(.)" pinyin="" calque="(.)" punctuation="true"/>
-    <word original="." pinyin="" calque="." punctuation="true"/>
+<line commentary="Therefore, knowing contentment's contentment is eternal contentment.">
+    <word original="(.)故" calque="therefore" pinyin="gù"/>
+    <word original="知" calque="know" pinyin="zhī"/>
+    <word original="足" calque="enough" pinyin="zú"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="足" calque="enough" pinyin="zú"/>
+    <word original="常" calque="constant" pinyin="cháng"/>
+    <word original="足" calque="enough" pinyin="zú"/>
+    <word original="矣" calque="indeed" pinyin="yǐ"/>
+    <word original="(.)" calque="(.)" pinyin="" punctuation="true"/>
+    <word original="." calque="." pinyin="" punctuation="true"/>
 </line>
 </chapter>

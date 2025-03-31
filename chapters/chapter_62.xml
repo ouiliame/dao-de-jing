@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="62">
-<line commentary="Consider: how can something be both mysterious and universally accessible? What makes the Dao the deepest aspect of all things?">
+<line commentary="The Dao is the mysterious source of all things.">
     <word original="道" pinyin="dào" calque="way"/>
     <word original="者" pinyin="zhě" calque="that-which"/>
     <word original="萬" pinyin="wàn" calque="ten-thousand"/>
     <word original="物" pinyin="wù" calque="things"/>
     <word original="之" pinyin="zhī" calque="of"/>
-    <word original="奧" pinyin="ào" calque="mysterious-depth"/>
+    <word original="奧" pinyin="àó" calque="mystery"/>
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="A treasure that cannot be possessed - what kind of wealth might this suggest?">
+<line commentary="It is the treasure of the virtuous person.">
     <word original="善" pinyin="shàn" calque="good"/>
     <word original="人" pinyin="rén" calque="person"/>
     <word original="之" pinyin="zhī" calque="of"/>
@@ -18,7 +18,7 @@
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="How can the same thing serve as protection for those deemed 'not good'? What does this reveal about the nature of Dao?">
+<line commentary="It is what protects those who are not virtuous.">
     <word original="不" pinyin="bù" calque="not"/>
     <word original="善" pinyin="shàn" calque="good"/>
     <word original="人" pinyin="rén" calque="person"/>
@@ -28,7 +28,7 @@
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Beautiful words as currency - what might this metaphor suggest about the relationship between speech and value?">
+<line commentary="Beautiful words can be traded in the marketplace.">
     <word original="美" pinyin="měi" calque="beautiful"/>
     <word original="言" pinyin="yán" calque="words"/>
     <word original="可" pinyin="kě" calque="can"/>
@@ -37,16 +37,16 @@
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="What does it mean to 'add to' someone through noble conduct?">
+<line commentary="Noble conduct can earn respect from others.">
     <word original="尊" pinyin="zūn" calque="honorable"/>
     <word original="行" pinyin="xíng" calque="conduct"/>
     <word original="可" pinyin="kě" calque="can"/>
     <word original="以" pinyin="yǐ" calque="by-means-of"/>
-    <word original="加" pinyin="jiā" calque="add"/>
+    <word original="加" pinyin="jiā" calque="add-to"/>
     <word original="人" pinyin="rén" calque="person"/>
 </line>
 
-<line commentary="A statement or a question about human nature?">
+<line commentary="When people are not good,">
     <word original="人" pinyin="rén" calque="person"/>
     <word original="之" pinyin="zhī" calque="of"/>
     <word original="不" pinyin="bù" calque="not"/>
@@ -54,40 +54,38 @@
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="A rhetorical question that challenges our impulse to reject or abandon - what might this suggest about inclusion?">
-    <word original="何" pinyin="hé" calque="why"/>
+<line commentary="How can they be abandoned?">
+    <word original="何" pinyin="hé" calque="how"/>
     <word original="棄" pinyin="qì" calque="abandon"/>
     <word original="之" pinyin="zhī" calque="them"/>
     <word original="有" pinyin="yǒu" calque="have"/>
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Notice how earthly authority follows from, rather than precedes, this principle">
+<line commentary="Therefore, when establishing the Son of Heaven">
     <word original="(.)故" pinyin="gù" calque="therefore"/>
     <word original="立" pinyin="lì" calque="establish"/>
     <word original="天" pinyin="tiān" calque="heaven"/>
     <word original="子" pinyin="zǐ" calque="son"/>
 </line>
 
-<line commentary="The highest offices of state - but what ranks above them?">
+<line commentary="And installing the Three Ministers,">
     <word original="置" pinyin="zhì" calque="install"/>
     <word original="三" pinyin="sān" calque="three"/>
-    <word original="公" pinyin="gōng" calque="dukes"/>
+    <word original="公" pinyin="gōng" calque="ministers"/>
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Precious jade and fine horses - symbols of material wealth set against something greater">
+<line commentary="Though one might present jade discs and four-horse teams,">
     <word original="雖" pinyin="suī" calque="although"/>
     <word original="有" pinyin="yǒu" calque="have"/>
-    <word original="拱" pinyin="gǒng" calque="ceremonial"/>
-    <word original="璧" pinyin="bì" calque="jade-disc"/>
+    <word original="拱璧" pinyin="gǒngbì" calque="jade-disc"/>
     <word original="以" pinyin="yǐ" calque="by-means-of"/>
-    <word original="先" pinyin="xiān" calque="precede"/>
-    <word original="駟" pinyin="sì" calque="four-horse"/>
-    <word original="馬" pinyin="mǎ" calque="horse"/>
+    <word original="先" pinyin="xiān" calque="advance"/>
+    <word original="駟馬" pinyin="sìmǎ" calque="four-horses"/>
 </line>
 
-<line commentary="The contrast between motion (riding) and stillness (sitting) - which truly advances?">
+<line commentary="It is not as good as sitting and offering this Dao.">
     <word original="不" pinyin="bù" calque="not"/>
     <word original="如" pinyin="rú" calque="like"/>
     <word original="坐" pinyin="zuò" calque="sit"/>
@@ -97,11 +95,10 @@
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="An ancient question that echoes through time - why was this way so precious to those who came before?">
+<line commentary="Why did the ancients treasure this Dao?">
     <word original="古" pinyin="gǔ" calque="ancient"/>
     <word original="之" pinyin="zhī" calque="of"/>
-    <word original="所" pinyin="suǒ" calque="that-which"/>
-    <word original="以" pinyin="yǐ" calque="by-means-of"/>
+    <word original="所以" pinyin="suǒyǐ" calque="reason-why"/>
     <word original="貴" pinyin="guì" calque="value"/>
     <word original="此" pinyin="cǐ" calque="this"/>
     <word original="道" pinyin="dào" calque="way"/>
@@ -110,28 +107,31 @@
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="The power of the unsaid - what wisdom lies in this negation?">
+<line commentary="Did they not say:">
     <word original="不" pinyin="bù" calque="not"/>
     <word original="曰" pinyin="yuē" calque="say"/>
 </line>
 
-<line commentary="Consider how seeking leads to finding, and guilt to freedom - what transformation is suggested?">
+<line commentary="Through it one can obtain what one seeks">
     <word original="以" pinyin="yǐ" calque="by-means-of"/>
     <word original="求" pinyin="qiú" calque="seek"/>
     <word original="得" pinyin="dé" calque="obtain"/>
+</line>
+
+<line commentary="And the guilty can escape punishment?">
     <word original="有" pinyin="yǒu" calque="have"/>
     <word original="罪" pinyin="zuì" calque="guilt"/>
     <word original="以" pinyin="yǐ" calque="by-means-of"/>
     <word original="免" pinyin="miǎn" calque="avoid"/>
-    <word original="邪" pinyin="xié" calque="evil"/>
-    <word original="(.)" pinyin="" calque="(.)" punctuation="true"/>
+    <word original="邪" pinyin="xié" calque="wrong"/>
+    <word original="(." pinyin="" calque="(." punctuation="true"/>
 </line>
 
-<line commentary="A final paradox: that which is most precious to all under heaven comes not from seeking value, but from being valuable">
+<line commentary="Therefore it is valued by all under heaven.">
     <word original="(.)故" pinyin="gù" calque="therefore"/>
     <word original="為" pinyin="wéi" calque="become"/>
     <word original="天" pinyin="tiān" calque="heaven"/>
-    <word original="下" pinyin="xià" calque="below"/>
-    <word original="貴" pinyin="guì" calque="precious"/>
+    <word original="下" pinyin="xià" calque="under"/>
+    <word original="貴" pinyin="guì" calque="valuable"/>
 </line>
 </chapter>

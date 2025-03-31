@@ -1,93 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="69">
-<line commentary="An opening that echoes ancient military texts - but what unconventional wisdom might follow?">
-    <word original="." calque="." pinyin="." punctuation="true"/>
-    <word original="用兵" calque="use-troops" pinyin="yòng bīng"/>
-    <word original="有" calque="have" pinyin="yǒu"/>
-    <word original="言" calque="saying" pinyin="yán"/>
+<line commentary="In military affairs, there is a saying:">
+    <word original="." calque="." punctuation="true"/>
+    <word original="用兵" pinyin="yòng bīng" calque="use-military"/>
+    <word original="有" pinyin="yǒu" calque="have"/>
+    <word original="言" pinyin="yán" calque="saying"/>
 </line>
 
-<line commentary="A subtle shift in perspective - what power might lie in choosing the guest's position rather than the host's?">
-    <word original="吾" calque="I" pinyin="wú"/>
-    <word original="不" calque="not" pinyin="bù"/>
-    <word original="敢" calque="dare" pinyin="gǎn"/>
-    <word original="為" calque="act-as" pinyin="wéi"/>
-    <word original="主" calque="host" pinyin="zhǔ"/>
-    <word original="而" calque="but" pinyin="ér"/>
-    <word original="為" calque="act-as" pinyin="wéi"/>
-    <word original="客" calque="guest" pinyin="kè"/>
+<line commentary="I dare not be the host, but rather be the guest.">
+    <word original="吾" pinyin="wú" calque="I"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="敢" pinyin="gǎn" calque="dare"/>
+    <word original="為" pinyin="wéi" calque="act-as"/>
+    <word original="主" pinyin="zhǔ" calque="host"/>
+    <word original="而" pinyin="ér" calque="but"/>
+    <word original="為" pinyin="wéi" calque="act-as"/>
+    <word original="客" pinyin="kè" calque="guest"/>
 </line>
 
-<line commentary="Spatial metaphors reveal strategic wisdom - what virtue lies in yielding a foot rather than advancing an inch?">
-    <word original="不" calque="not" pinyin="bù"/>
-    <word original="敢" calque="dare" pinyin="gǎn"/>
-    <word original="進" calque="advance" pinyin="jìn"/>
-    <word original="寸" calque="inch" pinyin="cùn"/>
-    <word original="而" calque="but" pinyin="ér"/>
-    <word original="退" calque="retreat" pinyin="tuì"/>
-    <word original="尺" calque="foot" pinyin="chǐ"/>
+<line commentary="I dare not advance an inch, but retreat a foot.">
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="敢" pinyin="gǎn" calque="dare"/>
+    <word original="進" pinyin="jìn" calque="advance"/>
+    <word original="寸" pinyin="cùn" calque="inch"/>
+    <word original="而" pinyin="ér" calque="but"/>
+    <word original="退" pinyin="tuì" calque="retreat"/>
+    <word original="尺" pinyin="chǐ" calque="foot"/>
 </line>
 
-<line commentary="A paradox emerges - how might one march without marching?">
-    <word original="是" calque="this" pinyin="shì"/>
-    <word original="謂" calque="called" pinyin="wèi"/>
-    <word original="行" calque="march" pinyin="xíng"/>
-    <word original="無" calque="without" pinyin="wú"/>
-    <word original="行" calque="marching" pinyin="xíng"/>
+<line commentary="This is called marching without marching.">
+    <word original="是" pinyin="shì" calque="this"/>
+    <word original="謂" pinyin="wèi" calque="called"/>
+    <word original="行" pinyin="xíng" calque="march"/>
+    <word original="無" pinyin="wú" calque="without"/>
+    <word original="行" pinyin="xíng" calque="marching"/>
 </line>
 
-<line commentary="The paradoxes deepen - consider how emptiness might become a form of strength.">
-    <word original="攘" calque="ward-off" pinyin="rǎng"/>
-    <word original="無" calque="without" pinyin="wú"/>
-    <word original="臂" calque="arms" pinyin="bì"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+<line commentary="Rolling up sleeves without arms.">
+    <word original="攘" pinyin="rǎng" calque="roll-up"/>
+    <word original="無" pinyin="wú" calque="without"/>
+    <word original="臂" pinyin="bì" calque="arms"/>
+    <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="How might one face an enemy by not seeing them as an enemy?">
-    <word original="扔" calque="hold" pinyin="rēng"/>
-    <word original="無" calque="without" pinyin="wú"/>
-    <word original="敵" calque="enemy" pinyin="dí"/>
+<line commentary="Grasping without weapons.">
+    <word original="扔" pinyin="rēng" calque="grasp"/>
+    <word original="無" pinyin="wú" calque="without"/>
+    <word original="敵" pinyin="dí" calque="enemy"/>
 </line>
 
-<line commentary="The paradox reaches its peak - wielding weapons by not wielding them.">
-    <word original="執" calque="grasp" pinyin="zhí"/>
-    <word original="無" calque="without" pinyin="wú"/>
-    <word original="兵" calque="weapons" pinyin="bīng"/>
+<line commentary="Confronting without troops.">
+    <word original="執" pinyin="zhí" calque="hold"/>
+    <word original="無" pinyin="wú" calque="without"/>
+    <word original="兵" pinyin="bīng" calque="troops"/>
 </line>
 
-<line commentary="A stark warning emerges from the string of paradoxes - what makes underestimation so dangerous?">
-    <word original="禍" calque="disaster" pinyin="huò"/>
-    <word original="莫" calque="none" pinyin="mò"/>
-    <word original="大" calque="greater" pinyin="dà"/>
-    <word original="於" calque="than" pinyin="yú"/>
-    <word original="輕" calque="treat-lightly" pinyin="qīng"/>
-    <word original="敵" calque="enemy" pinyin="dí"/>
+<line commentary="No disaster is greater than underestimating the enemy.">
+    <word original="禍" pinyin="huò" calque="disaster"/>
+    <word original="莫" pinyin="mò" calque="none"/>
+    <word original="大" pinyin="dà" calque="greater"/>
+    <word original="於" pinyin="yú" calque="than"/>
+    <word original="輕" pinyin="qīng" calque="treat-lightly"/>
+    <word original="敵" pinyin="dí" calque="enemy"/>
 </line>
 
-<line commentary="What treasure might be lost through underestimation? Consider the multiple meanings of 寶.">
-    <word original="輕" calque="treat-lightly" pinyin="qīng"/>
-    <word original="敵" calque="enemy" pinyin="dí"/>
-    <word original="幾" calque="almost" pinyin="jī"/>
-    <word original="喪" calque="lose" pinyin="sàng"/>
-    <word original="吾" calque="my" pinyin="wú"/>
-    <word original="寶" calque="treasure" pinyin="bǎo"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+<line commentary="Underestimating the enemy nearly loses my treasure.">
+    <word original="輕" pinyin="qīng" calque="treat-lightly"/>
+    <word original="敵" pinyin="dí" calque="enemy"/>
+    <word original="幾" pinyin="jī" calque="nearly"/>
+    <word original="喪" pinyin="sàng" calque="lose"/>
+    <word original="吾" pinyin="wú" calque="my"/>
+    <word original="寶" pinyin="bǎo" calque="treasure"/>
+    <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Notice how 故 bridges to the conclusion - what universal principle is being revealed?">
-    <word original="(.)故" calque="(therefore)" pinyin="gù"/>
-    <word original="抗" calque="oppose" pinyin="kàng"/>
-    <word original="兵" calque="armies" pinyin="bīng"/>
-    <word original="相" calque="mutually" pinyin="xiāng"/>
-    <word original="(若)" calque="(meet)" pinyin="ruò"/>
+<line commentary="Therefore when armies oppose each other,">
+    <word original="(故)" pinyin="gù" calque="therefore"/>
+    <word original="抗" pinyin="kàng" calque="oppose"/>
+    <word original="兵" pinyin="bīng" calque="armies"/>
+    <word original="相" pinyin="xiāng" calque="mutually"/>
+    <word original="(若)" pinyin="ruò" calque="(like)"/>
 </line>
 
-<line commentary="The final paradox - how might grief lead to victory?">
-    <word original="[則]" calque="[then]" pinyin="zé"/>
-    <word original="哀" calque="grieving" pinyin="āi"/>
-    <word original="者" calque="one" pinyin="zhě"/>
-    <word original="勝" calque="prevail" pinyin="shèng"/>
-    <word original="矣" calque="indeed" pinyin="yǐ"/>
-    <word original="(.)" calque="(.)" pinyin="." punctuation="true"/>
+<line commentary="The sorrowful one will be victorious.">
+    <word original="[則]" pinyin="zé" calque="[then]"/>
+    <word original="哀" pinyin="āi" calque="sorrowful"/>
+    <word original="者" pinyin="zhě" calque="one"/>
+    <word original="勝" pinyin="shèng" calque="victory"/>
+    <word original="矣" pinyin="yǐ" calque="indeed"/>
+    <word original="(.)" calque="(.)" punctuation="true"/>
 </line>
 </chapter>

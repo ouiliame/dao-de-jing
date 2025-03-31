@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="5">
-<line commentary="Consider: What does it mean to be 'not benevolent' yet sustain all life? Perhaps a deeper form of impartiality?">
+<line commentary="Heaven and Earth are not humane">
     <word original="天" pinyin="tiān" calque="heaven"/>
     <word original="地" pinyin="dì" calque="earth"/>
     <word original="不" pinyin="bù" calque="not"/>
     <word original="仁" pinyin="rén" calque="benevolent"/>
 </line>
 
-<line commentary="Straw dogs: ceremonial objects treated as precious during rituals, discarded after. What does this reveal about attachment?">
+<line commentary="They treat the ten thousand things as straw dogs">
     <word original="以" pinyin="yǐ" calque="by-means-of"/>
     <word original="萬" pinyin="wàn" calque="ten-thousand"/>
     <word original="物" pinyin="wù" calque="things"/>
     <word original="為" pinyin="wéi" calque="make"/>
-    <word original="芻" pinyin="chú" calque="straw"/>
-    <word original="狗" pinyin="gǒu" calque="dog"/>
+    <word original="芻狗" pinyin="chú gǒu" calque="straw-dogs"/>
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="The sage mirrors heaven and earth—what might this impartiality look like in human action?">
+<line commentary="The sage is not humane">
     <word original="聖" pinyin="shèng" calque="sage"/>
     <word original="人" pinyin="rén" calque="person"/>
     <word original="不" pinyin="bù" calque="not"/>
@@ -25,54 +24,52 @@
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="A parallel to the first treatment—how might viewing people as straw dogs be the highest form of respect?">
+<line commentary="And treats the hundred families as straw dogs">
     <word original="以" pinyin="yǐ" calque="by-means-of"/>
     <word original="百" pinyin="bǎi" calque="hundred"/>
     <word original="姓" pinyin="xìng" calque="surnames"/>
     <word original="為" pinyin="wéi" calque="make"/>
-    <word original="芻" pinyin="chú" calque="straw"/>
-    <word original="狗" pinyin="gǒu" calque="dog"/>
+    <word original="芻狗" pinyin="chú gǒu" calque="straw-dogs"/>
 </line>
 
-<line commentary="The space between heaven and earth—what dwells in this interval?">
+<line commentary="Between Heaven and Earth">
     <word original="天" pinyin="tiān" calque="heaven"/>
     <word original="地" pinyin="dì" calque="earth"/>
     <word original="之" pinyin="zhī" calque="of"/>
     <word original="間" pinyin="jiān" calque="between"/>
 </line>
 
-<line commentary="Bellows: empty yet inexhaustible. What power lies in emptiness?">
-    <word original="其" pinyin="qí" calque="it"/>
+<line commentary="Is it not like a bellows?">
+    <word original="其" pinyin="qí" calque="its"/>
     <word original="猶" pinyin="yóu" calque="like"/>
-    <word original="橐" pinyin="tuó" calque="bellows"/>
-    <word original="籥" pinyin="yuè" calque="pipe"/>
-    <word original="乎" pinyin="hū" calque="indeed"/>
+    <word original="橐籥" pinyin="tuó yuè" calque="bellows"/>
+    <word original="乎" pinyin="hū" calque="question"/>
     <word original="(.)" pinyin="" calque="(.)" punctuation="true"/>
 </line>
 
-<line commentary="Empty yet unyielding—a paradox of strength through emptiness?">
+<line commentary="Empty yet inexhaustible">
     <word original="虛" pinyin="xū" calque="empty"/>
     <word original="而" pinyin="ér" calque="yet"/>
     <word original="不" pinyin="bù" calque="not"/>
     <word original="屈" pinyin="qū" calque="bend"/>
 </line>
 
-<line commentary="Movement generates more—how does emptiness enable endless creation?">
+<line commentary="Moving, it yields more and more">
     <word original="動" pinyin="dòng" calque="move"/>
     <word original="而" pinyin="ér" calque="yet"/>
     <word original="愈" pinyin="yù" calque="more"/>
-    <word original="出" pinyin="chū" calque="come-forth"/>
+    <word original="出" pinyin="chū" calque="produce"/>
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Many words exhaust their limit—when does speech become empty?">
-    <word original="多" pinyin="duō" calque="many"/>
-    <word original="言" pinyin="yán" calque="words"/>
-    <word original="數" pinyin="shù" calque="count"/>
+<line commentary="Much talk leads to swift exhaustion">
+    <word original="多" pinyin="duō" calque="much"/>
+    <word original="言" pinyin="yán" calque="speech"/>
+    <word original="數" pinyin="shuò" calque="count"/>
     <word original="窮" pinyin="qióng" calque="exhaust"/>
 </line>
 
-<line commentary="The center holds what the periphery cannot contain—what wisdom lies in stillness?">
+<line commentary="Better to maintain the center">
     <word original="不" pinyin="bù" calque="not"/>
     <word original="如" pinyin="rú" calque="like"/>
     <word original="守" pinyin="shǒu" calque="keep"/>

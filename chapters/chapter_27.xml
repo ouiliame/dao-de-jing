@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="27">
-<line commentary="Consider: what makes an action truly perfect? Perhaps it's when no trace remains to show effort was ever made.">
-    <word original="善" pinyin="shàn" calque="skilled"/>
-    <word original="行" pinyin="xíng" calque="walking"/>
+<line commentary="Good walking leaves no tracks.">
+    <word original="善" pinyin="shàn" calque="good"/>
+    <word original="行" pinyin="xíng" calque="walk"/>
     <word original="無" pinyin="wú" calque="without"/>
     <word original="轍迹" pinyin="zhéjī" calque="wheel-tracks"/>
 </line>
 
-<line commentary="When words achieve their highest purpose, do they leave any mark of having been spoken?">
-    <word original="善" pinyin="shàn" calque="skilled"/>
-    <word original="言" pinyin="yán" calque="speaking"/>
+<line commentary="Good speech has no flaws.">
+    <word original="善" pinyin="shàn" calque="good"/>
+    <word original="言" pinyin="yán" calque="speak"/>
     <word original="無" pinyin="wú" calque="without"/>
-    <word original="瑕謫" pinyin="xiázhé" calque="flaws-blame"/>
+    <word original="瑕謫" pinyin="xiázhé" calque="flaw-blame"/>
 </line>
 
-<line commentary="What counting method requires no tools? Perhaps the most profound calculations happen without devices.">
-    <word original="善" pinyin="shàn" calque="skilled"/>
-    <word original="數" pinyin="shǔ" calque="counting"/>
+<line commentary="Good counting needs no tools.">
+    <word original="善" pinyin="shàn" calque="good"/>
+    <word original="數" pinyin="shǔ" calque="count"/>
     <word original="不" pinyin="bù" calque="not"/>
     <word original="用" pinyin="yòng" calque="use"/>
-    <word original="籌策" pinyin="chóucè" calque="counting-sticks"/>
+    <word original="籌策" pinyin="chóucè" calque="counting-tools"/>
 </line>
 
-<line commentary="A door that cannot be opened - yet has no lock. What kind of security transcends physical barriers?">
-    <word original="善" pinyin="shàn" calque="skilled"/>
-    <word original="閉" pinyin="bì" calque="closing"/>
+<line commentary="Good closing needs no bolt or lock, yet cannot be opened.">
+    <word original="善" pinyin="shàn" calque="good"/>
+    <word original="閉" pinyin="bì" calque="close"/>
     <word original="無" pinyin="wú" calque="without"/>
     <word original="關楗" pinyin="guānjiàn" calque="bolt-bar"/>
     <word original="而" pinyin="ér" calque="yet"/>
@@ -34,11 +34,11 @@
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="A binding without rope - what ties are strongest when they're invisible?">
-    <word original="善" pinyin="shàn" calque="skilled"/>
-    <word original="結" pinyin="jié" calque="tying"/>
+<line commentary="Good tying uses no rope, yet cannot be untied.">
+    <word original="善" pinyin="shàn" calque="good"/>
+    <word original="結" pinyin="jié" calque="tie"/>
     <word original="無" pinyin="wú" calque="without"/>
-    <word original="纆約" pinyin="mòyuē" calque="rope-bind"/>
+    <word original="纆約" pinyin="móyuē" calque="rope-bind"/>
     <word original="而" pinyin="ér" calque="yet"/>
     <word original="不" pinyin="bù" calque="not"/>
     <word original="可" pinyin="kě" calque="can"/>
@@ -46,35 +46,35 @@
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="How does the sage's perspective differ from ordinary vision?">
+<line commentary="Therefore the sage">
     <word original="是" pinyin="shì" calque="this"/>
-    <word original="以" pinyin="yǐ" calque="therefore"/>
+    <word original="以" pinyin="yǐ" calque="by-means-of"/>
     <word original="聖" pinyin="shèng" calque="sage"/>
     <word original="人" pinyin="rén" calque="person"/>
 </line>
 
-<line commentary="What does it mean to truly 'save' someone? Perhaps it begins with seeing their value.">
+<line commentary="Always is good at saving people">
     <word original="常" pinyin="cháng" calque="always"/>
     <word original="善" pinyin="shàn" calque="good-at"/>
-    <word original="救" pinyin="jiù" calque="saving"/>
+    <word original="救" pinyin="jiù" calque="save"/>
     <word original="人" pinyin="rén" calque="people"/>
 </line>
 
-<line commentary="When we truly understand value, can anything be worthless?">
+<line commentary="Therefore abandons no one">
     <word original="故" pinyin="gù" calque="therefore"/>
     <word original="無" pinyin="wú" calque="without"/>
     <word original="棄" pinyin="qì" calque="abandon"/>
     <word original="人" pinyin="rén" calque="person"/>
 </line>
 
-<line commentary="The parallel shifts from people to things - does this suggest a universal principle?">
+<line commentary="Always is good at saving things">
     <word original="常" pinyin="cháng" calque="always"/>
     <word original="善" pinyin="shàn" calque="good-at"/>
-    <word original="救" pinyin="jiù" calque="saving"/>
+    <word original="救" pinyin="jiù" calque="save"/>
     <word original="物" pinyin="wù" calque="things"/>
 </line>
 
-<line commentary="How might abandoning nothing lead to possessing everything?">
+<line commentary="Therefore abandons nothing.">
     <word original="故" pinyin="gù" calque="therefore"/>
     <word original="無" pinyin="wú" calque="without"/>
     <word original="棄" pinyin="qì" calque="abandon"/>
@@ -82,15 +82,15 @@
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="'Hidden illumination' - can light be inherited? How does wisdom pass from one to another?">
+<line commentary="This is called following the light.">
     <word original="是" pinyin="shì" calque="this"/>
     <word original="謂" pinyin="wèi" calque="called"/>
     <word original="襲" pinyin="xí" calque="inherit"/>
     <word original="明" pinyin="míng" calque="brightness"/>
 </line>
 
-<line commentary="The relationship between teacher and student reveals itself in unexpected ways. Who truly learns from whom?">
-    <word original="故" pinyin="gù" calque="therefore"/>
+<line commentary="Therefore, the good person is the teacher of the not-good person.">
+    <word original="(.)故" pinyin="gù" calque="therefore"/>
     <word original="善" pinyin="shàn" calque="good"/>
     <word original="人" pinyin="rén" calque="person"/>
     <word original="者" pinyin="zhě" calque="one-who"/>
@@ -99,9 +99,10 @@
     <word original="人" pinyin="rén" calque="person"/>
     <word original="之" pinyin="zhī" calque="of"/>
     <word original="師" pinyin="shī" calque="teacher"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Consider: how does the 'resource' contribute to the growth of the 'teacher'?">
+<line commentary="The not-good person is the resource of the good person.">
     <word original="不" pinyin="bù" calque="not"/>
     <word original="善" pinyin="shàn" calque="good"/>
     <word original="人" pinyin="rén" calque="person"/>
@@ -113,31 +114,31 @@
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="What happens when we place our wisdom above others?">
+<line commentary="Not valuing one's teacher">
     <word original="不" pinyin="bù" calque="not"/>
     <word original="貴" pinyin="guì" calque="value"/>
-    <word original="其" pinyin="qí" calque="their"/>
+    <word original="其" pinyin="qí" calque="one's"/>
     <word original="師" pinyin="shī" calque="teacher"/>
 </line>
 
-<line commentary="When we devalue what sustains us, what do we lose?">
+<line commentary="Not loving one's resource">
     <word original="不" pinyin="bù" calque="not"/>
     <word original="愛" pinyin="ài" calque="love"/>
-    <word original="其" pinyin="qí" calque="their"/>
+    <word original="其" pinyin="qí" calque="one's"/>
     <word original="資" pinyin="zī" calque="resource"/>
 </line>
 
-<line commentary="How can great wisdom lead to greater confusion? What paradox lies here?">
+<line commentary="Though clever, greatly confused">
     <word original="雖" pinyin="suī" calque="although"/>
-    <word original="智" pinyin="zhì" calque="wise"/>
+    <word original="智" pinyin="zhì" calque="wisdom"/>
     <word original="大" pinyin="dà" calque="great"/>
     <word original="迷" pinyin="mí" calque="confused"/>
 </line>
 
-<line commentary="What makes something both essential and mysterious? Perhaps the answer lies in the space between knowing and not-knowing.">
+<line commentary="This is called the essential mystery.">
     <word original="是" pinyin="shì" calque="this"/>
     <word original="謂" pinyin="wèi" calque="called"/>
     <word original="要" pinyin="yào" calque="essential"/>
-    <word original="妙" pinyin="miào" calque="mysterious"/>
+    <word original="妙" pinyin="miào" calque="mystery"/>
 </line>
 </chapter>

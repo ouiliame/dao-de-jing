@@ -78,27 +78,29 @@
   for line in chapter.children {
     if type(line) == dictionary {
       // Create a container for this line
-      align(left)[
-        // Display each Chinese character with its calque
-        #let commentary = line.at("attrs").at("commentary", default: "")
-        #if commentary != "" {
-          text(
-            size: 10pt, 
-            weight: "light", 
-            style: "italic", 
-          )[#commentary]
-        }
+      block(breakable: false,
+        align(left)[
+          // Display each Chinese character with its calque
+          #let commentary = line.at("attrs").at("commentary", default: "")
+          #if commentary != "" {
+            text(
+              size: 10pt, 
+              weight: "light", 
+              style: "italic", 
+            )[#commentary]
+          }
 
-        #for word in line.children.filter(w => type(w) == dictionary) {
-          let original = word.at("attrs").at("original")
-          let calque = word.at("attrs").at("calque", default: "")
-          let pinyin = word.at("attrs").at("pinyin", default: "")
-          char-unit(original, calque, pinyin)
-          h(1em)
-        }
-        
-        #v(1.33em)
-      ]
+          #for word in line.children.filter(w => type(w) == dictionary) {
+            let original = word.at("attrs").at("original")
+            let calque = word.at("attrs").at("calque", default: "")
+            let pinyin = word.at("attrs").at("pinyin", default: "")
+            char-unit(original, calque, pinyin)
+            h(1em)
+          }
+          
+          #v(1.33em)
+        ]
+      ) 
     }
   }
   

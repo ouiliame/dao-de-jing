@@ -1,90 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="19">
-
-<line commentary="What happens when we strip away the elaborate frameworks of learned wisdom? Might something more fundamental emerge?">
-    <word original="絕" pinyin="jué" calque="cut-off"/>
-    <word original="聖" pinyin="shèng" calque="sagacity"/>
-    <word original="棄" pinyin="qì" calque="abandon"/>
-    <word original="智" pinyin="zhì" calque="wisdom"/>
+<line commentary="Abandon sagacity, discard knowledge">
+    <word original="絕" calque="cut-off" pinyin="jué"/>
+    <word original="聖" calque="sagacity" pinyin="shèng"/>
+    <word original="棄" calque="abandon" pinyin="qì"/>
+    <word original="智" calque="wisdom" pinyin="zhì"/>
 </line>
 
-<line commentary="A provocative claim - when artificial benefit is removed, natural abundance multiplies. What mathematics of the heart is at work here?">
-    <word original="民" pinyin="mín" calque="people"/>
-    <word original="利" pinyin="lì" calque="benefit"/>
-    <word original="百" pinyin="bǎi" calque="hundred"/>
-    <word original="倍" pinyin="bèi" calque="times"/>
-    <word original="." pinyin="" calque="." punctuation="true"/>
+<line commentary="And the people will benefit a hundredfold">
+    <word original="民" calque="people" pinyin="mín"/>
+    <word original="利" calque="benefit" pinyin="lì"/>
+    <word original="百" calque="hundred" pinyin="bǎi"/>
+    <word original="倍" calque="times" pinyin="bèi"/>
+    <word original="." calque="." pinyin=""/>
 </line>
 
-<line commentary="Consider: might conscious virtue sometimes obstruct natural goodness?">
-    <word original="絕" pinyin="jué" calque="cut-off"/>
-    <word original="仁" pinyin="rén" calque="benevolence"/>
-    <word original="棄" pinyin="qì" calque="abandon"/>
-    <word original="義" pinyin="yì" calque="righteousness"/>
+<line commentary="Abandon benevolence, discard righteousness">
+    <word original="絕" calque="cut-off" pinyin="jué"/>
+    <word original="仁" calque="benevolence" pinyin="rén"/>
+    <word original="棄" calque="abandon" pinyin="qì"/>
+    <word original="義" calque="righteousness" pinyin="yì"/>
 </line>
 
-<line commentary="What returns when we stop forcing it? The character 復 suggests both 'return' and 'again' - a natural cycle restored?">
-    <word original="民" pinyin="mín" calque="people"/>
-    <word original="復" pinyin="fù" calque="return"/>
-    <word original="孝" pinyin="xiào" calque="filial-piety"/>
-    <word original="慈" pinyin="cí" calque="kindness"/>
-    <word original="." pinyin="" calque="." punctuation="true"/>
+<line commentary="And the people will return to filial piety and compassion">
+    <word original="民" calque="people" pinyin="mín"/>
+    <word original="復" calque="return" pinyin="fù"/>
+    <word original="孝" calque="filial" pinyin="xiào"/>
+    <word original="慈" calque="compassion" pinyin="cí"/>
+    <word original="." calque="." pinyin=""/>
 </line>
 
-<line commentary="When cleverness and profit-seeking cease, what might naturally disappear with them?">
-    <word original="絕" pinyin="jué" calque="cut-off"/>
-    <word original="巧" pinyin="qiǎo" calque="cleverness"/>
-    <word original="棄" pinyin="qì" calque="abandon"/>
-    <word original="利" pinyin="lì" calque="profit"/>
+<line commentary="Abandon cleverness, discard profit">
+    <word original="絕" calque="cut-off" pinyin="jué"/>
+    <word original="巧" calque="cleverness" pinyin="qiǎo"/>
+    <word original="棄" calque="abandon" pinyin="qì"/>
+    <word original="利" calque="profit" pinyin="lì"/>
 </line>
 
-<line commentary="The absence of something can reveal its root cause. What creates thieves?">
-    <word original="盜" pinyin="dào" calque="thieves"/>
-    <word original="賊" pinyin="zéi" calque="bandits"/>
-    <word original="無" pinyin="wú" calque="not"/>
-    <word original="有" pinyin="yǒu" calque="exist"/>
-    <word original="." pinyin="" calque="." punctuation="true"/>
+<line commentary="And thieves and robbers will disappear">
+    <word original="盜" calque="thief" pinyin="dào"/>
+    <word original="賊" calque="bandit" pinyin="zéi"/>
+    <word original="無" calque="not" pinyin="wú"/>
+    <word original="有" calque="exist" pinyin="yǒu"/>
+    <word original="." calque="." pinyin=""/>
 </line>
 
-<line commentary="What insufficiency might exist in artificial refinement?">
-    <word original="此" pinyin="cǐ" calque="these"/>
-    <word original="三" pinyin="sān" calque="three"/>
-    <word original="者以" pinyin="zhě-yǐ" calque="things-by-means-of"/>
-    <word original="為" pinyin="wéi" calque="make"/>
-    <word original="文" pinyin="wén" calque="refinement"/>
-    <word original="不" pinyin="bù" calque="not"/>
-    <word original="足" pinyin="zú" calque="enough"/>
-    <word original="." pinyin="" calque="." punctuation="true"/>
+<line commentary="These three things are ornamental and thus inadequate">
+    <word original="此" calque="these" pinyin="cǐ"/>
+    <word original="三" calque="three" pinyin="sān"/>
+    <word original="者" calque="ones" pinyin="zhě"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="為" calque="make" pinyin="wéi"/>
+    <word original="文" calque="culture" pinyin="wén"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="足" calque="enough" pinyin="zú"/>
+    <word original="." calque="." pinyin=""/>
 </line>
 
-<line commentary="What happens when we try to organize natural inclinations?">
-    <word original="(.)故" pinyin="gù" calque="therefore"/>
-    <word original="令" pinyin="lìng" calque="command"/>
-    <word original="有" pinyin="yǒu" calque="have"/>
-    <word original="所" pinyin="suǒ" calque="that-which"/>
-    <word original="屬" pinyin="shǔ" calque="belong"/>
-    <word original="." pinyin="" calque="." punctuation="true"/>
+<line commentary="Therefore ensure there are these to embrace">
+    <word original="(.)故" calque="therefore" pinyin="gù"/>
+    <word original="令" calque="cause" pinyin="lìng"/>
+    <word original="有" calque="have" pinyin="yǒu"/>
+    <word original="所" calque="that-which" pinyin="suǒ"/>
+    <word original="屬" calque="belong" pinyin="shǔ"/>
+    <word original="." calque="." pinyin=""/>
 </line>
 
-<line commentary="What might we see when ornamentation falls away?">
-    <word original="見" pinyin="jiàn" calque="see"/>
-    <word original="素" pinyin="sù" calque="plain"/>
+<line commentary="See the plain">
+    <word original="見" calque="see" pinyin="jiàn"/>
+    <word original="素" calque="plain" pinyin="sù"/>
 </line>
 
-<line commentary="The uncarved block holds all possibilities - what wisdom in remaining whole?">
-    <word original="抱" pinyin="bào" calque="embrace"/>
-    <word original="樸" pinyin="pǔ" calque="simplicity"/>
+<line commentary="Embrace simplicity">
+    <word original="抱" calque="embrace" pinyin="bào"/>
+    <word original="樸" calque="simplicity" pinyin="pǔ"/>
 </line>
 
-<line commentary="In reducing the private, might we expand the universal?">
-    <word original="少" pinyin="shǎo" calque="diminish"/>
-    <word original="私" pinyin="sī" calque="private"/>
+<line commentary="Lessen self-interest">
+    <word original="少" calque="decrease" pinyin="shǎo"/>
+    <word original="私" calque="private" pinyin="sī"/>
 </line>
 
-<line commentary="The final breath of the chapter - a whispered invitation to emptiness?">
-    <word original="寡" pinyin="guǎ" calque="few"/>
-    <word original="欲" pinyin="yù" calque="desires"/>
-    <word original="." pinyin="" calque="." punctuation="true"/>
+<line commentary="Reduce desires">
+    <word original="寡" calque="few" pinyin="guǎ"/>
+    <word original="欲" calque="desire" pinyin="yù"/>
+    <word original="." calque="." pinyin=""/>
 </line>
-
 </chapter>

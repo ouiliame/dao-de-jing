@@ -1,28 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="16">
-
-<line commentary="Consider emptiness not as void, but as potential. How might reaching for emptiness lead to fullness?">
-    <word original="致" pinyin="zhì" calque="reach"/>
+<line commentary="Achieve utmost emptiness.">
+    <word original="致" pinyin="zhì" calque="achieve"/>
     <word original="虛" pinyin="xū" calque="empty"/>
     <word original="極" pinyin="jí" calque="utmost"/>
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="What happens when we guard stillness as preciously as we might guard treasure?">
+<line commentary="Maintain profound quietude.">
     <word original="守" pinyin="shǒu" calque="maintain"/>
-    <word original="靜" pinyin="jìng" calque="stillness"/>
-    <word original="篤" pinyin="dǔ" calque="sincere"/>
+    <word original="靜" pinyin="jìng" calque="quiet"/>
+    <word original="篤" pinyin="dǔ" calque="profound"/>
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="The character 並 suggests simultaneous arising - imagine countless beings emerging at once, like spring flowers.">
+<line commentary="The ten thousand things arise together.">
     <word original="萬" pinyin="wàn" calque="ten-thousand"/>
     <word original="物" pinyin="wù" calque="things"/>
     <word original="並" pinyin="bìng" calque="together"/>
     <word original="作" pinyin="zuò" calque="arise"/>
 </line>
 
-<line commentary="From stillness, one can witness the eternal return. What might we see in this watching?">
+<line commentary="I thereby observe their return.">
     <word original="吾" pinyin="wú" calque="I"/>
     <word original="以" pinyin="yǐ" calque="by-means-of"/>
     <word original="觀" pinyin="guān" calque="observe"/>
@@ -31,35 +30,34 @@
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="The reduplication in 芸芸 paints a picture of endless abundance - like watching leaves dance in wind.">
-    <word original="(.)夫" pinyin="fú" calque="(.)indeed"/>
+<line commentary="Now, all things flourish abundantly, each returning to its root.">
+    <word original="(.)夫" pinyin="fú" calque="(now)"/>
     <word original="物" pinyin="wù" calque="things"/>
-    <word original="芸" pinyin="yún" calque="abundant"/>
-    <word original="芸" pinyin="yún" calque="abundant"/>
+    <word original="芸芸" pinyin="yúnyún" calque="abundant"/>
     <word original="各" pinyin="gè" calque="each"/>
     <word original="復" pinyin="fù" calque="return"/>
-    <word original="歸" pinyin="guī" calque="go-back"/>
-    <word original="其" pinyin="qí" calque="their"/>
+    <word original="歸" pinyin="guī" calque="return-to"/>
+    <word original="其" pinyin="qí" calque="its"/>
     <word original="根" pinyin="gēn" calque="root"/>
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="When does return become stillness? When does stillness become return?">
-    <word original="歸" pinyin="guī" calque="return"/>
+<line commentary="Returning to the root is called quietude.">
+    <word original="歸" pinyin="guī" calque="return-to"/>
     <word original="根" pinyin="gēn" calque="root"/>
     <word original="曰" pinyin="yuē" calque="called"/>
-    <word original="靜" pinyin="jìng" calque="stillness"/>
+    <word original="靜" pinyin="jìng" calque="quiet"/>
 </line>
 
-<line commentary="A profound equation: stillness equals destiny's return. What destiny awaits in stillness?">
-    <word original="[靜]" pinyin="jìng" calque="[stillness]"/>
-    <word original="是" pinyin="shì" calque="is"/>
+<line commentary="This quietude is called returning to one's destiny.">
+    <word original="[靜]" pinyin="jìng" calque="[quietude]"/>
+    <word original="是" pinyin="shì" calque="this"/>
     <word original="謂" pinyin="wèi" calque="called"/>
     <word original="復" pinyin="fù" calque="return"/>
     <word original="命" pinyin="mìng" calque="destiny"/>
 </line>
 
-<line commentary="What makes something constant? Is it unchanging, or reliably changing?">
+<line commentary="Returning to destiny is called constancy.">
     <word original="復" pinyin="fù" calque="return"/>
     <word original="命" pinyin="mìng" calque="destiny"/>
     <word original="曰" pinyin="yuē" calque="called"/>
@@ -67,7 +65,7 @@
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Knowing constancy brings clarity - but what kind of knowing is this?">
+<line commentary="Knowing constancy is called enlightenment.">
     <word original="知" pinyin="zhī" calque="know"/>
     <word original="常" pinyin="cháng" calque="constant"/>
     <word original="曰" pinyin="yuē" calque="called"/>
@@ -75,7 +73,7 @@
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Consider how ignorance of patterns might lead to disorder, like a musician ignorant of rhythm.">
+<line commentary="Not knowing constancy leads to reckless action and misfortune.">
     <word original="不" pinyin="bù" calque="not"/>
     <word original="知" pinyin="zhī" calque="know"/>
     <word original="常" pinyin="cháng" calque="constant"/>
@@ -84,47 +82,46 @@
     <word original="凶" pinyin="xiōng" calque="misfortune"/>
 </line>
 
-<line commentary="From constancy flows capacity - like a vessel that can hold anything because it knows its nature.">
+<line commentary="Knowing constancy leads to capacity.">
     <word original="知" pinyin="zhī" calque="know"/>
     <word original="常" pinyin="cháng" calque="constant"/>
-    <word original="容" pinyin="róng" calque="contain"/>
+    <word original="容" pinyin="róng" calque="capacity"/>
 </line>
 
-<line commentary="Watch as personal capacity expands into universal embrace.">
-    <word original="容" pinyin="róng" calque="contain"/>
-    <word original="乃" pinyin="nǎi" calque="then"/>
-    <word original="公" pinyin="gōng" calque="impartial"/>
+<line commentary="Capacity leads to inclusiveness.">
+    <word original="容" pinyin="róng" calque="capacity"/>
+    <word original="乃" pinyin="nǎi" calque="leads-to"/>
+    <word original="公" pinyin="gōng" calque="inclusive"/>
 </line>
 
-<line commentary="Each step widens the circle of awareness. Where might your circle lead?">
-    <word original="公" pinyin="gōng" calque="impartial"/>
-    <word original="乃" pinyin="nǎi" calque="then"/>
-    <word original="王" pinyin="wáng" calque="sovereign"/>
+<line commentary="Inclusiveness leads to kingliness.">
+    <word original="公" pinyin="gōng" calque="inclusive"/>
+    <word original="乃" pinyin="nǎi" calque="leads-to"/>
+    <word original="王" pinyin="wáng" calque="king"/>
 </line>
 
-<line commentary="The sovereign aligns with heaven - not through force, but through natural accordance.">
-    <word original="王" pinyin="wáng" calque="sovereign"/>
-    <word original="乃" pinyin="nǎi" calque="then"/>
+<line commentary="Kingliness leads to heaven.">
+    <word original="王" pinyin="wáng" calque="king"/>
+    <word original="乃" pinyin="nǎi" calque="leads-to"/>
     <word original="天" pinyin="tiān" calque="heaven"/>
 </line>
 
-<line commentary="Heaven flows into Way - what separates them? What joins them?">
+<line commentary="Heaven leads to the Way.">
     <word original="天" pinyin="tiān" calque="heaven"/>
-    <word original="乃" pinyin="nǎi" calque="then"/>
+    <word original="乃" pinyin="nǎi" calque="leads-to"/>
     <word original="道" pinyin="dào" calque="way"/>
 </line>
 
-<line commentary="The Way extends beyond time - yet manifests in each moment.">
+<line commentary="The Way leads to endurance.">
     <word original="道" pinyin="dào" calque="way"/>
-    <word original="乃" pinyin="nǎi" calque="then"/>
+    <word original="乃" pinyin="nǎi" calque="leads-to"/>
     <word original="久" pinyin="jiǔ" calque="enduring"/>
 </line>
 
-<line commentary="A paradox of preservation: losing self-preservation preserves safety. How might this be?">
-    <word original="沒" pinyin="mò" calque="vanish"/>
+<line commentary="Until the end of one's life, there is no danger.">
+    <word original="沒" pinyin="mò" calque="end"/>
     <word original="身" pinyin="shēn" calque="body"/>
     <word original="不" pinyin="bù" calque="not"/>
     <word original="殆" pinyin="dài" calque="danger"/>
 </line>
-
 </chapter>

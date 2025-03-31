@@ -1,206 +1,201 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="64">
-
-<line commentary="What appears stable might be most receptive to change - when is peace most vulnerable?">
+<line commentary="What is at peace is easily maintained.">
     <word original="." calque="." punctuation="true"/>
-    <word original="其" calque="its"/>
-    <word original="安" calque="peace"/>
-    <word original="易" calque="easy"/>
-    <word original="持" calque="maintain"/>
-    <word original="." calque="." punctuation="true"/>
-</line>
-
-<line commentary="Before signs appear - consider the space where potential lies dormant">
-    <word original="其" calque="its"/>
-    <word original="未" calque="not-yet"/>
-    <word original="兆" calque="sign"/>
-    <word original="易" calque="easy"/>
-    <word original="謀" calque="plan"/>
-</line>
-
-<line commentary="Brittleness suggests both vulnerability and transformative potential">
-    <word original="其" calque="its"/>
-    <word original="脆" calque="brittle"/>
-    <word original="易" calque="easy"/>
-    <word original="泮" calque="dissolve"/>
-</line>
-
-<line commentary="The smallest particles - what power lies in their dispersal?">
-    <word original="其" calque="its"/>
-    <word original="微" calque="subtle"/>
-    <word original="易" calque="easy"/>
-    <word original="散" calque="scatter"/>
-</line>
-
-<line commentary="Acting in the space of non-existence - when does potential become manifest?">
-    <word original="為" calque="act"/>
-    <word original="之" calque="it"/>
-    <word original="於" calque="at"/>
-    <word original="未" calque="not-yet"/>
-    <word original="有" calque="exist"/>
-</line>
-
-<line commentary="Order emerges from attention to earliest stirrings">
-    <word original="治" calque="govern"/>
-    <word original="之" calque="it"/>
-    <word original="於" calque="at"/>
-    <word original="未" calque="not-yet"/>
-    <word original="亂" calque="chaos"/>
-</line>
-
-<line commentary="From microscopic to magnificent - what journey lies between hair's breadth and embracing arms?">
-    <word original="合抱" calque="arm-spanning"/>
-    <word original="之" calque="of"/>
-    <word original="木" calque="tree"/>
-    <word original="生" calque="grow"/>
-    <word original="於" calque="from"/>
-    <word original="毫末" calque="tiny-tip"/>
-</line>
-
-<line commentary="Each layer built upon the previous - what foundations support your highest aspirations?">
-    <word original="九" calque="nine"/>
-    <word original="層" calque="story"/>
-    <word original="之" calque="of"/>
-    <word original="臺" calque="tower"/>
-    <word original="起" calque="rise"/>
-    <word original="於" calque="from"/>
-    <word original="累" calque="pile"/>
-    <word original="土" calque="earth"/>
-</line>
-
-<line commentary="Every journey contains its beginning in each step">
-    <word original="千" calque="thousand"/>
-    <word original="里" calque="li"/>
-    <word original="之" calque="of"/>
-    <word original="行" calque="journey"/>
-    <word original="始" calque="begin"/>
-    <word original="於" calque="at"/>
-    <word original="足" calque="foot"/>
-    <word original="下" calque="below"/>
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="安" calque="peace" pinyin="ān"/>
+    <word original="易" calque="easy" pinyin="yì"/>
+    <word original="持" calque="maintain" pinyin="chí"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Does action create its own undoing?">
-    <word original="為" calque="do"/>
-    <word original="者" calque="one-who"/>
-    <word original="敗" calque="fail"/>
-    <word original="之" calque="it"/>
-</line>
-
-<line commentary="What slips away when grasped too tightly?">
-    <word original="執" calque="grasp"/>
-    <word original="者" calque="one-who"/>
-    <word original="失" calque="lose"/>
-    <word original="之" calque="it"/>
-</line>
-
-<line commentary="A moment of recognition - what wisdom follows?">
-    <word original="是" calque="this"/>
-    <word original="以" calque="therefore"/>
-    <word original="聖" calque="sage"/>
-    <word original="人" calque="person"/>
-</line>
-
-<line commentary="Non-action as perfect action - can doing nothing accomplish everything?">
-    <word original="無" calque="without"/>
-    <word original="為" calque="doing"/>
-    <word original="故" calque="therefore"/>
-    <word original="無" calque="without"/>
-    <word original="敗" calque="failure"/>
+<line commentary="What has not yet shown signs is easily planned for.">
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="未" calque="not-yet" pinyin="wèi"/>
+    <word original="兆" calque="show-signs" pinyin="zhào"/>
+    <word original="易" calque="easy" pinyin="yì"/>
+    <word original="謀" calque="plan" pinyin="móu"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Release as path to retention - what paradox lies here?">
-    <word original="無" calque="without"/>
-    <word original="執" calque="grasping"/>
-    <word original="故" calque="therefore"/>
-    <word original="無" calque="without"/>
-    <word original="失" calque="loss"/>
+<line commentary="What is brittle is easily broken.">
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="脆" calque="brittle" pinyin="cuì"/>
+    <word original="易" calque="easy" pinyin="yì"/>
+    <word original="泮" calque="break" pinyin="pàn"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="The precipice of completion - where does success become vulnerable?">
-    <word original="民" calque="people"/>
-    <word original="之" calque="of"/>
-    <word original="從事" calque="undertake"/>
-    <word original="常" calque="often"/>
-    <word original="於" calque="at"/>
-    <word original="幾" calque="almost"/>
-    <word original="成" calque="complete"/>
-    <word original="而" calque="yet"/>
-    <word original="敗" calque="fail"/>
-    <word original="之" calque="it"/>
+<line commentary="What is minute is easily scattered.">
+    <word original="其" calque="its" pinyin="qí"/>
+    <word original="微" calque="minute" pinyin="wēi"/>
+    <word original="易" calque="easy" pinyin="yì"/>
+    <word original="散" calque="scatter" pinyin="sàn"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Beginning contained within ending - where do circles close?">
-    <word original="慎" calque="careful"/>
-    <word original="終" calque="end"/>
-    <word original="如" calque="like"/>
-    <word original="始" calque="beginning"/>
-</line>
-
-<line commentary="Attention spans the journey - what guard against failure?">
-    <word original="則" calque="then"/>
-    <word original="無" calque="without"/>
-    <word original="敗" calque="failed"/>
-    <word original="事" calque="affairs"/>
+<line commentary="Act on things before they exist.">
+    <word original="為" calque="act" pinyin="wéi"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="於" calque="at" pinyin="yú"/>
+    <word original="未" calque="not-yet" pinyin="wèi"/>
+    <word original="有" calque="exist" pinyin="yǒu"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Return to sage wisdom - what circle completes?">
-    <word original="是" calque="this"/>
-    <word original="以" calque="therefore"/>
-    <word original="聖" calque="sage"/>
-    <word original="人" calque="person"/>
+<line commentary="Manage them before they are chaotic.">
+    <word original="治" calque="manage" pinyin="zhì"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="於" calque="at" pinyin="yú"/>
+    <word original="未" calque="not-yet" pinyin="wèi"/>
+    <word original="亂" calque="chaos" pinyin="luàn"/>
 </line>
 
-<line commentary="Desire without desiring - what freedom in release?">
-    <word original="欲" calque="desire"/>
-    <word original="不" calque="not"/>
-    <word original="欲" calque="desire"/>
+<line commentary="A tree that fills the arms' embrace grows from a tiny sprout.">
+    <word original="合抱" calque="arms-embrace" pinyin="hé bào"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="木" calque="tree" pinyin="mù"/>
+    <word original="生" calque="grow" pinyin="shēng"/>
+    <word original="於" calque="from" pinyin="yú"/>
+    <word original="毫末" calque="tiny-sprout" pinyin="háo mò"/>
 </line>
 
-<line commentary="Value beyond possession - what wealth in simplicity?">
-    <word original="不" calque="not"/>
-    <word original="貴" calque="value"/>
-    <word original="難" calque="difficult"/>
-    <word original="得" calque="obtain"/>
-    <word original="之" calque="of"/>
-    <word original="貨" calque="goods"/>
+<line commentary="A nine-story tower rises from a pile of earth.">
+    <word original="九" calque="nine" pinyin="jiǔ"/>
+    <word original="層" calque="story" pinyin="céng"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="臺" calque="tower" pinyin="tái"/>
+    <word original="起" calque="rise" pinyin="qǐ"/>
+    <word original="於" calque="from" pinyin="yú"/>
+    <word original="累土" calque="piled-earth" pinyin="lěi tǔ"/>
 </line>
 
-<line commentary="Learning through unlearning - what knowledge in emptiness?">
-    <word original="學" calque="learn"/>
-    <word original="不" calque="not"/>
-    <word original="學" calque="learn"/>
+<line commentary="A journey of a thousand li begins beneath one's feet.">
+    <word original="千" calque="thousand" pinyin="qiān"/>
+    <word original="里" calque="li" pinyin="lǐ"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="行" calque="journey" pinyin="xíng"/>
+    <word original="始" calque="begin" pinyin="shǐ"/>
+    <word original="於" calque="at" pinyin="yú"/>
+    <word original="足下" calque="under-feet" pinyin="zú xià"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Walking backward to move forward - what wisdom in return?">
-    <word original="復" calque="return"/>
-    <word original="眾" calque="many"/>
-    <word original="人" calque="people"/>
-    <word original="之" calque="of"/>
-    <word original="所" calque="that-which"/>
-    <word original="過" calque="pass-by"/>
+<line commentary="Those who act on it will ruin it.">
+    <word original="為" calque="act" pinyin="wéi"/>
+    <word original="者" calque="one-who" pinyin="zhě"/>
+    <word original="敗" calque="ruin" pinyin="bài"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+</line>
+
+<line commentary="Those who grasp it will lose it.">
+    <word original="執" calque="grasp" pinyin="zhí"/>
+    <word original="者" calque="one-who" pinyin="zhě"/>
+    <word original="失" calque="lose" pinyin="shī"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+</line>
+
+<line commentary="Therefore the sage:">
+    <word original="是以" calque="therefore" pinyin="shì yǐ"/>
+    <word original="聖人" calque="sage" pinyin="shèng rén"/>
+</line>
+
+<line commentary="Through non-action, he never fails.">
+    <word original="無" calque="without" pinyin="wú"/>
+    <word original="為" calque="action" pinyin="wéi"/>
+    <word original="故" calque="therefore" pinyin="gù"/>
+    <word original="無" calque="without" pinyin="wú"/>
+    <word original="敗" calque="fail" pinyin="bài"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Supporting without interfering - how does nature perfect itself?">
-    <word original="以" calque="by-means-of"/>
-    <word original="輔" calque="assist"/>
-    <word original="萬物" calque="ten-thousand-things"/>
-    <word original="之" calque="of"/>
-    <word original="自然" calque="self-so"/>
-</line>
-
-<line commentary="Courage in restraint - what power in holding back?">
-    <word original="而" calque="yet"/>
-    <word original="不" calque="not"/>
-    <word original="敢" calque="dare"/>
-    <word original="為" calque="act"/>
+<line commentary="Through not grasping, he never loses.">
+    <word original="無" calque="without" pinyin="wú"/>
+    <word original="執" calque="grasp" pinyin="zhí"/>
+    <word original="故" calque="therefore" pinyin="gù"/>
+    <word original="無" calque="without" pinyin="wú"/>
+    <word original="失" calque="lose" pinyin="shī"/>
     <word original="." calque="." punctuation="true"/>
 </line>
 
+<line commentary="People often fail when their task is nearly complete.">
+    <word original="民" calque="people" pinyin="mín"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="從事" calque="undertake" pinyin="cóng shì"/>
+    <word original="常" calque="often" pinyin="cháng"/>
+    <word original="於" calque="at" pinyin="yú"/>
+    <word original="幾成" calque="almost-complete" pinyin="jī chéng"/>
+    <word original="而" calque="yet" pinyin="ér"/>
+    <word original="敗" calque="fail" pinyin="bài"/>
+    <word original="之" calque="it" pinyin="zhī"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+
+<line commentary="Being as careful at the end as at the beginning,">
+    <word original="慎" calque="careful" pinyin="shèn"/>
+    <word original="終" calque="end" pinyin="zhōng"/>
+    <word original="如" calque="like" pinyin="rú"/>
+    <word original="始" calque="beginning" pinyin="shǐ"/>
+</line>
+
+<line commentary="Then there will be no failure.">
+    <word original="則" calque="then" pinyin="zé"/>
+    <word original="無" calque="no" pinyin="wú"/>
+    <word original="敗" calque="fail" pinyin="bài"/>
+    <word original="事" calque="matter" pinyin="shì"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+
+<line commentary="Therefore the sage:">
+    <word original="是以" calque="therefore" pinyin="shì yǐ"/>
+    <word original="聖人" calque="sage" pinyin="shèng rén"/>
+</line>
+
+<line commentary="Desires to be without desire,">
+    <word original="欲" calque="desire" pinyin="yù"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="欲" calque="desire" pinyin="yù"/>
+</line>
+
+<line commentary="Does not value goods difficult to obtain,">
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="貴" calque="value" pinyin="guì"/>
+    <word original="難" calque="difficult" pinyin="nán"/>
+    <word original="得" calque="obtain" pinyin="dé"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="貨" calque="goods" pinyin="huò"/>
+</line>
+
+<line commentary="Learns what others do not learn,">
+    <word original="學" calque="learn" pinyin="xué"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="學" calque="learn" pinyin="xué"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+
+<line commentary="Returns to what others have passed by.">
+    <word original="復" calque="return" pinyin="fù"/>
+    <word original="眾" calque="many" pinyin="zhòng"/>
+    <word original="人" calque="people" pinyin="rén"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="所" calque="that-which" pinyin="suǒ"/>
+    <word original="過" calque="pass-by" pinyin="guò"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
+
+<line commentary="Thus he helps all things follow their natural way,">
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="輔" calque="assist" pinyin="fǔ"/>
+    <word original="萬物" calque="ten-thousand-things" pinyin="wàn wù"/>
+    <word original="之" calque="of" pinyin="zhī"/>
+    <word original="自然" calque="natural-way" pinyin="zì rán"/>
+</line>
+
+<line commentary="Yet dares not take action.">
+    <word original="而" calque="yet" pinyin="ér"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="敢" calque="dare" pinyin="gǎn"/>
+    <word original="為" calque="act" pinyin="wéi"/>
+    <word original="." calque="." punctuation="true"/>
+</line>
 </chapter>

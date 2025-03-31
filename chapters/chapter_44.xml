@@ -1,62 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="44">
-<line commentary="A profound opening question: between our name (reputation) and our physical self, which is truly closer to us? Consider how we often sacrifice one for the other.">
-    <word original="名" pinyin="míng" calque="name"/>
-    <word original="與" pinyin="yǔ" calque="and"/>
-    <word original="身" pinyin="shēn" calque="body"/>
-    <word original="孰" pinyin="shú" calque="which"/>
-    <word original="親" pinyin="qīn" calque="close"/>
+<line commentary="Between name and self, which is closer?">
+    <word original="名" calque="name" pinyin="míng"/>
+    <word original="與" calque="and" pinyin="yǔ"/>
+    <word original="身" calque="self" pinyin="shēn"/>
+    <word original="孰" calque="which" pinyin="shú"/>
+    <word original="親" calque="close" pinyin="qīn"/>
 </line>
 
-<line commentary="The character 貨 suggests both material goods and currency - what metrics do we use to measure the value of our physical existence?">
-    <word original="身" pinyin="shēn" calque="body"/>
-    <word original="與" pinyin="yǔ" calque="and"/>
-    <word original="貨" pinyin="huò" calque="goods"/>
-    <word original="孰" pinyin="shú" calque="which"/>
-    <word original="多" pinyin="duō" calque="more"/>
+<line commentary="Between self and wealth, which is more?">
+    <word original="身" calque="self" pinyin="shēn"/>
+    <word original="與" calque="and" pinyin="yǔ"/>
+    <word original="貨" calque="goods" pinyin="huò"/>
+    <word original="孰" calque="which" pinyin="shú"/>
+    <word original="多" calque="more" pinyin="duō"/>
 </line>
 
-<line commentary="病 carries meanings of both sickness and suffering - does gaining or losing cause greater affliction?">
-    <word original="得" pinyin="dé" calque="gain"/>
-    <word original="與" pinyin="yǔ" calque="and"/>
-    <word original="亡" pinyin="wáng" calque="lose"/>
-    <word original="孰" pinyin="shú" calque="which"/>
-    <word original="病" pinyin="bìng" calque="illness"/>
+<line commentary="Between gain and loss, which brings more pain?">
+    <word original="得" calque="gain" pinyin="dé"/>
+    <word original="與" calque="and" pinyin="yǔ"/>
+    <word original="亡" calque="lose" pinyin="wáng"/>
+    <word original="孰" calque="which" pinyin="shú"/>
+    <word original="病" calque="illness" pinyin="bìng"/>
 </line>
 
-<line commentary="Notice how 甚 (extreme) pairs with 大 (great) - what might this tell us about the nature of attachment?">
-    <word original="甚" pinyin="shèn" calque="extreme"/>
-    <word original="愛" pinyin="ài" calque="love"/>
-    <word original="必" pinyin="bì" calque="must"/>
-    <word original="大" pinyin="dà" calque="great"/>
-    <word original="費" pinyin="fèi" calque="cost"/>
+<line commentary="Excessive love must lead to great cost.">
+    <word original="甚" calque="excessive" pinyin="shèn"/>
+    <word original="愛" calque="love" pinyin="ài"/>
+    <word original="必" calque="must" pinyin="bì"/>
+    <word original="大" calque="great" pinyin="dà"/>
+    <word original="費" calque="cost" pinyin="fèi"/>
 </line>
 
-<line commentary="厚 suggests both 'substantial' and 'profound' - might the depth of our hoarding mirror the depth of our loss?">
-    <word original="多" pinyin="duō" calque="much"/>
-    <word original="藏" pinyin="cáng" calque="store"/>
-    <word original="必" pinyin="bì" calque="must"/>
-    <word original="厚" pinyin="hòu" calque="thick"/>
-    <word original="亡" pinyin="wáng" calque="lose"/>
+<line commentary="Much hoarding must lead to heavy loss.">
+    <word original="多" calque="much" pinyin="duō"/>
+    <word original="藏" calque="store" pinyin="cáng"/>
+    <word original="必" calque="must" pinyin="bì"/>
+    <word original="厚" calque="heavy" pinyin="hòu"/>
+    <word original="亡" calque="lose" pinyin="wáng"/>
 </line>
 
-<line commentary="知 implies both knowledge and wisdom - how might knowing sufficiency protect us from shame?">
-    <word original="知" pinyin="zhī" calque="know"/>
-    <word original="足" pinyin="zú" calque="enough"/>
-    <word original="不" pinyin="bù" calque="not"/>
-    <word original="辱" pinyin="rǔ" calque="shame"/>
+<line commentary="Knowing contentment avoids shame.">
+    <word original="知" calque="know" pinyin="zhī"/>
+    <word original="足" calque="enough" pinyin="zú"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="辱" calque="shame" pinyin="rǔ"/>
 </line>
 
-<line commentary="When does stopping become wisdom rather than limitation?">
-    <word original="知" pinyin="zhī" calque="know"/>
-    <word original="止" pinyin="zhǐ" calque="stop"/>
-    <word original="不" pinyin="bù" calque="not"/>
-    <word original="殆" pinyin="dài" calque="danger"/>
+<line commentary="Knowing when to stop avoids danger.">
+    <word original="知" calque="know" pinyin="zhī"/>
+    <word original="止" calque="stop" pinyin="zhǐ"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="殆" calque="danger" pinyin="dài"/>
 </line>
 
-<line commentary="長久 combines 'long' and 'enduring' - what makes something truly lasting?">
-    <word original="可" pinyin="kě" calque="can"/>
-    <word original="以" pinyin="yǐ" calque="by-means-of"/>
-    <word original="長久" pinyin="chángjiǔ" calque="long-lasting"/>
+<line commentary="Thus can one endure long.">
+    <word original="可" calque="can" pinyin="kě"/>
+    <word original="以" calque="by-means-of" pinyin="yǐ"/>
+    <word original="長" calque="long" pinyin="cháng"/>
+    <word original="久" calque="lasting" pinyin="jiǔ"/>
 </line>
 </chapter>

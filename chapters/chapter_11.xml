@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="11">
-<line commentary="Consider: thirty individual spokes converge at a single point. What makes the wheel useful - the spokes, or the space between them?">
+<line commentary="Thirty spokes join together in one hub">
     <word original="三" pinyin="sān" calque="three"/>
     <word original="十" pinyin="shí" calque="ten"/>
     <word original="輻" pinyin="fú" calque="spokes"/>
     <word original="共" pinyin="gòng" calque="share"/>
     <word original="一" pinyin="yī" calque="one"/>
-    <word original="轂" pinyin="gǔ" calque="hub"/>
+    <word original="轂" pinyin="gū" calque="hub"/>
 </line>
 
-<line commentary="The character 當 suggests both 'facing toward' and 'when' - how might this double meaning enrich our understanding of emptiness?">
-    <word original="當" pinyin="dāng" calque="facing"/>
+<line commentary="It is the empty space that makes the wheel useful.">
+    <word original="當" pinyin="dāng" calque="precisely"/>
     <word original="其" pinyin="qí" calque="its"/>
     <word original="無" pinyin="wú" calque="nothing"/>
     <word original="有" pinyin="yǒu" calque="exists"/>
-    <word original="車" pinyin="chē" calque="cart"/>
+    <word original="車" pinyin="chē" calque="wheel"/>
     <word original="之" pinyin="zhī" calque="of"/>
     <word original="用" pinyin="yòng" calque="use"/>
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Clay shaped by hands becomes a vessel, but what role does the unshaped space play?">
+<line commentary="Clay is molded to make vessels">
     <word original="埏" pinyin="shān" calque="knead"/>
     <word original="埴" pinyin="zhí" calque="clay"/>
     <word original="以" pinyin="yǐ" calque="by-means-of"/>
-    <word original="為" pinyin="wéi" calque="become"/>
+    <word original="為" pinyin="wéi" calque="make"/>
     <word original="器" pinyin="qì" calque="vessel"/>
 </line>
 
-<line commentary="A parallel emerges - each form created serves through its emptiness. What patterns do you notice?">
-    <word original="當" pinyin="dāng" calque="facing"/>
+<line commentary="It is the empty space that makes the vessel useful.">
+    <word original="當" pinyin="dāng" calque="precisely"/>
     <word original="其" pinyin="qí" calque="its"/>
     <word original="無" pinyin="wú" calque="nothing"/>
     <word original="有" pinyin="yǒu" calque="exists"/>
@@ -39,17 +39,17 @@
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Windows and doors - boundaries between presence and absence. What creates a room - the walls or the space they define?">
+<line commentary="Cut out doors and windows to make a room">
     <word original="鑿" pinyin="záo" calque="cut"/>
-    <word original="戶" pinyin="hù" calque="doors"/>
-    <word original="牖" pinyin="yǒu" calque="windows"/>
+    <word original="戶" pinyin="hù" calque="door"/>
+    <word original="牖" pinyin="yǒu" calque="window"/>
     <word original="以" pinyin="yǐ" calque="by-means-of"/>
-    <word original="為" pinyin="wéi" calque="become"/>
+    <word original="為" pinyin="wéi" calque="make"/>
     <word original="室" pinyin="shì" calque="room"/>
 </line>
 
-<line commentary="The third iteration completes the pattern. How does this repetition reinforce the chapter's insight?">
-    <word original="當" pinyin="dāng" calque="facing"/>
+<line commentary="It is the empty space that makes the room useful.">
+    <word original="當" pinyin="dāng" calque="precisely"/>
     <word original="其" pinyin="qí" calque="its"/>
     <word original="無" pinyin="wú" calque="nothing"/>
     <word original="有" pinyin="yǒu" calque="exists"/>
@@ -59,20 +59,20 @@
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="'故' signals a conclusion drawn from the previous examples. What universal principle is being revealed?">
+<line commentary="Therefore, what exists serves for possession">
     <word original="(.)故" pinyin="gù" calque="therefore"/>
-    <word original="有" pinyin="yǒu" calque="existence"/>
+    <word original="有" pinyin="yǒu" calque="exist"/>
     <word original="之" pinyin="zhī" calque="it"/>
     <word original="以" pinyin="yǐ" calque="by-means-of"/>
-    <word original="為" pinyin="wéi" calque="become"/>
+    <word original="為" pinyin="wéi" calque="make"/>
     <word original="利" pinyin="lì" calque="benefit"/>
 </line>
 
-<line commentary="A final paradox: emptiness creates utility. How might this wisdom apply beyond physical objects?">
+<line commentary="And what is empty serves for usefulness.">
     <word original="無" pinyin="wú" calque="nothing"/>
     <word original="之" pinyin="zhī" calque="it"/>
     <word original="以" pinyin="yǐ" calque="by-means-of"/>
-    <word original="為" pinyin="wéi" calque="become"/>
+    <word original="為" pinyin="wéi" calque="make"/>
     <word original="用" pinyin="yòng" calque="use"/>
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>

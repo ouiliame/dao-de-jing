@@ -1,65 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="47">
-<line commentary="A profound statement about boundaries - what lies within our immediate sphere that we fail to perceive?">
+<line commentary="Without going beyond one's door">
     <word original="不" pinyin="bù" calque="not"/>
-    <word original="出" pinyin="chū" calque="exit"/>
+    <word original="出" pinyin="chū" calque="go-out"/>
     <word original="戶" pinyin="hù" calque="door"/>
 </line>
 
-<line commentary="The character 天下 literally means 'under heaven' - but what defines the boundaries of our world?">
+<line commentary="One can know the world">
     <word original="[以]" pinyin="yǐ" calque="[by-means-of]"/>
     <word original="知" pinyin="zhī" calque="know"/>
-    <word original="天下" pinyin="tiān-xià" calque="all-under-heaven"/>
+    <word original="天" pinyin="tiān" calque="heaven"/>
+    <word original="下" pinyin="xià" calque="below"/>
 </line>
 
-<line commentary="Windows frame our view - how might limited perspective enhance understanding?">
+<line commentary="Without peering through one's window">
     <word original="不" pinyin="bù" calque="not"/>
     <word original="闚" pinyin="kuī" calque="peek"/>
     <word original="牖" pinyin="yǒu" calque="window"/>
 </line>
 
-<line commentary="The Way of Heaven - does distance from observation bring us closer to truth?">
+<line commentary="One can know the Way of Heaven">
     <word original="[以]" pinyin="yǐ" calque="[by-means-of]"/>
     <word original="(知)" pinyin="zhī" calque="(know)"/>
     <word original="天" pinyin="tiān" calque="heaven"/>
     <word original="道" pinyin="dào" calque="way"/>
 </line>
 
-<line commentary="A paradox emerges - how does physical distance relate to understanding?">
+<line commentary="The further one goes">
     <word original="其" pinyin="qí" calque="its"/>
-    <word original="出" pinyin="chū" calque="going-out"/>
+    <word original="出" pinyin="chū" calque="go-out"/>
     <word original="彌" pinyin="mí" calque="increasingly"/>
     <word original="遠" pinyin="yuǎn" calque="far"/>
 </line>
 
-<line commentary="Notice how 彌 'increasingly' connects these parallel lines - what accumulates as we venture outward?">
+<line commentary="The less one knows">
     <word original="其" pinyin="qí" calque="its"/>
-    <word original="知" pinyin="zhī" calque="knowing"/>
+    <word original="知" pinyin="zhī" calque="know"/>
     <word original="彌" pinyin="mí" calque="increasingly"/>
-    <word original="少" pinyin="shǎo" calque="less"/>
+    <word original="少" pinyin="shǎo" calque="little"/>
 </line>
 
-<line commentary="The sage emerges - but what makes one wise?">
+<line commentary="Therefore the sage">
     <word original="是" pinyin="shì" calque="this"/>
     <word original="以" pinyin="yǐ" calque="by-means-of"/>
-    <word original="聖人" pinyin="shèng-rén" calque="sage-person"/>
+    <word original="聖" pinyin="shèng" calque="sage"/>
+    <word original="人" pinyin="rén" calque="person"/>
 </line>
 
-<line commentary="Consider the power of stillness - how might non-action lead to understanding?">
+<line commentary="Without moving, yet knows">
     <word original="不" pinyin="bù" calque="not"/>
     <word original="行" pinyin="xíng" calque="walk"/>
     <word original="而" pinyin="ér" calque="yet"/>
     <word original="知" pinyin="zhī" calque="know"/>
 </line>
 
-<line commentary="Without seeing comes naming - what kind of vision transcends the eyes?">
+<line commentary="Without seeing, yet names">
     <word original="不" pinyin="bù" calque="not"/>
     <word original="見" pinyin="jiàn" calque="see"/>
     <word original="而" pinyin="ér" calque="yet"/>
     <word original="名" pinyin="míng" calque="name"/>
 </line>
 
-<line commentary="The final paradox completes - how does non-action lead to completion?">
+<line commentary="Without acting, yet accomplishes">
     <word original="不" pinyin="bù" calque="not"/>
     <word original="為" pinyin="wéi" calque="do"/>
     <word original="而" pinyin="ér" calque="yet"/>

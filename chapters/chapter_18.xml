@@ -1,54 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="18">
-<line commentary="Consider: when does the explicit naming of a principle signal its loss?">
-    <word original="大" pinyin="dà" calque="great"/>
-    <word original="道" pinyin="dào" calque="way"/>
-    <word original="廢" pinyin="fèi" calque="decay"/>
-    <word original="." pinyin="" calque="." punctuation="true"/>
+<line commentary="When the great Way is abandoned,">
+    <word original="大" calque="great" pinyin="dà"/>
+    <word original="道" calque="way" pinyin="dào"/>
+    <word original="廢" calque="abandoned" pinyin="fèi"/>
+    <word original="." calque="." pinyin="" punctuation="true"/>
 </line>
 
-<line commentary="What emerges to fill the vacuum when natural harmony fades?">
-    <word original="有" pinyin="yǒu" calque="arise"/>
-    <word original="仁" pinyin="rén" calque="benevolence"/>
-    <word original="義" pinyin="yì" calque="righteousness"/>
+<line commentary="There arise benevolence and righteousness.">
+    <word original="有" calque="exist" pinyin="yǒu"/>
+    <word original="仁義" calque="benevolence-righteousness" pinyin="rén-yì"/>
 </line>
 
-<line commentary="Does wisdom proclaimed differ from wisdom lived?">
-    <word original="慧智" pinyin="huìzhì" calque="clever-wisdom"/>
-    <word original="出" pinyin="chū" calque="emerge"/>
-    <word original="." pinyin="" calque="." punctuation="true"/>
+<line commentary="When cleverness emerges,">
+    <word original="慧智" calque="wisdom-intelligence" pinyin="huì-zhì"/>
+    <word original="出" calque="emerge" pinyin="chū"/>
+    <word original="." calque="." pinyin="" punctuation="true"/>
 </line>
 
-<line commentary="A startling parallel - wisdom's emergence linked to deception. What might this suggest?">
-    <word original="有" pinyin="yǒu" calque="arise"/>
-    <word original="大" pinyin="dà" calque="great"/>
-    <word original="偽" pinyin="wěi" calque="artifice"/>
+<line commentary="There arises great pretense.">
+    <word original="有" calque="exist" pinyin="yǒu"/>
+    <word original="大" calque="great" pinyin="dà"/>
+    <word original="偽" calque="falsehood" pinyin="wěi"/>
 </line>
 
-<line commentary="When harmony must be named, is it already lost?">
-    <word original="六" pinyin="liù" calque="six"/>
-    <word original="親" pinyin="qīn" calque="relations"/>
-    <word original="不" pinyin="bù" calque="not"/>
-    <word original="和" pinyin="hé" calque="harmonious"/>
+<line commentary="When the six family relationships are not in harmony,">
+    <word original="六" calque="six" pinyin="liù"/>
+    <word original="親" calque="relations" pinyin="qīn"/>
+    <word original="不" calque="not" pinyin="bù"/>
+    <word original="和" calque="harmonious" pinyin="hé"/>
 </line>
 
-<line commentary="Does prescribed devotion mask the absence of natural affection?">
-    <word original="有" pinyin="yǒu" calque="arise"/>
-    <word original="孝" pinyin="xiào" calque="filial-piety"/>
-    <word original="慈" pinyin="cí" calque="kindness"/>
+<line commentary="There arise filial piety and compassion.">
+    <word original="有" calque="exist" pinyin="yǒu"/>
+    <word original="孝" calque="filial-piety" pinyin="xiào"/>
+    <word original="慈" calque="compassion" pinyin="cí"/>
 </line>
 
-<line commentary="What causes a nation to require explicit markers of loyalty?">
-    <word original="國" pinyin="guó" calque="country"/>
-    <word original="家" pinyin="jiā" calque="family"/>
-    <word original="昏" pinyin="hūn" calque="confused"/>
-    <word original="亂" pinyin="luàn" calque="chaos"/>
-    <word original="." pinyin="" calque="." punctuation="true"/>
+<line commentary="When the country falls into chaos,">
+    <word original="國" calque="country" pinyin="guó"/>
+    <word original="家" calque="family" pinyin="jiā"/>
+    <word original="昏" calque="confused" pinyin="hūn"/>
+    <word original="亂" calque="chaos" pinyin="luàn"/>
+    <word original="." calque="." pinyin="" punctuation="true"/>
 </line>
 
-<line commentary="When loyalty becomes a virtue to be praised, has true devotion already vanished?">
-    <word original="有" pinyin="yǒu" calque="arise"/>
-    <word original="忠" pinyin="zhōng" calque="loyal"/>
-    <word original="臣" pinyin="chén" calque="ministers"/>
+<line commentary="There arise loyal ministers.">
+    <word original="有" calque="exist" pinyin="yǒu"/>
+    <word original="忠" calque="loyal" pinyin="zhōng"/>
+    <word original="臣" calque="minister" pinyin="chén"/>
 </line>
 </chapter>

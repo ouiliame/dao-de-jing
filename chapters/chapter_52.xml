@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="52">
-<line commentary="A profound opening that hints at origins beyond human perception. What preceded the 'beginning' that exists?">
+<line commentary="The world has a beginning">
     <word original="天" pinyin="tiān" calque="heaven"/>
     <word original="下" pinyin="xià" calque="below"/>
-    <word original="有" pinyin="yǒu" calque="have"/>
+    <word original="有" pinyin="yǒu" calque="has"/>
     <word original="始" pinyin="shǐ" calque="beginning"/>
 </line>
 
-<line commentary="What makes something a 'mother' to all things? Consider how origins continue to nourish their derivatives.">
+<line commentary="Which is regarded as the mother of all things">
     <word original="以" pinyin="yǐ" calque="by-means-of"/>
     <word original="為" pinyin="wéi" calque="become"/>
     <word original="天" pinyin="tiān" calque="heaven"/>
@@ -15,35 +15,35 @@
     <word original="母" pinyin="mǔ" calque="mother"/>
 </line>
 
-<line commentary="'Already' suggests a moment of realization. What changes when we recognize our source?">
+<line commentary="Having found the mother">
     <word original="既" pinyin="jì" calque="already"/>
     <word original="得" pinyin="dé" calque="obtain"/>
     <word original="其" pinyin="qí" calque="its"/>
     <word original="母" pinyin="mǔ" calque="mother"/>
 </line>
 
-<line commentary="Knowledge flows from source to manifestation. How does understanding origins illuminate what emerges?">
+<line commentary="Through this know the child">
     <word original="以" pinyin="yǐ" calque="by-means-of"/>
     <word original="知" pinyin="zhī" calque="know"/>
     <word original="其" pinyin="qí" calque="its"/>
     <word original="子" pinyin="zǐ" calque="child"/>
 </line>
 
-<line commentary="A moment of recognition - but what comes next?">
+<line commentary="Having known the child">
     <word original="既" pinyin="jì" calque="already"/>
     <word original="知" pinyin="zhī" calque="know"/>
     <word original="其" pinyin="qí" calque="its"/>
     <word original="子" pinyin="zǐ" calque="child"/>
 </line>
 
-<line commentary="The circle completes - return to source. Why return after understanding?">
+<line commentary="Return to guard the mother">
     <word original="復" pinyin="fù" calque="return"/>
     <word original="守" pinyin="shǒu" calque="guard"/>
     <word original="其" pinyin="qí" calque="its"/>
     <word original="母" pinyin="mǔ" calque="mother"/>
 </line>
 
-<line commentary="What kind of safety emerges from this circular journey?">
+<line commentary="To the end of life, there will be no danger">
     <word original="沒" pinyin="mò" calque="end"/>
     <word original="身" pinyin="shēn" calque="body"/>
     <word original="不" pinyin="bù" calque="not"/>
@@ -51,8 +51,8 @@
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Consider these openings and closings as both literal and metaphorical gates. What flows through these passages?">
-    <word original="塞" pinyin="sāi" calque="block"/>
+<line commentary="Block the passages, shut the doors">
+    <word original="塞" pinyin="sè" calque="block"/>
     <word original="其" pinyin="qí" calque="its"/>
     <word original="兌" pinyin="duì" calque="opening"/>
     <word original="閉" pinyin="bì" calque="close"/>
@@ -60,23 +60,23 @@
     <word original="門" pinyin="mén" calque="door"/>
 </line>
 
-<line commentary="Freedom from toil - but what kind of effort ceases?">
+<line commentary="To the end of life, there will be no toil">
     <word original="終" pinyin="zhōng" calque="end"/>
     <word original="身" pinyin="shēn" calque="body"/>
     <word original="不" pinyin="bù" calque="not"/>
     <word original="勤" pinyin="qín" calque="toil"/>
 </line>
 
-<line commentary="The contrast begins - what happens when we engage rather than withdraw?">
+<line commentary="Open the passages, attend to affairs">
     <word original="開" pinyin="kāi" calque="open"/>
     <word original="其" pinyin="qí" calque="its"/>
     <word original="兌" pinyin="duì" calque="opening"/>
-    <word original="濟" pinyin="jì" calque="aid"/>
+    <word original="濟" pinyin="jì" calque="manage"/>
     <word original="其" pinyin="qí" calque="its"/>
     <word original="事" pinyin="shì" calque="affairs"/>
 </line>
 
-<line commentary="A life without salvation - or beyond the need for it?">
+<line commentary="To the end of life, there will be no salvation">
     <word original="終" pinyin="zhōng" calque="end"/>
     <word original="身" pinyin="shēn" calque="body"/>
     <word original="不" pinyin="bù" calque="not"/>
@@ -84,38 +84,38 @@
     <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
-<line commentary="Small insights leading to clarity - how does attending to the minute illuminate the vast?">
+<line commentary="Seeing the small is called enlightenment">
     <word original="見" pinyin="jiàn" calque="see"/>
     <word original="小" pinyin="xiǎo" calque="small"/>
-    <word original="曰" pinyin="yuē" calque="say"/>
+    <word original="曰" pinyin="yuē" calque="called"/>
     <word original="明" pinyin="míng" calque="bright"/>
 </line>
 
-<line commentary="The paradox of strength through softness - what power lies in yielding?">
+<line commentary="Keeping to gentleness is called strength">
     <word original="守" pinyin="shǒu" calque="guard"/>
     <word original="柔" pinyin="róu" calque="soft"/>
-    <word original="曰" pinyin="yuē" calque="say"/>
+    <word original="曰" pinyin="yuē" calque="called"/>
     <word original="強" pinyin="qiáng" calque="strong"/>
 </line>
 
-<line commentary="Light returning to its source - a journey of illumination coming full circle.">
+<line commentary="Use the light, return again to brightness">
     <word original="用" pinyin="yòng" calque="use"/>
     <word original="其" pinyin="qí" calque="its"/>
     <word original="光" pinyin="guāng" calque="light"/>
     <word original="復" pinyin="fù" calque="return"/>
-    <word original="歸" pinyin="guī" calque="return"/>
+    <word original="歸" pinyin="guī" calque="return-to"/>
     <word original="其" pinyin="qí" calque="its"/>
     <word original="明" pinyin="míng" calque="brightness"/>
 </line>
 
-<line commentary="Freedom from calamity - but through what kind of presence or absence?">
-    <word original="無" pinyin="wú" calque="without"/>
+<line commentary="Leave no misfortune upon the body">
+    <word original="無" pinyin="wú" calque="not"/>
     <word original="遺" pinyin="yí" calque="leave"/>
     <word original="身" pinyin="shēn" calque="body"/>
-    <word original="殃" pinyin="yāng" calque="calamity"/>
+    <word original="殃" pinyin="yāng" calque="disaster"/>
 </line>
 
-<line commentary="'Constant practice' - but of what? Notice how the chapter ends where natural law begins.">
+<line commentary="This is called practicing the constant">
     <word original="是" pinyin="shì" calque="this"/>
     <word original="謂" pinyin="wèi" calque="called"/>
     <word original="習" pinyin="xí" calque="practice"/>

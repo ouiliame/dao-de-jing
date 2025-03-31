@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter number="50">
-<line commentary="Consider the dance between emergence and return - what cycles do you observe in nature?">
-    <word original="出" calque="exit" pinyin="chū"/>
+<line commentary="Emerging into life, entering into death.">
+    <word original="出" calque="emerge" pinyin="chū"/>
     <word original="生" calque="life" pinyin="shēng"/>
     <word original="入" calque="enter" pinyin="rù"/>
     <word original="死" calque="death" pinyin="sǐ"/>
 </line>
 
-<line commentary="What might this ratio suggest about the balance of existence?">
+<line commentary="The followers of life are thirteen.">
     <word original="生" calque="life" pinyin="shēng"/>
     <word original="之" calque="of" pinyin="zhī"/>
     <word original="徒" calque="followers" pinyin="tú"/>
@@ -16,7 +16,7 @@
     <word original="三" calque="three" pinyin="sān"/>
 </line>
 
-<line commentary="Mirror numbers - when counting death's companions, do we find life's reflection?">
+<line commentary="The followers of death are thirteen.">
     <word original="死" calque="death" pinyin="sǐ"/>
     <word original="之" calque="of" pinyin="zhī"/>
     <word original="徒" calque="followers" pinyin="tú"/>
@@ -25,41 +25,41 @@
     <word original="三" calque="three" pinyin="sān"/>
 </line>
 
-<line commentary="The movement of life leads to death's domain - what paradox lies here?">
-    <word original="人" calque="person" pinyin="rén"/>
+<line commentary="In human life, the places of movement leading to death-ground are also thirteen.">
+    <word original="人" calque="human" pinyin="rén"/>
     <word original="之" calque="of" pinyin="zhī"/>
     <word original="生" calque="life" pinyin="shēng"/>
-    <word original="動" calque="move" pinyin="dòng"/>
+    <word original="動" calque="movement" pinyin="dòng"/>
     <word original="之" calque="of" pinyin="zhī"/>
     <word original="死" calque="death" pinyin="sǐ"/>
     <word original="地" calque="ground" pinyin="dì"/>
 </line>
 
-<line commentary="The same number returns - what might this repetition reveal?">
+<line commentary="Also thirteen.">
     <word original="亦" calque="also" pinyin="yì"/>
     <word original="十" calque="ten" pinyin="shí"/>
     <word original="有" calque="have" pinyin="yǒu"/>
     <word original="三" calque="three" pinyin="sān"/>
 </line>
 
-<line commentary="A philosophical question emerges - what cause lies behind these patterns?">
-    <word original="(.)夫" calque="(indeed)" pinyin="fú"/>
+<line commentary="Now, why is this so?">
+    <word original="(.)夫" calque="(now)" pinyin="fú"/>
     <word original="何" calque="what" pinyin="hé"/>
     <word original="故" calque="reason" pinyin="gù"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+    <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Consider how intensity of living might lead to death - what wisdom lies in moderation?">
+<line commentary="Because of the intensity with which they live life.">
     <word original="以" calque="by-means-of" pinyin="yǐ"/>
-    <word original="其" calque="its" pinyin="qí"/>
-    <word original="生" calque="life" pinyin="shēng"/>
+    <word original="其" calque="their" pinyin="qí"/>
     <word original="生" calque="live" pinyin="shēng"/>
+    <word original="生" calque="life" pinyin="shēng"/>
     <word original="之" calque="of" pinyin="zhī"/>
     <word original="厚" calque="thick" pinyin="hòu"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+    <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="What wisdom comes through hearing rather than seeing?">
+<line commentary="Indeed, I have heard that one who is good at nurturing life">
     <word original="蓋" calque="indeed" pinyin="gài"/>
     <word original="聞" calque="hear" pinyin="wén"/>
     <word original="善" calque="good-at" pinyin="shàn"/>
@@ -68,16 +68,16 @@
     <word original="者" calque="one-who" pinyin="zhě"/>
 </line>
 
-<line commentary="Walking through danger unscathed - what state of being might this suggest?">
-    <word original="(陵)" calque="(hill)" pinyin="líng"/>
-    <word original="行" calque="walk" pinyin="xíng"/>
+<line commentary="Traveling on land, meets neither rhinoceros nor tiger.">
+    <word original="(陵)" calque="(land)" pinyin="líng"/>
+    <word original="行" calque="travel" pinyin="xíng"/>
     <word original="不" calque="not" pinyin="bù"/>
-    <word original="遇" calque="encounter" pinyin="yù"/>
+    <word original="遇" calque="meet" pinyin="yù"/>
     <word original="兕" calque="rhinoceros" pinyin="sì"/>
     <word original="虎" calque="tiger" pinyin="hǔ"/>
 </line>
 
-<line commentary="Entering battle without armor - what protection lies in vulnerability?">
+<line commentary="Entering battle, needs no armor or weapons.">
     <word original="入" calque="enter" pinyin="rù"/>
     <word original="軍" calque="army" pinyin="jūn"/>
     <word original="不" calque="not" pinyin="bù"/>
@@ -86,44 +86,44 @@
     <word original="兵" calque="weapon" pinyin="bīng"/>
 </line>
 
-<line commentary="The horn finds no target - how might absence create safety?">
+<line commentary="The rhinoceros finds nowhere to thrust its horn.">
     <word original="兕" calque="rhinoceros" pinyin="sì"/>
-    <word original="無" calque="without" pinyin="wú"/>
+    <word original="無" calque="no" pinyin="wú"/>
     <word original="所" calque="place" pinyin="suǒ"/>
-    <word original="投" calque="throw" pinyin="tóu"/>
+    <word original="投" calque="thrust" pinyin="tóu"/>
     <word original="其" calque="its" pinyin="qí"/>
     <word original="角" calque="horn" pinyin="jiǎo"/>
 </line>
 
-<line commentary="The tiger's claws find no purchase - what power lies in offering no resistance?">
+<line commentary="The tiger finds nowhere to place its claws.">
     <word original="虎" calque="tiger" pinyin="hǔ"/>
-    <word original="無" calque="without" pinyin="wú"/>
+    <word original="無" calque="no" pinyin="wú"/>
     <word original="所" calque="place" pinyin="suǒ"/>
-    <word original="措" calque="place" pinyin="cuò"/>
+    <word original="措" calque="put" pinyin="cuò"/>
     <word original="其" calque="its" pinyin="qí"/>
     <word original="爪" calque="claw" pinyin="zhǎo"/>
 </line>
 
-<line commentary="The weapon finds no entry - how might wholeness repel harm?">
+<line commentary="Weapons find nowhere to lodge their blades.">
     <word original="兵" calque="weapon" pinyin="bīng"/>
-    <word original="無" calque="without" pinyin="wú"/>
+    <word original="無" calque="no" pinyin="wú"/>
     <word original="所" calque="place" pinyin="suǒ"/>
     <word original="容" calque="contain" pinyin="róng"/>
     <word original="其" calque="its" pinyin="qí"/>
     <word original="刃" calque="blade" pinyin="rèn"/>
 </line>
 
-<line commentary="The question repeats - has its meaning transformed through the passage?">
-    <word original="(.)夫" calque="(indeed)" pinyin="fú"/>
+<line commentary="Now, why is this so?">
+    <word original="(.)夫" calque="(now)" pinyin="fú"/>
     <word original="何" calque="what" pinyin="hé"/>
     <word original="故" calque="reason" pinyin="gù"/>
-    <word original="." calque="." pinyin="." punctuation="true"/>
+    <word original="." calque="." punctuation="true"/>
 </line>
 
-<line commentary="Absence of death's ground - where might true safety reside?">
+<line commentary="Because in them there is no death-ground.">
     <word original="以" calque="by-means-of" pinyin="yǐ"/>
-    <word original="其" calque="its" pinyin="qí"/>
-    <word original="無" calque="without" pinyin="wú"/>
+    <word original="其" calque="their" pinyin="qí"/>
+    <word original="無" calque="no" pinyin="wú"/>
     <word original="死" calque="death" pinyin="sǐ"/>
     <word original="地" calque="ground" pinyin="dì"/>
 </line>
