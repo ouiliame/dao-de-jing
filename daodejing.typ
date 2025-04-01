@@ -31,7 +31,7 @@
 
 #pagebreak()
 
-#include "preface.typ"
+// #include "preface.typ"
 
 #set page(
   paper: "a5",
@@ -75,6 +75,9 @@
   ]
   
   // Process each line in the chapter
+  // Collect all commentaries for the chapter
+  let chapter-commentaries = ()
+  
   for line in chapter.children {
     if type(line) == dictionary {
       // Create a container for this line
@@ -82,12 +85,9 @@
         align(left)[
           // Display each Chinese character with its calque
           #let commentary = line.at("attrs").at("commentary", default: "")
+          // Store commentary for later display
           #if commentary != "" {
-            text(
-              size: 10pt, 
-              weight: "light", 
-              style: "italic", 
-            )[#commentary]
+            chapter-commentaries.push(commentary)
           }
 
           #for word in line.children.filter(w => type(w) == dictionary) {
@@ -98,10 +98,25 @@
             h(1em)
           }
           
-          #v(1.33em)
+          #v(1.5em)
         ]
       ) 
     }
+  }
+
+  pagebreak()
+
+  // Display all commentaries after the chapter content
+  if chapter-commentaries.len() > 0 {
+    align(left)[
+      #text(
+        size: 10pt, 
+        weight: "light", 
+        style: "italic", 
+      )[
+        #chapter-commentaries.join("\n")
+      ]
+    ]
   }
   
   // Add space between chapters

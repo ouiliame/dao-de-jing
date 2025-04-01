@@ -98,11 +98,22 @@
 </line>
 
 <line commentary="Thus the sage can achieve greatness.">
-    <word original="(是以聖人之能成大.)" pinyin="shì yǐ shèng rén zhī néng chéng dà" calque="thus-sage-can-achieve-great"/>
+    <word original="是以" pinyin="shì yǐ" calque="thus"/>
+    <word original="聖人" pinyin="shèng rén" calque="sage"/>
+    <word original="之" pinyin="zhī" calque="of"/>
+    <word original="能" pinyin="néng" calque="can"/>
+    <word original="成" pinyin="chéng" calque="achieve"/>
+    <word original="大" pinyin="dà" calque="great"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
 <line commentary="Because they do not make themselves great.">
-    <word original="[以其不為大.]" pinyin="yǐ qí bù wéi dà" calque="because-not-act-great"/>
+    <word original="以" pinyin="yǐ" calque="because"/>
+    <word original="其" pinyin="qí" calque="they"/>
+    <word original="不" pinyin="bù" calque="not"/>
+    <word original="為" pinyin="wéi" calque="act-as"/>
+    <word original="大" pinyin="dà" calque="great"/>
+    <word original="." pinyin="" calque="." punctuation="true"/>
 </line>
 
 <line commentary="Therefore they can achieve greatness.">
